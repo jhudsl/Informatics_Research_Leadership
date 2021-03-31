@@ -6,8 +6,9 @@ output: html_document
 
 
 
+# Guidlines for Informatics Teams
 
-## Finding and creating good relationships for informatics projects
+## Finding and creating Informatics Teams
 
 The first step to performing a good research study is to find the right people for your research team. 
 
@@ -48,7 +49,7 @@ In all cases (with collaborators, employees, and mentees), build in extra time f
 As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
 
 
-### Project Communication (Avocado - maybe this should go in the project or research ch)
+## Project Communication (Avocado - maybe this should go in the project or research ch)
 
 Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth regardless of if you are an informatics expert yourself or you are employing, mentoring, or collaborating with an informatics expert as you get started on a new project. 
 
@@ -106,7 +107,7 @@ Regular communication continues the momentum of a project and ensures that impor
 
 AVOCADO create graphic and add references from Jeff
 
-### Good informatics leader practices
+## Leader practices for informatics
 
 ![](images/lonely_comic_too_much.png)
 
@@ -175,12 +176,14 @@ If nothing else, even if your employee is very busy on work for mid-level author
 
 Particularly in informatics, we can especially track our steps. Make sure that your employees are keeping detailed records about their work and then get them to regularly ask for feedback from others. We all make mistakes, it's good to get external feedback early and often to ensure that the work is correct.
 
-AVOCADO will make graphic of this
 
+9. **Support "deep" work time**
 
-AVOCADO... where to put this:
+One other important thing to know is that informatics work is often best performed with long stretches of uninterrupted time to allow your informatics employees to perform "deep work". 
 
-Need to add  "deep work" and the value of uninterrupted time for an analyst
+Why is this? Some of the challenges that your informatics teammates will be working on will require a great deal of abstract thinking and troubleshooting. Such difficult work profits well from deep concentration. 
+
+How can you accommodate this? Try to work with your informatics teammates when you schedule lab meetings and be mindful of other time commitments they might have, such as classes, seminars, or other meetings.
 
 
 
