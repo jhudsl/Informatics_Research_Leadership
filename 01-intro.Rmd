@@ -32,7 +32,7 @@ First our fearless lab leaders who lead informatics research projects. We have S
 {type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", embed: true, align: middle}
 ![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
 
-{alt: "Sally", fullbleed: true, align: middle}
+{alt: "Sally", align: middle}
 ![](images/intro_sally.png)
 Next, we have Charlie. He is new to informatics research and could learn a bit about how to work with informatics experts more effectively.
 
