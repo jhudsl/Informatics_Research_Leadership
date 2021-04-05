@@ -29,7 +29,7 @@ In order to familiarize you with guidelines for how to make the most out of your
 
 First our fearless lab leaders who lead informatics research projects. We have Sally who is experienced with working with team members from many disciplines including informatics experts. She helps guide her lab through successful projects all the time.
 
-{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", embed: true, fullbleed: true}
+{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", embed: true, fullbleed: true, width: "100%", height: "100%"}
 ![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
 
 {alt: "Sally", fullbleed: true}
