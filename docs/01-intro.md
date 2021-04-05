@@ -29,10 +29,14 @@ In order to familiarize you with guidelines for how to make the most out of your
 
 First our fearless lab leaders who lead informatics research projects. We have Sally who is experienced with working with team members from many disciplines including informatics experts. She helps guide her lab through successful projects all the time.
 
+{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", embed: true}
+![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
 
+{alt: "Sally", fullbleed: true}
 ![](images/intro_sally.png)
 Next, we have Charlie. He is new to informatics research and could learn a bit about how to work with informatics experts more effectively.
 
+{alt: "Sally", fullbleed: true, height = "100%", width = "100%"}
 ![](images/intro_charlie.png)
 
 
