@@ -1,5 +1,5 @@
 ---
-title: ''
+title: "Informatis Project Guidelines"
 output: html_document
 ---
 
