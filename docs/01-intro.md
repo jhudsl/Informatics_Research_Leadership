@@ -32,22 +32,24 @@ First our fearless lab leaders who lead informatics research projects. We have S
 {type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", embed: true, align: middle}
 ![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
 
-{alt: "Sally", align: middle}
+{align: middle}
 ![](images/intro_sally.png)
 Next, we have Charlie. He is new to informatics research and could learn a bit about how to work with informatics experts more effectively.
 
-{alt: "Sally", fullbleed: true, height = "100%", width = "100%"}
+{fullbleed: true, height = "100%", width = "100%"}
 ![](images/intro_charlie.png)
 
 
 Now we have our informaticists. First is Jack, who is often forgotten by his lab leader.
 
+{fullbleed: true}
 ![](images/intro_jack.png)
 
 
 
 We also have Hilda, an example of a happy informaticist. She feels supported in all the ways that she needs, allowing her to be as productive and helpful as possible.
 
+{height = "100%", width = "100%"}
 ![](images/intro_hilda.png)
 
 Here is Francis the frustrated collaborator.
