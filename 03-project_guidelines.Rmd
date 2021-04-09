@@ -207,8 +207,5 @@ https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-
 CGGA
 
 
-### **Schedule extra time**
-
-As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
 
 
