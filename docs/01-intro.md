@@ -55,4 +55,4 @@ Finally we have Harry, the helpful collaborator. He clearly communicates with hi
 
 We will now describe some guidelines for how to be an effective leader, collaborator and mentor on informatics projects so that you can be more like Sally with mentees and employees like Hilda and collaborators like Harry.
 
-Keep in mind that while our cartoons often exagerate situations to make them more commical, more subtle situations can still be very detrimental to your research teammates.
+Keep in mind that while our cartoons often exaggerate situations to make them more commical, more subtle situations can still be very detrimental to your research teammates.

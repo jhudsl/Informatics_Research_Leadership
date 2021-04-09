@@ -89,7 +89,6 @@ Give and ask for specific feedback. If your collaborator/employee/student says s
 For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why with response questions, such as "you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized to identify if there are differences between the XYZ groups?". 
 
 
-
 ### **Be compassionate**
 
 Consider the stage of the project and how your discussions may impact your coworker.
@@ -98,7 +97,6 @@ For example, pointing out that there is not enough data to do what your collabor
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_549)
-
 
 
 
@@ -141,7 +139,6 @@ Instead of sending informal short emails (which are useful at some points in a w
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_360)
 
-![](images/starting.png)
 
 
 ## Leadership best practices for multidisciplinary informatics teams
@@ -216,7 +213,7 @@ If nothing else, even if your employee is very busy on work for mid-level author
 Particularly in informatics, we can especially track our steps. Make sure that your employees are keeping detailed records about their work and then get them to regularly ask for feedback from others. We all make mistakes, it's good to get external feedback early and often to ensure that the work is correct.
 
 
-### **Support "deep" work time**
+### **Support diverse teammate work schedules**
 
 One other important thing to know is that informatics work is often best performed with long stretches of uninterrupted time to allow your informatics employees to perform "deep work". 
 
@@ -226,6 +223,7 @@ How can you accommodate this? Try to work with your informatics teammates when y
 
 On the other hand, if you are an informatics expert mentoring experimental biologists, keep in mind that their experiments will dictate their schedule. Impromptu meetings may be difficult for them at times. Also be aware that some of their experiments may require that they stay late at night or come in very early. Thus on those days, it might be best to not overburden them with other tasks if you want them done well.
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_6)
 
 ## References
 

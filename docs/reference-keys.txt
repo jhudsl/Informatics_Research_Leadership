@@ -68,3 +68,4 @@ polls
 git-and-github
 avocado-docker-for-later-with-figshare-etc.
 r-markdown-jupyter
+support-diverse-teammate-work-schedules
