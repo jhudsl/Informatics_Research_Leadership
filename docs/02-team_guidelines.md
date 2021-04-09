@@ -6,7 +6,7 @@ output: html_document
 
 
 
-# Guidelines for informatics teams
+# Guidelines for multidisciplinary informatics teams
 
 In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
 
@@ -59,14 +59,17 @@ What is necessary or possible for an informatics project to be able to test cert
 These are discussions that should happen long before reagents are purchased, before IRB submissions, and before grant submissions if possible.
 
 
-![](images/data_takes_time.png)
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_50)
+
 ### **Take your time** 
 
 For employees and mentees, allow time to get comfortable talking to one another. As a leader, take the lead in openly expressing areas that are new to you and facilitate an environment where teammates communicate respect for one another's unique knowledge and perspectives. 
 
 In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can teach them about your domain and they can teach you about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
 
-![](images/good_collab.png)
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_1182)
+
 
 
 ### **Come up with questions/hypotheses together**
@@ -77,12 +80,13 @@ Domain experts can help to ensure that the question is feasible from a standpoin
 
 Informatics experts can help to ensure that the question is feasible from as standpoint of data collection and data analysis, that a question is testable, and that it leads to the interpretations that the domain experts hope to gain.
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_1270)
 
 ### **Be specific**
 
 Give and ask for specific feedback. If your collaborator/employee/student says something that you do not quite understand, ask them for more specific clarification. In addition, give feedback that is specific where possible without assuming knowledge that might be necessary and avoid jargon. 
 
-For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why, response statements such as "you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized to identify if there are differences between the XYZ groups". 
+For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why with response questions, such as "you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized to identify if there are differences between the XYZ groups?". 
 
 
 
@@ -92,45 +96,55 @@ Consider the stage of the project and how your discussions may impact your cowor
 
 For example, pointing out that there is not enough data to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available or additional data in your lab that can still save the project.
 
-![](images/good_news.png)
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_549)
+
+
+
 
 ### **Keep contact**
 
 Regular communication continues the momentum of a project and ensures that important details get discussed when necessary. It also relieves anxiety among coworkers by keeping everyone aware of the status of the project and helping to start discussions if someone needs help.  
 
-### **Schedule extra time** AVOCADO trying to figure out where to put this..
+### **Schedule extra time** 
 
 As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
 
+We will discuss this more in the next chapter.
 
 ## Record Keeping Practices
 
-Once you have your project rolling, it is important to keep good records of your work, your collaborators work, and your communication. Keeping good records takes time and discipline but it can save you so much time and heartache in the end. Here are some suggestions for how to optimize your record keeping.
+Once you have your project rolling, it is important to keep good records of your work, your collaborators work, and your communication. Keeping good records takes time and discipline but it can save you more time and heartache in the end. Here are some suggestions for how to optimize your record keeping.
 
 ### **Keep organized records of work**
 
-Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers of course, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
+Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
 
-![](images/not_enough_info.png)
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_596)
+
 
 ### **Keep organized records of communication**
 
 Besides recording your work, keep a record of your communications. Organize your emails for projects into a separate folders with easily recognizable titles to save yourself hassle later when something comes into question. 
 
-![](images/bad_email.png)
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_622)
+
 
 ### **Use reports**
 
-Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using R markdown or jupyter notebooks to track what informatics steps you have performed and why. Beginning these reports with a short description of what raw data you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the final chapter of this course.
+Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using R markdown or jupyter notebooks to track what informatics steps you have performed and why. Beginning these reports with a short description of what raw data you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the final chapter of this course. It is also important that the experimental biologists make similar reports defining what reagents they used, when the performed the study, what samples were used, who performed the experiment, and any notes about usual events, such as the electricity went out during the experiment, left the samples overnight but usually leave two hours, mouse #blank unexpectedly died so we lost this sample thus it is not included, or the dye seemed unusually faint in this gel.  
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_305)
 
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_360)
+
 ![](images/starting.png)
 
 
-## Leaderership best practices for multidisciplinary informatics teams
+## Leadership best practices for multidisciplinary informatics teams
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gca1d804e4e_0_0)
@@ -197,12 +211,12 @@ If nothing else, even if your employee is very busy on work for mid-level author
 
 **Most importantly**, make sure that your employee is getting help and feedback from other experts in their domain. It can be easy for your employee to get stuck or go in the wrong direction if left in isolation. How can you do this? Keep tabs on what they are doing in general, if they are still working on the same issue for an extensive amount of time, suggest that they seek help. Also by encouraging the relationships with experts you will provide them with the opportunity to ask others for their thoughts. 
 
-8. **Get external review of work**
+### **Get external review of work**
 
 Particularly in informatics, we can especially track our steps. Make sure that your employees are keeping detailed records about their work and then get them to regularly ask for feedback from others. We all make mistakes, it's good to get external feedback early and often to ensure that the work is correct.
 
 
-9. **Support "deep" work time**
+### **Support "deep" work time**
 
 One other important thing to know is that informatics work is often best performed with long stretches of uninterrupted time to allow your informatics employees to perform "deep work". 
 
@@ -212,9 +226,6 @@ How can you accommodate this? Try to work with your informatics teammates when y
 
 On the other hand, if you are an informatics expert mentoring experimental biologists, keep in mind that their experiments will dictate their schedule. Impromptu meetings may be difficult for them at times. Also be aware that some of their experiments may require that they stay late at night or come in very early. Thus on those days, it might be best to not overburden them with other tasks if you want them done well.
 
-
-![](images/discuss_data_cartoon.png)
-AVOCADO -do I include this somewhere else.. maybe different cartoon
 
 ## References
 
