@@ -6,63 +6,72 @@ output: html_document
 
 
 
-# Guidlines for Informatics Teams
+# Guidelines for informatics teams
 
-## Finding and creating Informatics Teams
+In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
+
+Learning Objectives:  
+
+1)  How to identify good multidisciplinary team members  
+2)  When and how to discuss projects with team members  
+3)  How to keep records of work and communication  
+4)  How to support informatics research team members  
+
+## Finding and creating informatics teams
 
 The first step to performing a good research study is to find the right people for your research team. 
 
-We suggest that you look out for collaborators before you even design your studies. If you are new to informatics and you plan to employ or mentor informatics experts in your lab, we suggest that you seek help from an informatics expert before you start an informatics project. 
+The key to doing this is to start talking with informatics experts **early**.
 
-This section is based on a [blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
+If you plan to collaborate with an expert, we suggest that you look out for such collaborators before you even design your studies. If you are new to informatics and you plan to employ or mentor informatics experts in your lab, we also suggest that you seek guidance from an informatics expert before you start an informatics project. 
+
 
 In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
 
-![](images/graphic_findteams.png)
+This section is based on a [blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
 
-1) **Look for people who are easy to communicate with.**
+### **What to look for in research teammates**
 
 Especially for projects with multidisciplinary teams, good communication is vital. Look for people who are **easy to talk to**.
 
-This can **vary** by your unique personality traits, but in general we suggest that you look for people who are:
-
- - compassionate/polite   
- - explain clearly  
- - seem open and enthusiastic to learn new things  
- - respect your knowledge  
- - appear to get things done (based on their CV and or reputation)
+ 
+ ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_0)
+ 
 
 In Roger's words:
 
 > "If you dont feel comfortable asking (stupid) questions, pointing out problems, or making suggestions, then chances are the science will not be as good as it could be."
 
-2) **Take your time** 
-
-It is not always obvious who you feel most comfortable working with until you encounter an issue. In the case of finding a collaborator, take the time to get to know people at seminars and workshops. Chat with people casually about your work.
-
-For emplyees and mentees, allow time to get comfortable talking to one another. Given the power dynamic, it is important to openly express areas that are new to you and communicate respect for their knowledge. 
-
-In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can teach them about your domain and they can teach you about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
-
-3) **Schedule extra time**
-
-As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_0)
 
 
-## Project Communication (Avocado - maybe this should go in the project or research ch)
+
+
+## Communication for informatics teams
 
 Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth regardless of if you are an informatics expert yourself or you are employing, mentoring, or collaborating with an informatics expert as you get started on a new project. 
 
-1) **Talk first**
+### **Talk first**
 
 Start talking to your collaborators, students, or employees  **before** you even begin a project, so that you can plan the project in the optimal way. This is especially critical for forming the right statistically testable and scientifically useful questions and for collecting the right data to address such questions.
 
 Collecting the **right** data can be vital to the success of a project. It may not always be obvious what is possible for the experimental biologists to create samples. Is 30 samples actually feasible? How about 300? Would that be performed in different batches?
 What is necessary or possible for an informatics project to be able to test certain questions with statistical methods? How long would certain analyses take?
 
-These are discussions that should happen long before regents are purchased, before IRB submissions, and before grant submissions if possible.
+These are discussions that should happen long before reagents are purchased, before IRB submissions, and before grant submissions if possible.
 
-2) **Come up with questions/hypotheses together**
+
+![](images/data_takes_time.png)
+### **Take your time** 
+
+For employees and mentees, allow time to get comfortable talking to one another. Given the power dynamic, it is important to openly express areas that are new to you and communicate respect for their knowledge. 
+
+In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can teach them about your domain and they can teach you about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
+
+![](images/good_collab.png)
+
+
+### **Come up with questions/hypotheses together**
 
 Not knowing what may be feasible in terms of data collection and analysis can make it nearly impossible to form an appropriately testable hypothesis. Furthermore, it may be difficult to know how your questions fit into the context of a field and what is actually useful to advance treatment and prevention if you are not a domain expert of the cancer or disease that you are studying. By working together in multidisciplinary teams we can determine the best hypotheses to advance science. 
 
@@ -70,34 +79,45 @@ Domain experts can help to ensure that the question is feasible from a standpoin
 
 Informatics experts can help to ensure that the question is feasible from as standpoint of data collection and data analysis, that a question is testable, and that it leads to the interpretations that the domain experts hope to gain.
 
-See the next section about forming good informatics questions.
 
-
-3) **Be specific**
+### **Be specific**
 
 Give and ask for specific feedback. If your collaborator/employee/student says something that you do not quite understand, ask them for more specific clarification. In addition, give feedback that is specific where possible without assuming knowledge that might be necessary and avoid jargon. 
 
-For example, if the number of samples would be underpowered for a specific statistical method, simply stating this is not enough. State that you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized. 
+For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why, response statements such as "you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized to identify if there are differences between the XYZ groups". 
 
-4) **Be compassionate**
+![](images/data_takes_time.png)
+
+
+### **Be compassionate**
 
 Consider the stage of the project and how your discussions may impact your coworker.
 
-For example, pointing out that there is not enough data to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available that can still save the project.
+For example, pointing out that there is not enough data to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available or additional data in your lab that can still save the project.
 
-5) **Keep organized records of communication**
+![](images/good_news.png)
 
-Keep a record of your communications. Organizing your emails for projects into a separate folders with easily recognizable titles can save you hassle later when something comes into question. 
 
-6) **Keep organized records of work**
+### **Keep organized records of work**
 
-Besides recording communications, record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers of course, but generally speaking provide extra information where possible. The more people aware of details about what samples where in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - our next suggestion.
+Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers of course, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
 
-7) **Use reports**
+![](images/not_enough_info.pn)
 
-Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using R markdown or jypter notebooks to track what informatics steps you have performed and why. Beginning these reports with a short description of what the data was that you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the data management section of the course.
+### **Keep organized records of communication**
 
-8) **Keep contact**
+Besides recording your work, keep a record of your communications. Organizing your emails for projects into a separate folders with easily recognizable titles can save you hassle later when something comes into question. 
+
+![](images/bad_email.png)
+
+### **Use reports**
+
+Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using R markdown or jupyter notebooks to track what informatics steps you have performed and why. Beginning these reports with a short description of what raw data you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the final chapter of this course.
+
+
+
+
+### **Keep contact**
 
 Regular communication continues the momentum of a project and ensures that important details get discussed when necessary. It also relieves anxiety among coworkers by keeping everyone aware of the status of the project and helping to start discussions if someone needs help.  
 
@@ -187,4 +207,5 @@ How can you accommodate this? Try to work with your informatics teammates when y
 
 
 
+![](images/discuss_data_cartoon.png)
 

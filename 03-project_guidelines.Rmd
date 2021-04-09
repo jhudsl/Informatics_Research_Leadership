@@ -5,6 +5,13 @@ output: html_document
 
 # Informatics Project Guideliness
 
+
+Learning Objectives:
+1) How to identify and develop good informatics questions
+2) Know what the major informatics project pitfalls are
+3) How to prevent pitfalls 
+4) How to mitigate pitfalls when they happen
+
 ## Identifying good informatics questions
 
 Once you have identified your research team, your next step is to start thinking more deeply about the specific informatics questions you would like to evaluate. **Be sure to include team members of each discipline in these discussions.**
@@ -16,10 +23,10 @@ There are many important considerations to keep in mind when asking an informati
 3) Are we using the appropriate methods (experimentally and statistically)?
 4) Are we considering confounders, biases, controls etc.?
 5) What will this mean for science and my lab members if this succeeds?
-6) What will this mean for my lab members if this fails? Is there a back-up plan?
+6) What will this mean for my lab members if this fails? Are there a back-up plans?
 
-![](images/discuss_data_cartoon.png)
-![](images/discuss_data_cartoon2.png)
+![](images/what_could_go_wrong.png)
+
 
 We suggests the following steps to take a great scientific question and make into a great statistically testable question.
 
@@ -53,7 +60,7 @@ So now we think about what is unknown:
 
 You know the sizes of the previous samples that have assessed these biomarkers and you know the level of sensitivity reported by previous reports. However, it is unknown how sensitive and specific some of these biomarkers are with sufficient sample sizes. It is unknown how collectively these biomarkers help to identify patients with cancer. It is unknown which biomarkers are more important. It is unknown which biomarkers or combinations are particularly useful for determining disease progression or what treatment options might be best.  
 
-### STEP 2 p 
+### STEP 2
 
 Step 2 then involves determining which unknowns are the most important to you. This could be what is more translatable to aiding better diagnostics in a noninvasive way. This could be to better understand cancer progression and what these biomarkers tell us about patient prognosis. Determine what unknowns best fit your interest/expertise. Let's say that we want to know what is most translatable to aiding diagnostic tests now. 
 
@@ -132,6 +139,8 @@ For this example, your informatics employees or students might write a paper usi
 
 One common misconception is that informatics research projects work out more often or are faster than wet bench experimental research projects. This is however not necessarily true and informatics projects are just as likely to fail and often take more time than one might expect. However, one advantage of having an informatics team member on a project is that there is ample free data available to add to or shift or reframe a study if necessary. This is important to keep in mind when advising your mentees and guiding the planning of their projects.
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=id.gcee686a31e_0_0)
+
 Common reasons why an informatics project might fail:  
 
 1) The goals were too vague  (see the previous section about identifying good informatics questions) 
@@ -197,5 +206,9 @@ https://www.cbioportal.org/
 https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-promises-743721/
 CGGA
 
+
+### **Schedule extra time**
+
+As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
 
 
