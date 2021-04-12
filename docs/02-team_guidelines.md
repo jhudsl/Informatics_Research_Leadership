@@ -61,6 +61,8 @@ These are discussions that should happen long before reagents are purchased, bef
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_50)
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_34)
+
 ### **Take your time** 
 
 For employees and mentees, allow time to get comfortable talking to one another. As a leader, take the lead in openly expressing areas that are new to you and facilitate an environment where teammates communicate respect for one another's unique knowledge and perspectives. 
@@ -99,7 +101,6 @@ For example, pointing out that there is not enough data to do what your collabor
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_549)
 
 
-
 ### **Keep contact**
 
 Regular communication continues the momentum of a project and ensures that important details get discussed when necessary. It also relieves anxiety among coworkers by keeping everyone aware of the status of the project and helping to start discussions if someone needs help.  
@@ -109,6 +110,13 @@ Regular communication continues the momentum of a project and ensures that impor
 As a project continues, new challenges will arise that will again require more time for teaching one another about the scientific process specific to your domain. Build in breathing room in the project schedule where possible, to allow for time for setbacks. **Keep in mind that you may be unaware of the setbacks that you may encounter for work outside of your expertise.** Creating a situation that is less stressful makes it easier for everyone to maintain positive relationships.
 
 We will discuss this more in the next chapter.
+
+
+In summary, we suggest that you follow these tips when communicating with your multidisciplinary team:
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_19)
+
+
 
 ## Record Keeping Practices
 
@@ -131,13 +139,18 @@ Besides recording your work, keep a record of your communications. Organize your
 
 ### **Use reports**
 
-Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using R markdown or jupyter notebooks to track what informatics steps you have performed and why. Beginning these reports with a short description of what raw data you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the final chapter of this course. It is also important that the experimental biologists make similar reports defining what reagents they used, when the performed the study, what samples were used, who performed the experiment, and any notes about usual events, such as the electricity went out during the experiment, left the samples overnight but usually leave two hours, mouse #blank unexpectedly died so we lost this sample thus it is not included, or the dye seemed unusually faint in this gel.  
+Instead of sending informal short emails (which are useful at some points in a workflow), we suggest intermittently sending lab reports with as much information about what was done and why as possible. For informatics related work in R or Python (or other supported languages) we **highly** suggest using a method like [R markdown](https://rmarkdown.rstudio.com/lesson-10.html) or [Jupyter notebooks](https://jupyter.org/) to track what informatics steps you have performed and why. Beginning these reports with a short description of what raw data you used and when you received it can be critical for ensuring that you are using the correct data! We will describe more about how to use such reports in the final chapter of this course. 
+
+It is also important that the experimental biologists make similar reports defining what reagents they used, when the performed the study, what samples were used, who performed the experiment, and any notes about usual events, such as the electricity went out during the experiment, left the samples overnight but usually leave two hours, mouse #blank unexpectedly died so we lost this sample thus it is not included, or the dye seemed unusually faint in this gel.  
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_305)
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_360)
+
+
+In summary, we recommend the following record keeping tips:
 
 
 
