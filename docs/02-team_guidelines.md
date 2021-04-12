@@ -18,19 +18,21 @@ In this lesson we will discuss general guidelines for how to create and maintain
 
 The first step to performing a good research study is to find the right people for your research team. 
 
+In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
+
 This section is based on a [blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
 
 
 ### **Start early**
 
-The key to a successful multidisciplinary project is to start talking with your research teammates **early**.
+The key to a successful multidisciplinary project is to start looking for your research teammates **early**.
 
-If you plan to collaborate with an expert, we suggest that you look out for such collaborators **before** you even design your studies. If you are new to informatics and you plan to employ or mentor informatics experts in your lab, we also suggest that you seek guidance from an informatics expert **before** you start an informatics project. 
+If you plan to collaborate with an expert, we suggest that you find such collaborators and discuss your plans **before** you even finish designing your studies. 
 
-In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
+If you are new to informatics and you plan to employ or mentor informatics experts in your lab, we also suggest that you seek guidance from an informatics expert **before** you start an informatics project. 
 
 
-### **Identify good research teammates**
+### **Who to look for**
 
 Especially for projects with multidisciplinary teams, good communication is vital. Look for people who are **easy to talk to**.
 
@@ -51,9 +53,12 @@ Communication is vital for all good work relationships, but especially in a mult
 
 ### **Talk first**
 
-Start talking to your collaborators, students, or employees  **before** you even begin a project, so that you can plan the project in the optimal way. This is especially critical for forming the right statistically testable and scientifically useful questions and for collecting the right data to address such questions.
+OK, so we kinda covered this, but we can't emphasize it enough. We suggest that you start talking to your collaborators, students, or employees  **before** you even begin a project, so that you can plan the project in the optimal way.
+
+This is critical for forming the right statistically testable and scientifically useful questions and for collecting the right data to address such questions.
 
 Collecting the **right** data can be vital to the success of a project. It may not always be obvious what is possible for the experimental biologists to create samples. Is 30 samples actually feasible? How about 300? Would that be performed in different batches?
+
 What is necessary or possible for an informatics project to be able to test certain questions with statistical methods? How long would certain analyses take?
 
 These are discussions that should happen long before reagents are purchased, before IRB submissions, and before grant submissions if possible.
@@ -63,11 +68,12 @@ These are discussions that should happen long before reagents are purchased, bef
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_34)
 
+
 ### **Take your time** 
 
 For employees and mentees, allow time to get comfortable talking to one another. As a leader, take the lead in openly expressing areas that are new to you and facilitate an environment where teammates communicate respect for one another's unique knowledge and perspectives. 
 
-In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can teach them about your domain and they can teach you about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
+In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can **teach them** about your domain and **they can teach you** about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
 
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_1182)
@@ -126,7 +132,6 @@ Once you have your project rolling, it is important to keep good records of your
 
 Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
 
-
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_596)
 
 
@@ -152,10 +157,12 @@ It is also important that the experimental biologists make similar reports defin
 
 In summary, we recommend the following record keeping tips:
 
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_40)
 
 
-## Leadership best practices for multidisciplinary informatics teams
+## Leadership best practices
 
+In this section we will describe best practices for lab leaders leading multidisciplinary informatics teams to support their research team members.
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gca1d804e4e_0_0)
 
@@ -178,11 +185,11 @@ He has since then stated for the PIs of experts who do not share the same skill-
 
 And ultimately provides a [guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) for the "pet bioinformaticians" that can be useful for both informatics expert employees/mentees and also for leaders of such individuals as well as for informatics lab leaders who employ lab-based scientists.
 
-Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about [clinical labs](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) here are guidelines for lab leaders:
+Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about [clinical labs](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) here are guidelines for multidiciplinary research lab leaders:
 
 ### **Avoid employee isolation**
 
-If possible, employ more than one informatics expert or at least collaborate heavily with others - especially those with experience working with human data. Alternatively hire a more senior expert (with expertise studying in the domain you intend) with a higher salary.  
+If possible, employ more than one domain expert or at least collaborate heavily with others - especially those with experience working with human data. Alternatively hire a more senior expert (with expertise studying in the domain you intend) with a higher salary.  
 
 In Mick Watson's words: 
 
@@ -207,7 +214,7 @@ Encourage feedback and discussion from all of your employees in scientific discu
 
 ### **Discuss expectations and hypotheses**
 
-If your employee is helping with work for a grant, provide the proposal to them. Have a discussion with your employee about your expectations and how feasible they are, as well as to make your informatics hypotheses specific. Avoid projects where the informatics goals are vague. Also remember that many informatics tasks may take more time than you anticipate and your employee may have a better sense of how long something will take. (or vice verse if you are an informatics expert employing lab scientists). Be clear with your employee in these discussions that you are unclear about how long tasks will take, if that is indeed the case. Continue to have open dialogue about expectations and goals as the work proceeds.
+If your employee is helping with work for a grant, provide the proposal to them. Have a discussion with your employee about your expectations and how feasible they are, as well as to make your informatics hypotheses specific. Avoid projects where the informatics goals are vague. Also remember that many informatics tasks may take more time than you anticipate and your employee may have a better sense of how long something will take (or vice verse if you are an informatics expert employing lab scientists). Be clear with your employee in these discussions that you are unclear about how long tasks will take, if that is indeed the case. Continue to have open dialogue about expectations and goals as the work proceeds.
 
 ### **Advocate authorship and idea generation for all**
 

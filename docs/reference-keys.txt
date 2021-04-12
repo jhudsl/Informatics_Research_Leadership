@@ -4,7 +4,7 @@ meet-the-team
 guidelines-for-multidisciplinary-informatics-teams
 finding-and-creating-informatics-teams
 start-early
-identify-good-research-teammates
+who-to-look-for
 communication-for-informatics-teams
 talk-first
 take-your-time
@@ -17,7 +17,7 @@ record-keeping-practices
 keep-organized-records-of-work
 keep-organized-records-of-communication
 use-reports
-leadership-best-practices-for-multidisciplinary-informatics-teams
+leadership-best-practices
 avoid-employee-isolation
 encourage-relationships-with-others-in-their-domain
 encourage-growth-outside-their-domain
