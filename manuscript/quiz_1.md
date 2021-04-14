@@ -3,7 +3,7 @@ title: "Quiz_1"
 output: html_document
 ---
 
-{quiz, id: quiz2}
+{quiz, id: quiz1}
 # Markua Quiz test
 
 Watch this [video](https://www.youtube.com/watch?time_continue=1&v=VOCYL-FNbr0) of Peter explaining Markua.
@@ -28,3 +28,4 @@ That's it for this quiz, and this MOOC!
 
 **Thanks for taking my course!**
 {/quiz}
+

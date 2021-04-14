@@ -4,4 +4,6 @@
 04-informatics_relationships.md
 05-management_tools.md
 quiz_1.md
+quiz_2.md
+quiz_3.md
 about.md
