@@ -11,6 +11,9 @@ output: html_document
 In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
 
 
+<!-- <img src="https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_6"/> -->
+
+
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_6)
 
 
@@ -199,7 +202,7 @@ In any case, we highly encourage guideline #2 regardless of what option you choo
 
 ### **Encourage relationships with others in their domain**
 
-Enable and encourage your employee to cultivate relationships with others who have similar skill-sets at your institution or local community.  If there is no local group of such individuals, see if your employee would be interested in starting one - such as a seminar group or journal club. Also encourage them to join online forums and attend conferences and workshops.
+Enable and encourage your employee to cultivate relationships with others who have similar skill-sets at your institution or local community.  Ideally, help your employees or mentees find a **mentor within their domain**. If there is no local group of such individuals, see if your employee would be interested in starting one - such as a seminar group or journal club. Also encourage them to join online forums and attend conferences and workshops.
 
 AVOCADO Examples?? - Seems like the ITCR community could be very helpful and should be listed - but also probably smaller cancer specific forums? 
 

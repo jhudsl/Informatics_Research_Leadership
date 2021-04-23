@@ -5,7 +5,6 @@ output: html_document
 
 # Informatics Project Guideliness
 
-
 Learning Objectives:
 1) How to identify and develop good informatics questions
 2) Know what the major informatics project pitfalls are
@@ -19,13 +18,13 @@ Once you have identified your research team, your next step is to start thinking
 There are many important considerations to keep in mind when asking an informatics question: 
 
 1) Is it testable experimentally and statistically speaking?
-2) Is it feasible (in terms of cost, time, resources - such as data storage)? Does public data already exist?
+2) Is it feasible (in terms of cost, time, resources - such as data storage)? **Does public data already exist?**
 3) Are we using the appropriate methods (experimentally and statistically)?
 4) Are we considering confounders, biases, controls etc.?
-5) What will this mean for science and my lab members if this succeeds?
+5) What will this mean for the scientific community and my lab members if this succeeds?
 6) What will this mean for my lab members if this fails? Are there a back-up plans?
 
-![](images/what_could_go_wrong.png)
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_0)
 
 
 We suggests the following steps to take a great scientific question and make into a great statistically testable question.
@@ -135,6 +134,9 @@ We would also suggest that you work with your informatics experts to come up wit
 
 For this example, your informatics employees or students might write a paper using simulated data or publicly available data to look at methods for creating biomarkers scores. Their studies could better inform you about how to think about testing the utility of colerectal biomarkers for diagnosis purposes.
 
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_225)
+
 ## Informatics project pitfalls
 
 One common misconception is that informatics research projects work out more often or are faster than wet bench experimental research projects. This is however not necessarily true and informatics projects are just as likely to fail and often take more time than one might expect. However, one advantage of having an informatics team member on a project is that there is ample free data available to add to or shift or reframe a study if necessary. This is important to keep in mind when advising your mentees and guiding the planning of their projects.
@@ -160,7 +162,13 @@ This may not make the project fail per se but can make publication difficult. St
 
 Sometimes our hypotheses are just wrong. 
 
+
+![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=id.gd37aae88fc_0_0)
+
 AVOCADO -Add reference to the book
+
+
+## Informatics project pitfall mitgation methods
 
 We can mitigate some of these project weak points. (You may notice how some of these have been discussed previously.) However some of these are a bit unavoidable and it is best to have realistic expectations and flexibility about backup project ideas.
 
