@@ -1,10 +1,10 @@
 
-{quiz, id: quiz2, choose-answers: 4, attempts: 3}
+{quiz, id: quiz2, attempts: 3}
 ## Quiz Test multiple answer versions
 
 This is a quiz.
 
-
+{choose-answers: 4}
 ? How many grams are in a pound?
 
 C) 454
