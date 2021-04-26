@@ -3,7 +3,7 @@ title: "Quiz_2"
 output: html_document
 ---
 
-{quiz, id: quiz2}
+{quiz, id: quiz2, attempts: 5}
 ## Quiz Test multiple answer versions
 
 This is a quiz.
