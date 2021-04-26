@@ -3,12 +3,12 @@ title: "Quiz_2"
 output: html_document
 ---
 
-{quiz, id: quiz2, attempts: 25}
+{quiz, id: quiz2}
 ## Quiz Test multiple answer versions
 
 This is a quiz.
 
-{choose-answers: 4}
+{choose-answers: 4, attempts: 25}
 ? How many grams are in a pound?
 
 C) 454
