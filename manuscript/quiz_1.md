@@ -3,7 +3,7 @@ title: "Quiz_1"
 output: html_document
 ---
 
-{quiz, id: quiz1}
+{quiz, id: quiz1, attempts: 25}
 # Markua Quiz test
 
 Watch this [video](https://www.youtube.com/watch?time_continue=1&v=VOCYL-FNbr0) of Peter explaining Markua.
