@@ -7,7 +7,7 @@ title: "Quiz_2"
 
 This is a quiz.
 
-{choose-answers: 4}
+{choose-answers: 4, attempts: 5}
 ? How many grams are in a pound?
 
 C) 454
