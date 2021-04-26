@@ -8,7 +8,7 @@ output: html_document
 
 This is a quiz.
 
-{choose-answers: 4, attempts: 25}
+{choose-answers: 4, attempts: 5}
 ? How many grams are in a pound?
 
 C) 454
