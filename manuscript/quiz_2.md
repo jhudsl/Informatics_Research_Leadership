@@ -1,6 +1,5 @@
 ---
 title: "Quiz_2"
-output: html_document
 ---
 
 {quiz, id: quiz2, attempts: 5}
