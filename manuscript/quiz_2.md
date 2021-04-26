@@ -1,6 +1,3 @@
----
-title: "Quiz_2"
----
 
 {quiz, id: quiz2, attempts: 5}
 ## Quiz Test multiple answer versions

@@ -1,6 +1,3 @@
----
-title: "Quiz_1"
----
 
 {quiz, id: quiz1, attempts: 5}
 # Markua Quiz test

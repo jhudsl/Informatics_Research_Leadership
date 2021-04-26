@@ -1,6 +1,4 @@
----
-title: "Quiz_3"
----
+
 
 {quiz, id: quiz3}
 # Markua Quiz test -multiple versions of question
