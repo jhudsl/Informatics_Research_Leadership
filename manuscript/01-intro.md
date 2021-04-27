@@ -7,6 +7,8 @@ output: html_document
 
 ## Motivation
 
+![slack](images/slack.png)
+
 Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. This course aims to provide research leaders with guidance about:  
 
  1) How to effectively lead team members on informatics projects  

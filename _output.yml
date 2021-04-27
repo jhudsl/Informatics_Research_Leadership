@@ -7,6 +7,6 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li class="toc-logo"><a href="https://www.itcrtraining.org/"><img src="ITN_logo.png"></a></li>
+       <a href="https://www.itcrtraining.org/"><img src="ITN_logo.png" style="padding-left: 15px; padding-top: 8px;"/></a>
       after: |
-        <li><a href="https://github.com/jhudsl/ITCR_Cancer_Research_Leadership" target="blank">Published with bookdown</a></li>
+       <p style="text-align:center;"> <a href="https://github.com/jhudsl/ITCR_Cancer_Research_Leadership" target="blank" > Content published with</a> <a href="https://bookdown.org/" target="blank"> bookdown</a> </p>
