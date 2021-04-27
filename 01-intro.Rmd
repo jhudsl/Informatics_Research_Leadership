@@ -23,7 +23,7 @@ We will also discuss the major **pitfalls of informatics research** and discuss 
 
 ## Meet the team!
 
-In order to familiarize you with guidelines for how to make the most out of your informatics projects we are going to introduce you to some characters of the type of people you may encounter on your journey. 
+In order to familiarize you with guidelines for how to make the most out of your informatics projects we are going to introduce you to some characters of the type of people you may encounter on your journey. We are going to show these characters in situations that may be similar to what you might experience. We are doing this to make the lessons concrete and to try to make the experience more entertaining. 
 
 First our fearless lab leaders who lead informatics research projects. We have Sally who is experienced with working with team members from many disciplines including informatics experts. She helps guide her lab through successful projects all the time.
 

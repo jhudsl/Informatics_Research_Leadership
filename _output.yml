@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  # css: assets/style.css
+  # includes:
+  #   before_body: assets/big-image.html
+  highlight: tango
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li class="toc-logo"><a href="https://www.itcrtraining.org/"><img src="ITN_logo.png"></a></li>
+      after: |
+        <li><a href="https://github.com/jhudsl/ITCR_Cancer_Research_Leadership" target="blank">Published with bookdown</a></li>

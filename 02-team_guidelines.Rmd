@@ -60,7 +60,7 @@ Communication is vital for all good work relationships, but especially in a mult
 
 OK, so we kinda covered this, but we can't emphasize it enough. We suggest that you start talking to your collaborators, students, or employees  **before** you even begin a project, so that you can plan the project in the optimal way.
 
-This is critical for forming the right statistically testable and scientifically useful questions and for collecting the right data to address such questions.
+This is critical for forming the right informatically feasible and scientifically useful questions and for collecting the right data to address such questions.
 
 Collecting the **right** data can be vital to the success of a project. It may not always be obvious what is possible for the experimental biologists to create samples. Is 30 samples actually feasible? How about 300? Would that be performed in different batches?
 
@@ -192,6 +192,11 @@ And ultimately provides a [guide](http://www.opiniomics.org/a-guide-for-the-lone
 
 Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about [clinical labs](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) here are guidelines for multidiciplinary research lab leaders:
 
+### **Recognize that different disciplines require deep expertise**
+
+Informatics is truly it's own scientific discipline that requires deep expertise. 
+To truly optimize the multidisciplinary work that you may wish to perform, you need expert level experience of all disciplines on your team. Although you may be able to learn how to use a particular tool to seemingly test an hypothesis, this may not be correct or optimal in every instance. This is why you need expert level informatics team members to help you with your research. If you can't hire such an individual, or even if you hire a more junior informatics mentee or employee, you need to discuss your research with a senior informatics expert. 
+
 ### **Avoid employee isolation**
 
 If possible, employ more than one domain expert or at least collaborate heavily with others - especially those with experience working with human data. Alternatively hire a more senior expert (with expertise studying in the domain you intend) with a higher salary.  
@@ -205,6 +210,10 @@ In any case, we highly encourage guideline #2 regardless of what option you choo
 ### **Encourage relationships with others in their domain**
 
 Enable and encourage your employee to cultivate relationships with others who have similar skill-sets at your institution or local community.  Ideally, help your employees or mentees find a **mentor within their domain**. If there is no local group of such individuals, see if your employee would be interested in starting one - such as a seminar group or journal club. Also encourage them to join online forums and attend conferences and workshops.
+
+Examples include: 
+ - [R ladies](https://rladies.org/) for support for using Bioconductor or R programming. Many of the members are also very familiar with using a variety of genomics and imaging data. You do not need to be a woman to get support from this organization.  - Many universities have a statistical support group, check at your institution. 
+ - When in doubt ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
 
 AVOCADO Examples?? - Seems like the ITCR community could be very helpful and should be listed - but also probably smaller cancer specific forums? 
 
@@ -225,7 +234,7 @@ If your employee is helping with work for a grant, provide the proposal to them.
 
 Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). Informatics experts will also need **first author papers**. Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects  may not be as interesting for your employee as an idea that they come up with themselves. 
 
-Often you can create one technical paper and one biological paper from each project. 
+Often you can create one technical paper and one biological paper from each project.  For technical papers, allow your lab members that largely do informatics to play a prominent or leadership role. For biological papers, ask them to play a supporting role. For experimental lab members do the opposite. Allow these lab members to have a prominant role on biological papers and a supporting role on more technical papers.
 
 If nothing else, even if your employee is very busy on work for mid-level authorship, give them time to write a review or a software paper for a simple package, or a comparison of informatics methods. [Mick Watson](https://www.ed.ac.uk/profile/mick-watson) suggests making sure that your employees are authoring ~2 first author publications a year if possible. If necessary you can front-load collaboration work and then give your employee more time later to spend on their own work, but be careful about not protecting some of their time for their own career advancement. Also please see the Career Paths for Informatics Mentees section (coming up soon) and read it with your employees in mind, as well. 
 

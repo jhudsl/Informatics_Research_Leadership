@@ -17,9 +17,9 @@ Once you have identified your research team, your next step is to start thinking
 
 There are many important considerations to keep in mind when asking an informatics question: 
 
-1) Is it testable experimentally and statistically speaking?
+1) Is it testable experimentally and informatically speaking?
 2) Is it feasible (in terms of cost, time, resources - such as data storage)? **Does public data already exist?**
-3) Are we using the appropriate methods (experimentally and statistically)?
+3) Are we using the appropriate methods (experimentally and informatically)?
 4) Are we considering confounders, biases, controls etc.?
 5) What will this mean for the scientific community and my lab members if this succeeds?
 6) What will this mean for my lab members if this fails? Are there a back-up plans?
@@ -27,7 +27,7 @@ There are many important considerations to keep in mind when asking an informati
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_0)
 
 
-We suggests the following steps to take a great scientific question and make into a great statistically testable question.
+We suggests the following steps to take a great scientific question and make into a great informatically feasible question.
 
 ### Steps for forming questions
 
@@ -165,7 +165,7 @@ Sometimes our hypotheses are just wrong.
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=id.gd37aae88fc_0_0)
 
-AVOCADO -Add reference to the book
+If you want more information about careers in Data Science, particularly outside of academia, check out the book ["Build a Career in Data Science"](https://www.amazon.com/Build-Career-Science-Jacqueline-Nolis/dp/1617296244/) by [Emily Robinson](https://hookedondata.org/) and [Jacqueline Nolis](https://jnolis.com/). 
 
 
 ## Informatics project pitfall mitgation methods
@@ -204,15 +204,9 @@ For example, if the goal of a project was to look for differential gene expressi
 7) **Get new data**  
 In the worst case that the data does not appear to work for your initial goal and reframing the question does not seem possible, look for new data. Now there are many data resources available online. 
 
-AVOCADO - we will list the link to the data table...
-
 We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Insitute (NCI) Informatics Technology for Cancer Reserach (ITCR)](https://itcr.cancer.gov/) faculty. 
 
-examples: 
-https://pubmed.ncbi.nlm.nih.gov/25691825/
-https://www.cbioportal.org/
-https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-promises-743721/
-CGGA
+
 
 
 
