@@ -155,21 +155,6 @@ _Archetypes of data scientists:_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Markua way1**
-
-{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg"}
-![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
- **Markdown way**
- 
-[![Introducing Markua](http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg)](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-[![Introducing Markua](http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg) { width=60%}](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-**Markua way2**
-
-![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
 AVOCADO - add more about this
 https://www.manning.com/books/build-a-career-in-data-science 
 
@@ -183,7 +168,6 @@ Major skill sets to focus on according to the "Build a Career in Data Science" b
 https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview
 
 " When looking for jobs.. ignore job titles, dont pay too much attention to specific tools or languages...pay attention to the skills that are being asked for"
-
 
 
 
