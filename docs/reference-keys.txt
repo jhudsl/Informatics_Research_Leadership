@@ -43,6 +43,7 @@ step-8
 informatics-project-pitfalls
 informatics-project-pitfall-mitgation-methods
 informatics-relationships
+cultivating-good-multidisciplinary-lab-relationships
 collaborating-with-informatics-experts
 the-benefits-of-collaboration
 potential-challenges
@@ -55,8 +56,12 @@ electronic-mentoring
 career-goals
 career-paths-for-informatics-mentees
 authorship-considerations
-mentoring-underrepresented-students
 refrences
+promoting-diversity
+diversity-is-beneficial
+underrepresentation-in-cancer-informatics
+ways-to-better-support-a-more-diverse-research-team
+refrences-1
 informatics-lab-management-tools
 slack
 how-to-use-slack
