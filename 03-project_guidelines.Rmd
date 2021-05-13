@@ -5,11 +5,11 @@ output: html_document
 
 # Informatics Project Guideliness
 
-Learning Objectives:
-1) How to identify and develop good informatics questions
-2) Know what the major informatics project pitfalls are
-3) How to prevent pitfalls 
-4) How to mitigate pitfalls when they happen
+Learning Objectives:  
+1) How to identify and develop good informatics questions  
+2) Know what the major informatics project pitfalls are  
+3) How to prevent pitfalls   
+4) How to mitigate pitfalls when they happen  
 
 ## Identifying good informatics questions
 

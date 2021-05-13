@@ -16,12 +16,12 @@ Now that we know a bit more about general practices for maintaining successful m
 
 ## Collaborating with Informatics Experts
 
-Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s [[1]](https://doi.org/10.1016/j.endeavour.2013.03.001) and that the rate continues to increase [[2]](https://www.researchgate.net/publication/220040763_Scientific_collaboration). Indeed the size of biology research teams appear to have doubled from 1955 to 1990 [[1]](https://doi.org/10.1016/j.endeavour.2013.03.001). But why? 
+Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s [@vermeulen_understanding_2013] and that the rate continues to increase [@sonnenwald_scientific_2007]. Indeed the size of biology research teams appear to have doubled from 1955 to 1990 [@vermeulen_understanding_2013]. But why? 
 
 ### The benefits of collaboration  
 
 1) **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources.    
-2) **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6). 
+2) **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [@makinen_patterning_2020]. 
 3) **Shared burden** - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.
 4) **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
 5) **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
@@ -48,23 +48,23 @@ Furthermore, as investigators often have different backgrounds, differences in j
 
 Having **internal** team members with some **familiarity** with informatics can be very beneficial for translating discussions with collaborators who are informatics experts. 
 
-One solution to this is to have **trainees work in both labs**. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills, allowing them to potentially have their own multi-disciplinary lab in the future [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6). 
+One solution to this is to have **trainees work in both labs**. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills, allowing them to potentially have their own multi-disciplinary lab in the future [@makinen_patterning_2020]. 
 
 Another important method that can help resolve this issue is to have members provide **educational seminars** for participating members about the fundamentals of their work.
 
 
 2) **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
 
->"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains." [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6)
+>"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains." [@makinen_patterning_2020]
 
 Making clear research standards and goals, as well as outlining clear specific tasks at the beginning of a project can help to avoid this issue. Furthermore, meeting consistently throughout the duration of a project can also help to make sure that standards are maintained.  Additionally, these meetings should include discussions about intellectual property, authorship, leadership, and defining what success looks likes to each of the various members. Defining these details early can avoid major conflict later. 
 
-Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects.  It is also necessary to ensure that junior members have time to devote to their own research programs. [[2]](https://www.researchgate.net/publication/220040763_Scientific_collaboration) Support should be provided for these junior collaborators by more senior collaborators.
+Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects.  It is also necessary to ensure that junior members have time to devote to their own research programs. [@sonnenwald_scientific_2007] Support should be provided for these junior collaborators by more senior collaborators.
 
 
 3) **Different capabilities** - Research of multi-disciplinary collaborations has revealed that when collaborating members are unclear of how their expertise and work contributes to the project, they are less motivated and fell less valued. 
 
-Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6).
+Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect [@makinen_patterning_2020].
 
 4) **Reduced sense of responsibility** - Another concern of collaboration is that team members may feel less responsibility or commitment to a project than for a project within their own lab.
 
@@ -72,7 +72,7 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 
 5) **Research is dynamic** - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change.
 
-6) **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are "Equity-oriented" serving populations that have historically been marginalized or "minoritized" [[4]](https://diverseeducation.com/article/91247/), it is important to keep in mind that large differences in resources may exist between collaborating members. 
+6) **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are "Equity-oriented" serving populations that have historically been marginalized or "minoritized" [@blake_case_2017], it is important to keep in mind that large differences in resources may exist between collaborating members. 
 
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
@@ -106,7 +106,7 @@ Again we suggest that you work with your informatics teammates when you schedule
 
 ## Mentoring informatics students
 
-Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[[1]](https://doi.org/10.1111/nyas.14176)
+Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[@mullen_defining_2021]
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
@@ -120,7 +120,7 @@ As we described earlier, co-mentoring or collaborative mentoring of students by 
 
 ### Peer mentoring
 
-Peer mentoring also provides great opportunities to expand students' expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students' teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge, and assisting in their quest to "learn how to learn" [[1]](https://doi.org/10.1111/nyas.14176). Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations.[[1]](https://doi.org/10.1111/nyas.14176) However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, so that students and staff members are clear about what behavior is expected.
+Peer mentoring also provides great opportunities to expand students' expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students' teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge, and assisting in their quest to "learn how to learn" [@mullen_defining_2021]. Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations [@mullen_defining_2021]. However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, so that students and staff members are clear about what behavior is expected.
 
 ### Electronic mentoring 
 

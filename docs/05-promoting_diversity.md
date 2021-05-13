@@ -12,13 +12,26 @@ Learning Objectives:
 
 ## Diversity is Beneficial
 
-The inclusion of diverse populations in scientific teams has been shown to improve innovation [[1]](https://doi.org/10.1073/pnas.1915378117).
+Beyond giving everyone more fair opportunities, there are many additional reasons why diversity is particularly important for science and health research.
 
-> Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored [[1]](https://doi.org/10.1073/pnas.1915378117). 
+The inclusion of diverse populations in scientific teams has been shown to improve innovation [@hofstra_diversityinnovation_2020]
+
+> Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored [@hofstra_diversityinnovation_2020]. 
+
+The inclusion of diverse research team members also promotes more inclusive research questions and practices to help the populations that need better health care the most.
+
+> Racial/ethnic minority groups in the United States are at disproportionate risk of being uninsured, lacking access to care, and experiencing worse health outcomes from preventable and treatable conditions.[@jackson_addressing_2014]
+
+> ...Compared with the general population, racial/ethnic minority populations have poorer health outcomes from preventable and treatable diseases, such as cardiovascular disease, **cancer**, asthma, and human immunodeficiency virus/acquired immunodeficiency syndrome than those in the majority.[@jackson_addressing_2014]
+
+> ... the social environment in which people live, learn, work, and play contributes to disparities and is among the most important determinants of health throughout the course of life.[@jackson_addressing_2014]
+
+More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that your research could serve. Such consideration could further improve the impact of your research.
+
 
 ## Underrepresentation in Cancer Informatics
  
-However, analyses of scientific article authorship indicate that women are underrepresented in computational biology [[2]](https://doi.org/10.1371/journal.pcbi.1005134) and biomedical engineering [[3]](https://doi.org/10.1007/s10439-019-02222-3) and analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe[[1]](https://doi.org/10.1073/pnas.1915378117),[[4]](https://doi.org/10.1371/journal.pcbi.1008210). 
+However, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019] and analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020]. 
 
 ## Ways to better support a more diverse research team
 
@@ -30,33 +43,33 @@ Note that you may not be aware of the barriers of achievement that your mentees 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Become aware of **stereotype threat** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[[5]](https://doi.org/10.1111/nyas.14470) and how they might influence your mentees.
+Become aware of **stereotype threat** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[@stelter_establishing_2021] and how they might influence your mentees.
 
-Also, become aware of as  **microaggressions* - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, and physical disability), which are rooted in biases about individuals in that group"[[5]](https://doi.org/10.1111/nyas.14470).
+Also, become aware of as  **microaggressions* - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
 
 See [here](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf) for a list of examples.
 
-Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [[5]](https://doi.org/10.1111/nyas.14470). 
+Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021]. 
 
-2) **Appreciate and acknowledge mentee's differences**. Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee's career success given their background. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to hinder the success of mentees [[6]](http://dx.doi.org/10.1037/dhe0000106),[[7]](https://doi.org/10.1016/j.jesp.2011.09.010). 
+2) **Appreciate and acknowledge mentee's differences**. Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee's career success given their background. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to hinder the success of mentees [@byars-winston_race_nodate; @holoien_you_2012]. 
 
 **However, singling out individuals for their differences is often felt as a microaggression.**  There are ways to discuss these topics with your student in private without singling them out in front of the rest of a group.
 
-> "Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed..." [[6]](http://dx.doi.org/10.1037/dhe0000106)
+> "Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed..." [@byars-winston_race_nodate]
 
->Two ideological perspectives – **colorblindness and multiculturalism** – have emerged to shed light on this question. Colorblindness downplays the salience and importance of race by focusing on the commonalities people share, such as one's underlying humanity. In contrast, multiculturalism acknowledges and highlights racial differences [[7]](https://doi.org/10.1016/j.jesp.2011.09.010).
+>Two ideological perspectives – **colorblindness and multiculturalism** – have emerged to shed light on this question. Colorblindness downplays the salience and importance of race by focusing on the commonalities people share, such as one's underlying humanity. In contrast, multiculturalism acknowledges and highlights racial differences [@holoien_you_2012].
 
->"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))"  [[7]](https://doi.org/10.1016/j.jesp.2011.09.010)
+>"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))"  [@holoien_you_2012]
 
-> "Not only do minorities prefer multiculturalism ([Ryan et al., 2007](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0085), [Verkuyten, 2006](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0105)), they benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[[7]](https://doi.org/10.1016/j.jesp.2011.09.010)
+> "Not only do minorities prefer multiculturalism ([Ryan et al., 2007](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0085), [Verkuyten, 2006](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0105)), they benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[@holoien_you_2012]
 
 3) **Work to create a safe environment**. Educate lab mentors about cultural sensitivity and microaggressions. Highlight the importance of collaboration and create a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab.
 
 4) **Role models** make career goals seem possible. Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
 
-Computational biology papers with female authors are more likely to have a last author is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [[2]](https://doi.org/10.1371/journal.pcbi.1005134). 
+Computational biology papers with female authors are more likely to have a last author is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [@bonham_women_2017]. 
 
-Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider [[5]](https://doi.org/10.1111/nyas.14470). One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent [[8]](https://doi.org/10.1641/B570705). 
+Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider [@stelter_establishing_2021]. One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent [@katz_mentoring_2007]. 
 
 5) **Advocate for all mentees**, particularly those from underrepresented groups by introducing your mentee to other scientists and trainees, encouraging the participation of your mentees in support programs and groups such as graduate student groups and helping mentees cultivate self advocacy practices through open discussions and encouragement.
 
@@ -67,11 +80,11 @@ Indeed, research of females and other underrepresented groups in STEM including 
 [[source]](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
 
-7) **Celebration and microaffirmations**  Be sure to celebrate all of your mentees' small and large successes. This has been shown to promote confidence and resilience [[5]](https://doi.org/10.1111/nyas.14470).
+7) **Celebration and microaffirmations**  Be sure to celebrate all of your mentees' small and large successes. This has been shown to promote confidence and resilience [@stelter_establishing_2021].
 
-8) **Give feedback with cultural sensitivity** - It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [[5]](https://doi.org/10.1111/nyas.14470), [[9]](https://doi.org/10.1038/447791a).
+8) **Give feedback with cultural sensitivity** - It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007].
 
-9) In addition to creating a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, consider creating a document that outlines **mentor and mentee expectations**. See [here](https://doi.org/10.1371/journal.pcbi.1005709.s001) for an example of such document  [[10]](https://doi.org/10.1371/journal.pcbi.1005709) and see [here](https://ictr.wisc.edu/mentoring/) for more information. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices.  
+9) In addition to creating a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, consider creating a document that outlines **mentor and mentee expectations**. See [here](https://doi.org/10.1371/journal.pcbi.1005709.s001) for an example of such document  [@masters_ten_2017]and see [here](https://ictr.wisc.edu/mentoring/) for more information. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

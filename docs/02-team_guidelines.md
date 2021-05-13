@@ -23,7 +23,7 @@ The first step to performing a good research study is to find the right people f
 
 In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
 
-This section is based on a [blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
+This section is based on a blog post [@peng_finding_2011] from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
 
 
 ### **Start early**
@@ -169,7 +169,7 @@ In this section we will describe best practices for lab leaders leading multidis
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gca1d804e4e_0_0)
 
-The section is based on a famous [blog post](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) written in 2013 called "The lonely bioinformatician" that describes the angst that informatics personnel often feel when they are the only person in their lab with their skill set. The blog post author, [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh, describes these individuals as "pet bioinformaticians" in his blog called [opiniomics](opiniomics.org).
+The section is based on a famous blog post [@watson_guide_2013]  called "The lonely bioinformatician" that describes the angst that informatics personnel often feel when they are the only person in their lab with their skill set. The blog post author, [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh, describes these individuals as "pet bioinformaticians" in his blog called [opiniomics](opiniomics.org).
 
 
 He states: 
@@ -188,7 +188,7 @@ He has since then stated for the PIs of experts who do not share the same skill-
 
 And ultimately provides a [guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) for the "pet bioinformaticians" that can be useful for both informatics expert employees/mentees and also for leaders of such individuals as well as for informatics lab leaders who employ lab-based scientists.
 
-Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about [clinical labs](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) here are guidelines for multidiciplinary research lab leaders:
+Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about clinical labs [@watson_lonely_2014] here are guidelines for multidiciplinary research lab leaders:
 
 ### **Recognize that different disciplines require deep expertise**
 
@@ -257,12 +257,5 @@ On the other hand, if you are an informatics expert mentoring experimental biolo
 
 ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_6)
 
-## References
-
-["Finding good collaborators" blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources 
-
-["The lonely bioinformatician" blog post](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) written in 2013 by [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh
-
-["The lonely bioinformatician revisited: clinical-labs" blog post](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) written in 2014 by [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh
 
 AVOCADO Add references from Jeff's advanced data science course etc.
