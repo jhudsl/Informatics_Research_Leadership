@@ -4,11 +4,8 @@ output: html_document
 ---
 # Informatics Relationships
 
-Learning Objectives:
-1) How to mitigate challenges for collaborating on multidisciplinary informatics projects
-2) How to mitigate challenges for employing informatics experts
-3) How to best support mentees in cross disciplinary teams
-4) How to support a diverse lab team
+
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" title=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams 4) How to support a diverse lab team" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams 4) How to support a diverse lab team" width="100%" />
 
 ## Cultivating Good Multidisciplinary Lab Relationships
 
@@ -26,7 +23,8 @@ Studies investigating biology research labs over history indicate that collabora
 4) **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
 5) **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
 
-![](images/collaboration.png)
+
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" title=" Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" alt=" Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
 
 ### Potential Challenges
 
@@ -34,11 +32,13 @@ There are always challenges when collaborating with others, but some of these ar
 
 Good Collaboration:
 
-![](images/good_collab.png)
+Is this repeated
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1182.png" title=" Sally, the super supportive leader thinks to herself: He is the best! Meanwhile, Harry the helpful collaborator says: Now that I understand the Biology better - thanks to you!- I think I know a better method" alt=" Sally, the super supportive leader thinks to herself: He is the best! Meanwhile, Harry the helpful collaborator says: Now that I understand the Biology better - thanks to you!- I think I know a better method" width="100%" />
 
 Bad collaboration:
 
-![](images/bad_collab.png)
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png" title=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" alt=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" width="100%" />
+
 
 1) **Communication Differences** - Extra care needs to be taken to ensure that communication across groups is effective.  
 
@@ -77,17 +77,9 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
 ![](images/challenges.png)
+Avocado - find slide
 
-
-### References
-
-1) Vermeulen, Niki, John N. Parker, and Bart Penders. “Understanding Life Together: A Brief History of Collaboration in Biology.” Endeavour 37, no. 3 (September 2013): 162–71. https://doi.org/10.1016/j.endeavour.2013.03.001.
-
-2) Sonnenwald, Diane."Scientific collaboration."  Annual Review Of Information Science And Technology. 41 (2007): 643-681. https://www.researchgate.net/publication/220040763_Scientific_collaboration.
-
-3) Mäkinen, Elina I., Eliza D. Evans, and Daniel A. McFarland. “The Patterning of Collaborative Behavior and Knowledge Culminations in Interdisciplinary Research Centers.” Minerva 58, no. 1 (March 2020): 71–95. https://doi.org/10.1007/s11024-019-09381-6.
-
-4) Blake, Daniel. "The Case for Rebranding Minority-serving Institutions." DiverseEducation.com (January, 17, 2017) https://diverseeducation.com/article/91247/. 
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png" title=" avocado" alt=" avocado" width="100%" />
 
 
 ## Employing informatics experts
@@ -109,6 +101,8 @@ Again we suggest that you work with your informatics teammates when you schedule
 Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[@mullen_defining_2021]
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
+
+avocado - add to slides... if we are keeping...
 
 ![Alternative Montorship](images/mentoring_pardigms.png)
 
@@ -190,8 +184,4 @@ There are also additional types of papers that your informatics mentee can publi
 
 When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you priortize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a Software paper than other mentees.
 
-
-### Refrences
-
-1) Mullen, Carol A., and Cindy C. Klimaitis. “Defining Mentoring: A Literature Review of Issues, Types, and Applications.” Annals of the New York Academy of Sciences 1483, no. 1 (January 2021): 19–35. https://doi.org/10.1111/nyas.14176.
 
