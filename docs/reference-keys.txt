@@ -81,7 +81,7 @@ reminders
 polls
 git-and-github
 docker
-avocado-figshare-etc.
-r-markdown
-r-markkdown-guidelines
-jupyter-avocado
+figshare
+rstudio-and-r-markdown
+r-markdown-guidelines
+jupyter

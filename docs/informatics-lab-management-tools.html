@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-05-17" />
+<meta name="date" content="2021-05-18" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -232,11 +232,11 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="6.4" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#git-and-github"><i class="fa fa-check"></i><b>6.4</b> Git and GitHub</a></li>
 <li class="chapter" data-level="6.5" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#docker"><i class="fa fa-check"></i><b>6.5</b> Docker</a></li>
-<li class="chapter" data-level="6.6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#avocado-figshare-etc."><i class="fa fa-check"></i><b>6.6</b> avocado Figshare etc.</a></li>
-<li class="chapter" data-level="6.7" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#r-markdown"><i class="fa fa-check"></i><b>6.7</b> R Markdown</a><ul>
-<li class="chapter" data-level="6.7.1" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#r-markkdown-guidelines"><i class="fa fa-check"></i><b>6.7.1</b> R Markkdown Guidelines</a></li>
+<li class="chapter" data-level="6.6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#figshare"><i class="fa fa-check"></i><b>6.6</b> Figshare</a></li>
+<li class="chapter" data-level="6.7" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#rstudio-and-r-markdown"><i class="fa fa-check"></i><b>6.7</b> RStudio and R Markdown</a><ul>
+<li class="chapter" data-level="6.7.1" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#r-markdown-guidelines"><i class="fa fa-check"></i><b>6.7.1</b> R Markdown Guidelines</a></li>
 </ul></li>
-<li class="chapter" data-level="6.8" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#jupyter-avocado"><i class="fa fa-check"></i><b>6.8</b> Jupyter avocado</a></li>
+<li class="chapter" data-level="6.8" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#jupyter"><i class="fa fa-check"></i><b>6.8</b> Jupyter</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the Authors</a></li>
 <li class="divider"></li>
@@ -339,7 +339,7 @@ We also recommend making project specific channels. For these channels you can a
 <p>avocado add to slides
 <img src="images/slack_options.png" />
 Thus if Jack gets a message from his advisor Charlie, but he is busy doing deep work on something else, he can ask Slack to remind him later.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="informatics-lab-management-tools.html#cb2-1"></a>leanbuild<span class="op">::</span><span class="kw">include_slide</span>(<span class="st">&quot;https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="informatics-lab-management-tools.html#cb1-1"></a>leanbuild<span class="op">::</span><span class="kw">include_slide</span>(<span class="st">&quot;https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0&quot;</span>)</span></code></pre></div>
 <p><img src="06-management_tools_files/figure-html/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png" title="An image of the options for a slack message" alt="An image of the options for a slack message" width="480" /></p>
 <p>avocado add to slides
 <img src="images/reminder_copy.png" /></p>
@@ -381,59 +381,104 @@ See <a href="https://github.com/truevault/hipaa-compliance-developers-guide">her
 </div>
 <div id="docker" class="section level2">
 <h2><span class="header-section-number">6.5</span> Docker</h2>
-<p>If you are using a pipeline to process data or creating software that depends on other software programs and particularly if you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team and anyone you want to share your pipeline or software with uses the same dependency software and of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker.</p>
-<p>You might be familiar with something called a <a href="https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/">virtual machine</a>. A virtual machine basically allows you to perform operations on your computer, but as if you are using a different computer! This is handy because you can ensure that you not only have similar software installed but you are also working with the same <a href="https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/">operating system</a> as your teammates (even if your computer has a different operating system). Pretty cool, right!?</p>
-<p>avocado need to work on this…
-Docker is similar to this, except it uses what is called a container. This allows users to work with software that is preinstalled and an environment that is preconfigured, however it uses more of your existing operating system. This is good becuase it means that it takes less time than using a virtual machine.</p>
-<p>See <a href="https://www.backblaze.com/blog/vm-vs-containers/">here</a> to read more about the differences between virtual machines and containers like Docker.</p>
-<p>Like GitHub, there is a DockerHub, where people store different docker images.You can download other people’s docker images, or you can store your own.</p>
+<p>If you are using a pipeline to process data or creating software that depends on other software programs and particularly if you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team and anyone you want to share your pipeline or software with uses the same dependency software of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker.</p>
+<p>You might be familiar with something called a <a href="https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/">virtual machine</a>. A virtual machine basically allows you to perform operations on your computer, but as if you are using a different computer! This is handy because you can ensure that you not only have similar software installed but you are also working with the same <a href="https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/">operating system</a> as your teammates (even if your computer has a different operating system). For example you might have a mac, and your teammates might all have windows machines. Pretty cool, right!?</p>
+<p>Docker is similar to this, except it uses what is called a container. This allows users to work with software that is preinstalled and an environment that is preconfigured, however it uses part of your existing operating system. This is good because it means that it takes less time and resources than using a virtual machine, which includes a full copy of a virtual operating system.</p>
+<p>Here is the <a href="https://www.docker.com/resources/what-container">explanation</a> about what containers are on the docker blog:</p>
+<blockquote>
+<p>A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.</p>
+</blockquote>
+<p>See <a href="https://www.backblaze.com/blog/vm-vs-containers/">here</a> and <a href="https://www.bogotobogo.com/DevOps/Docker/Docker_Container_vs_Virtual_Machine.php">here</a> to read more about the differences between virtual machines and containers like Docker. Note that you can use Docker containers within a virtual machine. See <a href="https://www.datto.com/blog/whats-the-difference-host-vs-guest-os#:~:text=The%20host%20operating%20system%20is,used%20in%20a%20virtualized%20server.&amp;text=Host%20OS%20also%20use%20container,the%20application%20in%20a%20server.">here</a> for explanations about host and guest operating systems. In short the host operating system is the local machines operating system (the one with the hardware), the guest operating system is the virtualized operating system.</p>
+<p><img src="06-management_tools_files/figure-html/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_218.png" title=" Docker Containers vs Virtual Machines: Docker containers allow applications to run in a separate container using the host (or local) operating system, but not requiring an external quest operating system, thus it does not require as many resources or time to run as a virtual machine which can also run an app with a standardized environment but it requires a copy of a quest or external operating system for each virtual machine." alt=" Docker Containers vs Virtual Machines: Docker containers allow applications to run in a separate container using the host (or local) operating system, but not requiring an external quest operating system, thus it does not require as many resources or time to run as a virtual machine which can also run an app with a standardized environment but it requires a copy of a quest or external operating system for each virtual machine." width="100%" /></p>
+<p>Finally, see <a href="https://phoenixnap.com/kb/docker-image-vs-container">here</a> for a deeper explanation about how Docker images and containers work.</p>
+<p>Like GitHub, there is a DockerHub, where people store different docker images (which is what allow people to run a docker container with all of your software dependencies and configurations on their machine).You can download other people’s docker images, or you can host your own on DockerHub for other people to use your Docker images.</p>
+<p>The important take-home message is that Docker fixes the issue of having your code work only on your machine but not someone elses.</p>
 </div>
-<div id="avocado-figshare-etc." class="section level2">
-<h2><span class="header-section-number">6.6</span> avocado Figshare etc.</h2>
+<div id="figshare" class="section level2">
+<h2><span class="header-section-number">6.6</span> Figshare</h2>
+<p>Similar to GitHub, <a href="https://figshare.com/">Figshare</a> is another option for hosting and sharing files on the internet that is specifically designed for research related files. Users can host data, code, images, posters, papers, and other types of files to allow others to easily find resources related to your research.</p>
+<p>In their words:</p>
+<blockquote>
+<p>Figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner.</p>
+</blockquote>
+<blockquote>
+<p>We make it as simple as possible to make research <strong>Findable, Accessible, Interoperable and Reusable (FAIR)</strong></p>
+</blockquote>
+<blockquote>
+<p>Publish research in any file format and assign an institutionally-branded DOI, document with customizable, discipline-specific metadata, [create] discoverable content across major search engines and academic frameworks</p>
+</blockquote>
+<p>The difference with GitHub is that it is easier to make files <strong>citable</strong> (thus ensuring better that you get credit) and it also is a bit easier to store large data files. Figshare does not however have the same version control capabilities of Git and GitHub. Ultimately Figshare is a great place to share final versions of your research products to make them findable for others.</p>
+<p>Figshare also encourages researchers to publish negative findings that did not ultimately end up in publications to reduce redundancy in the research field, which we think is a great idea!</p>
+<p>avocado add video
+<a href="https://youtu.be/_q50OWkz4Kc" class="uri">https://youtu.be/_q50OWkz4Kc</a>
+<a href="https://youtu.be/WlJlPmoJcJk" class="uri">https://youtu.be/WlJlPmoJcJk</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
-<div id="r-markdown" class="section level2">
-<h2><span class="header-section-number">6.7</span> R Markdown</h2>
-<p>If your research teammates are using the R programming language often, we strongly suggest that you consider having these teammates use what is called R markdown to create reports of their analyses. Ideally for the sake of reproducibility andtransparency, we recommend that your informatics teammates write such reports as they are performing their analyses - not afterwards.</p>
-<p>This makes it easy to have a report that shows a bit of the data (or all the data if your data is very samll), the code, commentary about what the code is doing, as well the actual output of the code for a given informatics process.</p>
-<p>We also recommend describing what data you are using, who performed the analysis and when and why, all in one document. This really helps with troubleshooting in the future, as well as simplifying maintaining code over time. It also makes it eaiser to train new lab members or communicate to collaboraters how your code works.</p>
-<p>The really nice thing about these reports is you can export them in a variety of formats like html websites, pdfs, word documents (or even slide presentations with just a bit of extra work) that can easily be shared with others.</p>
+<div id="rstudio-and-r-markdown" class="section level2">
+<h2><span class="header-section-number">6.7</span> RStudio and R Markdown</h2>
+<p>If your research teammates are using the R programming language often, we strongly suggest that you consider having these teammates use what is called R Markdown to create <strong>reports</strong> of their analyses. R Markdown is a flavor of what a <a href="https://en.wikipedia.org/wiki/Markup_language">markup language</a> called <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> that works especially well with R. What do we mean by markup? A markup language is for formatting text particularly to make it text that can be distinguished form the rest of a document. In our case we want it to look different from our code and the output of our code.</p>
+<p>Ideally for the sake of reproducibility and transparency, we recommend that your informatics teammates write such R Markdown reports as they are performing their analyses - not afterwards. <a href="https://www.rstudio.com/">RStudio</a> is an Integrated Development Environment or IDE for developing code that makes it easy to write such reports.</p>
+<p>R markdown files make it easy to have a report that shows a bit of the data (or all the data if your data is very small), the code, commentary about what the code is doing, as well the actual output of the code for a given informatics process.</p>
+<p>We also recommend describing what data you are using, who performed the analysis and when and why, all in one document. This really helps with troubleshooting in the future, as well as simplifying maintaining code over time. It also makes it easier to train new lab members or communicate to collaborators how your code works.</p>
+<p>The really nice thing about these reports is that Markdown languages allows you to export them in a variety of formats like html websites, pdfs, word documents (or even slide presentations with just a bit of extra work) that can easily be shared with others.</p>
 <p>You aren’t limited to just writing about code in these reports. You can write about anything. In fact, what you are reading right now was orginally written using R markdown. Thus this is also a good option for writing up reports about wet bench experiments as well.</p>
-<div id="r-markkdown-guidelines" class="section level3">
-<h3><span class="header-section-number">6.7.1</span> R Markkdown Guidelines</h3>
-<p>There are a few simple syntax rules for R markdown.</p>
+<div id="r-markdown-guidelines" class="section level3">
+<h3><span class="header-section-number">6.7.1</span> R Markdown Guidelines</h3>
+<p>There are a few simple syntax rules for R &lt;arkdown.</p>
 <p>To create headers you can specify them using hashtags.</p>
 <p>One hastag <code>#</code> is the largest header option, while two <code>##</code> is a bit smaller, three <code>###</code> is a bit smaller than two <code>##</code> etc.</p>
 <p>Thus you could create a header like so:</p>
 <p><code># This is a header</code></p>
-<p>To create bold text you can use astricks around the text.</p>
-<p><code>*This is bold text*</code></p>
-<p>To create italized text you can use two astericks around the text.</p>
-<p><code>**This is italicied text**</code></p>
-<p>To create both bold and italicized text you can use three astericks around the text.</p>
+<p>To create bold text you can use asterisks around the text.</p>
+<p><code>**This is bold text**</code></p>
+<p>Which will look like this:</p>
+<p><strong>This is bold text</strong></p>
+<p>To create italicized text you can use two asterisks around the text.</p>
+<p><code>*This is italicized text*</code></p>
+<p>Which will look like this:</p>
+<p><em>This is italicized text</em></p>
+<p>To create both bold and italicized text you can use three asterisks around the text.</p>
 <p><code>***This is bold and italicized text***</code></p>
+<p>Which will look like this:</p>
+<p><strong><em>This is bold and italicized text</em></strong></p>
 <p>To create a new line you include two spaces after the end of the line.</p>
 <p>To create a divider line you can use three astrix without any text on a line by itself.</p>
 <p><code>***</code></p>
-<p>this will look like the following divider line:</p>
+<p>Which will look like the following divider line:</p>
 <hr />
-<p>You can also embed images or videos into your R markdown reports.</p>
+<p>You can also embed images or videos into your R markdown reports. There are several ways to do this with a package called <a href="https://www.rdocumentation.org/packages/knitr/versions/1.30">knitr</a> which allows you to do all sorts of things with your reports. However you can also do it simply with the following syntax:</p>
 <p><code>![caption text](URL_or_local_path_to_image_or_videofile)</code></p>
 <p>If you are including code (which can be R programming language code, Python, SQL, bash or others). You can specify it using three backticks like this:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="informatics-lab-management-tools.html#cb3-1"></a><span class="co"># This is a code comment about some R code- here comes the code on the next line!</span></span>
-<span id="cb3-2"><a href="informatics-lab-management-tools.html#cb3-2"></a>x &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>)</span>
-<span id="cb3-3"><a href="informatics-lab-management-tools.html#cb3-3"></a>x</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="informatics-lab-management-tools.html#cb2-1"></a><span class="co"># This is a code comment about some R code- here comes the code on the next line!</span></span>
+<span id="cb2-2"><a href="informatics-lab-management-tools.html#cb2-2"></a>x &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>)</span>
+<span id="cb2-3"><a href="informatics-lab-management-tools.html#cb2-3"></a>x</span></code></pre></div>
 <pre><code>## [1] 1 2 3 4 5</code></pre>
 <p>or this for Python: (avocado finish this :P)</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="informatics-lab-management-tools.html#cb5-1"></a><span class="co"># Now we are going to show some python code</span></span>
-<span id="cb5-2"><a href="informatics-lab-management-tools.html#cb5-2"></a>x <span class="op">=</span> [<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>]</span>
-<span id="cb5-3"><a href="informatics-lab-management-tools.html#cb5-3"></a><span class="bu">print</span>(x)</span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="informatics-lab-management-tools.html#cb4-1"></a><span class="co"># Now we are going to show some python code</span></span>
+<span id="cb4-2"><a href="informatics-lab-management-tools.html#cb4-2"></a>x <span class="op">=</span> [<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>]</span>
+<span id="cb4-3"><a href="informatics-lab-management-tools.html#cb4-3"></a><span class="bu">print</span>(x)</span></code></pre></div>
 <pre><code>## [1, 2, 3, 4, 5]</code></pre>
-<p>for inline code you can use one backtick and the language like this:</p>
+<p>for inline code you can use one backtick like this:</p>
+<p>r x in backticks</p>
+<p>which will result in:</p>
+<p>1, 2, 3, 4, 5</p>
+<p>Another important thing to know is that you can utilize what are called child Rmd files in case your report is getting to large (something that often happens with analyses). In this case, you can separate out parts of your research process into different report documents and have an additional report document that demonstrates the entire process. See <a href="https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html">here</a> for more information on how to do this.</p>
+<p>Also see <span class="citation">Riederer (<a href="#ref-riederer_r_nodate" role="doc-biblioref">n.d.</a>)</span> for additional information about how to use and create R markdown files.</p>
 </div>
 </div>
-<div id="jupyter-avocado" class="section level2">
-<h2><span class="header-section-number">6.8</span> Jupyter avocado</h2>
+<div id="jupyter" class="section level2">
+<h2><span class="header-section-number">6.8</span> Jupyter</h2>
+<p><a href="https://jupyter.org/">Jupyter</a> <a href="https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook">notebooks</a> are very similar to R markdown reports, however they were designed with an emphasis on using python rather than R.</p>
+<p><a href="https://jupyterlab.readthedocs.io/en/stable/">JupyterLab</a> is also similar to Rstudio. However it is a web-based environment for working with code and writing Juptyer notebooks. You can try some demos <a href="https://jupyterlab.readthedocs.io/en/stable/">here</a>.</p>
+<p>Narrative can be added using a similar syntax as R markdown, except that in this case it is the classic version of markdown.</p>
 
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-riederer_r_nodate">
+<p>Riederer, Emily, Christophe Dervieux. n.d. <em>R Markdown Cookbook</em>. Accessed May 18, 2021. <a href="https://bookdown.org/yihui/rmarkdown-cookbook/">https://bookdown.org/yihui/rmarkdown-cookbook/</a>.</p>
 </div>
 </div>
 <hr>

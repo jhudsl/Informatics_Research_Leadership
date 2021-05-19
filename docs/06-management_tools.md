@@ -168,34 +168,69 @@ https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-an
 
 ## Docker
 
-If you are using a pipeline to process data or creating software that depends on other software programs and particularly if you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team  and anyone you want to share your pipeline or software with uses the same dependency software and of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker. 
+If you are using a pipeline to process data or creating software that depends on other software programs and particularly if you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team  and anyone you want to share your pipeline or software with uses the same dependency software of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker. 
 
-You might be familiar with something called a [virtual machine](https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/). A virtual machine basically allows you to perform operations on your computer, but as if you are using a different computer! This is handy because you can ensure that you not only have similar software installed but you are also working with the same [operating system](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/) as your teammates (even if your computer has a different operating system). Pretty cool, right!?
+You might be familiar with something called a [virtual machine](https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/). A virtual machine basically allows you to perform operations on your computer, but as if you are using a different computer! This is handy because you can ensure that you not only have similar software installed but you are also working with the same [operating system](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/) as your teammates (even if your computer has a different operating system). For example you might have a mac, and your teammates might all have windows machines. Pretty cool, right!?
 
-avocado need to work on this...
-Docker is similar to this, except it uses what is called a container. This allows users to work with software that is preinstalled and an environment that is preconfigured, however it uses more of your existing operating system. This is good becuase it means that it takes less time than using a virtual machine.
+Docker is similar to this, except it uses what is called a container. This allows users to work with software that is preinstalled and an environment that is preconfigured, however it uses part of your existing operating system. This is good because it means that it takes less time and resources than using a virtual machine, which includes a full copy of a virtual operating system.
 
-See [here](https://www.backblaze.com/blog/vm-vs-containers/) to read more about the differences between virtual machines and containers like Docker.
+Here is the [explanation](https://www.docker.com/resources/what-container) about what containers are on the docker blog:
 
-Like GitHub, there is a DockerHub, where people store different docker images.You can download other people's docker images, or you can store your own.
+> A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 
-## avocado Figshare etc.
-## R Markdown 
+See [here](https://www.backblaze.com/blog/vm-vs-containers/) and [here](https://www.bogotobogo.com/DevOps/Docker/Docker_Container_vs_Virtual_Machine.php) to read more about the differences between virtual machines and containers like Docker. Note that you can use Docker containers within a virtual machine. See [here](https://www.datto.com/blog/whats-the-difference-host-vs-guest-os#:~:text=The%20host%20operating%20system%20is,used%20in%20a%20virtualized%20server.&text=Host%20OS%20also%20use%20container,the%20application%20in%20a%20server.) for explanations about host and guest operating systems. In short the host operating system is the local machines operating system (the one with the hardware), the guest operating system is the virtualized operating system. 
 
-If your research teammates are using the R programming language often, we strongly suggest that you consider having these teammates use what is called R markdown to create reports of their analyses. Ideally for the sake of  reproducibility andtransparency, we recommend that your informatics teammates write such reports as they are performing their analyses - not afterwards. 
+<img src="06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_218.png" title=" Docker Containers vs Virtual Machines: Docker containers allow applications to run in a separate container using the host (or local) operating system, but not requiring an external quest operating system, thus it does not require as many resources or time to run as a virtual machine which can also run an app with a standardized environment but it requires a copy of a quest or external operating system for each virtual machine." alt=" Docker Containers vs Virtual Machines: Docker containers allow applications to run in a separate container using the host (or local) operating system, but not requiring an external quest operating system, thus it does not require as many resources or time to run as a virtual machine which can also run an app with a standardized environment but it requires a copy of a quest or external operating system for each virtual machine." width="100%" />
 
-This makes it easy to have a report that shows a bit of the data (or all the data if your data is very samll), the code, commentary about what the code is doing, as well the actual output of the code for a given informatics process.
 
-We also recommend describing what data you are using, who performed the analysis and when and why, all in one document. This really helps with troubleshooting in the future, as well as simplifying maintaining code over time. It also makes it eaiser to train new lab members or communicate to collaboraters how your code works. 
 
-The really nice thing about these reports is you can export them in a variety of formats like html websites, pdfs, word documents (or even slide presentations with just a bit of extra work) that can easily be shared with others. 
+Finally, see [here](https://phoenixnap.com/kb/docker-image-vs-container) for a deeper explanation about how Docker images and containers work.
+
+Like GitHub, there is a DockerHub, where people store different docker images (which is what allow people to run a docker container with all of your software dependencies and configurations on their machine).You can download other people's docker images, or you can host your own on DockerHub for other people to use your Docker images. 
+
+The important take-home message is that Docker fixes the issue of having your code work only on your machine but not someone elses.
+
+## Figshare
+
+Similar to GitHub, [Figshare](https://figshare.com/) is another option for hosting and sharing files on the internet that is specifically designed for research related files. Users can host data, code, images, posters, papers, and other types of files to allow others to easily find resources related to your research. 
+
+In their words:
+
+> Figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner.
+
+> We make it as simple as possible to make research **Findable, Accessible, Interoperable and Reusable (FAIR)**
+
+> Publish research in any file format and assign an institutionally-branded DOI,  document with customizable, discipline-specific metadata, [create] discoverable content across major search engines and academic frameworks
+
+The difference with GitHub is that it is easier to make files **citable** (thus ensuring better that you get credit) and it also is a bit easier to store large data files. Figshare does not however have the same version control capabilities of Git and GitHub. Ultimately Figshare is a great place to share final versions of your research products to make them findable for others. 
+
+Figshare also encourages researchers to publish negative findings that did not ultimately end up in publications to reduce redundancy in the research field, which we think is a great idea!
+
+
+avocado add video
+https://youtu.be/_q50OWkz4Kc
+https://youtu.be/WlJlPmoJcJk
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## RStudio and R Markdown 
+
+If your research teammates are using the R programming language often, we strongly suggest that you consider having these teammates use what is called R Markdown to create **reports** of their analyses. R Markdown is a flavor of what a [markup language](https://en.wikipedia.org/wiki/Markup_language) called [Markdown](https://en.wikipedia.org/wiki/Markdown) that works especially well with R. What do we mean by markup? A markup language is for formatting text particularly to make it text that can be distinguished form the rest of a document. In our case we want it to look different from our code and the output of our code.
+
+
+Ideally for the sake of reproducibility and transparency, we recommend that your informatics teammates write such R Markdown reports as they are performing their analyses - not afterwards. [RStudio](https://www.rstudio.com/) is an Integrated Development Environment or IDE for developing code that makes it easy to write such reports. 
+
+R markdown files make it easy to have a report that shows a bit of the data (or all the data if your data is very small), the code, commentary about what the code is doing, as well the actual output of the code for a given informatics process.
+
+We also recommend describing what data you are using, who performed the analysis and when and why, all in one document. This really helps with troubleshooting in the future, as well as simplifying maintaining code over time. It also makes it easier to train new lab members or communicate to collaborators how your code works. 
+
+The really nice thing about these reports is that Markdown languages allows you to export them in a variety of formats like html websites, pdfs, word documents (or even slide presentations with just a bit of extra work) that can easily be shared with others. 
 
 You aren't limited to just writing about code in these reports. You can write about anything. In fact, what you are reading right now was orginally written using R markdown. Thus this is also a good option for writing up reports about wet bench experiments as well.
 
-### R Markkdown Guidelines
+### R Markdown Guidelines
 
-There are a few simple syntax rules for R markdown. 
-
+There are a few simple syntax rules for R <arkdown. 
 
 To create headers you can specify them using hashtags.
 
@@ -205,18 +240,29 @@ Thus you could create a header like so:
 
 `# This is a header`
 
-To create bold text you can use astricks around the text.  
+To create bold text you can use asterisks around the text.  
 
-`*This is bold text*`  
+`**This is bold text**`  
 
-To create italized text you can use two astericks around the text.    
+Which will look like this:
 
-`**This is italicied text**`  
+**This is bold text**
 
+To create italicized text you can use two asterisks around the text.    
 
-To create both bold and italicized text you can use three astericks around the text.  
+`*This is italicized text*`  
+
+Which will look like this:
+
+*This is italicized text*
+
+To create both bold and italicized text you can use three asterisks around the text.  
 
 `***This is bold and italicized text***`
+
+Which will look like this:
+
+***This is bold and italicized text***
 
 To create a new line you include two spaces after the end of the line.  
 
@@ -224,12 +270,12 @@ To create a divider line you can use three astrix without any text on a line by 
 
 `***`  
 
-this will look like the following divider line:
+Which will look like the following divider line:
 
 ***
 
 
-You can also embed images or videos into your R markdown reports. 
+You can also embed images or videos into your R markdown reports. There are several ways to do this with a package called [knitr](https://www.rdocumentation.org/packages/knitr/versions/1.30) which allows you to do all sorts of things with your reports. However you can also do it simply with the following syntax:
 
 `![caption text](URL_or_local_path_to_image_or_videofile)`
 
@@ -262,15 +308,28 @@ print(x)
 ```
 
 
-for inline code you can use one backtick and the language like this:
+for inline code you can use one backtick like this:
+
+r x in backticks
+
+which will result in:
+
+1, 2, 3, 4, 5
+
+Another important thing to know is that you can utilize what are called child Rmd files in case your report is getting to large (something that often happens with analyses). In this case, you can separate out parts of your research process into different report documents and have an additional report document that demonstrates the entire process. See  [here](https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html) for more information on how to do this.
+
+Also see @riederer_r_nodate for additional information about how to use and create R markdown files.
+
+## Jupyter
+
+[Jupyter](https://jupyter.org/) [notebooks](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook) are very similar to R markdown reports, however they were designed with an emphasis on using python rather than R. 
+
+[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) is also similar to Rstudio. However it is a web-based environment for working with code and writing Juptyer notebooks. You can try some demos [here](https://jupyterlab.readthedocs.io/en/stable/).
+
+Narrative can be added using a similar syntax as R markdown, except that in this case it is the classic version of markdown. 
 
 
 
-
-
-
-
-## Jupyter avocado
 
 
 
