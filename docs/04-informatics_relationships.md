@@ -76,6 +76,15 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
+It is also important to recognize that:
+> There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive. [@carpenter_cultivating_2021]
+
+However:
+
+> In reality, even for well-established data types, analysis can often take as much or more time and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project.
+
+Don't forget to provide some budget for your inforomatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
+
 ![](images/challenges.png)
 Avocado - find slide
 

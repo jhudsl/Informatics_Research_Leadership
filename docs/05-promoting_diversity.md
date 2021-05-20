@@ -31,6 +31,7 @@ The inclusion of diverse populations in scientific teams has also been shown to 
 However, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019] and analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020]. 
 
 
+
 <img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_37.png" title="Hilda, the happy informaticist thinks: I was turned down by several male advisors because I was new to informatics. They said I would take too long to learn. So grateful my advisor Sally let me join her lab. I've actually been really successful!" alt="Hilda, the happy informaticist thinks: I was turned down by several male advisors because I was new to informatics. They said I would take too long to learn. So grateful my advisor Sally let me join her lab. I've actually been really successful!" width="100%" />
 
 ## Ways to better support a more diverse research team
@@ -39,31 +40,39 @@ In order to best support and encourage mentees and employees of underrepresented
 
 ### Seek additional **training about disparities** in informatics and STEM careers
 
-Especially focus on hindrances to achievement such as attitudes, biases, and stereotypes.
+Especially focus on hindrances to achievement such as attitudes, biases, and stereotypes. Become aware of **stereotype threat** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[@stelter_establishing_2021] and how they might influence your mentees.
 
-Note that you may not be aware of the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and overlapping challenges. It is also important to learn about how **intersectionality** (the idea that  some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note that you may not be aware of the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. It is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
 
-Become aware of **stereotype threat** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[@stelter_establishing_2021] and how they might influence your mentees.
+For example:
+
+> When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups. [@davis_barriers_2021]
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align = "center"></iframe></p>
+
+
 
 <img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda the happy informaticist thinks: Being one of 3 women in my C programming class (out of 90) was intimidating! I didn't think I would do well becuase I didn't feel like I belonged." alt="Hilda the happy informaticist thinks: Being one of 3 women in my C programming class (out of 90) was intimidating! I didn't think I would do well becuase I didn't feel like I belonged." width="100%" />
 
-Also, become aware of as  **microaggressions* - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
+Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
 
 
-<img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_66.png" title="Harry, the helpful collaborator says: When I first started grad school at 45, someone asked if I was there to pick up my child. it was heartbreaking." alt="Harry, the helpful collaborator says: When I first started grad school at 45, someone asked if I was there to pick up my child. it was heartbreaking." width="100%" />
+<img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_66.png" title="Harry, the helpful collaborator says: When I first started grad school at 45, I felt really out of place. It didn't help that someone thought I was the father of another grad student." alt="Harry, the helpful collaborator says: When I first started grad school at 45, I felt really out of place. It didn't help that someone thought I was the father of another grad student." width="100%" />
 
-See [here](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf) for a list of examples.
+See below a list of examples:
 
-avocado Update
-<iframe src="(https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="672" height="600px"></iframe>
+
+[[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
 
 Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021]. 
 
 ### **Appreciate and acknowledge mentee's differences** 
 
-Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee's career success given their background. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to hinder the success of mentees [@byars-winston_race_nodate; @holoien_you_2012]. 
+Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee's career success given their background. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to **hinder the success** of mentees [@byars-winston_race_nodate; @holoien_you_2012]. 
 
 **However, singling out individuals for their differences is often felt as a microaggression.**  There are ways to discuss these topics with your student in private without singling them out in front of the rest of a group.
 
@@ -97,16 +106,12 @@ Encouraging the participation of your mentees in support programs and groups suc
 
 Be a good role model and openly discuss the role of failure in research. For example, you may describe failures in your own career or you may read some of the book Brilliant Blunders by Mario Livio with your mentees. This book describes how scientific advancement actually occurred due to mistakes of some of the most respected scientists. Educating mentees about the **[Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)** described by Carol Dweck may also be helpful. The major themes of this mindset is an awareness that our abilities are not fixed, we can change our aptitudes with practice and work. 
 
-avocado add to slides
 
-
-```r
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_66")
-```
-
-<img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_66.png" title="Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." alt="Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." width="480" />
+<img src="05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_1.png" title="Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." alt="Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." width="100%" />
 
 ![Growth Mindset](images/growthmindset.jpg)
+
+
 
 [[source]](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
@@ -119,10 +124,17 @@ Be sure to celebrate all of your mentees' small and large successes. This has be
 
 It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007].
 
-### Consider creating a document of **mentor and mentee expectations**. 
+### Consider creating a document of **mentor and mentee expectations**.
 
-See [here](https://doi.org/10.1371/journal.pcbi.1005709.s001) for an example of such document  [@masters_ten_2017]and see [here](https://ictr.wisc.edu/mentoring/) for more information. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices.  
+<p align="center"><iframe src="https://widgets.figshare.com/articles/5427418/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-avoado update
+[[source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709)]
+
+@masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents. 
+
+
+Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter. 
+
+
+
 

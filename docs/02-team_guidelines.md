@@ -60,8 +60,11 @@ In Roger's words:
 Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
 
 
-add quote from field guide about mutual respect
+> Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise. [@carpenter_cultivating_2021]
 
+> Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data. [@carpenter_cultivating_2021]
+
+> Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement. [@carpenter_cultivating_2021]
 
 ## Communication for informatics teams
 
@@ -245,7 +248,16 @@ If your employee is helping with work for a grant, provide the proposal to them.
 
 ### **Advocate authorship and idea generation for all**
 
-Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). Informatics experts will also need **first author papers**. Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects  may not be as interesting for your employee as an idea that they come up with themselves. 
+Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). 
+
+According to a recent report about computational biology:
+
+> Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review. [@carpenter_cultivating_2021]
+
+
+It is often overlooked, but Informatics experts will also need **first author papers**. Although keep in mind that in some fields authors are listed in different ways. 
+
+Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects  may not be as interesting for your employee as an idea that they come up with themselves. 
 
 Often you can create one technical paper and one biological paper from each project.  For technical papers, allow your lab members that largely do informatics to play a prominent or leadership role. For biological papers, ask them to play a supporting role. For experimental lab members do the opposite. Allow these lab members to have a prominent role on biological papers and a supporting role on more technical papers.
 
