@@ -28,7 +28,7 @@ Informatics work presents unique challenges due to the fact that it requires mul
 
 According to a recent article about this subject:
 
-> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is undertand a colleague's particular expertise." Avocado need to add citation for fieldguide with zotero and bibtex
+> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is undertand a colleague's particular expertise." [carpenter_cultivating_2021]
 
 
 In this course we hope to give you a bit more of an understanding of the variety of perspectives that your collgagues might have.

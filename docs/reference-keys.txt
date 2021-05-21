@@ -6,7 +6,7 @@ guidelines-for-multidisciplinary-informatics-teams
 finding-and-creating-informatics-teams
 start-early
 who-to-look-for
-avocado-adjust-your-expectations
+adjust-your-expectations
 communication-for-informatics-teams
 talk-first
 take-your-time
@@ -61,9 +61,9 @@ diversity-is-beneficial
 underrepresentation-in-cancer-informatics
 ways-to-better-support-a-more-diverse-research-team
 seek-additional-training-about-disparities-in-informatics-and-stem-careers
-appreciate-and-acknowledge-mentees-differences
+acknowledge-mentees-differences
 work-to-create-a-safe-environment
-role-models-make-career-goals-seem-possible.
+diverse-role-models
 advocate-for-all-mentees
 support-a-healthy-relationship-with-failure
 celebration-and-microaffirmations
@@ -85,3 +85,4 @@ figshare
 rstudio-and-r-markdown
 r-markdown-guidelines
 jupyter
+conclusion

@@ -33,17 +33,17 @@ We suggests the following steps to take a great scientific question and make int
 For example, say we were interested in identify new diagnostic biomarkers for colerectal cancer. 
 ***Note:** this is only an illustrative example.*
 
+These suggestions are based on that of: @wang_collaborating_2019 
+
 ### STEP 1
 
 First we would identify what is known and unknown:
 
 Several potential blood-based biomarkers have been identified, however many are lacking evidence due to the previous studies having small sample sizes. 
 
-Avocado- need to fix resolution somehow...
-
 <img src="03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_189.png" title=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" alt=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" width="100%" />
 
-[[source]](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full) 
+[[source](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full)]
 
 You might ask how useful are these biomarkers for diagnosing colorectal cancer? 
 
@@ -112,8 +112,6 @@ Actually creating a mock-up of what the data might look like can reveal other im
 
 <img src="03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_151.png" title="Example data showing 8 samples from 8 different patients 4 had the outcome of not cancer and 4 had the out come of cancer, there are 4 biomarker columns showing expression in relative percentage to threshold. Then there is a column that says meeting threshold count score based on the biomarkers which ranges from 2 to 3 and finally a column of the average percentage score" alt="Example data showing 8 samples from 8 different patients 4 had the outcome of not cancer and 4 had the out come of cancer, there are 4 biomarker columns showing expression in relative percentage to threshold. Then there is a column that says meeting threshold count score based on the biomarkers which ranges from 2 to 3 and finally a column of the average percentage score" width="100%" />
 
-![mock-up example of data](images/example_data.png)
-
 ### STEP 7
 
 Step 7 is then to think about what statistical tests you might perform. Could we use a t-test to compare the scores among the patient groups? Would we want to account for other factors like the patients age or gender? Would another test be better? 
@@ -160,10 +158,10 @@ Sometimes our hypotheses are just wrong.
 
 <img src="03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png" title=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" alt=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" width="100%" />
 
-AVOCADO -Add reference to the book
-
 
 ## Informatics project pitfall mitgation methods
+
+This section is in part based on a [book](https://www.manning.com/books/build-a-career-in-data-science) (@robinson_build_nodate) by Emily Robinson and Jacqueline Nolis.
 
 We can mitigate some of these project weak points. (You may notice how some of these have been discussed previously.) However some of these are a bit unavoidable and it is best to have realistic expectations and flexibility about backup project ideas.
 
@@ -199,15 +197,11 @@ For example, if the goal of a project was to look for differential gene expressi
 7) **Get new data**  
 In the worst case that the data does not appear to work for your initial goal and reframing the question does not seem possible, look for new data. Now there are many data resources available online. 
 
-AVOCADO - we will list the link to the data table...
-
 We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Insitute (NCI) Informatics Technology for Cancer Reserach (ITCR)](https://itcr.cancer.gov/) faculty. 
 
-examples: 
-https://pubmed.ncbi.nlm.nih.gov/25691825/
-https://www.cbioportal.org/
-https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-promises-743721/
-CGGA
+These are also good resources for finding cancer related data:  
+ - The [cBioPortal](https://www.cbioportal.org/)  
+ - This [article](https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-promises-743721/)  
 
 
 <img src="03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_5.png" title=" How to Overcome Pitfalls: 1) Discuss with experts early and often 2) Diversify  projects for lab members 3) Safe project planning - have a “safe” project for each lab member (review articles, project with promising pilot data, tool development) 4) Encourage co-authorship of lab members 5) Plan for extra time in case things go wrong 6) Adjust and reframe 7) Get new data" alt=" How to Overcome Pitfalls: 1) Discuss with experts early and often 2) Diversify  projects for lab members 3) Safe project planning - have a “safe” project for each lab member (review articles, project with promising pilot data, tool development) 4) Encourage co-authorship of lab members 5) Plan for extra time in case things go wrong 6) Adjust and reframe 7) Get new data" width="100%" />

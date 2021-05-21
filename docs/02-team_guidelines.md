@@ -28,7 +28,7 @@ The first step to performing a good research study is to find the right people f
 
 In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
 
-This section is based on a blog post [@peng_finding_2011] from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
+This section is based on blog posts @peng_finding_2011 from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) and @matsui_care_2013 from [Elizabeth C. Matsui](https://www.linkedin.com/in/elizabethmatsui) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
 
 
 ### **Start early**
@@ -55,7 +55,7 @@ In Roger's words:
 <img src="02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_0.png" title="Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy." alt="Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy." width="100%" />
 
 
-### avocado **Adjust your expectations**
+### **Adjust your expectations**
 
 Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
 
@@ -68,7 +68,7 @@ Be careful about assuming that your experimental collaborator can do any type of
 
 ## Communication for informatics teams
 
-Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth.
+Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth. This section is based on @broman_collaborating_2019 by [Karl Broman](https://kbroman.org/) and @wang_collaborating_2019 by [Jiangxia Wang](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/about-us/our-people/).
 
 ### **Talk first**
 
@@ -229,9 +229,8 @@ Enable and encourage your employee to cultivate relationships with others who ha
 
 Examples include: 
  - [R ladies](https://rladies.org/) for support for using Bioconductor or R programming. Many of the members are also very familiar with using a variety of genomics and imaging data. You do not need to be a woman to get support from this organization.  - Many universities have a statistical support group, check at your institution. 
+ - [National Cancer Institute ((NCI) hub groups](https://ncihub.org/groups/browse) has a list of cancer specific groups such as large groups like the [Informatics Technology for Cancer Research (ITCR)](https://ncihub.org/groups/itcr) or location specific groups such as the [African Esophageal Cancer Consortium (AfrECC)](https://ncihub.org/groups/afrecc)
  - When in doubt ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
-
-AVOCADO more Examples?? - Seems like the ITCR community could be very helpful and should be listed - but also probably smaller cancer specific forums? 
 
 ### **Encourage growth outside their domain**
 
@@ -285,4 +284,4 @@ On the other hand, if you are an informatics expert mentoring experimental biolo
 
 <img src="02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_6.png" title=" Multidisciplinary Team Leadership Guidelines: 1) Avoid Employee Isolation (especially from a domain standpoint) 2) Encourage relationships with others in their domain 3) Ideally help your employees/mentees find a mentor within their domain 4) Encourage growth outside their domain 5) Value their perspective about science in general 6) Discuss expectations and hypotheses 7) Advocate authorship and idea generation for all 8) Check on them! - make sure they aren’t stuck 9) Get external expert review of work 10)Support teammate work schedules - this is often domain specific" alt=" Multidisciplinary Team Leadership Guidelines: 1) Avoid Employee Isolation (especially from a domain standpoint) 2) Encourage relationships with others in their domain 3) Ideally help your employees/mentees find a mentor within their domain 4) Encourage growth outside their domain 5) Value their perspective about science in general 6) Discuss expectations and hypotheses 7) Advocate authorship and idea generation for all 8) Check on them! - make sure they aren’t stuck 9) Get external expert review of work 10)Support teammate work schedules - this is often domain specific" width="100%" />
 
-AVOCADO Add references from Jeff's advanced data science course etc.
+

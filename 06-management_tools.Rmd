@@ -5,7 +5,11 @@ output: html_document
 
 # Informatics lab management tools
 
-There are a few tools that can be especially useful for assisting with day-to-day management of projects involving informatics regardless of if you are simply collaborating with an informatics expert or you are leading an informatics research team.
+There are several tools that can be especially useful for assisting with day-to-day management of projects involving informatics regardless of if you are simply collaborating with an informatics expert or you are leading an informatics research team.
+
+```{r, fig.alt="Learning Objectives: 1. Know how Slack can be used to communicate with team members. 2. Understanding of the concept of version control and how Git and GitHub can help track changes within code and other files over time. 3. Know what Docker is and how it is used for standardizing software  development and delivery. 4. Awareness of Figshare and how it is useful for sharing research files. 5. Understand what RStudio and R Markdown are and how to use RMarkdown to create research reports. 6. Awareness of the Jupyter project and how Jupyter Notebooks can also be used to create research reports.", out.width = "100%", echo = FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_30")
+```
 
 ## Slack
 
@@ -13,19 +17,12 @@ There are a few tools that can be especially useful for assisting with day-to-da
 [Slack](https://slack.com/) is a communication tool that allows you to communicate with lab members much more efficiently than email. It is a bit like a combination of an instant message system, email, and dropbox. 
 
 
-avocado add to slides
-
-![](images/slack.png)
-[[source](https://slack.com/)]
-
 ```{r, fig.alt="Wait, what is Slack? It's a new way to communicate -faster than email and more focused than chat", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_35")
 ```
 
 
-
-avocado update
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align = "center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 You can do quite well with the free version of slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history. 
 
@@ -37,11 +34,9 @@ Currently, with the free version you can search through the history of the last 
 
 The main landing page for slack is called a workspace, which looks like this:
 
-avocado add to slides - is the alt text ok?
-![](images/overall_slack.png)
 
 ```{r, fig.alt="An image of a slack profile landing page whcih shows workspaces on the far left, then channels, then messages for a specific channel.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_42")
 ```
 
 In the above image, this person has five workspaces which are indicated by the squares on the far left. Each workspace allows for multiple channels for communicating. These channels can include all members of the workspace or specific subsets of members. Team members can also have separate direct messages to have one-on-one discussions.
@@ -57,11 +52,8 @@ We also recommend making project specific channels. For these channels you can a
 
 Importantly, you can make channels private or public. If a channel is public, anyone in the workspace can join.
 
-avocado add to slides
-
-![channels](images/channel.png)
 ```{r, fig.alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_48")
 ```
 
 ## Features
@@ -72,30 +64,23 @@ If someone sends a really important message, like a link to a relevant document,
 
 Hovering over a message you will get the following options:
 
-
-avocado add to slides
-![slack message options](images/slack_options.png)
 ```{r, fig.alt="An image of the options for a slack message", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_53")
 ```
 
 Clicking on the 3 dot button allows you to do several useful things for a message including pinning it to find it easily later.
 
-avocado add to slides
-![Pin it for later!](images/pin.png)
+
 ```{r, fig.alt="This image shows the option to pin a message in a channel.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_62")
 ```
 
 ### Code
 One great feature about slack, is that it is very convenient to message about code.
 
 
-avocado add to slides
-![slack code](images/slack_code.png)
-
 ```{r, fig.alt="An example of a slack message with code which is displayed differently as it is in red font witha gray background", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_69")
 ```
 
 
@@ -105,20 +90,16 @@ You can also attach files directly to messages just like in the above message wh
 
 If you want to be reminded about a message in 20 minutes or next week you can also do that using the same hovering and 3 dot button option.
 
-avocado add to slides
-![](images/slack_options.png)
-Thus if Jack gets a message from his advisor Charlie, but he is busy doing deep work on something else, he can ask Slack to remind him later.
-
 ```{r, fig.alt="An image of the options for a slack message"}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_53")
 ```
 
+Thus if Jack gets a message from his advisor Charlie, but he is busy doing deep work on something else, he can ask Slack to remind him later.
 
-avocado add to slides
-![](images/reminder_copy.png)
 
-```{r, fig.alt="An image of right clicking on a slack message to allow setting a reminder of the message for either in 20 minutes, 1 hour, 3 hours, tomorrow, next week or custom.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+
+```{r, fig.alt="An image of setting a reminder of a message for either in 20 minutes, 1 hour, 3 hours, tomorrow, next week or custom.", out.width = "100%", echo = FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_74")
 ```
 
 You may also notice in the image above that your messages can be **edited!** unlike an email, in addition yoou can mark them as unread, which can also be useful for responding to messages asynchronously.
@@ -131,10 +112,8 @@ One other nice feature for working with a team is that you can directly poll you
  
 Say sally wants to schedule a meeting with the lab teammates for a specific project- this could even include collaborators who are outside of the lab. If all the users are on the same Slack channel, she can send out a poll like this one asking people to resond with times that they are available. 
 
-avocado add to slides
-![Quickly perform polls](images/poll.png)
 ```{r, fig.alt=" An example of a slack simple poll that says: When can you meet about the cell line project?- Monday at noon, Tuesday at noon, Wednesday at 2, or None of these options work.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_0")
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_58")
 ```
 
 ## Git and GitHub
@@ -149,8 +128,6 @@ Why is this?
 
 Small changes in your code may result in your code breaking or generating completely different results. To make matters worse, sometimes your scripts may be lengthy, if you have 4,000 lines of code, it can be difficult to identify what is different between one version and another. Git really helps with this. 
 
-AVOCADO add cartoon about charlie accidentally deleating a script locally- but its ok cause it is on Git! or something like that - could be Jack on his own or a cartoon of harry and sally sharing files and code...
-
 
 
 So what is [GitHub](https://en.wikipedia.org/wiki/GitHub)?
@@ -158,30 +135,28 @@ So what is [GitHub](https://en.wikipedia.org/wiki/GitHub)?
 
 [GitHub](https://github.com/) is a free hosting site for code (or other files - including those grant proposals!). Therefore, all the different versions of your files can be saved and accessed online at GitHub. You can make these files private or public. 
 
+```{r, fig.alt= "Charlie, the unclear leader says to Jack, the only and lonely informaticist in his lab: I'm sorry Jack, I think I just accidentally deleted your code!! Meanwhile Jack thinks: Good thing I backed everything up on GitHub - Phew!", out.width = "100%", echo = FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_135")
+```
+
+
+```{r, fig.alt=" Harry, the helpful collaborator says to Sally: I just pushed my changes to the code on GitHub, so now all your lab members can see it! Meanwhile Sally, the super supportive leader thinks: Git/GitHub are cool!", out.width = "100%", echo = FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_83")
+```
+
 According to Wikipedia:
 
 > As of January 2020, GitHub reports having over 40 million users and more than 190 million repositories (including at least 28 million public repositories), making it the largest host of source code in the world.
 
 You do not have to use GitHub to use Git. If you have data that needs to be complaint with HIPPA, you could still use Git on a local server (more on this in other courses). Alternatively, you could use GitHub after you de-identify your data. 
 
-AVOCADO more on using github with sensitive data.
-See [here](https://github.com/truevault/hipaa-compliance-developers-guide) for info about ways to use GitHub for data that needs to be HIPAA compliant.
+See [here](https://github.com/truevault/hipaa-compliance-developers-guide) for info about ways to use GitHub for data that needs to be HIPAA compliant. 
 
-HIPPA compliancy group
-https://compliancy-group.com/large-scale-hipaa-security-breach-improper-use-of-github/
-
-reproducibility... (several options here...)
-
-GitHub/Git
-
-https://r-bio.github.io/intro-git-rstudio/
-
-https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
-
+We recommend [this tutorial](https://happygitwithr.com/) if you are interested in using Git and Github with R. 
 
 ## Docker
 
-If you are using a pipeline to process data or creating software that depends on other software programs and particularly if you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team  and anyone you want to share your pipeline or software with uses the same dependency software of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker. 
+If you have multiple team members modifying code for the pipeline or the software, or if you ultimately want to share your pipeline or software, it is recommended that you use a method to ensure that you (as well as you in the future!) and your team and anyone you want to share your pipeline or software with uses the same dependency software of the same versions! There are a few ways to do this, but one of the simplest is to use what is called Docker. 
 
 You might be familiar with something called a [virtual machine](https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/). A virtual machine basically allows you to perform operations on your computer, but as if you are using a different computer! This is handy because you can ensure that you not only have similar software installed but you are also working with the same [operating system](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/) as your teammates (even if your computer has a different operating system). For example you might have a mac, and your teammates might all have windows machines. Pretty cool, right!?
 
@@ -222,11 +197,7 @@ The difference with GitHub is that it is easier to make files **citable** (thus 
 Figshare also encourages researchers to publish negative findings that did not ultimately end up in publications to reduce redundancy in the research field, which we think is a great idea!
 
 
-avocado add video
-https://youtu.be/_q50OWkz4Kc
-https://youtu.be/WlJlPmoJcJk
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## RStudio and R Markdown 
 
@@ -304,7 +275,7 @@ x
 ```
 
 
-or this for Python: (avocado finish this :P)
+Or this for Python:
  
 ```{python, python.reticulate = FALSE}
 # Now we are going to show some python code
@@ -313,13 +284,13 @@ print(x)
 ```
 
 
-for inline code you can use one backtick like this:
+For inline code (meaning you can show the output within some narrative text) you can use one backtick around the code starting with r to specify that you are using the R programming language like this:
 
-r x in backticks
+Here is the output: (then in backticks:) r x
 
-which will result in:
+This will result in:
 
-`r x`
+Here is the output: `r x`
 
 Another important thing to know is that you can utilize what are called child Rmd files in case your report is getting to large (something that often happens with analyses). In this case, you can separate out parts of your research process into different report documents and have an additional report document that demonstrates the entire process. See  [here](https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html) for more information on how to do this.
 
@@ -334,9 +305,9 @@ Also see @riederer_r_nodate for additional information about how to use and crea
 Narrative can be added using a similar syntax as R markdown, except that in this case it is the classic version of markdown. 
 
 
+## Conclusion
 
-
-
+Overall we think that these tools can be helpful to you and your informatics research team. There are however many other tools that can help with informatics analyses. We will discuss these in other courses about data reprodcubility and management. 
 
 
 

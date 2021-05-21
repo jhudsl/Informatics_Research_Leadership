@@ -181,7 +181,7 @@ _Archetypes of data scientists:_
 AVOCADO - add more about this
 https://www.manning.com/books/build-a-career-in-data-science 
 
-Major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis:
+Major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate):
 1) statistics
 2) Machine learning
 3) programming (python and R)
