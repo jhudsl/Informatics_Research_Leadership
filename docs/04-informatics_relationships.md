@@ -5,7 +5,7 @@ output: html_document
 # Informatics Relationships
 
 
-<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" title=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams 4) How to support a diverse lab team" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams 4) How to support a diverse lab team" width="100%" />
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" title=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" width="100%" />
 
 ## Cultivating Good Multidisciplinary Lab Relationships
 
@@ -29,11 +29,6 @@ Studies investigating biology research labs over history indicate that collabora
 ### Potential Challenges
 
 There are always challenges when collaborating with others, but some of these are particularly enhanced in multi-disciplinary teams. Here are some challenges that you may encounter when a collaboration involves informatics experts.
-
-Good Collaboration:
-
-Is this repeated
-<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1182.png" title=" Sally, the super supportive leader thinks to herself: He is the best! Meanwhile, Harry the helpful collaborator says: Now that I understand the Biology better - thanks to you!- I think I know a better method" alt=" Sally, the super supportive leader thinks to herself: He is the best! Meanwhile, Harry the helpful collaborator says: Now that I understand the Biology better - thanks to you!- I think I know a better method" width="100%" />
 
 Bad collaboration:
 
@@ -85,10 +80,9 @@ However:
 
 Don't forget to provide some budget for your inforomatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
-![](images/challenges.png)
-Avocado - find slide
 
-<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png" title=" avocado" alt=" avocado" width="100%" />
+
+<img src="04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" avocado" alt=" avocado" width="100%" />
 
 
 ## Employing informatics experts
@@ -111,11 +105,6 @@ Mentorship is a particularly unique relational experience. While traditional men
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
-avocado - add to slides... if we are keeping...
-
-![Alternative Montorship](images/mentoring_pardigms.png)
-
-[[source]](https://doi.org/10.1111/nyas.14176)
 
 ### Co-mentoring/Collaborative/team mentoring
 
@@ -163,13 +152,8 @@ _Archetypes of data scientists:_
   b) Oracle - strong in modeling and mechanics (great for machine learning companies)
   c) Maker - strong in mechanics and engineering
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-AVOCADO - add more about this
-https://www.manning.com/books/build-a-career-in-data-science 
 
 Major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate):
 1) statistics
