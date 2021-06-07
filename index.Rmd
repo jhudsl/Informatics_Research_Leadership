@@ -1,5 +1,5 @@
 --- 
-title: "Leadership for Informactics Cancer Research "
+title: "Leadership for Informatics Cancer Research "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
