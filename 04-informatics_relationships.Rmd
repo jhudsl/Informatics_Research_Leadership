@@ -199,7 +199,7 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 
 For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career in industry, if they are for example instead focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in workinf for a nonprofit or for the government. 
 
-See @carpenter_cultivating_2021 and @waller_documenting_nodate for a more in-depth discussion.
+See @carpenter_cultivating_2021 and @waller_documenting_nodate for a more in-depth discussion and suggestions on how to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.
 
 
 #### Authorship Considerations
