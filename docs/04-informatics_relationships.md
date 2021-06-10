@@ -136,6 +136,11 @@ your informatics mentees could find jobs at companies such as [Stitch Fix](https
 
 4) Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions in social media platforms.
 
+
+#### Career Paths outside of Academia
+
+If your mentee is more interested in a career path outside of academia we suggest you read up about industry perspectives on useful skills and knowledge, so that you are better prepared to guide your mentees to get exposure and experience to the data science domains or aspects that would be most helpful to them. 
+
 According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scientists who formerly worked at [Facebook](https://en.wikipedia.org/wiki/Facebook) and now works at [iRobot](https://en.wikipedia.org/wiki/IRobot), there are 4 major categories of knowledge and skills for data science:
 
 1) **Data Analysis** - domain knowledge, research skills, and interpretation skills  
@@ -143,29 +148,50 @@ According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scie
 3) **Data Engineering** - data management skills, skills to make code production-level ready (ex. automation), software engineering  
 4) **Data Mechanics** - data formatting and cleaning, data handling (filtering, subsetting)  
 
-_Archetypes of data scientists:_
+Based on these categories, he says that there are also 3 major archetypes for data scientists:
 
-1) Beginner data scientists - exposure in each of the 4 areas - ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career
-2) Generalist - proficient in all areas - data science manager or executive - good for mentees who wish to stay in research!
+1) Beginner data scientists -  he recommends exposure in each of the 4 areas.
+This is ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career. This will allow them to identify their strengths.
+2) Generalist - proficient in all areas - this is helpful for becoming a data science **manager or executive** - These are also good aspects to focus on for mentees who wish to **stay in research**!
 3) Specialists
-  a) Detective - strong in data analysis and mechanics and exposure in all 4 areas
-  b) Oracle - strong in modeling and mechanics (great for machine learning companies)
-  c) Maker - strong in mechanics and engineering
+  a) Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for **nonprofits**
+  b) Oracle - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
+  c) Maker -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
   
+
+Check out this video for more details:
+
 <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
 
 
-Major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate):
-1) statistics
-2) Machine learning
-3) programming (python and R)
-4) projects - hands on experience
+From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate) are:  
+
+1) Statistics  
+2) Machine learning  
+3) Programming (python and R)  
+4) Projects - hands on experience  
+
+Promoting your mentee's exposure to each of these domains can only help them further pursue a career in Data Science. 
+
+We also suggest that your mentees checkout this [blog post](https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview) on surviving data science interviews also by Branden Rohrer. We think this could be helpful for mentees pursuing any data science career path, however it is especially useful for those interested in industry.
 
 
-https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview
+#### Academia for informatics mentees
 
-" When looking for jobs.. ignore job titles, dont pay too much attention to specific tools or languages...pay attention to the skills that are being asked for"
+So how do we best support informatics students that want to stay in Academia?
 
+1) Recognize that academic promotion for informatics experts is currently not very accommodating.
+
+Some aspects of traditional academic promotion are simply not set up to accommodate informatic experts. For example, these individuals tend to publish many more secondary author publications and create software which can reduce the time they have available for first author publications. However, first author (or last) author papers are still most often used as the major guideline for academic achievement. How can you and your mentees overcome this?
+
+Be sure to **especially advocate** for your student to get first authorship papers if they intend to stay in academia. 
+Wherever possible also try to advocate for more nuanced academic promotion polices that account for multidisciplinary differences at your institution.
+
+2) Encourage your student to seek specialized technical skill sets
+
+For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career in industry, if they are for example instead focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in workinf for a nonprofit or for the government. 
+
+See @carpenter_cultivating_2021 and @waller_documenting_nodate for a more in-depth discussion.
 
 
 #### Authorship Considerations
@@ -175,6 +201,6 @@ There are also additional types of papers that your informatics mentee can publi
 1) Data resource papers, where your mentee may publish an article introducing a data resource
 2) Software papers - an article where the functionality and development of piece of software is discussed
 
-When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you priortize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a Software paper than other mentees.
+When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you prioritize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a software paper than other mentees.
 
 

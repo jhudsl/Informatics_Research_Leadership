@@ -55,6 +55,8 @@ peer-mentoring
 electronic-mentoring
 career-goals
 career-paths-for-informatics-mentees
+career-paths-outside-of-academia
+academia-for-informatics-mentees
 authorship-considerations
 promoting-diversity
 diversity-is-beneficial
