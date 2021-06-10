@@ -24,7 +24,7 @@ You can do quite well with the free version of slack. It may be all that your re
 
 Currently, with the free version you can search through the history of the last 10,000 messages. From our experience using this with a department with about 250 users, it takes about a year to reach this threshold. If you choose to go with the free option and share any really important messages or files, make sure to save them just in case.
 
-## How to use slack?
+Now we will guide you through a bit about how to use slack.
 
 ### Workspaces
 
@@ -48,7 +48,6 @@ Importantly, you can make channels private or public. If a channel is public, an
 
 <img src="06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_48.png" title="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation." alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation." width="100%" />
 
-## Features
 
 ### Pins
 
@@ -76,12 +75,7 @@ You can also attach files directly to messages just like in the above message wh
 
 If you want to be reminded about a message in 20 minutes or next week you can also do that using the same hovering and 3 dot button option.
 
-
-```r
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_53")
-```
-
-<img src="06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png" title="An image of the options for a slack message" alt="An image of the options for a slack message" width="480" />
+<img src="06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png" title="An image of the options for a slack message" alt="An image of the options for a slack message" width="100%" />
 
 Thus if Jack gets a message from his advisor Charlie, but he is busy doing deep work on something else, he can ask Slack to remind him later.
 

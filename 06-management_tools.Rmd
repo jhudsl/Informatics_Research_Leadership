@@ -28,7 +28,7 @@ You can do quite well with the free version of slack. It may be all that your re
 
 Currently, with the free version you can search through the history of the last 10,000 messages. From our experience using this with a department with about 250 users, it takes about a year to reach this threshold. If you choose to go with the free option and share any really important messages or files, make sure to save them just in case.
 
-## How to use slack?
+Now we will guide you through a bit about how to use slack.
 
 ### Workspaces
 
@@ -56,7 +56,6 @@ Importantly, you can make channels private or public. If a channel is public, an
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_48")
 ```
 
-## Features
 
 ### Pins
 
@@ -90,7 +89,7 @@ You can also attach files directly to messages just like in the above message wh
 
 If you want to be reminded about a message in 20 minutes or next week you can also do that using the same hovering and 3 dot button option.
 
-```{r, fig.alt="An image of the options for a slack message"}
+```{r, fig.alt="An image of the options for a slack message", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_53")
 ```
 

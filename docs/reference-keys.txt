@@ -73,10 +73,8 @@ give-feedback-with-cultural-sensitivity
 consider-creating-a-document-of-mentor-and-mentee-expectations.
 informatics-lab-management-tools
 slack
-how-to-use-slack
 workspaces
 channels
-features
 pins
 code
 reminders
