@@ -130,7 +130,7 @@ Be generous complementing or pointing out small success in discussions with your
 
 For larger successes, consider sharing a meal or other social activity with your lab. For virtual or remote lab members this could be playing a game online.
 
-Again aim to do this with all your mentees/lab members. Be mindful about not singling out particular mentees. This could further make such lab members feel like they don't actually belong.
+Again aim to do this with all your mentees/lab members. Be mindful about not singling out particular mentees. This could further make such lab members feel like they don't belong.
 
 ### **Give feedback with cultural sensitivity**  
 
