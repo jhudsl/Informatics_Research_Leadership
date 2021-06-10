@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-06-07" />
+<meta name="date" content="2021-06-09" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -426,28 +426,35 @@ We also recommend making project specific channels. For these channels you can a
 <p>You can also embed images or videos into your R markdown reports. There are several ways to do this with a package called <a href="https://www.rdocumentation.org/packages/knitr/versions/1.30">knitr</a> which allows you to do all sorts of things with your reports. However you can also do it simply with the following syntax:</p>
 <p><code>![caption text](URL_or_local_path_to_image_or_videofile)</code></p>
 <p>If you are including code (which can be R programming language code, Python, SQL, bash or others). You can specify it using three backticks like this:</p>
+<p>```{r}</p>
+<p>some R code</p>
+<p>```</p>
+<p>Here is some actual R code that displayed in the html output from the original R Markdown file. There is a slightly darker background for code and for code output. You will see that the result of x is printed right after a break:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="informatics-lab-management-tools.html#cb2-1"></a><span class="co"># This is a code comment about some R code- here comes the code on the next line!</span></span>
 <span id="cb2-2"><a href="informatics-lab-management-tools.html#cb2-2"></a>x &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>)</span>
 <span id="cb2-3"><a href="informatics-lab-management-tools.html#cb2-3"></a>x</span></code></pre></div>
 <pre><code>## [1] 1 2 3 4 5</code></pre>
-<p>Or this for Python:</p>
+<p>Similarly this is some Python code and output:</p>
 <div class="sourceCode" id="cb4"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="informatics-lab-management-tools.html#cb4-1"></a><span class="co"># Now we are going to show some python code</span></span>
 <span id="cb4-2"><a href="informatics-lab-management-tools.html#cb4-2"></a>x <span class="op">=</span> [<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>]</span>
 <span id="cb4-3"><a href="informatics-lab-management-tools.html#cb4-3"></a><span class="bu">print</span>(x)</span></code></pre></div>
 <pre><code>## [1, 2, 3, 4, 5]</code></pre>
 <p>For inline code (meaning you can show the output within some narrative text) you can use one backtick around the code starting with r to specify that you are using the R programming language like this:</p>
-<p>Here is the output: (then in backticks:) r x</p>
+<p>` r x `</p>
 <p>This will result in:</p>
 <p>Here is the output: 1, 2, 3, 4, 5</p>
 <p>Another important thing to know is that you can utilize what are called child Rmd files in case your report is getting to large (something that often happens with analyses). In this case, you can separate out parts of your research process into different report documents and have an additional report document that demonstrates the entire process. See <a href="https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html">here</a> for more information on how to do this.</p>
+<p>If you want a quick reference check out this <a href="https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf">guide</a></p>
+<p>For a more extensive guide check out this <a href="https://rmarkdown.rstudio.com/articles_intro.html">article</a> from R Studio.</p>
 <p>Also see <span class="citation">Riederer (<a href="#ref-riederer_r_nodate" role="doc-biblioref">n.d.</a>)</span> for additional information about how to use and create R markdown files.</p>
+<p>For advanced users check out <a href="https://bookdown.org/yihui/rmarkdown/notebook.html">R Notebook</a>, which is an extension of R Markdown.</p>
 </div>
 </div>
 <div id="jupyter" class="section level2">
 <h2><span class="header-section-number">6.8</span> Jupyter</h2>
-<p><a href="https://jupyter.org/">Jupyter</a> <a href="https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook">notebooks</a> are very similar to R markdown reports, however they were designed with an emphasis on using python rather than R.</p>
+<p><a href="https://jupyter.org/">Jupyter</a> <a href="https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook">notebooks</a> are very similar to R markdown reports, however they were designed with an emphasis on using Python rather than R and such reports are created using a <a href="https://jupyter.org/">web-based editor</a> rather than software on your local computer.</p>
+<p>The Markdown syntax used in Jypter notebooks is nearly the same as what you just learned about for R Markdown. Here you can see a quick <a href="https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet">guide</a>. See <a href="https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd">here</a> for an extensive guide, where you might notice some differences in terms of how to include code.</p>
 <p><a href="https://jupyterlab.readthedocs.io/en/stable/">JupyterLab</a> is also similar to Rstudio. However it is a web-based environment for working with code and writing Juptyer notebooks. You can try some demos <a href="https://jupyterlab.readthedocs.io/en/stable/">here</a>.</p>
-<p>Narrative can be added using a similar syntax as R markdown, except that in this case it is the classic version of markdown.</p>
 </div>
 <div id="conclusion" class="section level2">
 <h2><span class="header-section-number">6.9</span> Conclusion</h2>

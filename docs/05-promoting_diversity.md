@@ -124,11 +124,44 @@ Be a good role model and openly discuss the role of failure in research. For exa
 
 ### **Celebration and microaffirmations**   
 
-Be sure to celebrate all of your mentees' small and large successes. This has been shown to promote confidence and resilience [@stelter_establishing_2021].
+Be sure to celebrate **all** of your mentees' small and large successes. This has been shown to promote confidence and resilience [@stelter_establishing_2021].
+
+Be generous complementing or pointing out small success in discussions with your mentees and thank your mentees for performing tasks that they may assist you or your lab.
+
+For larger successes, consider sharing a meal or other social activity with your lab. For virtual or remote lab members this could be playing a game online.
+
+Again aim to do this with all your mentees/lab members. Be mindful about not singling out particular mentees. This could further make such lab members feel like they don't actually belong.
 
 ### **Give feedback with cultural sensitivity**  
 
-It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Try to still be encouraging and acknowledge what is going well and what is progressing when you deliver criticism.
+It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Thus, when given criticism, certain mentees who may especially feel like they don't belong because of their background differences, may feel very discouraged. Try to still be encouraging when delivering criticism by acknowledging what is going well and what is progressing. 
+
+This [article](https://online.alvernia.edu/articles/constructive-criticism-in-the-workplace/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
+
+1) Allow for a discussion about what went wrong.  
+
+You may learn that your mentee struggled for an entirely different reason than you expected. Having a discussion allows you to better determine how your mentee might be able to perform better in the future.
+
+2) Give criticism in a sandwich.  
+
+Say something positive, deliver the criticism, then say something else positive.
+
+3) Focus on the actions instead of personality traits. Think about how they can improve.
+
+For example, instead of saying "You seem to have time management issues", you could say something like, "Navigating and prioritizing all these projects is a difficult task and I think we can do better as a team."
+
+4) Be specific and suggest improvements.
+
+You want your mentees to know exactly what they should be aiming to improve and why. Vague criticism may reduce their confidence and will not help them improve as much as concrete specific suggestions and discussion.
+
+5) Deliver criticism in private.
+
+Especially if your mentee is feeling like they don't belong, criticism in front of other lab members can really impact their confidence. It can also lead to more unhealthy competitive dynamics between lab members.
+
+6) Don't surprise your mentees with criticism.
+
+Build criticism into regular meetings with your mentee. Don't create a meeting out of the blue to tell them they need to improve as this may cause excess stress. Secondly, criticism can be normalized if it is delivered gently and in the ways we just outlined. 
+
 
 ### Consider creating a document of **mentor and mentee expectations**.
 

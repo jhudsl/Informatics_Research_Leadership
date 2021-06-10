@@ -247,6 +247,15 @@ You can also embed images or videos into your R markdown reports. There are seve
 
 If you are including code (which can be R programming language code, Python, SQL, bash or others). You can specify it using three backticks like this:
 
+\`\`\`{r}
+
+some R code
+
+\`\`\`
+
+
+Here is some actual R code that displayed in the html output from the original R Markdown file. There is a slightly darker background for code and for code output. You will see that the result of x is printed right after a break:
+
 
 ```r
 # This is a code comment about some R code- here comes the code on the next line!
@@ -259,7 +268,7 @@ x
 ```
 
 
-Or this for Python:
+Similarly this is some Python code and output:
  
 
 ```python
@@ -275,7 +284,7 @@ print(x)
 
 For inline code (meaning you can show the output within some narrative text) you can use one backtick around the code starting with r to specify that you are using the R programming language like this:
 
-Here is the output: (then in backticks:) r x
+ \` r x \`
 
 This will result in:
 
@@ -283,15 +292,22 @@ Here is the output: 1, 2, 3, 4, 5
 
 Another important thing to know is that you can utilize what are called child Rmd files in case your report is getting to large (something that often happens with analyses). In this case, you can separate out parts of your research process into different report documents and have an additional report document that demonstrates the entire process. See  [here](https://bookdown.org/yihui/rmarkdown-cookbook/child-document.html) for more information on how to do this.
 
+If you want a quick reference check out this [guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+
+For a more extensive guide check out this [article](https://rmarkdown.rstudio.com/articles_intro.html) from R Studio.
+
 Also see @riederer_r_nodate for additional information about how to use and create R markdown files.
+
+For advanced users check out [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html), which is an extension of R Markdown.
 
 ## Jupyter
 
-[Jupyter](https://jupyter.org/) [notebooks](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook) are very similar to R markdown reports, however they were designed with an emphasis on using python rather than R. 
+[Jupyter](https://jupyter.org/) [notebooks](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html#notebook) are very similar to R markdown reports, however they were designed with an emphasis on using Python rather than R and such reports are created using a [web-based editor](https://jupyter.org/) rather than software on your local computer. 
+
+The Markdown syntax used in Jypter notebooks is nearly the same as what you just learned about for R Markdown. Here you can see a quick [guide](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet). See [here](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd) for an extensive guide, where you might notice some differences in terms of how to include code.
 
 [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) is also similar to Rstudio. However it is a web-based environment for working with code and writing Juptyer notebooks. You can try some demos [here](https://jupyterlab.readthedocs.io/en/stable/).
 
-Narrative can be added using a similar syntax as R markdown, except that in this case it is the classic version of markdown. 
 
 
 ## Conclusion
