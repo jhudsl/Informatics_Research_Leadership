@@ -1,34 +1,45 @@
 ---
 title: "Informatics Relationships"
 output: html_document
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
 ---
 # Informatics Relationships
 
+
+{alt: " Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams", width: "100%", align: "middle"}
+![](04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png)
+
+## Cultivating Good Multidisciplinary Lab Relationships
+
+Now that we know a bit more about general practices for maintaining successful multidisciplinary teams and projects, we are going to take a deeper look at how to best support the relationships that might we might have in our team. We will also discuss the pros and cons of each type of relationship to better guide you about decisions regarding building your team.
+
 ## Collaborating with Informatics Experts
 
-Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s [[1]](https://doi.org/10.1016/j.endeavour.2013.03.001) and that the rate continues to increase [[2]](https://www.researchgate.net/publication/220040763_Scientific_collaboration). Indeed the size of biology research teams appear to have doubled from 1955 to 1990 [[1]](https://doi.org/10.1016/j.endeavour.2013.03.001). But why? 
+Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s (Vermeulen, Parker, and Penders 2013) and that the rate continues to increase (Sonnenwald 2007). Indeed the size of biology research teams appear to have doubled from 1955 to 1990 (Vermeulen, Parker, and Penders 2013). But why?
 
 ### The benefits of collaboration  
 
 1) **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources.    
-2) **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6). 
+1.  **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation (Mäkinen, Evans, and McFarland 2020).
 3) **Shared burden** - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.
 4) **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
 5) **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
 
-![](images/collaboration.png)
+
+{alt: " Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility", width: "100%", align: "middle"}
+![](04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png)
 
 ### Potential Challenges
 
 There are always challenges when collaborating with others, but some of these are particularly enhanced in multi-disciplinary teams. Here are some challenges that you may encounter when a collaboration involves informatics experts.
 
-Good Collaboration:
-
-![](images/good_collab.png)
-
 Bad collaboration:
 
-![](images/bad_collab.png)
+{alt: " Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?", width: "100%", align: "middle"}
+![](04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png)
+
 
 1) **Communication Differences** - Extra care needs to be taken to ensure that communication across groups is effective.  
 
@@ -38,23 +49,23 @@ Furthermore, as investigators often have different backgrounds, differences in j
 
 Having **internal** team members with some **familiarity** with informatics can be very beneficial for translating discussions with collaborators who are informatics experts. 
 
-One solution to this is to have **trainees work in both labs**. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills, allowing them to potentially have their own multi-disciplinary lab in the future [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6). 
+One solution to this is to have **trainees work in both labs**. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills, allowing them to potentially have their own multi-disciplinary lab in the future (Mäkinen, Evans, and McFarland 2020).
 
 Another important method that can help resolve this issue is to have members provide **educational seminars** for participating members about the fundamentals of their work.
 
 
 2) **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
 
->"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains." [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6)
+> “Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains.” (Mäkinen, Evans, and McFarland 2020)
 
 Making clear research standards and goals, as well as outlining clear specific tasks at the beginning of a project can help to avoid this issue. Furthermore, meeting consistently throughout the duration of a project can also help to make sure that standards are maintained.  Additionally, these meetings should include discussions about intellectual property, authorship, leadership, and defining what success looks likes to each of the various members. Defining these details early can avoid major conflict later. 
 
-Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects.  It is also necessary to ensure that junior members have time to devote to their own research programs. [[2]](https://www.researchgate.net/publication/220040763_Scientific_collaboration) Support should be provided for these junior collaborators by more senior collaborators.
+Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects. It is also necessary to ensure that junior members have time to devote to their own research programs. (Sonnenwald 2007) Support should be provided for these junior collaborators by more senior collaborators.
 
 
 3) **Different capabilities** - Research of multi-disciplinary collaborations has revealed that when collaborating members are unclear of how their expertise and work contributes to the project, they are less motivated and fell less valued. 
 
-Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect [[3]](https://link.springer.com/article/10.1007/s11024-019-09381-6).
+Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect (Mäkinen, Evans, and McFarland 2020).
 
 4) **Reduced sense of responsibility** - Another concern of collaboration is that team members may feel less responsibility or commitment to a project than for a project within their own lab.
 
@@ -62,22 +73,23 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 
 5) **Research is dynamic** - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change.
 
-6) **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are "Equity-oriented" serving populations that have historically been marginalized or "minoritized" [[4]](https://diverseeducation.com/article/91247/), it is important to keep in mind that large differences in resources may exist between collaborating members. 
+1.  **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are “Equity-oriented” serving populations that have historically been marginalized or “minoritized” (Blake 2017), it is important to keep in mind that large differences in resources may exist between collaborating members.
 
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
-![](images/challenges.png)
+It is also important to recognize that:
+> There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive. (Carpenter et al. 2021)
+
+However:
+
+> In reality, even for well-established data types, analysis can often take as much or more time and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project.
+
+Don't forget to provide some budget for your inforomatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
 
-### References
 
-1) Vermeulen, Niki, John N. Parker, and Bart Penders. “Understanding Life Together: A Brief History of Collaboration in Biology.” Endeavour 37, no. 3 (September 2013): 162–71. https://doi.org/10.1016/j.endeavour.2013.03.001.
-
-2) Sonnenwald, Diane."Scientific collaboration."  Annual Review Of Information Science And Technology. 41 (2007): 643-681. https://www.researchgate.net/publication/220040763_Scientific_collaboration.
-
-3) Mäkinen, Elina I., Eliza D. Evans, and Daniel A. McFarland. “The Patterning of Collaborative Behavior and Knowledge Culminations in Interdisciplinary Research Centers.” Minerva 58, no. 1 (March 2020): 71–95. https://doi.org/10.1007/s11024-019-09381-6.
-
-4) Blake, Daniel. "The Case for Rebranding Minority-serving Institutions." DiverseEducation.com (January, 17, 2017) https://diverseeducation.com/article/91247/. 
+{alt: " avocado", width: "100%", align: "middle"}
+![](04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png)
 
 
 ## Employing informatics experts
@@ -96,13 +108,10 @@ Again we suggest that you work with your informatics teammates when you schedule
 
 ## Mentoring informatics students
 
-Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[[1]](https://doi.org/10.1111/nyas.14176)
+Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value “reciprocal learning” as highly, has been shown to be less effective for a larger diversity of students.(Mullen and Klimaitis 2021)
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
-![Alternative Montorship](images/mentoring_pardigms.png)
-
-[[source]](https://doi.org/10.1111/nyas.14176)
 
 ### Co-mentoring/Collaborative/team mentoring
 
@@ -110,7 +119,7 @@ As we described earlier, co-mentoring or collaborative mentoring of students by 
 
 ### Peer mentoring
 
-Peer mentoring also provides great opportunities to expand students' expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students' teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge, and assisting in their quest to "learn how to learn" [[1]](https://doi.org/10.1111/nyas.14176). Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations.[[1]](https://doi.org/10.1111/nyas.14176) However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, so that students and staff members are clear about what behavior is expected.
+Peer mentoring also provides great opportunities to expand students’ expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students’ teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge, and assisting in their quest to “learn how to learn” (Mullen and Klimaitis 2021). Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations (Mullen and Klimaitis 2021). However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, so that students and staff members are clear about what behavior is expected.
 
 ### Electronic mentoring 
 
@@ -134,6 +143,11 @@ your informatics mentees could find jobs at companies such as [Stitch Fix](https
 
 4) Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions in social media platforms.
 
+
+#### Career Paths outside of Academia
+
+If your mentee is more interested in a career path outside of academia we suggest you read up about industry perspectives on useful skills and knowledge, so that you are better prepared to guide your mentees to get exposure and experience to the data science domains or aspects that would be most helpful to them. 
+
 According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scientists who formerly worked at [Facebook](https://en.wikipedia.org/wiki/Facebook) and now works at [iRobot](https://en.wikipedia.org/wiki/IRobot), there are 4 major categories of knowledge and skills for data science:
 
 1) **Data Analysis** - domain knowledge, research skills, and interpretation skills  
@@ -141,50 +155,51 @@ According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scie
 3) **Data Engineering** - data management skills, skills to make code production-level ready (ex. automation), software engineering  
 4) **Data Mechanics** - data formatting and cleaning, data handling (filtering, subsetting)  
 
-_Archetypes of data scientists:_
+Based on these categories, he says that there are also 3 major archetypes for data scientists:
 
-1) Beginner data scientists - exposure in each of the 4 areas - ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career
-2) Generalist - proficient in all areas - data science manager or executive - good for mentees who wish to stay in research!
+1) Beginner data scientists -  he recommends exposure in each of the 4 areas.
+This is ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career. This will allow them to identify their strengths.
+2) Generalist - proficient in all areas - this is helpful for becoming a data science **manager or executive** - These are also good aspects to focus on for mentees who wish to **stay in research**!
 3) Specialists
-  a) Detective - strong in data analysis and mechanics and exposure in all 4 areas
-  b) Oracle - strong in modeling and mechanics (great for machine learning companies)
-  c) Maker - strong in mechanics and engineering
+  a) Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for **nonprofits**
+  b) Oracle - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
+  c) Maker -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Check out this video for more details:
 
-
-**Markua way1**
-
-{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg"}
-![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
- **Markdown way**
- 
-[![Introducing Markua](http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg)](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-[![Introducing Markua](http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg) { width=60%}](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-**Markua way2**
-
-![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-AVOCADO - add more about this
-https://www.manning.com/books/build-a-career-in-data-science 
-
-Major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis:
-1) statistics
-2) Machine learning
-3) programming (python and R)
-4) projects - hands on experience
+{height: "315", width: "560", align: "middle"}
+![](https://www.youtube.com/embed/M_dc-XzApGA)
 
 
-https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview
+From another perspective, the major skill sets to focus on according to the “Build a Career in Data Science” book by Emily Robinson and Jacqueline Nolis (Robinson and Nolis (2020)) are:
 
-" When looking for jobs.. ignore job titles, dont pay too much attention to specific tools or languages...pay attention to the skills that are being asked for"
+1) Statistics  
+2) Machine learning  
+3) Programming (python and R)  
+4) Projects - hands on experience  
+
+Promoting your mentee's exposure to each of these domains can only help them further pursue a career in Data Science. 
+
+We also suggest that your mentees checkout this [blog post](https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview) on surviving data science interviews also by Branden Rohrer. We think this could be helpful for mentees pursuing any data science career path, however it is especially useful for those interested in industry.
 
 
+#### Academia for informatics mentees
+
+So how do we best support informatics students that want to stay in Academia?
+
+1) Recognize that academic promotion for informatics experts is currently not very accommodating.
+
+Some aspects of traditional academic promotion are simply not set up to accommodate informatic experts. For example, these individuals tend to publish many more secondary author publications and create software which can reduce the time they have available for first author publications. However, first author (or last) author papers are still most often used as the major guideline for academic achievement. How can you and your mentees overcome this?
+
+Be sure to **especially advocate** for your student to get first authorship papers if they intend to stay in academia. 
+Wherever possible also try to advocate for more nuanced academic promotion polices that account for multidisciplinary differences at your institution.
+
+2) Encourage your student to seek specialized technical skill sets
+
+For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career in industry, if they are for example instead focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in workinf for a nonprofit or for the government. 
+
+See Carpenter et al. (2021) and Waller (2018) for a more in-depth discussion and suggestions on how to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.
 
 
 #### Authorship Considerations
@@ -194,92 +209,32 @@ There are also additional types of papers that your informatics mentee can publi
 1) Data resource papers, where your mentee may publish an article introducing a data resource
 2) Software papers - an article where the functionality and development of piece of software is discussed
 
-When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you priortize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a Software paper than other mentees.
-
-### Mentoring underrepresented students
-
-The inclusion of diverse populations in scientific teams has been shown to improve innovation [[2]](https://doi.org/10.1073/pnas.1915378117).
-
-> Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored [[2]](https://doi.org/10.1073/pnas.1915378117). 
-
-However, analyses of scientific article authorship indicate that women are underrepresented in computational biology [[3]](https://doi.org/10.1371/journal.pcbi.1005134) and biomedical engineering [[4]](https://doi.org/10.1007/s10439-019-02222-3) and analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe[[2]](https://doi.org/10.1073/pnas.1915378117),[[5]](https://doi.org/10.1371/journal.pcbi.1008210). 
-
-In order to best support and encourage mentees of underrepresented groups in cancer informatics, we suggest the following: 
-
-1) Seek **training about disparities** in informatics and STEM career achievement and attitudes, biases, and stereotypes that are hindrances.
-
-Note that you may not be aware of the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and overlapping challenges. It is also important to learn about how **intersectionality** (the idea that  some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Become aware of **stereotype threat** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[[6]](https://doi.org/10.1111/nyas.14470) and how they might influence your mentees.
-
-Also, become aware of as  **microaggressions* - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, and physical disability), which are rooted in biases about individuals in that group"[[6]](https://doi.org/10.1111/nyas.14470).
-
-See [here](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf) for a list of examples.
-
-Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [[6]](https://doi.org/10.1111/nyas.14470). 
-
-2) **Appreciate and acknowledge mentee's differences**. Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee's career success given their background. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to hinder the success of mentees [[7]](http://dx.doi.org/10.1037/dhe0000106),[[8]](https://doi.org/10.1016/j.jesp.2011.09.010). 
-
-**However, singling out individuals for their differences is often felt as a microaggression.**  There are ways to discuss these topics with your student in private without singling them out in front of the rest of a group.
-
-> "Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed..." [[7]](http://dx.doi.org/10.1037/dhe0000106)
-
->Two ideological perspectives – **colorblindness and multiculturalism** – have emerged to shed light on this question. Colorblindness downplays the salience and importance of race by focusing on the commonalities people share, such as one's underlying humanity. In contrast, multiculturalism acknowledges and highlights racial differences [[8]](https://doi.org/10.1016/j.jesp.2011.09.010).
-
->"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))"  [[8]](https://doi.org/10.1016/j.jesp.2011.09.010)
-
-> "Not only do minorities prefer multiculturalism ([Ryan et al., 2007](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0085), [Verkuyten, 2006](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0105)), they benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[[8]](https://doi.org/10.1016/j.jesp.2011.09.010)
-
-3) **Work to create a safe environment**. Educate lab mentors about cultural sensitivity and microaggressions. Highlight the importance of collaboration and create a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab.
-
-4) **Role models** make career goals seem possible. Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
-
-Computational biology papers with female authors are more likely to have a last author is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [[3]](https://doi.org/10.1371/journal.pcbi.1005134). 
-
-Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider [[6]](https://doi.org/10.1111/nyas.14470). One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent [[9]](https://doi.org/10.1641/B570705). 
-
-5) **Advocate for all mentees**, particularly those from underrepresented groups by introducing your mentee to other scientists and trainees, encouraging the participation of your mentees in support programs and groups such as graduate student groups and helping mentees cultivate self advocacy practices through open discussions and encouragement.
-
-6) Support a **healthy relationship with failure** by being a good role model and openly discussing the role of failure in research. For example, you may describe failures in your own career or you may read some of the book Brilliant Blunders by Mario Livio with your mentees. This book describes how scientific advancement actually occurred due to mistakes of some of the most respected scientists. Educating mentees about the **[Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)** described by Carol Dweck may also be helpful. The major themes of this mindset is an awareness that our abilities are not fixed, we can change our aptitudes with practice and work. 
-
-![Growth Mindset](images/growthmindset.jpg)
-
-[[source]](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you prioritize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a software paper than other mentees.
 
 
-7) **Celebration and microaffirmations**  Be sure to celebrate all of your mentees' small and large successes. This has been shown to promote confidence and resilience [[6]](https://doi.org/10.1111/nyas.14470).
 
-8) **Give feedback with cultural sensitivity** - It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [[6]](https://doi.org/10.1111/nyas.14470), [[10]](https://doi.org/10.1038/447791a).
-
-9) In addition to creating a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab, consider creating a document that outlines **mentor and mentee expectations**. See [here](https://doi.org/10.1371/journal.pcbi.1005709.s001) for an example of such document  [[11]](https://doi.org/10.1371/journal.pcbi.1005709) and see [here](https://ictr.wisc.edu/mentoring/) for more information. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## References
+Sonnenwald, Diane H. 2007. “Scientific Collaboration.” *Annual Review of Information Science and Technology* 41 (1): 643–81. <https://doi.org/10.1002/aris.2007.1440410121>.
 
 
-### Refrences
+Vermeulen, Niki, John N. Parker, and Bart Penders. 2013. “Understanding Life Together: A Brief History of Collaboration in Biology.” *Endeavour* 37 (3): 162–71. <https://doi.org/10.1016/j.endeavour.2013.03.001>.
 
-1) Mullen, Carol A., and Cindy C. Klimaitis. “Defining Mentoring: A Literature Review of Issues, Types, and Applications.” Annals of the New York Academy of Sciences 1483, no. 1 (January 2021): 19–35. https://doi.org/10.1111/nyas.14176.
 
-2) Hofstra, Bas, Vivek V. Kulkarni, Sebastian Munoz-Najar Galvez, Bryan He, Dan Jurafsky, and Daniel A. McFarland. 2020. “The Diversity–Innovation Paradox in Science.” Proceedings of the National Academy of Sciences 117 (17): 9284–91. https://doi.org/10.1073/pnas.1915378117
+Mäkinen, Elina I., Eliza D. Evans, and Daniel A. McFarland. 2020. “The Patterning of Collaborative Behavior and Knowledge Culminations in Interdisciplinary Research Centers.” *Minerva* 58 (1): 71–95. <https://doi.org/10.1007/s11024-019-09381-6>.
 
-3) Bonham, Kevin S., and Melanie I. Stefan. “Women Are Underrepresented in Computational Biology: An Analysis of the Scholarly Literature in Biology, Computer Science and Computational Biology.” Edited by Carl T. Bergstrom. PLOS Computational Biology 13, no. 10 (October 12, 2017): e1005134. https://doi.org/10.1371/journal.pcbi.1005134.
 
-4) Aguilar, Izath Nizeet, Venkateswaran Ganesh, Rachel Mannfeld, Riley Gorden, Jennifer M. Hatch, Shatoria Lunsford, Elizabeth C. Whipple, Randall T. Loder, and Melissa A. Kacena. 2019. “Authorship Trends Over the Past 30-Years in the Annals of Biomedical Engineering.” Annals of Biomedical Engineering 47 (5): 1171–80. https://doi.org/10.1007/s10439-019-02222-3.
+Blake, Daniel. 2017. “The Case for Rebranding Minority-Serving Institutions - Higher Education.” *DiverseEducation.com*. <https://diverseeducation.com/article/91247/>.
 
-5) Chaudhary, V. Bala, and Asmeret Asefaw Berhe. 2020. “Ten Simple Rules for Building an Antiracist Lab.” Edited by Russell Schwartz. PLOS Computational Biology 16 (10): e1008210. https://doi.org/10.1371/journal.pcbi.1008210.
 
-6) Stelter, Rebecca L, Janis B Kupersmidt, and Kathryn N Stump. “Establishing Effective STEM Mentoring Relationships through Mentor Training.” Ann. N.Y. Acad. Sci., 1483 (2021): 224–243.  https://doi.org/10.1111/nyas.14470
+Carpenter, Anne E, Casey S Greene, Piero Carninci, Benilton S Cervalho, Michiel de Hoon, Stacey Finley, Jerry SH Lee, et al. 2021. “Cultivating Computational Biology.” *arXiv \[q-Bio.OT\]*, 12. <https://doi.org/arXiv:2104.11364>.
 
-7) Byars-Winston, Angela, Patrice Leverett, Ross J Benbow, Christine Pfund, Nancy Thayer-Hart, and Janet Branchaw. “Race and Ethnicity in Biology Research Mentoring Relationships,” Journal of Diversity in Higher Education, 13, No. 3 (2020): 240–253. http://dx.doi.org/10.1037/dhe0000106
 
-8) Holoien, Deborah Son, and J. Nicole Shelton.  “You Deplete Me: The Cognitive Costs of Colorblindness on Ethnic Minorities.” Journal of Experimental Social Psychology 48 No. 2 (2012): 562–65. https://doi.org/10.1016/j.jesp.2011.09.010.
+Mullen, Carol A., and Cindy C. Klimaitis. 2021. “Defining Mentoring: A Literature Review of Issues, Types, and Applications.” *Annals of the New York Academy of Sciences* 1483 (1): 19–35. <https://doi.org/10.1111/nyas.14176>.
 
-9) Katz, Samantha. “Mentoring Women in the Biological Sciences: Is Informatics Leading the Pack?,” : BioScience, 57(7) (2007): 559. https://doi.org/10.1641/B570705.
 
-10) Lee, Adrian, Carina Dennis, and Philip Campbell. “Nature’s Guide for Mentors.” Nature 447, no. 7146 (June 2007): 791–97. https://doi.org/10.1038/447791a.
+Robinson, Emily, and Jacqueline Nolis. 2020. “Build a Career in Data Science.” *Manning Publications*. <https://www.manning.com/books/build-a-career-in-data-science>.
 
-11) Masters, Kristyn S, and Pamela K Kreeger. “Ten Simple Rules for Developing a Mentor–Mentee Expectations Document,” PLOS Computational Biology,3 No.9 (September 21, 2017): e1005709.  https://doi.org/10.1371/journal.pcbi.1005709
+
+Waller, Lance A. 2018. “Documenting and Evaluating Data Science Contributions in Academic Promotion in Departments of Statistics and Biostatistics.” *The American Statistician* 72 (1): 11–19. <https://doi.org/10.1080/00031305.2017.1375988>.
 
 

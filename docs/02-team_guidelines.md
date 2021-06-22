@@ -1,7 +1,9 @@
 ---
 title: "Guidelines for informatics teams"
 output: html_document
-
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
 ---
 
 
@@ -10,8 +12,6 @@ output: html_document
 
 In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
 
-
-<!-- <img src="https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_6"/> -->
 
 
 

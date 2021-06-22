@@ -1,7 +1,9 @@
 ---
 title: "Guidelines for informatics teams"
 output: html_document
-
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
 ---
 
 
@@ -11,10 +13,14 @@ output: html_document
 In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
 
 
-<!-- <img src="https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_6"/> -->
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_6)
+
+
+{alt: " Learning Objectives: 1)How to identify good multidisciplinary team members, 2) When and how to discuss projects with team members, 3) How to keep records of work and communication, 4)How to support informatics research team members", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_6.png)
+
+
 
 
 ## Finding and creating informatics teams
@@ -23,7 +29,7 @@ The first step to performing a good research study is to find the right people f
 
 In this section we will provide a guide for finding good coworkers, whether they are mentees, collaborators, or employees, to work on informatics cancer projects particularly for multidisciplinary teams.
 
-This section is based on a [blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources. 
+This section is based on blog posts Peng (2011) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) and Matsui (2013) from [Elizabeth C. Matsui](https://www.linkedin.com/in/elizabethmatsui) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources.
 
 
 ### **Start early**
@@ -40,25 +46,38 @@ If you are new to informatics and you plan to employ or mentor informatics exper
 Especially for projects with multidisciplinary teams, good communication is vital. Look for people who are **easy to talk to**.
 
  
- ![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_0_0)
+{alt: " Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_0.png)
  
 In Roger's words:
 
 > "If you dont feel comfortable asking (stupid) questions, pointing out problems, or making suggestions, then chances are the science will not be as good as it could be."
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_0)
+{alt: "Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy.", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_0.png)
 
+
+### **Adjust your expectations**
+
+Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
+
+
+> Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise. (Carpenter et al. 2021)
+
+> Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data. (Carpenter et al. 2021)
+
+> Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise…a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement. (Carpenter et al. 2021)
 
 ## Communication for informatics teams
 
-Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth.
+Communication is vital for all good work relationships, but especially in a multidisciplinary team. Here are a few tips for keeping communication smooth. This section is based on Broman (2019) by [Karl Broman](https://kbroman.org/) and Wang (2019) by [Jiangxia Wang](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/about-us/our-people/).
 
 ### **Talk first**
 
 OK, so we kinda covered this, but we can't emphasize it enough. We suggest that you start talking to your collaborators, students, or employees  **before** you even begin a project, so that you can plan the project in the optimal way.
 
-This is critical for forming the right statistically testable and scientifically useful questions and for collecting the right data to address such questions.
+This is critical for forming the right informatically feasible and scientifically useful questions and for collecting the right data to address such questions.
 
 Collecting the **right** data can be vital to the success of a project. It may not always be obvious what is possible for the experimental biologists to create samples. Is 30 samples actually feasible? How about 300? Would that be performed in different batches?
 
@@ -67,9 +86,12 @@ What is necessary or possible for an informatics project to be able to test cert
 These are discussions that should happen long before reagents are purchased, before IRB submissions, and before grant submissions if possible.
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_50)
+{alt: "Harry, the helpful collaborator says to Charlie, the unclear leader: it sounds simple, but the process of getting the data ready would take months. Meanwhile Charlie thinks: What!? I should have asked earlier!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_50.png)
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_34)
+
+{alt: "Indeed, one of the most time intensive steps in informatics is getting the data ready!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_34.png)
 
 
 ### **Take your time** 
@@ -79,7 +101,8 @@ For employees and mentees, allow time to get comfortable talking to one another.
 In all cases (with collaborators, employees, and mentees), build in extra time for projects to allow for teaching time. You can **teach them** about your domain and **they can teach you** about theirs. This may feel like it is taking extra time but it will ultimately pay off in the end, as you will better be able to work as a team to ask the most **useful and testable** hypotheses.
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_1182)
+{alt: "Sally, the super supportive leader is with Harry the helpful collaborator. He says now that I understand the biology better -thanks to you!- I think I know a better method. Sally thinks to herself, He is the best!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1182.png)
 
 
 
@@ -91,7 +114,8 @@ Domain experts can help to ensure that the question is feasible from a standpoin
 
 Informatics experts can help to ensure that the question is feasible from as standpoint of data collection and data analysis, that a question is testable, and that it leads to the interpretations that the domain experts hope to gain.
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_1270)
+{alt: " Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan woould have required 30 years of data collection!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1270.png)
 
 ### **Be specific**
 
@@ -107,8 +131,8 @@ Consider the stage of the project and how your discussions may impact your cowor
 For example, pointing out that there is not enough data to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available or additional data in your lab that can still save the project.
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_549)
-
+{alt: "Harry the helpful collaborator says to Charlie, the unclear leader: Your current plan isn't feasible, but don't worry I know of some public data you could use. Charlie looks stressed and thinks: Phew! Thank goodness! This would've been terrible news for Jack.", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_549.png)
 
 ### **Keep contact**
 
@@ -123,8 +147,9 @@ We will discuss this more in the next chapter.
 
 In summary, we suggest that you follow these tips when communicating with your multidisciplinary team:
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_19)
 
+{alt: " Communication tips: 1) Talk first! 2) Take your time - teach each other 3) Come up with questions/hypotheses together 4) Be specific (avoid jargon) 5) Be compassionate 6) Keep contact 7) Schedule extra time for contact", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_19.png)
 
 
 ## Record Keeping Practices
@@ -135,15 +160,17 @@ Once you have your project rolling, it is important to keep good records of your
 
 Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_596)
 
+{alt: "Francis-the frustrated informaticist recieves an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressted.", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_596.png)
 
 ### **Keep organized records of communication**
 
 Besides recording your work, keep a record of your communications. Organize your emails for projects into a separate folders with easily recognizable titles to save yourself hassle later when something comes into question. 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_622)
 
+{alt: " Charlie, the unclear leader is looking through his email and sees identical emails that say: Hi Francis, attached are the data, on January 19th, March 15th, and April 16th. Charlie thinks to himself: What data did I send to Francis? Uh oh, I don't know. Thus Francis isn't the only one confused about what data Charlie sent.", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_622.png)
 
 ### **Use reports**
 
@@ -152,24 +179,30 @@ Instead of sending informal short emails (which are useful at some points in a w
 It is also important that the experimental biologists make similar reports defining what reagents they used, when the performed the study, what samples were used, who performed the experiment, and any notes about usual events, such as the electricity went out during the experiment, left the samples overnight but usually leave two hours, mouse #blank unexpectedly died so we lost this sample thus it is not included, or the dye seemed unusually faint in this gel.  
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_305)
+{alt: "Hilda, the happy informaticist is reading a report sent from Harry that says: The data is from the samples sent tus on October 10th created using the Illumina Kit and process with... and it trails off. Hilda thinks to herself: Ah, Harry's reports ave me so much time! I think I'll have my dissertation done early! I think we will all be able to take a vacation!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_305.png)
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_360)
 
+{alt: "Charlie, the unclear leader and Jack, the lonely and only informaticist in his lab are having a meeting. Charlie says: I'm sorry Jack, we will need to redo the analysis with different data. It appears there was a miscommunication with our collaborator. Jack thinks to himself: Oh dear, It's looking like grad school will take 30 years. You can see dark clouds forming above them.", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_360.png)
 
 In summary, we recommend the following record keeping tips:
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_40)
+
+{alt: " Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_40.png)
 
 
 ## Leadership best practices
 
 In this section we will describe best practices for lab leaders leading multidisciplinary informatics teams to support their research team members.
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gca1d804e4e_0_0)
 
-The section is based on a famous [blog post](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) written in 2013 called "The lonely bioinformatician" that describes the angst that informatics personnel often feel when they are the only person in their lab with their skill set. The blog post author, [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh, describes these individuals as "pet bioinformaticians" in his blog called [opiniomics](opiniomics.org).
+{alt: " Jack the only and lonely informaticist in his lab hears Charlie say off in the distance: Yeah, Jack can do that. You said 20 samples? Yeah, that will probably only take him 20 minutes. Meanwhile Jack thinks to himself: Oh dear, that sounds like at least 2 weeks of work!", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gca1d804e4e_0_0.png)
+
+The section is based on a famous blog post (Watson 2013) called “The lonely bioinformatician” that describes the angst that informatics personnel often feel when they are the only person in their lab with their skill set. The blog post author, [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh, describes these individuals as “pet bioinformaticians” in his blog called [opiniomics](opiniomics.org).
 
 
 He states: 
@@ -188,7 +221,12 @@ He has since then stated for the PIs of experts who do not share the same skill-
 
 And ultimately provides a [guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) for the "pet bioinformaticians" that can be useful for both informatics expert employees/mentees and also for leaders of such individuals as well as for informatics lab leaders who employ lab-based scientists.
 
-Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about [clinical labs](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) here are guidelines for multidiciplinary research lab leaders:
+Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about clinical labs (Watson 2014) here are guidelines for multidiciplinary research lab leaders:
+
+### **Recognize that different disciplines require deep expertise**
+
+Informatics is truly it's own scientific discipline that requires deep expertise. 
+To truly optimize the multidisciplinary work that you may wish to perform, you need expert level experience of all disciplines on your team. Although you may be able to learn how to use a particular tool to seemingly test an hypothesis, this may not be correct or optimal in every instance. This is why you need expert level informatics team members to help you with your research. If you can't hire such an individual, or even if you hire a more junior informatics mentee or employee, you need to discuss your research with a senior informatics expert. 
 
 ### **Avoid employee isolation**
 
@@ -204,7 +242,10 @@ In any case, we highly encourage guideline #2 regardless of what option you choo
 
 Enable and encourage your employee to cultivate relationships with others who have similar skill-sets at your institution or local community.  Ideally, help your employees or mentees find a **mentor within their domain**. If there is no local group of such individuals, see if your employee would be interested in starting one - such as a seminar group or journal club. Also encourage them to join online forums and attend conferences and workshops.
 
-AVOCADO Examples?? - Seems like the ITCR community could be very helpful and should be listed - but also probably smaller cancer specific forums? 
+Examples include: 
+ - [R ladies](https://rladies.org/) for support for using Bioconductor or R programming. Many of the members are also very familiar with using a variety of genomics and imaging data. You do not need to be a woman to get support from this organization.  - Many universities have a statistical support group, check at your institution. 
+ - [National Cancer Institute ((NCI) hub groups](https://ncihub.org/groups/browse) has a list of cancer specific groups such as large groups like the [Informatics Technology for Cancer Research (ITCR)](https://ncihub.org/groups/itcr) or location specific groups such as the [African Esophageal Cancer Consortium (AfrECC)](https://ncihub.org/groups/afrecc)
+ - When in doubt ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
 
 ### **Encourage growth outside their domain**
 
@@ -221,9 +262,18 @@ If your employee is helping with work for a grant, provide the proposal to them.
 
 ### **Advocate authorship and idea generation for all**
 
-Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). Informatics experts will also need **first author papers**. Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects  may not be as interesting for your employee as an idea that they come up with themselves. 
+Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). 
 
-Often you can create one technical paper and one biological paper from each project. 
+According to a recent report about computational biology:
+
+> Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review. (Carpenter et al. 2021)
+
+
+It is often overlooked, but Informatics experts will also need **first author papers**. Although keep in mind that in some fields authors are listed in different ways. 
+
+Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects  may not be as interesting for your employee as an idea that they come up with themselves. 
+
+Often you can create one technical paper and one biological paper from each project.  For technical papers, allow your lab members that largely do informatics to play a prominent or leadership role. For biological papers, ask them to play a supporting role. For experimental lab members do the opposite. Allow these lab members to have a prominent role on biological papers and a supporting role on more technical papers.
 
 If nothing else, even if your employee is very busy on work for mid-level authorship, give them time to write a review or a software paper for a simple package, or a comparison of informatics methods. [Mick Watson](https://www.ed.ac.uk/profile/mick-watson) suggests making sure that your employees are authoring ~2 first author publications a year if possible. If necessary you can front-load collaboration work and then give your employee more time later to spend on their own work, but be careful about not protecting some of their time for their own career advancement. Also please see the Career Paths for Informatics Mentees section (coming up soon) and read it with your employees in mind, as well. 
 
@@ -246,14 +296,31 @@ How can you accommodate this? Try to work with your informatics teammates when y
 
 On the other hand, if you are an informatics expert mentoring experimental biologists, keep in mind that their experiments will dictate their schedule. Impromptu meetings may be difficult for them at times. Also be aware that some of their experiments may require that they stay late at night or come in very early. Thus on those days, it might be best to not overburden them with other tasks if you want them done well.
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcd0b5dd2d8_1_6)
+
+{alt: " Multidisciplinary Team Leadership Guidelines: 1) Avoid Employee Isolation (especially from a domain standpoint) 2) Encourage relationships with others in their domain 3) Ideally help your employees/mentees find a mentor within their domain 4) Encourage growth outside their domain 5) Value their perspective about science in general 6) Discuss expectations and hypotheses 7) Advocate authorship and idea generation for all 8) Check on them! - make sure they aren’t stuck 9) Get external expert review of work 10)Support teammate work schedules - this is often domain specific", width: "100%", align: "middle"}
+![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_6.png)
+
+
 
 ## References
+Matsui, Elizabeth C. 2013. “The Care and Feeding of the Biostatistician · Simply Statistics.” <https://simplystatistics.org/2013/10/08/the-care-and-feeding-of-the-biostatistician/>.
 
-["Finding good collaborators" blog post](https://simplystatistics.org/2011/10/20/finding-good-collaborators) from [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/) of the [simply statistics](https://simplystatistics.org/) blog which has many other useful discussions and resources 
 
-["The lonely bioinformatician" blog post](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) written in 2013 by [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh
+Peng, Roger D. 2011. “Finding Good Collaborators.” *Simply Statistics*. <https://simplystatistics.org/2011/10/20/finding-good-collaborators/>.
 
-["The lonely bioinformatician revisited: clinical-labs" blog post](http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/) written in 2014 by [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh
 
-AVOCADO Add references from Jeff's advanced data science course etc.
+Carpenter, Anne E, Casey S Greene, Piero Carninci, Benilton S Cervalho, Michiel de Hoon, Stacey Finley, Jerry SH Lee, et al. 2021. “Cultivating Computational Biology.” *arXiv \[q-Bio.OT\]*, 12. <https://doi.org/arXiv:2104.11364>.
+
+
+Broman, Karl. 2019. “Collaborating Reproducibly.” <https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf>.
+
+
+Wang, Jiangxia. 2019. “Collaborating with a Biostatistician?” <https://www.hopkinsmedicine.org/wilmer/research/core-centers/biostatistics/documents/How-To-Work-With-Wilmer-Statisticians.pdf>.
+
+
+Watson, Mick. 2013. “A Guide for the Lonely Bioinformatician .” *Opiniomics.org*. <http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/>.
+
+
+Watson, Mick. 2014. “The Lonely Bioinformatician Revisited: Clinical Labs .” *Opiniomics.org*. <http://www.opiniomics.org/the-lonely-bioinformatician-revisited-clinical-labs/>.
+
+

@@ -1,15 +1,15 @@
 ---
 title: "Informatis Project Guidelines"
 output: html_document
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
 ---
 
 # Informatics Project Guideliness
 
-Learning Objectives:
-1) How to identify and develop good informatics questions
-2) Know what the major informatics project pitfalls are
-3) How to prevent pitfalls 
-4) How to mitigate pitfalls when they happen
+{alt: " Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_116.png)
 
 ## Identifying good informatics questions
 
@@ -17,17 +17,12 @@ Once you have identified your research team, your next step is to start thinking
 
 There are many important considerations to keep in mind when asking an informatics question: 
 
-1) Is it testable experimentally and informatically speaking?
-2) Is it feasible (in terms of cost, time, resources - such as data storage)? **Does public data already exist?**
-3) Are we using the appropriate methods (experimentally and informatically)?
-4) Are we considering confounders, biases, controls etc.?
-5) What will this mean for the scientific community and my lab members if this succeeds?
-6) What will this mean for my lab members if this fails? Are there a back-up plans?
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcee686a31e_0_0)
+{alt: " Considerations for informatics questions: 1) Is it testable experimentally and informatically speaking? 2) Is it feasible (in terms of cost, time, resources - such as data storage)? Does public data already exist? 3) Are we using the appropriate methods (experimentally and informatically)? 4) Are we considering confounders, biases, controls etc.? 5) What will this mean for the scientific community and my lab members if this succeeds? 6) What will this mean for my lab members if this fails? Are there a back-up plans?", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_156.png)
 
 
-We suggests the following steps to take a great scientific question and make into a great informatically feasible question.
+We suggests the following steps to take a great scientific question and make into a great informatically testable question.
 
 ### Steps for forming questions
 
@@ -43,15 +38,18 @@ We suggests the following steps to take a great scientific question and make int
 For example, say we were interested in identify new diagnostic biomarkers for colerectal cancer. 
 ***Note:** this is only an illustrative example.*
 
+These suggestions are based on that of: Wang (2019)
+
 ### STEP 1
 
 First we would identify what is known and unknown:
 
 Several potential blood-based biomarkers have been identified, however many are lacking evidence due to the previous studies having small sample sizes. 
 
-![](https://www.frontiersin.org/files/Articles/476229/fonc-09-01284-HTML/image_m/fonc-09-01284-t001.jpg)
+{alt: " Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_189.png)
 
-[[source]](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full) 
+[[source](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full)]
 
 You might ask how useful are these biomarkers for diagnosing colorectal cancer? 
 
@@ -118,7 +116,8 @@ Will we assign samples as yes or no in terms of meeting this threshold or will w
 
 Actually creating a mock-up of what the data might look like can reveal other important aspects that you may not yet have thought about. Thus here is the result of step 6.
 
-![mock-up example of data](images/example_data.png)
+{alt: "Example data showing 8 samples from 8 different patients 4 had the outcome of not cancer and 4 had the out come of cancer, there are 4 biomarker columns showing expression in relative percentage to threshold. Then there is a column that says meeting threshold count score based on the biomarkers which ranges from 2 to 3 and finally a column of the average percentage score", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_151.png)
 
 ### STEP 7
 
@@ -135,17 +134,20 @@ We would also suggest that you work with your informatics experts to come up wit
 For this example, your informatics employees or students might write a paper using simulated data or publicly available data to look at methods for creating biomarkers scores. Their studies could better inform you about how to think about testing the utility of colerectal biomarkers for diagnosis purposes.
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gc53d3d234f_0_225)
+{alt: " Forming good informatics questions: 1) Determine what is unknown. 2) Clarify what is most important to learn.  3) Narrow down what is unknown into specific statements. 4) Write the unknown statements into specific questions. (Look out for vague phrases!) 5) Make the questions into actionable tests by thinking about what would be measured or observed and ultimately what your variables would be in a statistical test. 6) Make a mock-up of what the data would look like. 7) Evaluate if that actionable test can be assessed with statistical methods and if you have access or can collect the necessary data. Rework as necessary, possibly returning to a different question from step 5. Think about possible biases or confounders. 8) Evaluate if the interpretation of the test would provide the insights that you are interested in.", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_225.png)
 
 ## Informatics project pitfalls
 
 One common misconception is that informatics research projects work out more often or are faster than wet bench experimental research projects. This is however not necessarily true and informatics projects are just as likely to fail and often take more time than one might expect. However, one advantage of having an informatics team member on a project is that there is ample free data available to add to or shift or reframe a study if necessary. This is important to keep in mind when advising your mentees and guiding the planning of their projects.
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=id.gcee686a31e_0_0)
+
+{alt: " Charlie, the unclear leader is meeting with Jack the only and lonely informaticist in his lab. Charlie says to Jack: I assume nothing could go wrong since this is an informatics project. So your dissertation and life plans should be fine! Meanwhile Jack thinks to himself: Oh dear, this can't be good. Dark clouds are again hovering over Jack.", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_0.png)
 
 Common reasons why an informatics project might fail:  
 
-1) The goals were too vague  (see the previous section about identifying good informatics questions) 
+1) The goals were too vague (see the previous section about identifying good informatics questions) 
 Sadly this happens quite often and it can easily lead informatics employees and mentees down the wrong path.
 
 2) The data is not of high enough quality or lacks consistency  
@@ -163,12 +165,13 @@ This may not make the project fail per se but can make publication difficult. St
 Sometimes our hypotheses are just wrong. 
 
 
-![](https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=id.gd37aae88fc_0_0)
-
-If you want more information about careers in Data Science, particularly outside of academia, check out the book ["Build a Career in Data Science"](https://www.amazon.com/Build-Career-Science-Jacqueline-Nolis/dp/1617296244/) by [Emily Robinson](https://hookedondata.org/) and [Jacqueline Nolis](https://jnolis.com/). 
+{alt: " Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png)
 
 
 ## Informatics project pitfall mitgation methods
+
+This section is in part based on a [book](https://www.manning.com/books/build-a-career-in-data-science) (Robinson and Nolis (2020)) by Emily Robinson and Jacqueline Nolis.
 
 We can mitigate some of these project weak points. (You may notice how some of these have been discussed previously.) However some of these are a bit unavoidable and it is best to have realistic expectations and flexibility about backup project ideas.
 
@@ -206,8 +209,30 @@ In the worst case that the data does not appear to work for your initial goal an
 
 We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Insitute (NCI) Informatics Technology for Cancer Reserach (ITCR)](https://itcr.cancer.gov/) faculty. 
 
+These are also good resources for finding cancer related data:  
+ - The [cBioPortal](https://www.cbioportal.org/)  
+ - This [article](https://www.nature.com/scitable/topicpage/genomic-data-resources-challenges-and-promises-743721/)  
+
+
+Keep in mind that using new data takes time.
+
+Using an existing script on new data rarely works because data can be formatted differently and have other intrinsic differences. This must first be evaluated to know how to proceed.
+
+The following steps are required:
+{alt: " Using new data requires these steps 1) Check the quality of the new data, 2) Reformat/wrangle the new data to match that of the existing data, 3)  Evaluate how different the new data is from the old data - are they similar enough to be included in a larger analysis or does this require two analyses? 4) Perform the analysis on the new data", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_15.png)
+
+Overall we will summarize our suggestions for avoiding project pitfalls.
+
+{alt: " How to Overcome Pitfalls: 1) Discuss with experts early and often 2) Diversify  projects for lab members 3) Safe project planning - have a “safe” project for each lab member (review articles, project with promising pilot data, tool development) 4) Encourage co-authorship of lab members 5) Plan for extra time in case things go wrong 6) Adjust and reframe 7) Get new data", width: "100%", align: "middle"}
+![](03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_5.png)
 
 
 
+## References
+Wang, Jiangxia. 2019. “Collaborating with a Biostatistician?” <https://www.hopkinsmedicine.org/wilmer/research/core-centers/biostatistics/documents/How-To-Work-With-Wilmer-Statisticians.pdf>.
+
+
+Robinson, Emily, and Jacqueline Nolis. 2020. “Build a Career in Data Science.” *Manning Publications*. <https://www.manning.com/books/build-a-career-in-data-science>.
 
 
