@@ -8,7 +8,7 @@ link-citations: yes
 ```{r, include=FALSE}
 fp <- knitr::fig_path()
 fp <- dirname(fp)
-fp <- paste0("images/", fp, "/")
+fp <- paste0("resources/images/", fp, "/")
 print(paste0("figpath is ", fp))
 knitr::opts_chunk$set(fig.path = fp)
 ```

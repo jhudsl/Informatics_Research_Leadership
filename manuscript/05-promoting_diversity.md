@@ -10,7 +10,7 @@ link-citations: yes
 # Promoting Diversity
 
 {alt: "Learning Objectives: 1) Know why diversity has been shown to be beneficial 2) Recognition about how certain groups are underrepresented in computational biology 3) Strategies to better support a more diverse team of employees, mentees, and collaborators", width: "100%", align: "middle"}
-![](images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png)
+![](resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png)
 
 ## Diversity is Beneficial
 
@@ -40,7 +40,7 @@ Furthermore, analyses of university faculty and students demonstrate that both w
 
 
 {alt: "Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed.", width: "100%", align: "middle"}
-![](images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png)
+![](resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png)
 
 ## Ways to better support a more diverse research team
 
@@ -122,12 +122,12 @@ Be a good role model and openly discuss the role of failure in research. For exa
 
 
 {alt: "Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will.", width: "100%", align: "middle"}
-![](images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_25.png)
+![](resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_25.png)
 
 
 
 {alt: "Two Mindsets according to Carol S Dweck, Ph.D. and graphic by Nigel Holmes: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will.", width: "100%", align: "middle"}
-![](images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_20.png)
+![](resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_20.png)
 
 
 [[source](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)]
