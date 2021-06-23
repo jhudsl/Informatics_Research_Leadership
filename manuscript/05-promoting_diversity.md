@@ -55,7 +55,7 @@ Especially focus on hindrances to achievement such as **attitudes**, **biases**,
 Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
 {height: "315", width: "560", align: "middle"}
-![](https://www.youtube.com/embed/yiZQaE0q9BY)
+![![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F41142914%2Fpossible-to-remove-center-middle-red-youtube-play-button-form-iframe-embedded&psig=AOvVaw3vYxNF23wVFApnFIYJLPyM&ust=1624560914922000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKiZsZ63rvECFQAAAAAdAAAAABAD)](https://www.youtube.com/embed/yiZQaE0q9BY)
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. It is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
 
