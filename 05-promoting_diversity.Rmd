@@ -71,13 +71,17 @@ Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimb
 
 <p align="center"><iframe alt="video about intersectionality" width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></p>
 
+```{r, fig.align="center", fig.alt = "intersectionality", echo=FALSE, fig.cap="intersectionality"}
+knitr::opts_chunk$set(fig.align="center")
+knitr::include_url("https://www.youtube.com/embed/ViDtnfQ9FHc", height = "800px")
+```
 
 Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
 
 
 See below a list of examples:
 
-```{r, fig.align="center", fig.alt = "microaggresions list", echo=FALSE}
+```{r, fig.align="center", fig.alt = "microaggressions list", echo=FALSE, fig.cap="microaggressions list"}
 knitr::opts_chunk$set(fig.align="center")
 knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf", height = "800px")
 ```

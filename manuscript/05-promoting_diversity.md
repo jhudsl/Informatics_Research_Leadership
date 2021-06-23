@@ -69,6 +69,8 @@ Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimb
 {alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
 ![](https://www.youtube.com/embed/ViDtnfQ9FHc)
 
+{height: "800px", width: "672", align: "middle"}
+![(\#fig:unnamed-chunk-4)intersectionality](https://www.youtube.com/embed/ViDtnfQ9FHc)
 
 Also, become aware of **microaggressions** - “subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group”(Stelter, Kupersmidt, and Stump 2021).
 
@@ -76,7 +78,7 @@ Also, become aware of **microaggressions** - “subtle verbal and nonverbal slig
 See below a list of examples:
 
 {height: "800px", width: "672", align: "middle"}
-![](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)
+![(\#fig:unnamed-chunk-5)microaggressions list](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
 
