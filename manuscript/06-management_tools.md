@@ -13,7 +13,7 @@ link-citations: yes
 There are several tools that can be especially useful for assisting with day-to-day management of projects involving informatics regardless of if you are simply collaborating with an informatics expert or you are leading an informatics research team.
 
 {alt: "Learning Objectives: 1. Know how Slack can be used to communicate with team members. 2. Understanding of the concept of version control and how Git and GitHub can help track changes within code and other files over time. 3. Know what Docker is and how it is used for standardizing software  development and delivery. 4. Awareness of Figshare and how it is useful for sharing research files. 5. Understand what RStudio and R Markdown are and how to use RMarkdown to create research reports. 6. Awareness of the Jupyter project and how Jupyter Notebooks can also be used to create research reports.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_30.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_30.png)
 
 ## Slack
 
@@ -22,7 +22,7 @@ There are several tools that can be especially useful for assisting with day-to-
 
 
 {alt: "Wait, what is Slack? It's a new way to communicate -faster than email and more focused than chat", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_35.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_35.png)
 
 
 {height: "315", width: "560", align: "middle"}
@@ -40,7 +40,7 @@ The main landing page for slack is called a workspace, which looks like this:
 
 
 {alt: "An image of a slack profile landing page whcih shows workspaces on the far left, then channels, then messages for a specific channel.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_42.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_42.png)
 
 In the above image, this person has five workspaces which are indicated by the squares on the far left. Each workspace allows for multiple channels for communicating. These channels can include all members of the workspace or specific subsets of members. Team members can also have separate direct messages to have one-on-one discussions.
 
@@ -56,7 +56,7 @@ We also recommend making project specific channels. For these channels you can a
 Importantly, you can make channels private or public. If a channel is public, anyone in the workspace can join.
 
 {alt: "Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_48.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_48.png)
 
 
 ### Pins
@@ -66,20 +66,20 @@ If someone sends a really important message, like a link to a relevant document,
 Hovering over a message you will get the following options:
 
 {alt: "An image of the options for a slack message", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png)
 
 Clicking on the 3 dot button allows you to do several useful things for a message including pinning it to find it easily later.
 
 
 {alt: "This image shows the option to pin a message in a channel.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_62.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_62.png)
 
 ### Code
 One great feature about slack, is that it is very convenient to message about code.
 
 
 {alt: "An example of a slack message with code which is displayed differently as it is in red font witha gray background", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_69.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_69.png)
 
 
 You can also attach files directly to messages just like in the above message which has a screen shot image file.
@@ -89,14 +89,14 @@ You can also attach files directly to messages just like in the above message wh
 If you want to be reminded about a message in 20 minutes or next week you can also do that using the same hovering and 3 dot button option.
 
 {alt: "An image of the options for a slack message", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_53.png)
 
 Thus if Jack gets a message from his advisor Charlie, but he is busy doing deep work on something else, he can ask Slack to remind him later.
 
 
 
 {alt: "An image of setting a reminder of a message for either in 20 minutes, 1 hour, 3 hours, tomorrow, next week or custom.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_74.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_74.png)
 
 You may also notice in the image above that your messages can be **edited!** unlike an email, in addition yoou can mark them as unread, which can also be useful for responding to messages asynchronously.
 
@@ -109,7 +109,7 @@ One other nice feature for working with a team is that you can directly poll you
 Say sally wants to schedule a meeting with the lab teammates for a specific project- this could even include collaborators who are outside of the lab. If all the users are on the same Slack channel, she can send out a poll like this one asking people to resond with times that they are available. 
 
 {alt: " An example of a slack simple poll that says: When can you meet about the cell line project?- Monday at noon, Tuesday at noon, Wednesday at 2, or None of these options work.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_58.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_58.png)
 
 ## Git and GitHub
 
@@ -131,11 +131,11 @@ So what is [GitHub](https://en.wikipedia.org/wiki/GitHub)?
 [GitHub](https://github.com/) is a free hosting site for code (or other files - including those grant proposals!). Therefore, all the different versions of your files can be saved and accessed online at GitHub. You can make these files private or public. 
 
 {alt: "Charlie, the unclear leader says to Jack, the only and lonely informaticist in his lab: I'm sorry Jack, I think I just accidentally deleted your code!! Meanwhile Jack thinks: Good thing I backed everything up on GitHub - Phew!", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_135.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_135.png)
 
 
 {alt: " Harry, the helpful collaborator says to Sally: I just pushed my changes to the code on GitHub, so now all your lab members can see it! Meanwhile Sally, the super supportive leader thinks: Git/GitHub are cool!", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_83.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_83.png)
 
 According to Wikipedia:
 
@@ -162,7 +162,7 @@ Here is the [explanation](https://www.docker.com/resources/what-container) about
 See [here](https://www.backblaze.com/blog/vm-vs-containers/) and [here](https://www.bogotobogo.com/DevOps/Docker/Docker_Container_vs_Virtual_Machine.php) to read more about the differences between virtual machines and containers like Docker. Note that you can use Docker containers within a virtual machine. See [here](https://www.datto.com/blog/whats-the-difference-host-vs-guest-os#:~:text=The%20host%20operating%20system%20is,used%20in%20a%20virtualized%20server.&text=Host%20OS%20also%20use%20container,the%20application%20in%20a%20server.) for explanations about host and guest operating systems. In short the host operating system is the local machines operating system (the one with the hardware), the guest operating system is the virtualized operating system. 
 
 {alt: " Docker Containers vs Virtual Machines: Docker containers allow applications to run in a separate container using the host (or local) operating system, but not requiring an external quest operating system, thus it does not require as many resources or time to run as a virtual machine which can also run an app with a standardized environment but it requires a copy of a quest or external operating system for each virtual machine.", width: "100%", align: "middle"}
-![](resources/images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_218.png)
+![](images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_218.png)
 
 
 

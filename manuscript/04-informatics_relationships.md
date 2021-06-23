@@ -8,11 +8,12 @@ link-citations: yes
 
 
 
+
 # Informatics Relationships
 
 
 {alt: " Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams", width: "100%", align: "middle"}
-![](resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png)
+![](images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png)
 
 ## Cultivating Good Multidisciplinary Lab Relationships
 
@@ -32,7 +33,7 @@ Studies investigating biology research labs over history indicate that collabora
 
 
 {alt: " Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility", width: "100%", align: "middle"}
-![](resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png)
+![](images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png)
 
 ### Potential Challenges
 
@@ -41,7 +42,7 @@ There are always challenges when collaborating with others, but some of these ar
 Bad collaboration:
 
 {alt: " Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?", width: "100%", align: "middle"}
-![](resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png)
+![](images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png)
 
 
 1) **Communication Differences** - Extra care needs to be taken to ensure that communication across groups is effective.  
@@ -92,7 +93,7 @@ Don't forget to provide some budget for your inforomatics collaborators, as thei
 
 
 {alt: " avocado", width: "100%", align: "middle"}
-![](resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png)
+![](images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png)
 
 
 ## Employing informatics experts
