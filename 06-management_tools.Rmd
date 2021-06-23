@@ -6,6 +6,14 @@ biblio-style: apalike
 link-citations: yes
 ---
 
+```{r, include=FALSE}
+fp <- knitr::fig_path()
+fp <- dirname(fp)
+fp <- paste0("images/", fp, "/")
+print(paste0("figpath is ", fp))
+knitr::opts_chunk$set(fig.path = fp)
+```
+
 # Informatics lab management tools
 
 There are several tools that can be especially useful for assisting with day-to-day management of projects involving informatics regardless of if you are simply collaborating with an informatics expert or you are leading an informatics research team.
@@ -25,7 +33,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ```
 
 
-<p align = "center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align = "center"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 You can do quite well with the free version of slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history. 
 

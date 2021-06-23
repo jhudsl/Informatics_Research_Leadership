@@ -8,6 +8,8 @@ link-citations: yes
 
 
 
+
+
 # Guidelines for multidisciplinary informatics teams
 
 In this lesson we will discuss general guidelines for how to create and maintain healthy relationships within a multidisciplinary informatics research team.
@@ -18,7 +20,7 @@ In this lesson we will discuss general guidelines for how to create and maintain
 
 
 {alt: " Learning Objectives: 1)How to identify good multidisciplinary team members, 2) When and how to discuss projects with team members, 3) How to keep records of work and communication, 4)How to support informatics research team members", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_6.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_6.png)
 
 
 
@@ -47,7 +49,7 @@ Especially for projects with multidisciplinary teams, good communication is vita
 
  
 {alt: " Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_0.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_0.png)
  
 In Roger's words:
 
@@ -55,7 +57,7 @@ In Roger's words:
 
 
 {alt: "Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy.", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_0.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_0.png)
 
 
 ### **Adjust your expectations**
@@ -87,11 +89,11 @@ These are discussions that should happen long before reagents are purchased, bef
 
 
 {alt: "Harry, the helpful collaborator says to Charlie, the unclear leader: it sounds simple, but the process of getting the data ready would take months. Meanwhile Charlie thinks: What!? I should have asked earlier!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_50.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_50.png)
 
 
 {alt: "Indeed, one of the most time intensive steps in informatics is getting the data ready!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_34.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_34.png)
 
 
 ### **Take your time** 
@@ -102,7 +104,7 @@ In all cases (with collaborators, employees, and mentees), build in extra time f
 
 
 {alt: "Sally, the super supportive leader is with Harry the helpful collaborator. He says now that I understand the biology better -thanks to you!- I think I know a better method. Sally thinks to herself, He is the best!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1182.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1182.png)
 
 
 
@@ -115,7 +117,7 @@ Domain experts can help to ensure that the question is feasible from a standpoin
 Informatics experts can help to ensure that the question is feasible from as standpoint of data collection and data analysis, that a question is testable, and that it leads to the interpretations that the domain experts hope to gain.
 
 {alt: " Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan woould have required 30 years of data collection!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1270.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1270.png)
 
 ### **Be specific**
 
@@ -132,7 +134,7 @@ For example, pointing out that there is not enough data to do what your collabor
 
 
 {alt: "Harry the helpful collaborator says to Charlie, the unclear leader: Your current plan isn't feasible, but don't worry I know of some public data you could use. Charlie looks stressed and thinks: Phew! Thank goodness! This would've been terrible news for Jack.", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_549.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_549.png)
 
 ### **Keep contact**
 
@@ -149,7 +151,7 @@ In summary, we suggest that you follow these tips when communicating with your m
 
 
 {alt: " Communication tips: 1) Talk first! 2) Take your time - teach each other 3) Come up with questions/hypotheses together 4) Be specific (avoid jargon) 5) Be compassionate 6) Keep contact 7) Schedule extra time for contact", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_19.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_19.png)
 
 
 ## Record Keeping Practices
@@ -162,7 +164,7 @@ Record and communicate notes about your data collection and analyses. Be mindful
 
 
 {alt: "Francis-the frustrated informaticist recieves an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressted.", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_596.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_596.png)
 
 ### **Keep organized records of communication**
 
@@ -170,7 +172,7 @@ Besides recording your work, keep a record of your communications. Organize your
 
 
 {alt: " Charlie, the unclear leader is looking through his email and sees identical emails that say: Hi Francis, attached are the data, on January 19th, March 15th, and April 16th. Charlie thinks to himself: What data did I send to Francis? Uh oh, I don't know. Thus Francis isn't the only one confused about what data Charlie sent.", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_622.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_622.png)
 
 ### **Use reports**
 
@@ -180,18 +182,18 @@ It is also important that the experimental biologists make similar reports defin
 
 
 {alt: "Hilda, the happy informaticist is reading a report sent from Harry that says: The data is from the samples sent tus on October 10th created using the Illumina Kit and process with... and it trails off. Hilda thinks to herself: Ah, Harry's reports ave me so much time! I think I'll have my dissertation done early! I think we will all be able to take a vacation!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_305.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_305.png)
 
 
 
 {alt: "Charlie, the unclear leader and Jack, the lonely and only informaticist in his lab are having a meeting. Charlie says: I'm sorry Jack, we will need to redo the analysis with different data. It appears there was a miscommunication with our collaborator. Jack thinks to himself: Oh dear, It's looking like grad school will take 30 years. You can see dark clouds forming above them.", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_360.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_360.png)
 
 In summary, we recommend the following record keeping tips:
 
 
 {alt: " Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_40.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_40.png)
 
 
 ## Leadership best practices
@@ -200,7 +202,7 @@ In this section we will describe best practices for lab leaders leading multidis
 
 
 {alt: " Jack the only and lonely informaticist in his lab hears Charlie say off in the distance: Yeah, Jack can do that. You said 20 samples? Yeah, that will probably only take him 20 minutes. Meanwhile Jack thinks to himself: Oh dear, that sounds like at least 2 weeks of work!", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gca1d804e4e_0_0.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gca1d804e4e_0_0.png)
 
 The section is based on a famous blog post (Watson 2013) called “The lonely bioinformatician” that describes the angst that informatics personnel often feel when they are the only person in their lab with their skill set. The blog post author, [Professor Mick Watson](https://www.ed.ac.uk/profile/mick-watson) at the University of Edinburgh, describes these individuals as “pet bioinformaticians” in his blog called [opiniomics](opiniomics.org).
 
@@ -298,7 +300,7 @@ On the other hand, if you are an informatics expert mentoring experimental biolo
 
 
 {alt: " Multidisciplinary Team Leadership Guidelines: 1) Avoid Employee Isolation (especially from a domain standpoint) 2) Encourage relationships with others in their domain 3) Ideally help your employees/mentees find a mentor within their domain 4) Encourage growth outside their domain 5) Value their perspective about science in general 6) Discuss expectations and hypotheses 7) Advocate authorship and idea generation for all 8) Check on them! - make sure they aren’t stuck 9) Get external expert review of work 10)Support teammate work schedules - this is often domain specific", width: "100%", align: "middle"}
-![](02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_6.png)
+![](images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_6.png)
 
 
 

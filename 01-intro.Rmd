@@ -3,6 +3,14 @@ title: "Cancer Informatics for Research Leaders"
 output: html_document
 ---
 
+```{r, include=FALSE}
+fp <- knitr::fig_path()
+fp <- dirname(fp)
+fp <- paste0("images/", fp, "/")
+print(paste0("figpath is ", fp))
+knitr::opts_chunk$set(fig.path = fp)
+```
+
 # Introduction 
 
 ## Motivation

@@ -6,6 +6,14 @@ biblio-style: apalike
 link-citations: yes
 ---
 
+```{r, include=FALSE}
+fp <- knitr::fig_path()
+fp <- dirname(fp)
+fp <- paste0("images/", fp, "/")
+print(paste0("figpath is ", fp))
+knitr::opts_chunk$set(fig.path = fp)
+```
+
 ```{r,include=FALSE}
 library(here)
 ```
