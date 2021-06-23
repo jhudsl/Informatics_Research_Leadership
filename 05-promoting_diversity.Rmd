@@ -58,7 +58,7 @@ Especially focus on hindrances to achievement such as **attitudes**, **biases**,
 
 Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" alt = "video of Russell McClain on biases and stereotypes" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. It is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
 
@@ -69,7 +69,7 @@ For example:
 
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia  describes the theory of intersectionality, which she developed:
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align = "center"></iframe></p>
+<p align="center"><iframe alt="video about intersectionality" width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></p>
 
 
 Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
@@ -77,7 +77,7 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 
 See below a list of examples:
 
-```{r, fig.align="center", echo=FALSE}
+```{r, fig.align="center", fig.alt = "microaggresions list", echo=FALSE}
 knitr::opts_chunk$set(fig.align="center")
 knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf", height = "800px")
 ```
@@ -186,7 +186,7 @@ Build criticism into regular meetings with your mentee. Don't create a meeting o
 
 These documents help clarify what mentees can expect. This allows is helpful for your mentees to better perform according to expectations, as they are explicitly stated rather than intuited.
 
-<p align="center"><iframe src="https://widgets.figshare.com/articles/5427418/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe></p>
+<p align="center"><iframe src="https://widgets.figshare.com/articles/5427418/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0" alt = "expectation document"></iframe></p>
 
 [[source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709)]
 

@@ -54,8 +54,8 @@ Especially focus on hindrances to achievement such as **attitudes**, **biases**,
 
 Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
-{height: "315", width: "560", align: "middle"}
-![![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F41142914%2Fpossible-to-remove-center-middle-red-youtube-play-button-form-iframe-embedded&psig=AOvVaw3vYxNF23wVFApnFIYJLPyM&ust=1624560914922000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKiZsZ63rvECFQAAAAAdAAAAABAD)](https://www.youtube.com/embed/yiZQaE0q9BY)
+{alt: "video of Russell McClain on biases and stereotypes", height: "315", width: "560", align: "middle"}
+![](https://www.youtube.com/embed/yiZQaE0q9BY)
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. It is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
 
@@ -66,7 +66,7 @@ For example:
 
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia  describes the theory of intersectionality, which she developed:
 
-{height: "315", width: "560", align: "middle"}
+{alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
 ![](https://www.youtube.com/embed/ViDtnfQ9FHc)
 
 
@@ -180,7 +180,7 @@ Build criticism into regular meetings with your mentee. Don't create a meeting o
 
 These documents help clarify what mentees can expect. This allows is helpful for your mentees to better perform according to expectations, as they are explicitly stated rather than intuited.
 
-{height: "351", width: "568", align: "middle"}
+{alt: "expectation document", height: "351", width: "568", align: "middle"}
 ![](https://widgets.figshare.com/articles/5427418/embed?show_title=1)
 
 [[source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709)]
