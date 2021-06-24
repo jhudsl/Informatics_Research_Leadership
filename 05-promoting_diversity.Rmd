@@ -67,11 +67,11 @@ For example:
 > When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups. [@davis_barriers_2021]
 
 
-Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia  describes the theory of intersectionality, which she developed:
+Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia describing the theory of intersectionality, which she developed:
 
 <p align="center"><iframe alt="video about intersectionality" width="560" height="315" src="https://www.youtube.com/embed/ViDtnfQ9FHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></p>
 
-```{r, fig.width= "300px", fig.align="center", fig.alt = "intersectionality", echo=FALSE, fig.cap="intersectionality"}
+```{r, fig.align="center", fig.alt = "intersectionality", echo=FALSE}
 knitr::include_url("https://www.youtube.com/embed/ViDtnfQ9FHc")
 ```
 
@@ -80,8 +80,8 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 
 See below a list of examples:
 
-```{r, fig.height= "800px", fig.align="center", fig.alt = "microaggressions list", echo=FALSE, fig.cap="microaggressions list"}
-knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf")
+```{r, fig.align="center", echo=FALSE}
+knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf", height = "800px")
 ```
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
