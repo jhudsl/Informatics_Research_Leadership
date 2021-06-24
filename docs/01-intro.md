@@ -11,8 +11,11 @@ output: html_document
 
 Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. This course aims to provide research leaders with guidance about:  
 
- 1) How to effectively lead team members on informatics projects  
- 2) How to perform informatics projects well   
+ 1) How to effectively lead and support team members on informatics projects  
+ 2) How to perform informatics projects well  
+ 3) How to support informatics collaborators, mentees, and employees
+ 4) How to better support diversity within your team
+ 5) Tools that can help you perform informatics projects well
 
 **Target Audience:**  
 The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with moderate to no computational experience who may lead or collaborate with informatics experts, however this material is also applicable to informatics experts working with others who have less computational experience.

@@ -72,8 +72,6 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 
 See below a list of examples:
 
-
-
 <iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="672" height="800px" data-external="1"></iframe>
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
