@@ -67,7 +67,7 @@ Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimb
 
 <div class="figure" style="text-align: center">
 <iframe src="https://www.youtube.com/embed/ViDtnfQ9FHc" width="672" height="800px" data-external="1"></iframe>
-<p class="caption">(\#fig:unnamed-chunk-4)intersectionality</p>
+<p class="caption">(\#fig:unnamed-chunk-4)intersectionality</p> <img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png"width="100%" /> 
 </div>
 
 Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
@@ -77,7 +77,7 @@ See below a list of examples:
 
 <div class="figure" style="text-align: center">
 <iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="672" height="800px" data-external="1"></iframe>
-<p class="caption">(\#fig:unnamed-chunk-5)microaggressions list</p>
+<p class="caption">(\#fig:unnamed-chunk-5)microaggressions list</p><img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png"width="100%" /> 
 </div>
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
