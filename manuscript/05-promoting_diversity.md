@@ -66,8 +66,8 @@ For example:
 
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia  describes the theory of intersectionality, which she developed:
 
-{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg", alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
-![intersectionality](https://www.youtube.com/embed/ViDtnfQ9FHc)
+{type: video, poster: "http://img.youtube.com/vi/ViDtnfQ9FHc/mqdefault.jpg", alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
+![intersectionality](https://www.youtube.com/watch?t=105&v=ViDtnfQ9FHc)
 
 {type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg"}
 ![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
