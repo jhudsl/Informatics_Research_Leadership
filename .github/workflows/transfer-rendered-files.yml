@@ -10,12 +10,12 @@ name: Copy docs/* folder from Bookdown to Leanpub repo
 # This workflow will run when there are changes to docs/ files in THIS repo
 on:
   workflow_dispatch:
-  # Only run after the render finishes running
-  #workflow_run:
-  #  workflows: [ "Build, Render, and Push" ]
-  #  branches: [ main ]
-  #  types:
-  #    - completed
+  Only run after the render finishes running
+  workflow_run:
+   workflows: [ "Build, Render, and Push" ]
+   branches: [ main ]
+   types:
+     - completed
 
 jobs:
   file-bookdown-pr:
@@ -26,7 +26,7 @@ jobs:
       - name: Checkout code from Leanpub repo
         uses: actions/checkout@v2
         with:
-          repository: jhudsl/DaSL_Course_Template_Leanpub
+          repository: jhudsl/ITCR_Cancer_Research_Leadership_Leanpub
           token: ${{ secrets.GIT_TOKEN }}
 
       - name: Get docs/ from Bookdown repo
