@@ -54,6 +54,69 @@
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
 
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  background-color: #f8f8f8; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ef2929; } /* Alert */
+code span.an { color: #8f5902; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #c4a000; } /* Attribute */
+code span.bn { color: #0000cf; } /* BaseN */
+code span.cf { color: #204a87; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4e9a06; } /* Char */
+code span.cn { color: #000000; } /* Constant */
+code span.co { color: #8f5902; font-style: italic; } /* Comment */
+code span.cv { color: #8f5902; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #8f5902; font-weight: bold; font-style: italic; } /* Documentation */
+code span.dt { color: #204a87; } /* DataType */
+code span.dv { color: #0000cf; } /* DecVal */
+code span.er { color: #a40000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #0000cf; } /* Float */
+code span.fu { color: #000000; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #8f5902; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #204a87; font-weight: bold; } /* Keyword */
+code span.op { color: #ce5c00; font-weight: bold; } /* Operator */
+code span.ot { color: #8f5902; } /* Other */
+code span.pp { color: #8f5902; font-style: italic; } /* Preprocessor */
+code span.sc { color: #000000; } /* SpecialChar */
+code span.ss { color: #4e9a06; } /* SpecialString */
+code span.st { color: #4e9a06; } /* String */
+code span.va { color: #000000; } /* Variable */
+code span.vs { color: #4e9a06; } /* VerbatimString */
+code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
+</style>
 
 <style type="text/css">
 /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
@@ -281,7 +344,7 @@ div.csl-indent {
 <p>Typically researchers will not meet as often with a collaborator as they would with an internal team member. Therefore, poor communication in a collaboration can lead to more costly misdirection and thus wasted time and effort.</p>
 <p>Furthermore, as investigators often have different backgrounds, differences in jargon and language can make communication more challenging.</p>
 <p>Having <strong>internal</strong> team members with some <strong>familiarity</strong> with informatics can be very beneficial for translating discussions with collaborators who are informatics experts.</p>
-<p>One solution to this is to have <strong>trainees work in both labs</strong>. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills, allowing them to potentially have their own multi-disciplinary lab in the future <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
+<p>One solution to this is to have <strong>trainees work in both labs</strong>. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills. This allows the trainee to potentially have their own multi-disciplinary lab in the future <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
 <p>Another important method that can help resolve this issue is to have members provide <strong>educational seminars</strong> for participating members about the fundamentals of their work.</p>
 <ol start="2" style="list-style-type: decimal">
 <li><strong>Different research style and goals</strong> - Beyond differences in language, differences in research style and goals can lead to conflict.</li>
@@ -301,14 +364,14 @@ div.csl-indent {
 <p>Defining tasks and expected due dates can help reduce this issue. Discussions to establish due dates should <strong>always include</strong> team members with <strong>expertise in each area</strong> of science, as tasks may not take the amount of time that another researcher would expect. It is a common misconception that informatics tasks take less time than the tasks actually take in reality.</p>
 <ol start="5" style="list-style-type: decimal">
 <li><p><strong>Research is dynamic</strong> - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change.</p></li>
-<li><p><strong>Different levels of resources</strong> - Particularly when collaborating with community members, community colleges, and institutions that are “Equity-oriented” serving populations that have historically been marginalized or “minoritized” <span class="citation">(<a href="#ref-blake_case_2017" role="doc-biblioref">Blake 2017</a>)</span>, it is important to keep in mind that large differences in resources may exist between collaborating members.</p></li>
+<li><p><strong>Different levels of resources</strong> - Particularly when collaborating with community members, community colleges, and institutions that are “Equity-oriented” and serving populations that have historically been marginalized or “minoritized” <span class="citation">(<a href="#ref-blake_case_2017" role="doc-biblioref">Blake 2017</a>)</span>, it is important to keep in mind that large differences in resources may exist between collaborating members.</p></li>
 </ol>
 <p>Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.</p>
 <p>It is also important to recognize that:
 &gt; There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive. <span class="citation">(<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span></p>
 <p>However:</p>
 <blockquote>
-<p>In reality, even for well-established data types, analysis can often take as much or more time and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project.</p>
+<p>In reality, even for well-established data types, analysis can often take <strong>as much or more time</strong> and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project. <span class="citation">(<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span></p>
 </blockquote>
 <p>Don’t forget to provide some budget for your inforomatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of.</p>
 <p><img src="images/04-informatics_relationships_files/figure-html/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" avocado" alt=" avocado" width="100%" /></p>
@@ -318,14 +381,15 @@ div.csl-indent {
 <h2><span class="header-section-number">4.3</span> Employing informatics experts</h2>
 <p>In contrast to collaborating with informatics experts, in some case it may be beneficial to directly employ them on your team. There are again pros and and cons for this strategy.</p>
 <p>By directly employing informatics experts, rather than collaborating with an expert, research leaders will have more access to meet with these experts more often. Research leaders may also have more sway in terms of guiding the direction of the experts’ work. Leaders can also potentially grow the informatics part of their research program more readily, leading to even more flexibility in the research questions that they may be able to assess.</p>
-<p>However, direct employment of informatics experts requires all of the typical responsibilities and costs of employing another lab member. It also requires the additional resource requirements for the informatics work of the particular expert. This will be discussed more in a later section of this course.</p>
-<p>In addition, it is useful to become familiar with best practices for ethics, reliability, and reproducibility in computational work. This requires some different tactics than that of experiment based research (often called “wet lab” research). Although it is also useful for informatics experts to keep track of the work that they have performed in general, similar to maintaining notes about experimental research with a lab notebook, a much deeper level of detail can be tracked and maintained for computational work. What we mean by this, is that the actual code and data used in their work can be saved over time. This can be invaluable for research reproducibility. Thus research leaders are advised to become familiar with best practices for data sharing and data management so that they can most effectively manage their informatics employees. This is also discussed in more detail later in the course. Furthermore, it is very important to avoid issues that can happen if you employee a single bioinformatician that will be isolated from other informatics experts.</p>
+<p>However, direct employment of informatics experts requires all of the typical responsibilities and costs of employing another lab member. It also requires the additional resource requirements for the informatics work of the particular expert.</p>
+<p>In addition, it is useful to become familiar with best practices for ethics, reliability, and reproducibility in computational work. This requires some different tactics than that of experiment based research (often called “wet lab” research). Although it is also useful for informatics experts to keep track of the work that they have performed in general, similar to maintaining notes about experimental research with a lab notebook, a much deeper level of detail can be tracked and maintained for computational work. What we mean by this, is that the actual code and data used in their work can be saved over time. This can be invaluable for research reproducibility. Thus research leaders are advised to become familiar with best practices for data sharing and data management so that they can most effectively manage their informatics employees. This is also discussed in more detail later in the course.</p>
 <p>One other important thing to remember is that informatics work is often best performed with long stretches of uninterrupted time. This will be true for your informatics employees and mentees.</p>
 <p>Again we suggest that you work with your informatics teammates when you schedule lab meetings and be mindful of their other time commitments. Try to support them in scheduling several hours of uninterrupted time a day if possible.</p>
+<p>As a reminder, again unless you employee a senior informatics expert and even then - it is advisable that you encourage these employees to make supportive relationships with other informatics experts, and particularly if they are working in a new domain.</p>
 </div>
 <div id="mentoring-informatics-students" class="section level2" number="4.4">
 <h2><span class="header-section-number">4.4</span> Mentoring informatics students</h2>
-<p>Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should learn from each other and together and expand what each can do alone. Importantly the more traditional paradigm that does not value “reciprocal learning” as highly, has been shown to be less effective for a larger diversity of students.<span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span></p>
+<p>Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should <strong>learn from each other and together</strong> and expand what each can do alone. Importantly the more traditional paradigm that does not value “reciprocal learning” as highly, has been shown to be less effective for a larger diversity of students.<span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span></p>
 <p>For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here.</p>
 <div id="co-mentoringcollaborativeteam-mentoring" class="section level3" number="4.4.1">
 <h3><span class="header-section-number">4.4.1</span> Co-mentoring/Collaborative/team mentoring</h3>
@@ -333,7 +397,8 @@ div.csl-indent {
 </div>
 <div id="peer-mentoring" class="section level3" number="4.4.2">
 <h3><span class="header-section-number">4.4.2</span> Peer mentoring</h3>
-<p>Peer mentoring also provides great opportunities to expand students’ expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students’ teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge, and assisting in their quest to “learn how to learn” <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>. Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>. However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a <a href="https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/">code of conduct</a> for the lab, so that students and staff members are clear about what behavior is expected.</p>
+<p>Peer mentoring also provides great opportunities to expand students’ expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students’ teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge and assisting in their quest to “learn how to learn” <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>. Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>.</p>
+<p>However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a <a href="https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/">code of conduct</a> for the lab, so that students and staff members are clear about what behavior is expected.</p>
 </div>
 <div id="electronic-mentoring" class="section level3" number="4.4.3">
 <h3><span class="header-section-number">4.4.3</span> Electronic mentoring</h3>
@@ -347,10 +412,10 @@ div.csl-indent {
 <h4><span class="header-section-number">4.4.4.1</span> Career Paths for Informatics Mentees</h4>
 <ol style="list-style-type: decimal">
 <li><p>Academia - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.</p></li>
-<li><p>Government - Your informatics mentees will may have career opportunities as scientist or policy maker for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.</p></li>
+<li><p>Government - Your informatics mentees may have career opportunities as scientists or policy makers for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.</p></li>
 <li><p>Industry - Beyond the potential career options in the pharmaceutical industry, biotech, and medicine, your informatics mentees will have data science skills that may qualify them for jobs in a variety of industries. For example
 your informatics mentees could find jobs at companies such as <a href="https://www.stitchfix.com/">Stitch Fix</a> or <a href="https://www.ancestry.com/">Ancestry</a> which use methods in machine learning and bioinformatics for their products. Additionally, your mentee may also have opportunities to join a software company as a computer programmer or even as a programming educator at a company like <a href="https://rstudio.com/">RStudio</a>.</p></li>
-<li><p>Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions in social media platforms.</p></li>
+<li><p>Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.</p></li>
 </ol>
 </div>
 <div id="career-paths-outside-of-academia" class="section level4" number="4.4.4.2">
@@ -360,11 +425,11 @@ your informatics mentees could find jobs at companies such as <a href="https://w
 <ol style="list-style-type: decimal">
 <li><strong>Data Analysis</strong> - domain knowledge, research skills, and interpretation skills<br />
 </li>
-<li><strong>Data Modeling</strong> - machine learning application skills, algorithm development skills<br />
+<li><strong>Data Modeling</strong> - machine learning application skills and algorithm development skills<br />
 </li>
-<li><strong>Data Engineering</strong> - data management skills, skills to make code production-level ready (ex. automation), software engineering<br />
+<li><strong>Data Engineering</strong> - data management skills, skills to make code production-level ready (ex. automation), and software engineering<br />
 </li>
-<li><strong>Data Mechanics</strong> - data formatting and cleaning, data handling (filtering, subsetting)</li>
+<li><strong>Data Mechanics</strong> - data formatting and cleaning and data handling (filtering, subsetting)</li>
 </ol>
 <p>Based on these categories, he says that there are also 3 major archetypes for data scientists:</p>
 <ol style="list-style-type: decimal">
@@ -374,7 +439,7 @@ This is ideally how your mentee will be after training at a minimum if their goa
 <li>Specialists</li>
 </ol>
 <ol style="list-style-type: lower-alpha">
-<li>Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for <strong>nonprofits</strong></li>
+<li>Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for working at <strong>nonprofits</strong></li>
 <li>Oracle - strong skills in modeling and mechanics - this is great for working at <strong>companies using machine learning</strong></li>
 <li>Maker - strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia</li>
 </ol>
@@ -393,7 +458,7 @@ This is ideally how your mentee will be after training at a minimum if their goa
 </li>
 <li>Projects - hands on experience</li>
 </ol>
-<p>Promoting your mentee’s exposure to each of these domains can only help them further pursue a career in Data Science.</p>
+<p>Promoting your mentee’s exposure to each of these domains can only help them further pursue a career in data science.</p>
 <p>We also suggest that your mentees checkout this <a href="https://blogs.oracle.com/datascience/how-to-survive-your-data-science-interview">blog post</a> on surviving data science interviews also by Branden Rohrer. We think this could be helpful for mentees pursuing any data science career path, however it is especially useful for those interested in industry.</p>
 </div>
 <div id="academia-for-informatics-mentees" class="section level4" number="4.4.4.3">
@@ -408,8 +473,8 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 <ol start="2" style="list-style-type: decimal">
 <li>Encourage your student to seek specialized technical skill sets</li>
 </ol>
-<p>For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career in industry, if they are for example instead focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in workinf for a nonprofit or for the government.</p>
-<p>See <span class="citation"><a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al.</a> (<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">2021</a>)</span> and <span class="citation"><a href="#ref-waller_documenting_2018" role="doc-biblioref">Waller</a> (<a href="#ref-waller_documenting_2018" role="doc-biblioref">2018</a>)</span> for a more in-depth discussion and suggestions on how to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.</p>
+<p>For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career outside of academia, if they are for example focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in working for a nonprofit or for the government.</p>
+<p>See <span class="citation"><a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al.</a> (<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">2021</a>)</span> and <span class="citation"><a href="#ref-waller_documenting_2018" role="doc-biblioref">Waller</a> (<a href="#ref-waller_documenting_2018" role="doc-biblioref">2018</a>)</span> for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.</p>
 </div>
 <div id="authorship-considerations" class="section level4" number="4.4.4.4">
 <h4><span class="header-section-number">4.4.4.4</span> Authorship Considerations</h4>
