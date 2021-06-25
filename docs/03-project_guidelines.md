@@ -22,7 +22,7 @@ There are many important considerations to keep in mind when asking an informati
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_156.png" title=" Considerations for informatics questions: 1) Is it testable experimentally and informatically speaking? 2) Is it feasible (in terms of cost, time, resources - such as data storage)? Does public data already exist? 3) Are we using the appropriate methods (experimentally and informatically)? 4) Are we considering confounders, biases, controls etc.? 5) What will this mean for the scientific community and my lab members if this succeeds? 6) What will this mean for my lab members if this fails? Are there a back-up plans?" alt=" Considerations for informatics questions: 1) Is it testable experimentally and informatically speaking? 2) Is it feasible (in terms of cost, time, resources - such as data storage)? Does public data already exist? 3) Are we using the appropriate methods (experimentally and informatically)? 4) Are we considering confounders, biases, controls etc.? 5) What will this mean for the scientific community and my lab members if this succeeds? 6) What will this mean for my lab members if this fails? Are there a back-up plans?" width="100%" />
 
 
-We suggests the following steps to take a great scientific question and make into a great informatically testable question.
+We suggest the following steps to take a great scientific question and make into a great informatically testable question.
 
 ### Steps for forming questions
 
@@ -31,14 +31,14 @@ We suggests the following steps to take a great scientific question and make int
 3) Narrow down what is unknown into specific statements based on what you identified as important to know from step 2.
 4) Write the unknown statements into specific questions. (Look out for vague phrases!)
 5) Make the questions into actionable tests by thinking about what would be measured or observed and ultimately what your variables would be in a statistical test.
-6) Make a mock-up of what the data would look like. (Do you have any necessary controls?)
+6) Make a mock-up of what the data would look like. (Do you have necessary controls?)
 7) Evaluate if that actionable test can be assessed with statistical methods and if you have access or can collect the necessary data. Rework as necessary, possibly returning to a different question from step 5. Think about possible biases or confounders.
 8) Evaluate if the interpretation of the test would provide the insights that you are interested in.
 
-For example, say we were interested in identify new diagnostic biomarkers for colerectal cancer. 
+For example, say we were interested in identify new diagnostic biomarkers for colorectal cancer. 
 ***Note:** this is only an illustrative example.*
 
-These suggestions are based on that of: @wang_collaborating_2019 
+These suggestions are based on that of: @wang_collaborating_2019. 
 
 ### STEP 1
 
@@ -64,16 +64,16 @@ Step 2 then involves determining which unknowns are the most important to you. T
 
 Step 3 then involves writing out specific statements for what is unknown related to making these biomarkers more useful for tests now. 
 
-It is unknown how useful many of these biomarkers are individually for the diagnosis of colerectal cancer in larger samples. It is unknown if combining these biomarkers together is useful in diagnosis colerectal cancer. It is unknown if combining these blood-based screens with other screens is useful. 
+It is unknown how useful many of these biomarkers are individually for the diagnosis of colorectal cancer in larger samples. It is unknown if combining these biomarkers together is useful in the diagnosis of colorectal cancer. It is unknown if combining these blood-based screens with other screens is useful. 
 
-You can probably imagine many more statements but we will keep this example simple.
+You can probably imagine many more statements, but we will keep this example simple.
 
 ### STEP 4
 
 Step 4 involves transforming these into questions:
 
 How useful are these biomarkers for the diagnosis of coleretal cancer? 
-How useful is the combination of these biomarkers for the diagnosis of colerectal cancer?
+How useful is the combination of these biomarkers for the diagnosis of colorectal cancer?
 How useful is the combination of any of these biomarkers with other non-blood-based screens?
 
 
@@ -81,15 +81,15 @@ Look for terms of phrases that our vague in your questions and make them more sp
 
 The phrase "How useful" can be more specific.
 
-Does a combination of the detection of these biomarkers improve diagnostic sensitivity for colerectal cancer than single biomarkers alone?
+Does a combination of the detection of these biomarkers improve diagnostic sensitivity for colorectal cancer than single biomarkers alone?
 
 Ok that's getting better!
 
 ### STEP 5
 
-Step 5 is to transform questions into actionable tests. For a question to be testable it must meet several requirements. We need to have variables that can be measured or observed. We need to have a variable we can modify or control and we need to figure out what we cannot control. 
+Step 5 is to transform questions into actionable tests. For a question to be testable it must meet several requirements. We need to have variables that can be measured or observed. We need to have a variable we can modify or control, and we need to figure out what we cannot control. 
 
-Now what are our variables, what can we control or observe? We will be observing diagnostic rates of colerectal cancer and biomarker expression, and we can modify or control how many biomarkers we choose to focus on to compare samples. 
+Now what are our variables, what can we control or observe? We will be observing diagnostic rates of colorectal cancer and biomarker expression, and we can modify or control how many biomarkers we choose to focus on to compare samples. 
 
 This leads to many questions: 
 
@@ -97,7 +97,7 @@ Should we compare one biomarker vs all of the biomarkers?
 Which single biomarker will we choose to compare to or will we look at all of them? 
 Do we have the sample sizes to allow for the statistical power for so many tests? 
 How will we look at the combination of biomarkers? A total score? 
-Will it be additive or something more complicated? For example we could prioritize some biomarkers over others. 
+Will it be additive or something more complicated? For example, we could prioritize some biomarkers over others. 
 
 These are good questions to ask an informatics expert about. However we are getting to a more testable question. Now let's really think about what the data we would need and what it would look like.
 
@@ -106,7 +106,7 @@ Which brings us to step 6 where we create a mock-up of the data.
 ### STEP 6
 
 Creating a mock-up of the data can make you ask yourself more questions about what you are asking and what you need to ask that question.
-Would it be that we have blood results for these biomarkers for patients where we know based on surgical pathology if they have cancer?
+Would it be that we have blood results for these biomarkers for patients where we know (based on surgical pathology) if they have cancer?
 
 What would these blood results look like? 
 Would it be absolute expression levels of mRNA or protein? 
@@ -127,9 +127,9 @@ Step 8 is then to think about what this would mean. What would it mean if our re
 
 Remember that working with your research teammates can help you to come up with a better research plan before you start collecting data. By involving experts from different domains you can make the most out of your research efforts. 
 
-We would also suggest that you work with your informatics experts to come up with a biological research question or set of questions and a more technical question for each project. This can be a good strategy to ensure that everyone in your team gets authorship and that your team is being as productive as possible.
+We would also suggest that you work with your informatics experts to come up with a biological research question (or set of questions) and a more technical question (or again set of questions) for each project. This can be a good strategy to ensure that everyone in your team gets authorship and that your team is as productive as possible.
 
-For this example, your informatics employees or students might write a paper using simulated data or publicly available data to look at methods for creating biomarkers scores. Their studies could better inform you about how to think about testing the utility of colerectal biomarkers for diagnosis purposes.
+For this example, your informatics employees or students might write a paper using simulated data or publicly available data to look at methods for creating biomarkers scores. Their studies could better inform you about how to think about testing the utility of colorectal biomarkers for diagnosis purposes.
 
 
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_225.png" title=" Forming good informatics questions: 1) Determine what is unknown. 2) Clarify what is most important to learn.  3) Narrow down what is unknown into specific statements. 4) Write the unknown statements into specific questions. (Look out for vague phrases!) 5) Make the questions into actionable tests by thinking about what would be measured or observed and ultimately what your variables would be in a statistical test. 6) Make a mock-up of what the data would look like. 7) Evaluate if that actionable test can be assessed with statistical methods and if you have access or can collect the necessary data. Rework as necessary, possibly returning to a different question from step 5. Think about possible biases or confounders. 8) Evaluate if the interpretation of the test would provide the insights that you are interested in." alt=" Forming good informatics questions: 1) Determine what is unknown. 2) Clarify what is most important to learn.  3) Narrow down what is unknown into specific statements. 4) Write the unknown statements into specific questions. (Look out for vague phrases!) 5) Make the questions into actionable tests by thinking about what would be measured or observed and ultimately what your variables would be in a statistical test. 6) Make a mock-up of what the data would look like. 7) Evaluate if that actionable test can be assessed with statistical methods and if you have access or can collect the necessary data. Rework as necessary, possibly returning to a different question from step 5. Think about possible biases or confounders. 8) Evaluate if the interpretation of the test would provide the insights that you are interested in." width="100%" />
@@ -147,14 +147,14 @@ Common reasons why an informatics project might fail:
 Sadly this happens quite often and it can easily lead informatics employees and mentees down the wrong path.
 
 2) The data is not of high enough quality or lacks consistency  
-This may be do to a faulty method, methodological differences between lab personnel, expired reagents, temperature differences on data collection days, or aging of a machine over time etc. Some of these issues can be avoided or reduced, while others are unavoidable. Do not be quick to blame your experimental research team members if the data does not look like you expect. Some variation in data is just a part of life. 
+This may be due to a faulty method, methodological differences between lab personnel, expired reagents, temperature differences on data collection days, or aging of a machine over time etc. Some of these issues can be avoided or reduced, while others are unavoidable. Do not be quick to blame your experimental research team members if the data does not look like you expect. Some variation in data is just a part of life. 
 
 3) There is not a strong enough signal in the data to detect the effect of interest with the current data/methods
-This is also a very common problem if you are not sure what the strength of the effect you are looking for might be (which is often the case in Biology). In this case you need more data or methods with greater granularity.
+This is also a very common problem if you are not sure what the strength of the effect you are looking for might be (which is often the case in Biology). In this case you need more data or perhaps methods with greater granularity.
 
 4) The method of data collection becomes obsolete
 
-This may not make the project fail per se but can make publication difficult. Staying on top of what methods are currently being used can help to avoid this.
+This may not make the project fail per se, but it can make publication difficult. Staying on top of what methods are currently being used can help to avoid this.
 
 5) The signal does not exist
 
