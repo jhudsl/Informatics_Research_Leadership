@@ -7,6 +7,8 @@ link-citations: yes
 ---
 
 ```{r, include = FALSE}
+library(knitr)
+library(leanbuild)
 leanbuild::set_knitr_image_path()
 ```
 
