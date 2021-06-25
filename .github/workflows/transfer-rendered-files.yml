@@ -26,7 +26,7 @@ jobs:
       - name: Checkout code from Leanpub repo
         uses: actions/checkout@v2
         with:
-          repository: jhudsl/ITCR_Cancer_Research_Leadership_Leanpub
+          repository: jhudsl/DaSL_Course_Template_Leanpub
           token: ${{ secrets.GIT_TOKEN }}
 
       - name: Get docs/ from Bookdown repo
