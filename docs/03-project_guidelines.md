@@ -1,5 +1,5 @@
 ---
-title: "Informatis Project Guidelines"
+title: "Informatics Project Guidelines"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -8,7 +8,7 @@ link-citations: yes
 
 
 
-# Informatics Project Guideliness
+# Informatics Project Guidelines
 
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_116.png" title=" Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen" alt=" Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen" width="100%" />
 
@@ -72,7 +72,7 @@ You can probably imagine many more statements, but we will keep this example sim
 
 Step 4 involves transforming these into questions:
 
-How useful are these biomarkers for the diagnosis of coleretal cancer? 
+How useful are these biomarkers for the diagnosis of colorectal cancer? 
 How useful is the combination of these biomarkers for the diagnosis of colorectal cancer?
 How useful is the combination of any of these biomarkers with other non-blood-based screens?
 
@@ -164,7 +164,7 @@ Sometimes our hypotheses are just wrong.
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_0.png" title=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" alt=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" width="100%" />
 
 
-## Informatics project pitfall mitgation methods
+## Informatics project pitfall mitigation methods
 
 This section is in part based on a [book](https://www.manning.com/books/build-a-career-in-data-science) (@robinson_build_nodate) by Emily Robinson and Jacqueline Nolis.
 
@@ -202,7 +202,7 @@ For example, if the goal of a project was to look for differential gene expressi
 7) **Get new data**  
 In the worst case that the data does not appear to work for your initial goal and reframing the question does not seem possible, look for new data. Now there are many data resources available online. 
 
-We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Insitute (NCI) Informatics Technology for Cancer Reserach (ITCR)](https://itcr.cancer.gov/) faculty. 
+We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Institute (NCI) Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) faculty. 
 
 These are also good resources for finding cancer related data:  
  - The [cBioPortal](https://www.cbioportal.org/)  

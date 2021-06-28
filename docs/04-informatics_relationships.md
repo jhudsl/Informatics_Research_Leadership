@@ -85,7 +85,7 @@ However:
 
 > In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project. [@carpenter_cultivating_2021]
 
-Don't forget to provide some budget for your inforomatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
+Don't forget to provide some budget for your informatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
 
 

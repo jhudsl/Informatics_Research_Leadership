@@ -1,5 +1,5 @@
 ---
-title: "Informatis Project Guidelines"
+title: "Informatics Project Guidelines"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -12,7 +12,7 @@ leanbuild::set_knitr_image_path()
 ```
 
 
-# Informatics Project Guideliness
+# Informatics Project Guidelines
 
 ```{r, fig.alt=" Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_116")
@@ -82,7 +82,7 @@ You can probably imagine many more statements, but we will keep this example sim
 
 Step 4 involves transforming these into questions:
 
-How useful are these biomarkers for the diagnosis of coleretal cancer? 
+How useful are these biomarkers for the diagnosis of colorectal cancer? 
 How useful is the combination of these biomarkers for the diagnosis of colorectal cancer?
 How useful is the combination of any of these biomarkers with other non-blood-based screens?
 
@@ -182,7 +182,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ```
 
 
-## Informatics project pitfall mitgation methods
+## Informatics project pitfall mitigation methods
 
 This section is in part based on a [book](https://www.manning.com/books/build-a-career-in-data-science) (@robinson_build_nodate) by Emily Robinson and Jacqueline Nolis.
 
@@ -220,7 +220,7 @@ For example, if the goal of a project was to look for differential gene expressi
 7) **Get new data**  
 In the worst case that the data does not appear to work for your initial goal and reframing the question does not seem possible, look for new data. Now there are many data resources available online. 
 
-We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Insitute (NCI) Informatics Technology for Cancer Reserach (ITCR)](https://itcr.cancer.gov/) faculty. 
+We have curated a [list of cancer research related data](https://docs.google.com/spreadsheets/d/1gyVMGunwXMnMeVxEUauuTcz7xWMji4daCkFAWnhuF7o/edit?usp=sharing) with the help of the [National Cancer Institute (NCI) Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) faculty. 
 
 These are also good resources for finding cancer related data:  
  - The [cBioPortal](https://www.cbioportal.org/)  

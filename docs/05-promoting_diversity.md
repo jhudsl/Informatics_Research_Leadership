@@ -90,7 +90,7 @@ Talk with your team members **individually** (be careful not to single out indiv
 
 >"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))"  [@holoien_you_2012]
 
-> "[Underpresented groups] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[@holoien_you_2012]
+> "[Underrepresented groups] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[@holoien_you_2012]
 
 ### **Work to create a safe environment**   
 

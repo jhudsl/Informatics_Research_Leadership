@@ -56,7 +56,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
  
 In Roger's words:
 
-> "If you dont feel comfortable asking (stupid) questions, pointing out problems, or making suggestions, then chances are the science will not be as good as it could be."
+> "If you don't feel comfortable asking (stupid) questions, pointing out problems, or making suggestions, then chances are the science will not be as good as it could be."
 
 
 ```{r, fig.alt="Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy.", out.width = "100%", echo = FALSE}
@@ -131,7 +131,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 
 Give and ask for specific feedback. If your collaborator/employee/student says something that you do not quite understand, ask them for more specific clarification. In addition, give feedback that is specific where possible without assuming knowledge that might be necessary and avoid jargon. 
 
-For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why with response questions, such as "you believe that the sample size is too small to allow for specific statistical text XYZ to be utilized to identify if there are differences between the XYZ groups?". 
+For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why with response questions, such as "you believe that the sample size is too small to allow for this specific statistical test (specify the test) to be utilized to identify if there are differences between these specific groups (specify the groups)?". 
 
 
 ### **Be compassionate**
@@ -225,7 +225,7 @@ The section is based on a famous blog post [@watson_guide_2013]  called "The lon
 
 He states: 
 
-> "It is possible they [the pet bioinformaticians] will become isolated and pick up bad practices as they don’t have a senior bioinformatician to guide them. It also concerns me that their career and profesional development might suffer."
+> "It is possible they [the pet bioinformaticians] will become isolated and pick up bad practices as they don’t have a senior bioinformatician to guide them. It also concerns me that their career and professional development might suffer."
 
 He also acknowledges the challenges of the opposite case:
 
@@ -239,7 +239,7 @@ He has since then stated for the PIs of experts who do not share the same skill-
 
 And ultimately provides a [guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) for the "pet bioinformaticians" that can be useful for both informatics expert employees/mentees and also for leaders of such individuals as well as for informatics lab leaders who employ lab-based scientists.
 
-Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about clinical labs [@watson_lonely_2014] here are guidelines for multidiciplinary research lab leaders:
+Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) and from his post about clinical labs [@watson_lonely_2014] here are guidelines for multidisciplinary research lab leaders:
 
 ### **Recognize that different disciplines require deep expertise**
 
@@ -280,7 +280,7 @@ If your employee is helping with work for a grant, provide the proposal to them.
 
 ### **Advocate authorship and idea generation for all**
 
-Regardless of your emloyees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). 
+Regardless of your employees' or students' backgrounds, make sure you advocate for authorship for each of them (particularly if they are interested in a career in research). 
 
 According to a recent report about computational biology:
 
