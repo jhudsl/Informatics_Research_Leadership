@@ -18,7 +18,7 @@ link-citations: yes
 
 Beyond the critical importance of giving everyone more fair opportunities (which cannot be overstated), there are many additional crucial reasons why diversity is particularly important for science and health research.
 
-The inclusion of diverse research team members promotes more inclusive research questions and practices to help the populations that need better health care the most.
+The inclusion of diverse research team members may promote more inclusive research questions and practices to help the populations that need better health care the most.
 
 > “Racial/ethnic minority groups in the United States are at disproportionate risk of being uninsured, lacking access to care, and experiencing worse health outcomes from preventable and treatable conditions.”(Jackson and Gracia 2014)
 
@@ -50,7 +50,7 @@ In order to best support and encourage mentees and employees of underrepresented
 
 ### Seek additional **training about disparities** in informatics and STEM careers
 
-Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**. Also, become aware of **stereotype threat** - “an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies”(Stelter, Kupersmidt, and Stump 2021) and how they might influence your mentees.
+Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**. Also, become aware of **stereotype threat (also called stereotyped inferiority)** - “an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies”(Stelter, Kupersmidt, and Stump 2021) and how they might influence your mentees.
 
 Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
