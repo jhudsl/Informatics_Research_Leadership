@@ -57,24 +57,20 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 {alt: "video of Russell McClain on biases and stereotypes", height: "315", width: "560", align: "middle"}
 ![](https://www.youtube.com/embed/yiZQaE0q9BY)
 
-Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. It is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
+Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not an complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
 
 For example:
 
 > When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups. (Davis et al. 2021)
 
 
-Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) at UCLA and Columbia  describes the theory of intersectionality, which she developed:
+Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) (at UCLA and Columbia) describing the theory of intersectionality, which she developed:
 
-{type: video, poster: "http://img.youtube.com/vi/ViDtnfQ9FHc/mqdefault.jpg", alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
-![intersectionality](https://www.youtube.com/watch?t=105&v=ViDtnfQ9FHc)
+{alt: "video about intersectionality", height: "315", width: "560", align: "middle"}
+![](https://www.youtube.com/embed/ViDtnfQ9FHc)
 
-{type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg"}
-![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
-
-
-{height: "800px", width: "672", align: "middle"}
-![(\#fig:unnamed-chunk-4)intersectionality](https://www.youtube.com/embed/ViDtnfQ9FHc)
+{height: "400px", width: "672", align: "middle"}
+![](https://www.youtube.com/embed/ViDtnfQ9FHc)
 
 Also, become aware of **microaggressions** - “subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group”(Stelter, Kupersmidt, and Stump 2021).
 
@@ -82,7 +78,7 @@ Also, become aware of **microaggressions** - “subtle verbal and nonverbal slig
 See below a list of examples:
 
 {height: "800px", width: "672", align: "middle"}
-![(\#fig:unnamed-chunk-5)microaggressions list](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)
+![](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
 
@@ -90,9 +86,9 @@ Importantly, “mentors for students with disabilities should receive training, 
 
 ### **Acknowledge mentee's differences** 
 
-Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss their background differences and how to best cultivate the mentee’s career success given their background. An attitude of [“color-blindness”](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to **hinder the success** of mentees (Byars-Winston et al., n.d.; Holoien and Shelton 2012).
+Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss how to best cultivate their mentee’s career success given their race. An attitude of [“color-blindness”](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to **hinder the success** of mentees (Byars-Winston et al., n.d.; Holoien and Shelton 2012).
 
-Talk with your team members **individually** (be careful not to single out individual team members in front of the rest of the lab) about how they would like to discuss the potential influences on their career growth.
+Talk with your team members **individually** (be careful not to single out individual team members in front of the rest of the lab) about how they would like to discuss the potential influences of their background/identity on their career growth.
 
 > “Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed…” (Byars-Winston et al., n.d.)
 
@@ -100,7 +96,7 @@ Talk with your team members **individually** (be careful not to single out indiv
 
 > “Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))” (Holoien and Shelton 2012)
 
-> “\[Underpresented groups\] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))”(Holoien and Shelton 2012)
+> “\[Underrepresented groups\] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))”(Holoien and Shelton 2012)
 
 ### **Work to create a safe environment**   
 
@@ -110,15 +106,15 @@ Educate lab mentors about cultural sensitivity and microaggressions. Highlight t
 
 Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
 
-Computational biology papers with female authors are more likely to have a last author is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser (Bonham and Stefan 2017).
+Computational biology papers with female authors are more likely to have a last author who is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser (Bonham and Stefan 2017).
 
-Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider (Stelter, Kupersmidt, and Stump 2021).
+Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider (Stelter, Kupersmidt, and Stump 2021) due to current underrepresentation.
 
 One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent (Katz 2007).
 
 ### **Advocate for all mentees**
 
-Introduce your mentee to other scientists and trainees particularly those from underrepresented groups.
+Introduce your mentee to other scientists and trainees particularly those from a diverse range of underrepresented groups.
 
 Encouraging the participation of your mentees in support programs and groups such as graduate student groups.
 
@@ -184,7 +180,7 @@ Build criticism into regular meetings with your mentee. Don't create a meeting o
 
 ### Consider creating a document of **mentor and mentee expectations**.
 
-These documents help clarify what mentees can expect. This allows is helpful for your mentees to better perform according to expectations, as they are explicitly stated rather than intuited.
+These documents help clarify what mentees can expect. This is helpful for your mentees to better perform according to expectations, as they are explicitly stated rather than intuited.
 
 {alt: "expectation document", height: "351", width: "568", align: "middle"}
 ![](https://widgets.figshare.com/articles/5427418/embed?show_title=1)

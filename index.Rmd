@@ -1,5 +1,5 @@
 --- 
-title: "Leadership for Informatics Cancer Research "
+title: "Leadership for Cancer Informatics Research"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -16,8 +16,6 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
-
-
 
 # About this Course {-}
 

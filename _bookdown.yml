@@ -1,6 +1,6 @@
 book_filename: "ITCR_Course_Name"
 chapter_name: "Chapter "
-repo: https://github.com/jhudsl/ITCR_Course_Template/
+repo: https://github.com/jhudsl/ITCR_Cancer_Research_Leadership
 rmd_files: ["index.Rmd", 
             "01-intro.Rmd", 
             "02-team_guidelines.Rmd",
