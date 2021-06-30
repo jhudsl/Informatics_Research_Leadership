@@ -1,6 +1,6 @@
 --- 
-title: "Leadership for Informatics Cancer Research "
-date: "2021-06-28"
+title: "Leadership for Cancer Informatics Research"
+date: "2021-06-29"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -8,8 +8,6 @@ biblio-style: apalike
 link-citations: yes
 description: "Description about Course/Book."
 ---
-
-
 
 
 

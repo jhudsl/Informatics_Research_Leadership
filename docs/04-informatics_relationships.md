@@ -209,8 +209,10 @@ See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth
 
 There are also additional types of papers that your informatics mentee can publish, including:
 
-1) Data resource papers, where your mentee may publish an article introducing a data resource
+1) Data resource papers - your mentee may publish an article introducing a data resource
 2) Software papers - an article where the functionality and development of piece of software is discussed
+3) Method comparison papers - your mentee may compare existing methods
+4) New method or pipeline paper - your mentee could describe a new method that they created
 
 When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you prioritize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a software paper than other mentees.
 

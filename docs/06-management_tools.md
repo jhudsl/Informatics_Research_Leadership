@@ -256,7 +256,7 @@ Here is some actual R code that displayed in the html output from the original R
 
 ```r
 # This is a code comment about some R code- here comes the code on the next line!
-x <- c(1,2,3,4,5)
+x <- c(1, 2, 3, 4, 5)
 x
 ```
 
