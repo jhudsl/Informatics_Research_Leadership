@@ -199,6 +199,8 @@ These documents help clarify what mentees can expect. This is helpful for your m
 
 Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter. 
 
+## Conclusion
 
+We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
 
 

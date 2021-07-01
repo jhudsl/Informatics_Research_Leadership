@@ -22,7 +22,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 
 ## Cultivating Good Multidisciplinary Lab Relationships
 
-Now that we know a bit more about general practices for maintaining successful multidisciplinary teams and projects, we are going to take a deeper look at how to best support the relationships that might we might have in our team. We will also discuss the pros and cons of each type of relationship to better guide you about decisions regarding building your team.
+Now that we know a bit more about general practices for maintaining successful multidisciplinary teams and projects, we are going to take a deeper look at how to best support the relationships that might have in our team. We will also discuss the pros and cons of each type of relationship to better guide you about decisions regarding building your team.
 
 ## Collaborating with Informatics Experts
 
@@ -219,13 +219,20 @@ See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth
 
 #### Authorship Considerations
 
-There are also additional types of papers that your informatics mentee can publish, including:
+In addition to typical biological papers, there are also other companion types of papers that your informatics mentee can  publish, including:
 
 1) Data resource papers - your mentee may publish an article introducing a data resource
 2) Software papers - an article where the functionality and development of piece of software is discussed
 3) Method comparison papers - your mentee may compare existing methods
 4) New method or pipeline paper - your mentee could describe a new method that they created
 
-When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you prioritize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a software paper than other mentees.
+These other types of papers are especially good to keep in mind if your mentee will not be first author on a biological paper from your lab.
+
+When guiding your mentee through the publication process, it is a good idea to keep in mind their career goals as you prioritize different paper ideas. For example a mentee that is interested in pursuing a data engineering career may benefit more from a software paper, while a mentee interested in staying in academia would benefit more from a new method paper or a biological paper if possible. Most importantly, remember that informatics mentees need first author publications too!
+
+## Conclusion
+
+We hope that these tips help you to mentor and lead your team in a more productive and effective way that benefits both your team members and your lab's mission!
+
 
 
