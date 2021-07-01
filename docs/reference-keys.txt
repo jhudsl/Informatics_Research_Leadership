@@ -30,6 +30,7 @@ advocate-authorship-and-idea-generation-for-all
 check-on-them
 get-external-review-of-work
 support-diverse-teammate-work-schedules
+conclusion
 informatics-project-guidelines
 identifying-good-informatics-questions
 steps-for-forming-questions
@@ -43,6 +44,7 @@ step-7
 step-8
 informatics-project-pitfalls
 informatics-project-pitfall-mitigation-methods
+conclusion-1
 informatics-relationships
 cultivating-good-multidisciplinary-lab-relationships
 collaborating-with-informatics-experts
@@ -58,6 +60,7 @@ career-paths-for-informatics-mentees
 career-paths-outside-of-academia
 academia-for-informatics-mentees
 authorship-considerations
+conclusion-2
 promoting-diversity
 diversity-is-beneficial
 underrepresentation-in-cancer-informatics
@@ -71,6 +74,7 @@ support-a-healthy-relationship-with-failure
 celebration-and-microaffirmations
 give-feedback-with-cultural-sensitivity
 consider-creating-a-document-of-mentor-and-mentee-expectations.
+conclusion-3
 informatics-lab-management-tools
 slack
 workspaces
@@ -85,4 +89,4 @@ figshare
 rstudio-and-r-markdown
 r-markdown-guidelines
 jupyter
-conclusion
+conclusion-4

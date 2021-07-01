@@ -236,10 +236,13 @@ The following steps are required:
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_15")
 ```
 
+
 Overall we will summarize our suggestions for avoiding project pitfalls.
 
 ```{r, fig.alt=" How to Overcome Pitfalls: 1) Discuss with experts early and often 2) Diversify  projects for lab members 3) Safe project planning - have a “safe” project for each lab member (review articles, project with promising pilot data, tool development) 4) Encourage co-authorship of lab members 5) Plan for extra time in case things go wrong 6) Adjust and reframe 7) Get new data", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd37aae88fc_0_5")
 ```
 
+## Conclusion
 
+We hope that having an awareness for how informatics projects can fail and that keeping these mitigation strategies in mind when you are planning your projects will help you to be more successful with your informatics research endeavors!
