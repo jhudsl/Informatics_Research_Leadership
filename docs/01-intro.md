@@ -7,6 +7,8 @@ output: html_document
 
 # Introduction 
 
+<img src="images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_418.png" title="Title image: Leadership for Cancer Informatics Research" alt="Title image: Leadership for Cancer Informatics Research" width="100%" />
+
 ## Motivation
 
 Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. This course aims to provide research leaders with guidance about:  

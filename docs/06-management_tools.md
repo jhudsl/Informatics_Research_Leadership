@@ -173,7 +173,9 @@ The difference with GitHub is that it is easier to make files **citable** (thus 
 Figshare also encourages researchers to publish negative findings that did not ultimately end up in publications to reduce redundancy in the research field, which we think is a great idea!
 
 
-<p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<!-- <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+
+<iframe src="https://www.youtube.com/embed/_q50OWkz4Kc" width="100%" height="400px" data-external="1"></iframe>
 
 ## RStudio and R Markdown 
 
