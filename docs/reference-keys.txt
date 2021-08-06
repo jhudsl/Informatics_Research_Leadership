@@ -64,6 +64,10 @@ conclusion-2
 promoting-diversity
 diversity-is-beneficial
 underrepresentation-in-cancer-informatics
+underrepresentation-in-clinical-trials
+strategies-to-promote-more-equitable-inclusion-in-clinical-trials
+what-does-it-take-for-clinical-research-to-be-ethical-emanuel_what_nodate
+research-parctices-to-reduce-cancer-health-disparities
 ways-to-better-support-a-more-diverse-research-team
 seek-additional-training-about-disparities-in-informatics-and-stem-careers
 acknowledge-mentees-differences

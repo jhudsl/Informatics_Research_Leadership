@@ -11,7 +11,7 @@ link-citations: yes
 
 # Promoting Diversity
 
-<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives: 1) Know why diversity has been shown to be beneficial 2) Recognition about how certain groups are underrepresented in computational biology 3) Strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives: 1) Know why diversity has been shown to be beneficial 2) Recognition about how certain groups are underrepresented in computational biology 3) Strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4)Management strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4)Management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
 
 ## Diversity is Beneficial
 
@@ -34,13 +34,141 @@ The inclusion of diverse populations in scientific teams has also been shown to 
 
 ## Underrepresentation in Cancer Informatics
  
-However, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
+Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
 Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020]. 
 
 
 
-<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." width="100%" />
+## Underrepresentation in Clinical trials
+
+
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations (in particular Black and Latinx individuals) in clinical trials [@clark_increasing_2019] and in particular for cancer studies[@nazha_enrollment_2019]. 
+
+ According to a study in 2011:
+ 
+ > African‐Americans represent 12% of the U.S. population but only 5% of clinical
+trial participants.	Hispanics make up 16% of the population but only 1% of clinical trial participants. [@coakley_dialogues_2012]
+
+Furthermore, when looking at oncology trials:
+
+> Contemporary oncology trials continue to be characterized by an overrepresentation of white and male participants (80% and 59.8%, respectively).  [@nazha_enrollment_2019]
+
+This lack of diverse participants is a problem because this results in less understanding about how particular patients will fare with a given treatment/vaccine/diagnosis etc. and this lack of knowledge can therefore result in furthering inequities in medical care [@clark_increasing_2019].  
+
+
+This is due to a number of reasons:
+1) Mistrust in the medical system
+
+According to studies, marginalized groups such as Latnix and Black Americans reasonably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
+
+> African Americans’ suspicions and fears that many sectors of American society are not trustworthy were **logical and accurate interpretations** of their perceptions and **experiences**. [@griffith_determinants_2020]
+
+Examples of historical injustices include:
+
+a.[Tuskegee syphilis trial]((https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in [Tuskegee, Alabama about the outcomes of untreated syphilis in Black males]  (1932-1972) in which the patients were told they were being treated but were in fact not being treated.
+b. ["The Unfortanate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
+cervical cancer were also similarly studied but patients were not offered standard treatments,they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial. 
+c. [Henrietta Lacks Hela Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. However, "None of the biotechnology or other companies that profited from her cells passed any money back to her family. And, for decades after her death, doctors and scientists repeatedly failed to ask her family for consent as they revealed Lacks’s name publicly, gave her medical records to the media, and even published her cells’ genome online." 
+d. [STD experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf)
+According to a report, "Between 1946 and 1948, health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others. The study originally began in the United States but was moved to Guatemala when researchers were unable to consistently produce gonorrhea infections in prisoners at a Terre Haute, Indiana, prison."[@rodriguez_first_2013]
+
+e. [Radioactive iodine thyroid studies of Alaskan natives](https://www.tandfonline.com/doi/full/10.1080/10508422.2012.730788)
+In the 1950s, a study was conducted to study the thyroid gland in Alaskan natives, in which participants were given doses of radiaoactive iodine that exceed current recommendations. Due to improper care for language barriers, participants were not carefully excluded for pregnancy, lactation etc. and participants were also not able to be properly informed about the risks of the study and therefore not able to provide proper consent.[@hodge_no_2012]
+
+
+Importantly, this is only a sample of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This historical context has unsurprisingly made many individuals weary of participating in clinical research.[@griffith_determinants_2020] 
+
+
+2) Health care inequity 
+
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as Black, Latinx and Native Americans have also historically received poorer health care.[@griffith_determinants_2020, @studies_inclusion_1999, @fitzgerald_implicit_2017, @hodge_no_2012]
+
+ > African Americans, Latinx, and other racial or ethnic minority groups have a long history of receiving inferior quality of medical care even when they have the same level and type of insurance and access to care. [@griffith_determinants_2020]
+ 
+>  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher cancer-specific mortality compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment.[@nazha_enrollment_2019]
+
+
+3)  A lack of recruitment/inclusion
+ 
+> Implicit biases involve associations outside conscious awareness that lead to a negative evaluation of a person on the basis of irrelevant characteristics such as race or gender.[@fitzgerald_implicit_2017]
+
+> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury,  intravenous drug users, disability, and social circumstances.[@fitzgerald_implicit_2017]
+
+Sadly, this can result in researchers not including certain populations in their trials.
+
+> Healthcare professionals have been shown to withhold treatments based on preconceived notions about whether the racial/ethnic minority patient would adhere to the protocol [@ACRP_representation_2020]
+
+
+3) A lack of access
+
+>...in addition to the limited participation by racial minorities, access to cancer trials is only available to a minority of patients, with approximately 27% of U.S. patients with cancer having access to trials. [@nazha_enrollment_2019]
+
+There are many barriers to access. One major important barrier is translation of recruitment materials to other languages.
+
+Another can be transportation or the time at which participants are needed to be in person for a clinical trial.
+
+Some individuals need more accommodation if for example they can't come to appointments during work hours due to havign a job with an inflexible work schedule or due to care taking responsibilities. 
+
+Other examples include transportation, if it is more time consuming to get to appointments for a trial due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
+
+Another dimension of access is health literacy.
+
+For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health.[@ACRP_representation_2020]
+
+
+4) Lack of community engagement
+
+Community engagement can build trust, increase access, recruitment and retention of more diverse participants for clinical trials. However, there has been historically a lack of funding to support equitable engagement of community stakeholders.
+
+Recent projects in which participants are recruited through community engagement, such as [project brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
+
+
+## Strategies to promote more equitable inclusion in clinical trials
+
+1) Provide adequate financial and time support
+
+Researchers should consider how participants can cope with healthcare needs following participation in a study.
+Investigators should consider how to support caregivers who have important obligations to tend to their family members or others, for example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for uber or taxi.[@ACRP_representation_2020]
+
+2) More promotion of community engagement
+
+Community stakeholders can help to assess if recruitment information is culturally appropriate and can help with creating more equitable recruitment strategies. 
+
+3) More inclusive research teams
+
+Individuals have been shown to be more trusting when research teams include members that are similar to themselves. 
+
+
+avocado... look at these more...
+https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/fostering-health-equity-research-development-and-implementation-of-the-center-for-health-equity-research-cher-chicago/76B3422F84368C7DD8EAA46488380DC3
+
+https://www.sciencedirect.com/science/article/pii/S0146280618301889
+
+## What does it take for clinical research to be ethical? [@emanuel_what_nodate]
+
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge770395a4c_0_0.png" title="Table about requirements for determining if a research trial is ethical" alt="Table about requirements for determining if a research trial is ethical" width="100%" />
+
+
+## Research parctices to reduce cancer health disparities
+
+According to a recent article [@zavala_cancer_2021] about cancer research in the US the following is suggested to reduce cancer health disparities:
+
+
+1) Further develop and sustain large diverse cohorts that collect multidimensional/multilevel data.
+
+2) Diversify germ-line and tumor genetics/genomics databases and clinical trials.
+
+3) Develop diverse cell lines and patient-derived xenograft models.
+
+4) Implement system changes in healthcare coverage to guarantee equity in access to high-quality screening and access to treatment.
+
+5) Improvement and system-wide implementation of patient navigation programs.
+
+6) Employ culturally tailored community awareness and education programs to increase cancer screening (including genetics) and modify risk behaviors.
+
+7) Implement legislation that supports behavioral interventions (e.g. limit the sales of tobacco products).
+
 
 ## Ways to better support a more diverse research team
 
@@ -57,7 +185,7 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 <iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px" data-external="1"></iframe>
 
 
-Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not an complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and black)) results in more nuanced challenges. 
+Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not an complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
 
 For example:
 
@@ -180,6 +308,9 @@ These documents help clarify what mentees can expect. This is helpful for your m
 
 
 Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter. 
+
+
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." width="100%" />
 
 ## Conclusion
 
