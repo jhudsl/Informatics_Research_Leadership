@@ -44,7 +44,7 @@ Now we will guide you through a bit about how to use slack.
 The main landing page for slack is called a workspace, which looks like this:
 
 
-```{r, fig.alt="An image of a slack profile landing page whcih shows workspaces on the far left, then channels, then messages for a specific channel.", out.width = "100%", echo = FALSE}
+```{r, fig.alt="An image of a slack profile landing page which shows workspaces on the far left, then channels, then messages for a specific channel.", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_42")
 ```
 
@@ -61,7 +61,7 @@ We also recommend making project specific channels. For these channels you can a
 
 Importantly, you can make channels private or public. If a channel is public, anyone in the workspace can join.
 
-```{r, fig.alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation.", out.width = "100%", echo = FALSE}
+```{r, fig.alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #cell-line-project, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by invitation.", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_48")
 ```
 
@@ -87,7 +87,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 One great feature about slack, is that it is very convenient to message about code.
 
 
-```{r, fig.alt="An example of a slack message with code which is displayed differently as it is in red font with a gray background", out.width = "100%", echo = FALSE}
+```{r, fig.alt="An example of a slack message with code which is displayed differently as it is in red font with a gray background.", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd93234bdfa_0_69")
 ```
 
@@ -224,7 +224,7 @@ The really nice thing about these reports is that Markdown languages allows you 
 
 You aren't limited to just writing about code in these reports. You can write about anything. In fact, what you are reading right now was originally written using R markdown. Thus this is also a good option for writing up reports about wet bench experiments as well.
 
-### R Markdown Guidelines
+### R Markdown guidelines
 
 There are a few simple syntax rules for R Markdown. 
 

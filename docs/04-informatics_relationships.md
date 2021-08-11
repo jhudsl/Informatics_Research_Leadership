@@ -1,5 +1,5 @@
 ---
-title: "Informatics Relationships"
+title: "Informatics relationships"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -9,16 +9,16 @@ link-citations: yes
 
 
 
-# Informatics Relationships
+# Informatics relationships
 
 
 <img src="images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" title=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" width="100%" />
 
-## Cultivating Good Multidisciplinary Lab Relationships
+## Cultivating good multidisciplinary lab relationships
 
 Now that we know a bit more about general practices for maintaining successful multidisciplinary teams and projects, we are going to take a deeper look at how to best support the relationships that might have in our team. We will also discuss the pros and cons of each type of relationship to better guide you about decisions regarding building your team.
 
-## Collaborating with Informatics Experts
+## Collaborating with informatics experts
 
 Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s [@vermeulen_understanding_2013] and that the rate continues to increase [@sonnenwald_scientific_2007]. Indeed the size of biology research teams appear to have doubled from 1955 to 1990 [@vermeulen_understanding_2013]. But why? 
 
@@ -31,9 +31,9 @@ Studies investigating biology research labs over history indicate that collabora
 5) **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
 
 
-<img src="images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" title=" Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" alt=" Benefits of collboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
+<img src="images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" title=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" alt=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
 
-### Potential Challenges
+### Potential challenges
 
 There are always challenges when collaborating with others, but some of these are particularly enhanced in multi-disciplinary teams. Here are some challenges that you may encounter when a collaboration involves informatics experts.
 
@@ -89,7 +89,7 @@ Don't forget to provide some budget for your informatics collaborators, as their
 
 
 
-<img src="images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" avocado" alt=" avocado" width="100%" />
+<img src="images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " alt=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " width="100%" />
 
 
 ## Employing informatics experts
@@ -115,7 +115,7 @@ Mentorship is a particularly unique relational experience. While traditional men
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
 
-### Co-mentoring/Collaborative/team mentoring
+### Co-mentoring/collaborative/team mentoring
 
 As we described earlier, co-mentoring or collaborative mentoring of students by multiple mentors with different backgrounds can be particularly beneficial to the student and also to the partnering labs. In the case of collaborative mentoring where a mentee is mentored by two research experts in two different labs, this provides an opportunity not only to strengthen a collaboration, but also for students to gain more diverse knowledge, and to in turn provide more of the expertise that they gain back to both labs. Co-mentoring could also occur within the same lab by a research leader and an informatics expert. This could also work well in a multilevel paradigm, where an informatics expert may guide informatics related aspects of research, while an overarching research adviser may guide the student's overall research mentorship experience.
 
@@ -136,7 +136,7 @@ The job landscape for scientists has changed in recent decades with more opportu
 
 Becoming aware of these opportunities yourself, as a research leader, is therefore critical for cultivating your mentees' awareness of the diversity of opportunities available to them. This will ultimately allow your mentees to choose the career path that suites them best. 
 
-#### Career Paths for Informatics Mentees
+#### Career paths for informatics mentees
 
 1) Academia - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.
 
@@ -148,7 +148,7 @@ your informatics mentees could find jobs at companies such as [Stitch Fix](https
 4) Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.
 
 
-#### Career Paths outside of Academia
+#### Career paths outside of academia
 
 If your mentee is more interested in a career path outside of academia we suggest you read up about industry perspectives on useful skills and knowledge, so that you are better prepared to guide your mentees to get exposure and experience to the data science domains or aspects that would be most helpful to them. 
 
@@ -207,7 +207,7 @@ For your students who wish to stay in academia, it may be less important that th
 See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.
 
 
-#### Authorship Considerations
+#### Authorship considerations
 
 In addition to typical biological papers, there are also other companion types of papers that your informatics mentee can  publish, including:
 

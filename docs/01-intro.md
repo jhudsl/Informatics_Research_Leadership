@@ -19,7 +19,7 @@ Informatics research often requires multidisciplinary teams. This requires more 
  4) How to better support diversity within your team
  5) Tools that can help you perform informatics projects well
 
-**Target Audience:**  
+**Target audience:**  
 The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with moderate to no computational experience who may lead or collaborate with informatics experts However this material is also applicable to informatics experts working with others who have less computational experience.
 
 **Curriculum:**  
