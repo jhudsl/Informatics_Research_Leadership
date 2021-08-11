@@ -1,5 +1,5 @@
 ---
-title: "Informatics Project Guidelines"
+title: "Informatics project guidelines"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -8,7 +8,7 @@ link-citations: yes
 
 
 
-# Informatics Project Guidelines
+# Informatics project guidelines
 
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_116.png" title=" Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen" alt=" Learning Objectives: 1) How to identify and develop good informatics questions 2) Know what the major informatics project pitfalls are 3) How to prevent pitfalls 4) How to mitigate pitfalls when they happen" width="100%" />
 
@@ -44,9 +44,9 @@ These suggestions are based on that of: @wang_collaborating_2019.
 
 First we would identify what is known and unknown:
 
-Several potential blood-based biomarkers have been identified, however many are lacking evidence due to the previous studies having small sample sizes. 
+Several potential blood-based biomarkers for colorectal cancer have been identified, however many are lacking evidence due to the previous studies having small sample sizes. 
 
-<img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_189.png" title=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" alt=" Informatics Project Pitfalls: 1) The goals were too vague 2) The data is not of high enough quality or lacks consistency 3) There is not a strong enough signal in the data to detect with current methods 4) The method of data collection became obsolete 5)The signal does not actually exist - aka the hypothesis was wrong" width="100%" />
+<img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_189.png" title=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full " alt=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full " width="100%" />
 
 [[source](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full)]
 

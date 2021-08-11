@@ -105,7 +105,7 @@ Domain experts can help to ensure that the question is feasible from a standpoin
 
 Informatics experts can help to ensure that the question is feasible from as standpoint of data collection and data analysis, that a question is testable, and that it leads to the interpretations that the domain experts hope to gain.
 
-<img src="images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1270.png" title=" Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan woould have required 30 years of data collection!" alt=" Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan woould have required 30 years of data collection!" width="100%" />
+<img src="images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_1270.png" title=" Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan would have required 30 years of data collection!" alt=" Charlie, the unclear leader says: Good thing I talked with my student Jack- my plan would have required 30 years of data collection!" width="100%" />
 
 ### **Be specific**
 
@@ -140,7 +140,7 @@ In summary, we suggest that you follow these tips when communicating with your m
 <img src="images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_19.png" title=" Communication tips: 1) Talk first! 2) Take your time - teach each other 3) Come up with questions/hypotheses together 4) Be specific (avoid jargon) 5) Be compassionate 6) Keep contact 7) Schedule extra time for contact" alt=" Communication tips: 1) Talk first! 2) Take your time - teach each other 3) Come up with questions/hypotheses together 4) Be specific (avoid jargon) 5) Be compassionate 6) Keep contact 7) Schedule extra time for contact" width="100%" />
 
 
-## Record Keeping Practices
+## Record keeping practices
 
 Once you have your project rolling, it is important to keep good records of your work, your collaborators work, and your communication. Keeping good records takes time and discipline but it can save you more time and heartache in the end. Here are some suggestions for how to optimize your record keeping.
 
@@ -149,7 +149,7 @@ Once you have your project rolling, it is important to keep good records of your
 Record and communicate notes about your data collection and analyses. Be mindful of overwhelming your coworkers, but generally speaking provide extra information where possible. The more people aware of details about what samples were in what batch, the more likely important details are not missed or forgotten. For example if you are sending data to a collaborator send as much information as possible about how it was generated in the email in which you send it to them, even if you have already discussed the data. This can help ensure that no important details fall through the cracks. The best way we think you can do this in general is to use reports - one of our next suggestions.
 
 
-<img src="images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_596.png" title="Francis-the frustrated informaticist recieves an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressted." alt="Francis-the frustrated informaticist recieves an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressted." width="100%" />
+<img src="images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_596.png" title="Francis-the frustrated informaticist receives an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressed." alt="Francis-the frustrated informaticist receives an email from Charlie that says: Hi Francis, attached are the data. Looking forward to the results next week! Francis thinks to herself: I have no idea what samples are in this data. She looks distressed." width="100%" />
 
 ### **Keep organized records of communication**
 

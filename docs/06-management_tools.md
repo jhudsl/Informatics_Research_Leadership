@@ -36,7 +36,7 @@ Now we will guide you through a bit about how to use slack.
 The main landing page for slack is called a workspace, which looks like this:
 
 
-<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_42.png" title="An image of a slack profile landing page whcih shows workspaces on the far left, then channels, then messages for a specific channel." alt="An image of a slack profile landing page whcih shows workspaces on the far left, then channels, then messages for a specific channel." width="100%" />
+<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_42.png" title="An image of a slack profile landing page which shows workspaces on the far left, then channels, then messages for a specific channel." alt="An image of a slack profile landing page which shows workspaces on the far left, then channels, then messages for a specific channel." width="100%" />
 
 In the above image, this person has five workspaces which are indicated by the squares on the far left. Each workspace allows for multiple channels for communicating. These channels can include all members of the workspace or specific subsets of members. Team members can also have separate direct messages to have one-on-one discussions.
 
@@ -51,7 +51,7 @@ We also recommend making project specific channels. For these channels you can a
 
 Importantly, you can make channels private or public. If a channel is public, anyone in the workspace can join.
 
-<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_48.png" title="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation." alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #marketing, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by inivitation." width="100%" />
+<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_48.png" title="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #cell-line-project, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by invitation." alt="Create a channel: Channels are where your team communicates. They're best when organized around a topic - #cell-line-project, for example. Provide a name and optionally a description. You can also decide to make a channel private, it can only be viewed or joined by invitation." width="100%" />
 
 
 ### Pins
@@ -71,7 +71,7 @@ Clicking on the 3 dot button allows you to do several useful things for a messag
 One great feature about slack, is that it is very convenient to message about code.
 
 
-<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_69.png" title="An example of a slack message with code which is displayed differently as it is in red font with a gray background" alt="An example of a slack message with code which is displayed differently as it is in red font with a gray background" width="100%" />
+<img src="images/06-management_tools_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd93234bdfa_0_69.png" title="An example of a slack message with code which is displayed differently as it is in red font with a gray background." alt="An example of a slack message with code which is displayed differently as it is in red font with a gray background." width="100%" />
 
 
 You can also attach files directly to messages just like in the above message which has a screen shot image file.
@@ -192,7 +192,7 @@ The really nice thing about these reports is that Markdown languages allows you 
 
 You aren't limited to just writing about code in these reports. You can write about anything. In fact, what you are reading right now was originally written using R markdown. Thus this is also a good option for writing up reports about wet bench experiments as well.
 
-### R Markdown Guidelines
+### R Markdown guidelines
 
 There are a few simple syntax rules for R Markdown. 
 

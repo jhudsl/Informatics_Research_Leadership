@@ -9,11 +9,11 @@ link-citations: yes
 
 
 
-# Promoting Diversity
+# Promoting diversity
 
-<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4)Management strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4)Management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
 
-## Diversity is Beneficial
+## Diversity is beneficial
 
 Beyond the critical importance of giving everyone more fair opportunities (which cannot be overstated), there are many additional crucial reasons why diversity is particularly important for science and health research.
 
@@ -32,7 +32,7 @@ The inclusion of diverse populations in scientific teams has also been shown to 
 > "Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored." [@hofstra_diversityinnovation_2020]
 
 
-## Underrepresentation in Cancer Informatics
+## Underrepresentation in cancer informatics
  
 Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
@@ -40,7 +40,7 @@ Furthermore, analyses of university faculty and students demonstrate that both w
 
 
 
-## Underrepresentation in Clinical trials
+## Underrepresentation in clinical trials
 
 
 Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations (in particular Black and Latinx individuals) in clinical trials [@clark_increasing_2019] and in particular for cancer studies[@nazha_enrollment_2019]. 
@@ -48,7 +48,7 @@ Beyond underrepresentation of certain populations within research teams, there i
  According to a study in 2011:
  
  > African‐Americans represent 12% of the U.S. population but only 5% of clinical
-trial participants.	Hispanics make up 16% of the population but only 1% of clinical trial participants. [@coakley_dialogues_2012]
+trial participants. Hispanics make up 16% of the population but only 1% of clinical trial participants. [@coakley_dialogues_2012]
 
 Furthermore, when looking at oncology trials:
 
@@ -58,31 +58,40 @@ This lack of diverse participants is a problem because this results in less unde
 
 
 This is due to a number of reasons:
-1) Mistrust in the medical system
+1) Mistrust
 
-According to studies, marginalized groups such as Latnix and Black Americans reasonably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
+According to studies, marginalized groups such as Latinx and Black Americans reasonably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
 
 > African Americans’ suspicions and fears that many sectors of American society are not trustworthy were **logical and accurate interpretations** of their perceptions and **experiences**. [@griffith_determinants_2020]
 
 Examples of historical injustices include:
 
 a.[Tuskegee syphilis trial]((https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in [Tuskegee, Alabama about the outcomes of untreated syphilis in Black males]  (1932-1972) in which the patients were told they were being treated but were in fact not being treated.
-b. ["The Unfortanate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
+
+b. ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
 cervical cancer were also similarly studied but patients were not offered standard treatments,they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial. 
-c. [Henrietta Lacks Hela Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. However, "None of the biotechnology or other companies that profited from her cells passed any money back to her family. And, for decades after her death, doctors and scientists repeatedly failed to ask her family for consent as they revealed Lacks’s name publicly, gave her medical records to the media, and even published her cells’ genome online." 
+
+c. [Henrietta Lacks HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. However according to a report,
+> "None of the biotechnology or other companies that profited from her cells passed any money back to her family. And, for decades after her death, doctors and scientists repeatedly failed to ask her family for consent as they revealed Lacks’s name publicly, gave her medical records to the media, and even published her cells’ genome online." 
+
 d. [STD experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf)
-According to a report, "Between 1946 and 1948, health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others. The study originally began in the United States but was moved to Guatemala when researchers were unable to consistently produce gonorrhea infections in prisoners at a Terre Haute, Indiana, prison."[@rodriguez_first_2013]
+According to a report, 
+> "The study involved at least 5128 vulnerable people, including children, orphans, child and adult prostitutes, Guatemalan Indians, leprosy patients, mental patients, prisoners, and soldiers. Between 1946 and 1948, health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others. The study originally began in the United States but was moved to Guatemala when researchers were unable to consistently produce gonorrhea infections in prisoners at a Terre Haute, Indiana, prison."[@rodriguez_first_2013]
 
 e. [Radioactive iodine thyroid studies of Alaskan natives](https://www.tandfonline.com/doi/full/10.1080/10508422.2012.730788)
-In the 1950s, a study was conducted to study the thyroid gland in Alaskan natives, in which participants were given doses of radiaoactive iodine that exceed current recommendations. Due to improper care for language barriers, participants were not carefully excluded for pregnancy, lactation etc. and participants were also not able to be properly informed about the risks of the study and therefore not able to provide proper consent.[@hodge_no_2012]
+In the 1950s, a study was conducted to study the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceed current recommendations. Due to improper care for language barriers, participants were not carefully excluded for pregnancy, lactation etc. and participants were also not able to be properly informed about the risks of the study and therefore not able to provide proper consent.[@hodge_no_2012]
 
 
-Importantly, this is only a sample of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This historical context has unsurprisingly made many individuals weary of participating in clinical research.[@griffith_determinants_2020] 
+Importantly, this is only a sample of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This historical context, which has in many cases directly impacted individuals and their families or communities has unsurprisingly made many people weary of participating in clinical research.[@griffith_determinants_2020] 
 
+
+> “We, as African Americans were always the pilot test... I know because people have experienced it within my line, my family, my bloodline in [city name]. Yeah.” He continued by saying, “So I just think that we’ve been used and misused a lot of times within the African American community and in the lower parts of the devastation where the devastation lies.” [@griffith_determinants_2020]
+
+> “I’m thinking about horror stories like the Tuskegee experiment and things like that. Like stuff that for me, were mentioned back in school and were mentioned by my family members...”[@griffith_determinants_2020]
 
 2) Health care inequity 
 
-Beyond such examples of extremely unethical studies and practices, marginalized populations such as Black, Latinx and Native Americans have also historically received poorer health care.[@griffith_determinants_2020, @studies_inclusion_1999, @fitzgerald_implicit_2017, @hodge_no_2012]
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as Black, Latinx and Native Americans have also historically received poorer health care thus discouraging engagement with the health care system.[@griffith_determinants_2020, @studies_inclusion_1999, @fitzgerald_implicit_2017, @hodge_no_2012]
 
  > African Americans, Latinx, and other racial or ethnic minority groups have a long history of receiving inferior quality of medical care even when they have the same level and type of insurance and access to care. [@griffith_determinants_2020]
  
@@ -99,16 +108,20 @@ Sadly, this can result in researchers not including certain populations in their
 
 > Healthcare professionals have been shown to withhold treatments based on preconceived notions about whether the racial/ethnic minority patient would adhere to the protocol [@ACRP_representation_2020]
 
+4) A lack of researcher cultural competency and passion
 
-3) A lack of access
+> Participants noted that trust is influenced not only by the scientific expertise of the researchers, but also by the researchers’ knowledge of the history, context, and experience of the study populations. [@griffith_determinants_2020]
+
+> In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be. [@griffith_determinants_2020]
+
+
+5) A lack of access
 
 >...in addition to the limited participation by racial minorities, access to cancer trials is only available to a minority of patients, with approximately 27% of U.S. patients with cancer having access to trials. [@nazha_enrollment_2019]
 
 There are many barriers to access. One major important barrier is translation of recruitment materials to other languages.
 
-Another can be transportation or the time at which participants are needed to be in person for a clinical trial.
-
-Some individuals need more accommodation if for example they can't come to appointments during work hours due to havign a job with an inflexible work schedule or due to care taking responsibilities. 
+Another can be the time at which participants are needed to be in person for a clinical trial. Some individuals need more accommodation if for example they can't come to appointments during work hours due to having a job with an inflexible work schedule or due to care taking responsibilities. 
 
 Other examples include transportation, if it is more time consuming to get to appointments for a trial due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
@@ -119,38 +132,40 @@ For individuals who don't have the time, education, or other means necessary to 
 
 4) Lack of community engagement
 
-Community engagement can build trust, increase access, recruitment and retention of more diverse participants for clinical trials. However, there has been historically a lack of funding to support equitable engagement of community stakeholders.
+Community engagement can build trust, reduce stigma, increase access,  recruitment and retention of more diverse participants for clinical trials. However, there has been historically a lack of funding to support equitable engagement of community stakeholders.
 
 Recent projects in which participants are recruited through community engagement, such as [project brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
 
 
 ## Strategies to promote more equitable inclusion in clinical trials
 
-1) Provide adequate financial and time support
+1) Provide adequate financial, logistical, and time support
 
 Researchers should consider how participants can cope with healthcare needs following participation in a study.
-Investigators should consider how to support caregivers who have important obligations to tend to their family members or others, for example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for uber or taxi.[@ACRP_representation_2020]
+Investigators should consider how to support caregivers who have important obligations to tend to their family members or others, for example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi.[@ACRP_representation_2020] Researchers should also consider providing patients with a cell phone to improve communication.[@clark_increasing_2019]
 
-2) More promotion of community engagement
+2) More promotion of health care access in general 
+
+Individuals have been shown to be more likely to participate when advised by a health care provider.[@clark_increasing_2019] Increasing health care system access in general could therefore improve clinical trial participation.
+
+3) More promotion of community engagement
 
 Community stakeholders can help to assess if recruitment information is culturally appropriate and can help with creating more equitable recruitment strategies. 
 
-3) More inclusive research teams
+4) More inclusive research teams
 
-Individuals have been shown to be more trusting when research teams include members that are similar to themselves. 
+Individuals have been shown to be more trusting when research teams include members that are similar to themselves. [@griffith_determinants_2020]
 
 
-avocado... look at these more...
-https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/fostering-health-equity-research-development-and-implementation-of-the-center-for-health-equity-research-cher-chicago/76B3422F84368C7DD8EAA46488380DC3
 
-https://www.sciencedirect.com/science/article/pii/S0146280618301889
+## What does it take for clinical research to be ethical? 
 
-## What does it take for clinical research to be ethical? [@emanuel_what_nodate]
+Here you can see a table of requirements for ethical research trials.[@emanuel_what_nodate] Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
 <img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge770395a4c_0_0.png" title="Table about requirements for determining if a research trial is ethical" alt="Table about requirements for determining if a research trial is ethical" width="100%" />
 
 
-## Research parctices to reduce cancer health disparities
+## Research practices to reduce cancer health disparities
 
 According to a recent article [@zavala_cancer_2021] about cancer research in the US the following is suggested to reduce cancer health disparities:
 
@@ -310,10 +325,10 @@ These documents help clarify what mentees can expect. This is helpful for your m
 Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter. 
 
 
-<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldnt have assumed." width="100%" />
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." width="100%" />
 
 ## Conclusion
 
-We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
+We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members and to support your team to be more mindful about health inequity when conducting research. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
 
 
