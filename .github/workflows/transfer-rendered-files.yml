@@ -41,10 +41,13 @@ jobs:
 
           # Copy over files in docs
           svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/docs
+          
+          # Also need .Rmd files for leanbuild (at least first time... then might need to manually update iframes etc)
+          #svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd
 
-          # Copy over any .bib files too!
-          svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/book.bib
-          svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/packages.bib
+          # Copy over any .bib files too! (needs to be forced for updates after .bib files exist)
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/book.bib
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/packages.bib
 
       - name: Create PR with rendered docs files
         uses: peter-evans/create-pull-request@v3
