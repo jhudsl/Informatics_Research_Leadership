@@ -42,14 +42,14 @@ The inclusion of diverse populations in scientific teams has also been shown to 
  
 Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
-Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as Black, Hispanic, and Native American) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020]. 
+Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as people of color and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @cech_systemic_2021]. https://www.insidehighered.com/blogs/gradhacker/invisible-minority-stem
 
 
 
 ## Underrepresentation in clinical trials
 
 
-Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations (in particular Black and Latinx individuals) in clinical trials [@clark_increasing_2019] and in particular for cancer studies[@nazha_enrollment_2019]. 
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular people of color, woman, and with limited data collected about LGBTQ+ individuals [@chen_approach_2019])  [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. 
 
  According to a study in 2011:
  
@@ -66,13 +66,13 @@ This lack of diverse participants is a problem because this results in less unde
 This is due to a number of reasons:
 1) Mistrust
 
-According to studies, marginalized groups such as Latinx and Black Americans reasonably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
+According to studies, marginalized groups such as Native Americans, people of Hispanic or Latin American ancestry and Black Americans reasonably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
 
 > African Americans’ suspicions and fears that many sectors of American society are not trustworthy were **logical and accurate interpretations** of their perceptions and **experiences**. [@griffith_determinants_2020]
 
 Examples of historical injustices include:
 
-a.[Tuskegee syphilis trial]((https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in [Tuskegee, Alabama about the outcomes of untreated syphilis in Black males]  (1932-1972) in which the patients were told they were being treated but were in fact not being treated.
+a. [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in [Tuskegee, Alabama about the outcomes of untreated syphilis in Black males]  (1932-1972) in which the patients were told they were being treated but were in fact not being treated.
 
 b. ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
 cervical cancer were also similarly studied but patients were not offered standard treatments,they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial. 
@@ -97,18 +97,18 @@ Importantly, this is only a sample of examples. Many other individuals among a v
 
 2) Health care inequity 
 
-Beyond such examples of extremely unethical studies and practices, marginalized populations such as Black, Latinx and Native Americans have also historically received poorer health care thus discouraging engagement with the health care system.[@griffith_determinants_2020, @studies_inclusion_1999, @fitzgerald_implicit_2017, @hodge_no_2012]
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of color have also historically received poorer health care thus discouraging engagement with the health care system.[@griffith_determinants_2020, @studies_inclusion_1999, @fitzgerald_implicit_2017, @hodge_no_2012]
 
  > African Americans, Latinx, and other racial or ethnic minority groups have a long history of receiving inferior quality of medical care even when they have the same level and type of insurance and access to care. [@griffith_determinants_2020]
  
->  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher cancer-specific mortality compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment.[@nazha_enrollment_2019]
+>  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher cancer-specific mortality compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment. [@nazha_enrollment_2019]
 
 
 3)  A lack of recruitment/inclusion
  
-> Implicit biases involve associations outside conscious awareness that lead to a negative evaluation of a person on the basis of irrelevant characteristics such as race or gender.[@fitzgerald_implicit_2017]
+> Implicit biases involve associations outside conscious awareness that lead to a negative evaluation of a person on the basis of irrelevant characteristics such as race or gender. [@fitzgerald_implicit_2017]
 
-> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury,  intravenous drug users, disability, and social circumstances.[@fitzgerald_implicit_2017]
+> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances. [@fitzgerald_implicit_2017]
 
 Sadly, this can result in researchers not including certain populations in their trials.
 
@@ -161,6 +161,11 @@ Community stakeholders can help to assess if recruitment information is cultural
 4) More inclusive research teams
 
 Individuals have been shown to be more trusting when research teams include members that are similar to themselves. [@griffith_determinants_2020]
+
+5) More inclusive practices
+
+When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. Similarly, more detailed information about ancestry could also lead to more informative findings about specific populations. 
+
 
 
 
