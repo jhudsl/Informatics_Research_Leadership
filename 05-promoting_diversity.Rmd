@@ -280,6 +280,7 @@ Educate lab mentors about cultural sensitivity and microaggressions. Highlight t
 
 ### **Diverse role models** 
 
+
 Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
 
 Computational biology papers with female authors are more likely to have a last author who is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [@bonham_women_2017]. 
