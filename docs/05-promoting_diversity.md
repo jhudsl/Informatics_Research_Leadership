@@ -36,18 +36,18 @@ The inclusion of diverse populations in scientific teams has also been shown to 
  
 Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
-Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as people of color and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @cech_systemic_2021]. 
+Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @cech_systemic_2021]. 
 
 
 ## Underrepresentation in clinical trials
 
 
-Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular people of color and woman) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about LGBTQ+ individuals [@chen_approach_2019]. 
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about LGBTQ+ individuals [@chen_approach_2019]. 
 
-According to a study in 2011, Black people represented 12% of the population, yet only 5% of clinical trial participants, while Hispanics and people of Latin American ancestry made up 16% of the population at the time, but only 1 % of clinical trial participants [@coakley_dialogues_2012].
+According to an FDA study in 2018, Black people represented 13.4% of the population, yet only 5% of clinical trial participants, while Hispanics and people of Latin American ancestry made up 18.1% of the population at the time, but less than 1% of clinical trial participants [@coakley_dialogues_2012].
  
 
-Furthermore, when looking at oncology trials, whites (80% of participants) and males (59.8% of participants) continue to be overrepresented, according to a study in 2019  [@nazha_enrollment_2019].
+Furthermore, when looking at oncology trials, whites (80% of participants) and males (59.8% of participants) continue to be overrepresented, according to a study in 2019  [@nazha_enrollment_2019]. 
 
 
 This lack of diversity in clinical trials is a problem because this results in less understanding about how particular patients will fare with a given treatment/vaccine/diagnosis etc. This lack of knowledge can result in furthering inequities in medical care [@clark_increasing_2019].  
@@ -63,23 +63,21 @@ According to studies, marginalized groups such as Native Americans, people of Hi
 
 Examples of historical injustices include:
 
--  [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in Tuskegee, Alabama about the outcomes of untreated syphilis in Black males (1932-1972) in which the patients were told they were being treated but were in fact not being treated.
+-  [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in Tuskegee, Alabama about the outcomes of untreated syphilis in Black males (1932-1972) in which the patients were told they were being treated but were in fact not being treated [@mcvean_40_2019].
 
 -  ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
-cervical cancer were also similarly studied but patients were not offered standard treatments, they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial. 
+cervical cancer were also similarly studied but patients were not offered standard treatments, they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial [@evans_revisiting_NZ]. 
 
--  [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. However according to a report:
+-  [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. Her family did not receive money from the companies that profited from her cells, and for decades her family was often not asked for consent as doctors and scientists revealed her name and medical records publicly [@noauthor_henrietta_2020]. 
 
-> "None of the biotechnology or other companies that profited from her cells passed any money back to her family. And, for decades after her death, doctors and scientists repeatedly failed to ask her family for consent as they revealed Lacks’s name publicly, gave her medical records to the media, and even published her cells’ genome online." 
+> “I want scientists to acknowledge that HeLa cells came from an African American woman who was flesh and blood, who had a family and who had a story,” her granddaughter Jeri Lacks-Whye told Nature [@noauthor_henrietta_2020].
 
-- [STD experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf):
+- [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatamal. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
 
-According to a report:
-
-> "The study involved at least 5128 vulnerable people, including children, orphans, child and adult prostitutes, Guatemalan Indians, leprosy patients, mental patients, prisoners, and soldiers. Between 1946 and 1948, health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others. The study originally began in the United States but was moved to Guatemala when researchers were unable to consistently produce gonorrhea infections in prisoners at a Terre Haute, Indiana, prison." [@rodriguez_first_2013]
+> "...health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others." [@rodriguez_first_2013]
 
 - [Radioactive iodine thyroid studies of Alaskan natives](https://www.tandfonline.com/doi/full/10.1080/10508422.2012.730788):
-In the 1950s, a study was conducted to examine the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceeded current recommendations. Beyond the riskiness of the dose of radiation, this study was unethical due to inadequate translation of research methods and consent forms, thus participants were not able to be properly informed about the risks of the study and therefore not able to provide proper consent. Furthermore, this also led to the inadequate exclusion of participants for pregnancy, lactation, and other conditions  [@hodge_no_2012].
+In the 1950s, a study was conducted to examine the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceeded current recommendations. Beyond the riskiness of the dose of radiation, this study was unethical due to inadequate translation of research methods and consent forms, thus participants were not able to be properly informed about the risks of the study and therefore not able to provide proper consent. Furthermore, this also led to the inadequate exclusion of participants for pregnancy, lactation, and other conditions [@hodge_no_2012].
 
 
 Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people weary of participating in clinical research [@griffith_determinants_2020]. 
@@ -90,35 +88,45 @@ Importantly, this is only a small subset of examples. Many other individuals amo
 
 ### **Health care inequity** 
 
-Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of color have also historically received poorer health care thus discouraging engagement with the health care system. [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012]
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of certain racial and ethnic ancestry have also historically received poorer access to health care and poorer quality health care, thus discouraging their engagement with the health care system. [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012] 
 
- > African Americans, Latinx, and other racial or ethnic minority groups have a long history of receiving inferior quality of medical care even when they have the same level and type of insurance and access to care. [@griffith_determinants_2020]
+Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today.[@jul_16_health_2021]
+
+<img src="images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge9427bed03_0_32.png" title="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry" alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry" width="100%" />
+
+[[source](https://www.kff.org/racial-equity-and-health-policy/issue-brief/health-coverage-by-race-and-ethnicity/)]
+
+Even with similar access to care (which can be reduced by sociodemographic factors), people of marginalized racial and ethnic groups still have a history of receiving inferior health care [@griffith_determinants_2020].
+
+These two issues among others have led to health disparities, including for cancer:
  
->  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher cancer-specific mortality compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment. [@nazha_enrollment_2019]
+>  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher **cancer-specific mortality** compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment. [@nazha_enrollment_2019]
 
 
 ###  **Poor recruitment and inclusion**
  
-> Implicit biases involve associations outside conscious awareness that lead to a negative evaluation of a person on the basis of irrelevant characteristics such as race or gender. [@fitzgerald_implicit_2017]
+Due to concern about the time and effort required to find a more diverse set of participants and also due to implicit bias, many populations are not recruited at the same rate. **Implicit bias** is an unconscious negative evaluation of a person based on characteristics that are irrelevant [@fitzgerald_implicit_2017].
 
-> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances. [@fitzgerald_implicit_2017]
+> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances [@fitzgerald_implicit_2017].
 
 Sadly, this can result in researchers not including certain populations in their trials.
+Indeed healthcare professionals have been shown to withhold care, such as treatment based on their own bias about if a particular individual would adhere to the protocol. Thus marginalized groups often aren't even recruited for clinical trials [@ACRP_representation_2020].
 
-> Healthcare professionals have been shown to withhold treatments based on preconceived notions about whether the racial/ethnic minority patient would adhere to the protocol [@ACRP_representation_2020]
+Studies of  attempts to regulate oncology trial participation to be more inclusive, show that still  48%  did not meet target recruitment goals for recruiting underrepresented populations [@ACRP_representation_2020].
 
-### **Inadequate researcher cultural competency**
+### **Inadequate researcher cultural competency and diversity**
 
-> Participants noted that trust is influenced not only by the scientific expertise of the researchers, but also by the researchers’ knowledge of the history, context, and experience of the study populations. [@griffith_determinants_2020]
+In a study of clinical trial participants of marginalized groups, participants stated that they were more likely to trust a researcher if they seemed scientifically knowledgeable but also had an understanding of the **history** and **context** of the study population, as well as experience working with that population [@griffith_determinants_2020].
 
 > In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be. [@griffith_determinants_2020]
 
+Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. 
 
 ### **Barriers of access**
 
->...in addition to the limited participation by racial minorities, access to cancer trials is only available to a minority of patients, with approximately 27% of U.S. patients with cancer having access to trials. [@nazha_enrollment_2019]
+In a 2019 study, access to oncology trials was found to only be available to about 27% of US cancer patients [@nazha_enrollment_2019].
 
-There are many barriers to access. 
+There are many barriers to this access:
 
 - Language: 
 One major important barrier is translation of recruitment materials to other languages.
@@ -133,12 +141,15 @@ If it is more time consuming to get to appointments due to a need for public tra
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health.[@ACRP_representation_2020]
 
 
-4) **Lack of community engagement funding**
+### **Lack of community engagement funding**
 
-There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access,  recruitment and retention of more diverse participants for clinical trials. 
+There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials. 
 
 Recent projects in which participants are recruited through community engagement, such as [project brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
 
+### **Other aspects of funding**
+
+Most clinical trials are funded by the pharmaceutical industry which often leads to pressure for a more homogeneous population to improve the opportunity to see effects in patients without confounding patient-specific factors.  However, trials that are funded by the NIH include more diverse participants that are more representative of the true population of patients with cancer in the US [@ACRP_representation_2020].
 
 ## Strategies to promote more equitable inclusion in clinical trials
 
@@ -157,13 +168,13 @@ Community stakeholders can help to assess if recruitment information is cultural
 
 4) More inclusive research teams
 
-Individuals have been shown to be more trusting when research teams include members that are similar to themselves. [@griffith_determinants_2020]
+As stated earlier, individuals have been shown to be more trusting when research teams include members that are similar to themselves [@griffith_determinants_2020]. 
 
 5) More inclusive practices
 
 When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. Similarly, more detailed information about ancestry could also lead to more informative findings about specific populations. 
 
-
+6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples. 
 
 
 ## What does it take for clinical research to be ethical? 
