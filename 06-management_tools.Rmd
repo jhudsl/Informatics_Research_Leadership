@@ -31,7 +31,14 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ```
 
 
-<p align = "center"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align = "center"> <iframe width="560" height="315"
+src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe></p>
+
+```{r, fig.align="center", fig.alt = "slack", echo=FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube-nocookie.com/embed/EYqxQGmQkVw")
+```
 
 You can do quite well with the free version of slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history. 
 
@@ -205,7 +212,7 @@ Figshare also encourages researchers to publish negative findings that did not u
 
 <!-- <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 
-```{r, fig.align="center", fig.alt = "intersectionality", echo=FALSE, out.width="100%"}
+```{r, fig.align="center", fig.alt = "figshare", echo=FALSE, out.width="100%"}
 knitr::include_url("https://www.youtube.com/embed/_q50OWkz4Kc")
 ```
 
