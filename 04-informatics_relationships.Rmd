@@ -6,7 +6,6 @@ biblio-style: apalike
 link-citations: yes
 ---
 
-
 ```{r, include = FALSE}
 library(knitr)
 library(leanbuild)
