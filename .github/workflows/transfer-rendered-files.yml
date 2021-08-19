@@ -43,7 +43,7 @@ jobs:
           svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/docs
           
           # Also need .Rmd files for leanbuild (at least first time... then might need to manually update iframes etc)
-        files:ls https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd
+          files:ls https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd
           for i in $files
           do 
           svn --force export i
