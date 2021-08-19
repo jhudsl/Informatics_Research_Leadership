@@ -14,8 +14,7 @@ leanbuild::set_knitr_image_path()
 ```
 
 # Informatics relationships
- 
- 
+
 ```{r, fig.alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_205")
 ```
