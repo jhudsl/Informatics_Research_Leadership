@@ -43,12 +43,13 @@ jobs:
           svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/docs
           
           # Also need .Rmd files for leanbuild (at least first time... then might need to manually update iframes etc)
-          files:ls https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd
-          for i in $files
-          do 
-          svn --force export i
-          done
-   
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/01-intro.Rmd
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/02-team_guidelines.Rmd
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/03-project_guidelines.Rmd
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/04-informatics_relationships.Rmd
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/05-promoting_diversity.Rmd
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/06-management_tools.Rmd
+
           # Copy over any .bib files too! (needs to be forced for updates after .bib files exist)
           svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/book.bib
           svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/packages.bib

@@ -140,7 +140,6 @@ If it is more time consuming to get to appointments due to a need for public tra
 - Health Literacy:
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health.[@ACRP_representation_2020]
 
-
 ### **Lack of community engagement funding**
 
 There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials. 
@@ -177,6 +176,7 @@ When obtaining information about gender, researchers should collect more informa
 6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples. 
 
 
+
 ## What does it take for clinical research to be ethical? 
 
 Here you can see a table of requirements for ethical research trials.[@emanuel_what_nodate] Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
@@ -202,7 +202,6 @@ According to a recent article [@zavala_cancer_2021] about cancer research in the
 6) Employ culturally tailored community awareness and education programs to increase cancer screening (including genetics) and modify risk behaviors.
 
 7) Implement legislation that supports behavioral interventions (e.g. limit the sales of tobacco products).
-
 
 ## Ways to better support a more diverse research team
 
