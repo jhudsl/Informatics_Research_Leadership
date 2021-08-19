@@ -100,7 +100,6 @@ Many racial and ethnic groups in the US were historically more likely to be unin
 
 ```{r, fig.alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge9427bed03_0_32")
-
 ```
 
 [[source](https://www.kff.org/racial-equity-and-health-policy/issue-brief/health-coverage-by-race-and-ethnicity/)]
