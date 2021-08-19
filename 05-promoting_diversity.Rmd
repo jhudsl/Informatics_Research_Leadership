@@ -184,6 +184,7 @@ When obtaining information about gender, researchers should collect more informa
 6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples. 
 
 
+
 ## What does it take for clinical research to be ethical? 
 
 Here you can see a table of requirements for ethical research trials.[@emanuel_what_nodate] Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.

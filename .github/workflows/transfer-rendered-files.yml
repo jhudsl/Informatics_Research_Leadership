@@ -44,16 +44,8 @@ jobs:
           
           # Also need .Rmd files for leanbuild (at least first time... then might need to manually update iframes etc)
           
-          repository = https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}
-
-          for line in svn list -R https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/} | grep ".Rmd" 
-          do
-
-          filename =`echo "$line" |sed "s|$repository||g"`
-
-          svn export --force -r HEAD $repository$line
+          svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/**/**.Rmd
           
-          done
    
           # Copy over any .bib files too! (needs to be forced for updates after .bib files exist)
           svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/book.bib
