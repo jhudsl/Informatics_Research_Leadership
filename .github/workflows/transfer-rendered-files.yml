@@ -43,8 +43,8 @@ jobs:
           svn export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/docs
           
           # Also need .Rmd files for leanbuild (at least first time... then might need to manually update iframes etc)
-          #svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/**/*.Rmd
-          find . -name https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd -print | svn --force export
+          svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/**.Rmd
+          #find . -name https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/*.Rmd -print | svn --force export
 
           # Copy over any .bib files too! (needs to be forced for updates after .bib files exist)
           svn --force export https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/book.bib

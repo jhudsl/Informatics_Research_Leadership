@@ -148,7 +148,6 @@ If it is more time consuming to get to appointments due to a need for public tra
 - Health Literacy:
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health.[@ACRP_representation_2020]
 
-
 ### **Lack of community engagement funding**
 
 There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials. 
