@@ -72,7 +72,7 @@ cervical cancer were also similarly studied but patients were not offered standa
 
 > “I want scientists to acknowledge that HeLa cells came from an African American woman who was flesh and blood, who had a family and who had a story,” her granddaughter Jeri Lacks-Whye told Nature [@noauthor_henrietta_2020].
 
-- [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatamal. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
+- [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatemala. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
 
 > "...health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others." [@rodriguez_first_2013]
 
@@ -134,7 +134,7 @@ One major important barrier is translation of recruitment materials to other lan
 - Scheduling:
 Another barrier can be the time at which participants are needed to be in person for a clinical trial. Some individuals need more accommodation if for example they can't come to appointments during work hours due to having a job with an inflexible work schedule or due to care taking responsibilities. 
 
-- Transporation & location:
+- Transportation & location:
 If it is more time consuming to get to appointments due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
 - Health Literacy:
@@ -221,6 +221,8 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not an complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
 
+
+
 For example:
 
 > When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups. [@davis_barriers_2021]
@@ -260,6 +262,7 @@ Talk with your team members **individually** (be careful not to single out indiv
 Educate lab mentors about cultural sensitivity and microaggressions. Highlight the importance of collaboration and create a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab to demonstrate that respect among lab members is expected and required.
 
 ### **Diverse role models** 
+
 
 Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
 
