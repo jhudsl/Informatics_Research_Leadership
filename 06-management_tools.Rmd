@@ -31,10 +31,10 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ```
 
 
-<p align = "center"> <iframe width="560" height="315"
-src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-picture-in-picture" allowfullscreen></iframe></p>
+<!-- <p align = "center"> <iframe width="560" height="315" -->
+<!-- src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" frameborder="0" -->
+<!-- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; -->
+<!-- picture-in-picture" allowfullscreen></iframe></p> -->
 
 ```{r, fig.align="center", fig.alt = "slack", echo=FALSE, out.width="100%"}
 knitr::include_url("https://www.youtube-nocookie.com/embed/EYqxQGmQkVw")
