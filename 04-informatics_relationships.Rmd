@@ -12,7 +12,6 @@ library(leanbuild)
 leanbuild::set_knitr_image_path()
 ```
 
-
 # Informatics relationships
 
 
