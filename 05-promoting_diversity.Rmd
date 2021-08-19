@@ -213,7 +213,6 @@ According to a recent article [@zavala_cancer_2021] about cancer research in the
 
 7) Implement legislation that supports behavioral interventions (e.g. limit the sales of tobacco products).
 
-
 ## Ways to better support a more diverse research team
 
 In order to best support and encourage mentees and employees of underrepresented groups in cancer informatics, we suggest that lab leaders do the following: 
