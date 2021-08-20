@@ -86,7 +86,7 @@ cervical cancer were also similarly studied but patients were not offered standa
 In the 1950s, a study was conducted to examine the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceeded current recommendations. Beyond the riskiness of the dose of radiation, this study was unethical due to inadequate translation of research methods and consent forms, thus participants were not able to be properly informed about the risks of the study and therefore not able to provide proper consent. Furthermore, this also led to the inadequate exclusion of participants for pregnancy, lactation, and other conditions [@hodge_no_2012].
 
 
-Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people weary of participating in clinical research [@griffith_determinants_2020]. 
+Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people wary of participating in clinical research [@griffith_determinants_2020]. 
 
 > “We, as African Americans were always the pilot test... I know because people have experienced it within my line, my family, my bloodline in [city name]. Yeah.” He continued by saying, “So I just think that we’ve been used and misused a lot of times within the African American community and in the lower parts of the devastation where the devastation lies.” [@griffith_determinants_2020]
 
@@ -152,7 +152,7 @@ For individuals who don't have the time, education, or other means necessary to 
 
 There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials. 
 
-Recent projects in which participants are recruited through community engagement, such as [project brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
+Recent projects in which participants are recruited through community engagement, such as [Project Brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
 
 ### **Other aspects of funding**
 
