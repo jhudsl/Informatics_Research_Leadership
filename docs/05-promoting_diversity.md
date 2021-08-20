@@ -154,12 +154,11 @@ Most clinical trials are funded by the pharmaceutical industry which often leads
 
 1) Provide adequate financial, logistical, and time support
 
-Researchers should consider how participants can cope with healthcare needs following participation in a study.
-Investigators should consider how to support caregivers who have important obligations to tend to their family members or others, for example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi.[@ACRP_representation_2020] Researchers should also consider providing patients with a cell phone to improve communication.[@clark_increasing_2019]
+Investigators should consider how to support caregivers who have important obligations, such as tending to their family members or others. For example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi.[@ACRP_representation_2020] Researchers should also consider providing patients with a cell phone to improve communication [@clark_increasing_2019]. Finally, participants may also need extra assistance to cope with healthcare needs following participation in a study, particularly if this interferes with their typical obligations. 
 
 2) More promotion of health care access in general 
 
-Individuals have been shown to be more likely to participate when advised by a health care provider.[@clark_increasing_2019] Increasing health care system access in general could therefore improve clinical trial participation.
+Individuals have been shown to be more likely to participate when advised by a health care provider.[@clark_increasing_2019] Increasing health care system access in general could improve clinical trial participation, by increasing opportunities for health care providers to interact with individuals who could participate in a trial.
 
 3) More promotion of community engagement
 
@@ -167,11 +166,11 @@ Community stakeholders can help to assess if recruitment information is cultural
 
 4) More inclusive research teams
 
-As stated earlier, individuals have been shown to be more trusting when research teams include members that are similar to themselves [@griffith_determinants_2020]. 
+As stated earlier, individuals have been shown to be more trusting when research teams include members that have a similar background to themselves [@griffith_determinants_2020]. 
 
 5) More inclusive practices
 
-When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. Similarly, more detailed information about ancestry could also lead to more informative findings about specific populations. 
+When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. This involves collecting more information about non-binary individuals, for example providing response options to questions about gender so that an individual who was assigned female at birth, but is now male can adequately provide this information. Similarly, more detailed information about ancestry (for example providing more specific Latin American ancestry options as opposed to just Latin American) could also lead to more informative findings about specific populations. 
 
 6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples. 
 
