@@ -188,10 +188,12 @@ When obtaining information about gender, researchers should collect more informa
 
 Here you can see a table of requirements for ethical research trials.[@emanuel_what_nodate] Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
-```{r, fig.alt="Table about requirements for determining if a research trial is ethical", out.width = "100%", echo = FALSE}
+```{r, fig.alt="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research.", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge770395a4c_0_0")
 ```
-
+```{r, fig.alt="Table about requirements for determining if a research trial is ethical continued, including provision of information to subjects about purpose of the research, its procedures, potential risks, benefits and alternatives, so that the individual understands the information and can make a voluntary decision whether to participate; and respecting all subjects by 1. permitting withdrawal from the research, 2. protecting privacy through confidentiality, 3. informing subjects of newly discovered risks or benefits, 4. informing subjects of results of clinical research, 5. maintaining welfare of subjects.", out.width = "100%", echo = FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gea0796e0b3_0_38")
+```
 
 ## Research practices to reduce cancer health disparities
 
@@ -249,8 +251,8 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 
 See below a list of examples:
 
-```{r, fig.align="center", echo=FALSE}
-knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf", height = "800px")
+```{r, fig.align="center", echo=FALSE, out.width="100%"}
+knitr::include_url("https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf")
 ```
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]

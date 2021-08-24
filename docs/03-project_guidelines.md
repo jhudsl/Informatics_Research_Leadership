@@ -48,6 +48,8 @@ Several potential blood-based biomarkers for colorectal cancer have been identif
 
 <img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_189.png" title=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full " alt=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full " width="100%" />
 
+<img src="images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gea0796e0b3_0_24.png" title=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full continued" alt=" Image of table with information about biomarkers identified with various studies for this article: https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full continued" width="100%" />
+
 [[source](https://www.frontiersin.org/articles/10.3389/fonc.2019.01284/full)]
 
 You might ask how useful are these biomarkers for diagnosing colorectal cancer? 
