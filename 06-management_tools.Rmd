@@ -37,7 +37,7 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 <!-- picture-in-picture" allowfullscreen></iframe></p> -->
 
 ```{r, fig.align="center", fig.alt = "slack", echo=FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube-nocookie.com/embed/EYqxQGmQkVw")
+knitr::include_url("https://www.youtube-nocookie.com/embed/q19RtuCHt1Q")
 ```
 
 You can do quite well with the free version of slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history. 

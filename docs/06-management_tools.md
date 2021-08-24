@@ -28,7 +28,7 @@ There are several tools that can be especially useful for assisting with day-to-
 <!-- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; -->
 <!-- picture-in-picture" allowfullscreen></iframe></p> -->
 
-<iframe src="https://www.youtube-nocookie.com/embed/EYqxQGmQkVw" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/q19RtuCHt1Q" width="100%" height="400px" data-external="1"></iframe>
 
 You can do quite well with the free version of slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history. 
 
