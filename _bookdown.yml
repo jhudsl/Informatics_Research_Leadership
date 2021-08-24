@@ -1,15 +1,15 @@
 book_filename: "ITCR_Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/ITCR_Cancer_Research_Leadership
-rmd_files: ["index.Rmd"] 
-            # "01-intro.Rmd", 
-            # "02-team_guidelines.Rmd",
-            # "03-project_guidelines.Rmd",
-            # "04-informatics_relationships.Rmd",
-            # "05-promoting_diversity.Rmd",
-            # "06-management_tools.Rmd",
-            # "about.Rmd",
-            # "references.Rmd"]
+rmd_files: ["index.Rmd", 
+            "01-intro.Rmd", 
+            "02-team_guidelines.Rmd",
+            "03-project_guidelines.Rmd",
+            "04-informatics_relationships.Rmd",
+            "05-promoting_diversity.Rmd",
+            "06-management_tools.Rmd",
+            "about.Rmd",
+            "references.Rmd"]
 new_session: yes
 delete_merged_file: true
 language:
