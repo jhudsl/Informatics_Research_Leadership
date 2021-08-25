@@ -5,6 +5,7 @@ output: html_document
 
 
 
+
 # Introduction 
 
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_418.png" title="Title image: Leadership for Cancer Informatics Research" alt="Title image: Leadership for Cancer Informatics Research" width="100%" />
