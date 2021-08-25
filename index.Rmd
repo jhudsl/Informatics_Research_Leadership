@@ -7,6 +7,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Description about Course/Book."
+favicon: assets/favicon.ico
 ---
 
 
