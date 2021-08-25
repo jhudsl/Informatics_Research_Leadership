@@ -323,3 +323,5 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ## Conclusion
 
 We hope these leadership guidelines will help you to better support your lab team to be as successful as possible! 
+   
+   
