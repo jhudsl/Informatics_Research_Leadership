@@ -25,7 +25,7 @@ The inclusion of diverse research team members may promote more inclusive resear
 
 > "... the social environment in which people live, learn, work, and play contributes to disparities and is among the most important determinants of health throughout the course of life."[@jackson_addressing_2014]
 
-More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that the research could serve. Such consideration could further increase the impact of the research.
+More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that the research could serve. Such consideration could further increase the impact of the research. 
 
 The inclusion of diverse populations in scientific teams has also been shown to improve innovation [@hofstra_diversityinnovation_2020].
 
@@ -37,7 +37,24 @@ The inclusion of diverse populations in scientific teams has also been shown to 
 Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
 Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @cech_systemic_2021]. 
+Despite very often facing discrimination and less support, many individuals of these underrepresented groups have greatly contributed to scientific achievement, which demonstrates the potential innovation that could be achieved when research teams are more diverse.
 
+Many Black scientists are responsible for great human achievements that changed the world including:
+
+- [Katherine Johnson](https://www.biography.com/scientist/katherine-g-johnson):  - A mathematician who helped enable humans to venture into space. Katherine was a mathematician who worked for NASA in the 1960s during the [Space Race](https://en.wikipedia.org/wiki/Space_Race). A depiction of her work and some of the discrimination that she faced while working for NASA is featured in the film [*Hidden figures*](https://en.wikipedia.org/wiki/Hidden_Figures).
+
+- [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas): - A pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) when it was considered taboo. He is credited for assisting in creating a life saving surgical operation to improve the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures.
+
+See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
+
+Scientists and Mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
+
+- [Mario Molina](Mario Molina) was awarded the Nobel Prize in Chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies that protect our environment from these chemicals produced .
+
+See this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
+
+
+Also check out this [list](https://science.howstuffworks.com/dictionary/famous-scientists/physicists/10-hispanic-scientists.htm) for additional historic scientists and this [list](http://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) for some current inspiring scientists of Hispanic or Latin american ancestry or origin. 
 
 ## Underrepresentation in clinical trials
 
@@ -51,6 +68,9 @@ Furthermore, when looking at oncology trials, whites (80% of participants) and m
 
 
 This lack of diversity in clinical trials is a problem because this results in less understanding about how particular patients will fare with a given treatment/vaccine/diagnosis etc. This lack of knowledge can result in furthering inequities in medical care [@clark_increasing_2019].  
+
+
+Demographic studies of the United States demonstrate that racial and ethnic populations that have been historically underrepresented in clinical trials and in STEM have grown and are predicted to make up 50% of the population by 2045 [@clark_increasing_2019]. Thus for medical care to best serve the current and future population of the United States, trials especially need to be more representative of the diverse groups that make up our country.
 
 
 Research suggests the following reasons for the lack of diversity in clinical trials: 
