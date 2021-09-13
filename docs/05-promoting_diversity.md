@@ -43,33 +43,57 @@ Many Black scientists are responsible for great human achievements that changed 
 
 - [Katherine Johnson](https://www.biography.com/scientist/katherine-g-johnson): Katherine Johnson was a mathematician who helped enable humans to venture into space. Katherine worked for NASA in the 1960s during the [Space Race](https://en.wikipedia.org/wiki/Space_Race). A depiction of her work and some of the discrimination that she faced while working for NASA is featured in the film [*Hidden figures*](https://en.wikipedia.org/wiki/Hidden_Figures).
 
-- [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) when it was considered taboo. He is credited for assisting in creating a life saving surgical operation to improve the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures.
+- [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
 
-See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
+See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world-changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
 
-Scientists and Mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
+Scientists and mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
 
-- [Mario Molina](Mario Molina): Mario was born in Mexico and came to the United States for graduate school. He was a chemist and environmental scientist and was awarded the Nobel Prize in Chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies (starting in the 1980s) to protect our environment from these chemicals which were widely used as aerosols, solvents and refrigerants. Through these policies, many countries around the world have banned or greatly reduced the manufacturing of these chemicals. [NASA projections](https://earthobservatory.nasa.gov/images/38685/the-ozone-layer-if-cfcs-hadnt-been-banned) suggest that the ozone would have been largely depleted by 2060 if these chemicals were manufactured at previous historical rates. See [here](https://earthobservatory.nasa.gov/features/WorldWithoutOzone/page1.php) for more information on what would have likely happened to the world if CFCs were not banned.
+- [Mario Molina](Mario Molina): Mario was born in Mexico and came to the United States for graduate school. He was a chemist and environmental scientist and was awarded the Nobel Prize in Chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies (starting in the 1980s) to protect our environment from these chemicals which were widely used as aerosols, solvents and refrigerants. Through these policies, many countries around the world have banned or greatly reduced the manufacturing of these chemicals. [NASA projections](https://earthobservatory.nasa.gov/images/38685/the-ozone-layer-if-cfcs-hadnt-been-banned) suggest that the ozone layer would have been largely depleted by 2060 if these chemicals were manufactured at previous historical rates. See [here](https://earthobservatory.nasa.gov/features/WorldWithoutOzone/page1.php) for more information on what would have likely happened to the world if CFCs were not banned. Also check out this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
 
-See this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
-
- - [Ynes Mexia](https://www.nps.gov/people/ynes-mexia.htm): Ynes began her career as a botanist in her fifties in the 1920s. She traveled widely (often by herself (which was very unusual at the time)) collecting and characterizing plants. She unfortunately passed away at 68 cutting her botany career short to only 13 years. However, in that time she collected over 145,000 specimens and made numerous discoveries. Her legacy in botany had such an impact that a genius is named after her. She is also highly regarded for her efforts in environmental conservation, particularly for helping to preserve the redwood forests in the United States.
+ - [Ynes Mexia](https://www.nps.gov/people/ynes-mexia.htm): Ynes began her career as a botanist in her fifties in the 1920s. She traveled widely (often by herself) collecting and characterizing plants. She unfortunately passed away at 68 cutting her botany career short to less than 20 years. However, in that time she collected over 145,000 specimens and made numerous discoveries. Her legacy in botany had such an impact that the [Mexianthus genus](https://en.wikipedia.org/wiki/Mexianthus) is named after her. She is also highly regarded for her efforts in environmental conservation, particularly for helping to preserve the redwood forests in the United States.
  
 This adventurous woman has been quoted for saying:
 
->"I don’t think there’s any place in the world where a woman can’t venture."
+> "I don’t think there’s any place in the world where a woman can’t venture."
  
 See this [video](https://unladylike2020.com/profile/ynes-mexia/) for more information about her inspiring life. 
 
 Also check out this [list](https://science.howstuffworks.com/dictionary/famous-scientists/physicists/10-hispanic-scientists.htm) for additional historic scientists and this [list](http://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) for some current inspiring scientists of Hispanic or Latin american ancestry or origin.
 
+Individuals from the various indigenous or native tribes of the United States have also contributed greatly to scientific understanding and innovation. See [here](https://www.popularmechanics.com/science/g29460020/indigenous-scientists/) for a list of some, in addition to:
 
+- [Fred Begay/Fred Young/Clever Fox](https://en.wikipedia.org/wiki/Fred_Begay):
+Fred was a nuclear physicist who's work was instrumental in innovating alternative energy sources at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory). He was born on the Ute Mountain Reservation. His parents were from the [Navajo or Diné](https://en.wikipedia.org/wiki/Navajo) and [Ute](https://en.wikipedia.org/wiki/Ute_people) tribes. His life and work are featured in a documentary called *The Long Walk of Fred Young* which you watch [here](https://trakt.tv/shows/nova/seasons/6/episodes/2). Fred spent a great deal of time on outreach and education particular for youths of the Navajo Nation. He is also known for making connections between Navajo beliefs and science.  
 
+He's been quoted for saying:
+
+> “I think the key point is that I learned to think abstractly and develop reasoning skills when I was growing up, learning about lasers and radiation in the Navajo language... That’s all embedded in our religion.
+
+> We strongly rely on natural phenomena. We believe we’re children of nature.
+
+> The Navajo has mysterious ideas about science which cannot be interpreted into English. ” https://www.physicscentral.com/explore/people/begay.cfm
+
+See [here](https://www.physicscentral.com/explore/people/begay.cfm) to learn more about Fred.
+
+- [Floy Agnes Lee (called Aggie)](https://en.wikipedia.org/wiki/Fred_Begay): Floy was a biologist who grew up in New Mexico and her father was from the [Santa Clara Pueblo or  Kha'po Owingeh](https://en.wikipedia.org/wiki/Santa_Clara_Pueblo,_New_Mexico). Her work at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), [Argonne National Laboratory](https://www.anl.gov/), the [University of Chicago](https://www.uchicago.edu/), and [Jet Propulsion Laboratory](jpl.nasa.gov) helped expand our understanding of the effects of radiation on living cells. You can see an interview of her at this [link](https://youtu.be/51J5K5A_y-8) and see a written translation of this interview [here](https://www.manhattanprojectvoices.org/oral-histories/floy-agnes-lees-interview).
+
+- [Edna Paisano](https://en.wikipedia.org/wiki/Edna_Paisano): Edna was a demographer and Statistican who was born on the [Nez Perce](https://en.wikipedia.org/wiki/Nez_Perce) Reservation in Idaho. Her family was from the Nez Perce tribe and the [Laguna Pueblo](https://en.wikipedia.org/wiki/Laguna_Pueblo). While working at the United States Census Bureau in the 1980s, she discovered that many Native, indigenous, Indian or tribal communities were being undercounted and that this was reducing the amount of government resources and services potentially available to these communities. She was instrumental in improving the counting of individuals from various tribes in the United States Census by initiating a public information campaign. She also published several books throughout her career. See [here](https://www.bu.edu/lernet/pathways/bios.html#ep) for more information about Edna.
+
+Also, check out this [list](https://medium.com/women-of-silicon-valley/just-18-awesome-native-folks-in-stem-134211ff14cd) for information about current native or indigenous people in STEM.
+
+There are also numerous [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) scientist who changed the world. See  [here](https://www.discovery.com/science/LGBT-Scientists-Who-Changed-World) and [here](https://www.osc.org/important-lgbtq-scientists-who-left-a-mark-on-stem-fields/) for a review of several including:
+
+- [Alan Hart](https://www.oregonencyclopedia.org/articles/hart_alan_1890_1962_/#.YT-yVtNKh25): Alan (1890-1962) was a clinician and researcher who's work largely focused on tuberculosis. Alan was assigned female at birth and later transitioned to be male in adulthood. Despite facing major obstacles due to discrimination, Alan had a very successful career as an expert in radiology for tuberculosis and served as the director of hospitalization and rehabilitation at the Connecticut State Tuberculosis Commission. Alan also wrote several novels. See [here](https://www.scientificamerican.com/article/trailblazing-transgender-doctor-saved-countless-lives/) to learn more about Alan's life.
+
+In addition, this [list](https://500queerscientists.com/) includes many  [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) people currently working in STEM.
+
+These lists are neither complete nor fully inclusive, but shed some light on the amazing achievements of some individuals in science who were or are among groups that remain underrepresented in STEM. Their unique life experiences, perspectives, intellect, and talent helped shape their work which has greatly improved our world. 
 
 ## Underrepresentation in clinical trials
 
 
-Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about LGBTQ+ individuals [@chen_approach_2019]. 
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals [@chen_approach_2019]. 
 
 According to an FDA study in 2018, Black people represented 13.4% of the population, yet only 5% of clinical trial participants, while Hispanics and people of Latin American ancestry made up 18.1% of the population at the time, but less than 1% of clinical trial participants [@coakley_dialogues_2012].
  
