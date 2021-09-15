@@ -227,5 +227,10 @@ Overall we will summarize our suggestions for avoiding project pitfalls.
 
 We hope that having an awareness for how informatics projects can fail and that keeping these mitigation strategies in mind when you are planning your projects will help you to be more successful with your informatics research endeavors!
 
+In conclusion here are some of the take-home messages:
+
+1) Follow the outlined steps for forming good informatics questions.
+2) Especially remember to make a mock-up of what your data might look like for a project.
+3) Remember that there are several sources for project pitfalls some of which are unavoidable at times, however discussing your plan early with other experts, planning for extra time, and diversifying projects can help.
    
    
