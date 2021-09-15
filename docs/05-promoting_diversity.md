@@ -17,7 +17,7 @@ link-citations: yes
 
 Beyond the critical importance of giving everyone more fair opportunities (which cannot be overstated), there are many additional crucial reasons why diversity is particularly important for science and health research.
 
-The inclusion of diverse research team members may promote more inclusive research questions and practices to help the populations that need better health care the most.
+The inclusion of diverse research team members may promote more inclusive research questions and practices to help the populations that need better health care the most. This is especially important as many of the historically marginalized racial and ethnic populations of the United States are growing. By 2045 it is expected that these groups will make up more than 50% of the population [@clark_increasing_2019].
 
 > "Racial/ethnic minority groups in the United States are at disproportionate risk of being uninsured, lacking access to care, and experiencing worse health outcomes from preventable and treatable conditions."[@jackson_addressing_2014]
 
@@ -36,7 +36,20 @@ The inclusion of diverse populations in scientific teams has also been shown to 
  
 Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
-Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @cech_systemic_2021]. 
+Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups, disabled people, and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @kricorian_factors_2020; @cech_systemic_2021; @iporac_are_2020; @williams_cultural_2018]. 
+
+Although Black people and people of Hispanic or Latin American origin or ancestry made up 27% of the workforce in the US in 2016, together they only made up 16% of the STEM workforce. People of tribes and nations that are often called Native American, Indigenous, or Indian Americans are also underrepresented in STEM [@williams_cultural_2018]. Although they made up 1.7% of the population in 2016 in the United States, they only represented 0.6% of individuals with bachelor’s degrees in science and engineering and only 0.2% of individuals with doctoral degrees in these fields [@williams_cultural_2018]. Furthermore all of these groups are particularly underrepresented in academia at the faculty level[@vargas_using_2021]. Importantly, although Asian Americans are generally considered well represented in STEM, this is only true for some fields and for those of ancestry or origin from certain Asian countries, such as Japan, China, Korea, and India, while those from other countries such as Cambodia, Laos, and others are often underrepresented. Indeed the term Asian American encompasses a very diverse group of people with diverse experiences and socieoecomic statuses.[@CARE; @nsf_stem ; @chen_models_2018; @iporac_are_2020]
+
+Furthermore, there are issues related to fair support and treatment for promotion and advancement for many marginalized groups, as well as for Asian Americans that are considered well represented. [@funk_racial_2018] 
+> “This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority.” – Asian woman, engineer, 56 [@funk_racial_2018]
+
+> "There are not many people of my race in [my] industry. It requires me to go the extra mile to fit in or be accepted because many of the employees don’t share my background or life experiences. I can do the job just fine, however, there are other factors of one’s life that are considered whenever they are in a critical and highly competitive environment.” – Black man, systems administrator, 30 [@funk_racial_2018]
+
+The reason for this underrepresentation is that people have historically not been allowed to participate, been discouraged from participating due to discrimination, had a lack of visible role models of their background, and have not had the same access to education. [@funk_racial_2018] Part of the reason that role models were not as visible as they could be, is that even when individuals of underrepresented groups overcame these adversities and made contributions to science, their contributions were often covered up or not fairly credited [@magazine_women_nodate].
+
+
+## Contributions by individuals of underrepresented groups
+
 Despite very often facing discrimination and less support, many individuals of these underrepresented groups have greatly contributed to scientific achievement, which demonstrates the potential innovation that could be achieved when research teams are more diverse.
 
 Many Black scientists are responsible for great human achievements that changed the world including:
@@ -64,7 +77,7 @@ Also check out this [list](https://science.howstuffworks.com/dictionary/famous-s
 Individuals from the various indigenous or native tribes of the United States have also contributed greatly to scientific understanding and innovation. See [here](https://www.popularmechanics.com/science/g29460020/indigenous-scientists/) for a list of some, in addition to:
 
 - [Fred Begay/Fred Young/Clever Fox](https://en.wikipedia.org/wiki/Fred_Begay):
-Fred was a nuclear physicist who's work was instrumental in innovating alternative energy sources at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory). He was born on the Ute Mountain Reservation. His parents were from the [Navajo or Diné](https://en.wikipedia.org/wiki/Navajo) and [Ute](https://en.wikipedia.org/wiki/Ute_people) tribes. His life and work are featured in a documentary called *The Long Walk of Fred Young* which you watch [here](https://trakt.tv/shows/nova/seasons/6/episodes/2). Fred spent a great deal of time on outreach and education particular for youths of the Navajo Nation. He is also known for making connections between Navajo beliefs and science.  
+Fred was a nuclear physicist who's work was instrumental in innovating alternative energy sources at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory). He was born on the Ute Mountain Reservation. His parents were from the [Navajo or Diné](https://en.wikipedia.org/wiki/Navajo) and [Ute](https://en.wikipedia.org/wiki/Ute_people) tribes. His life and work are featured in a documentary called *The Long Walk of Fred Young*. Fred spent a great deal of time on outreach and education particular for youths of the Navajo Nation. He is also known for making connections between Navajo beliefs and science.  
 
 He's been quoted for saying:
 
@@ -88,12 +101,12 @@ There are also numerous [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-doe
 
 In addition, this [list](https://500queerscientists.com/) includes many  [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) people currently working in STEM.
 
-These lists are neither complete nor fully inclusive, but shed some light on the amazing achievements of some individuals in science who were or are among groups that remain underrepresented in STEM. Their unique life experiences, perspectives, intellect, and talent helped shape their work which has greatly improved our world. 
+These lists are neither complete nor fully inclusive, but shed some light on the amazing achievements of some individuals in science who were or are among groups that remain underrepresented in STEM. Their unique life experiences, perspectives, intellect, and talent helped shape their work which has greatly improved our world. Again, even this short list demonstrates how potentially even greater innovation and scientific advancement could be achieved when including more diverse individuals in our research teams.
 
 ## Underrepresentation in clinical trials
 
 
-Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals [@chen_approach_2019]. 
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals [@chen_approach_2019]. Importantly this underrepresentation is not due to certain populations being hard to reach, but instead about a lack of practices that enable and encourage individuals from more diverse groups to participate. 
 
 According to an FDA study in 2018, Black people represented 13.4% of the population, yet only 5% of clinical trial participants, while Hispanics and people of Latin American ancestry made up 18.1% of the population at the time, but less than 1% of clinical trial participants [@coakley_dialogues_2012].
  
@@ -104,7 +117,7 @@ Furthermore, when looking at oncology trials, whites (80% of participants) and m
 This lack of diversity in clinical trials is a problem because this results in less understanding about how particular patients will fare with a given treatment/vaccine/diagnosis etc. This lack of knowledge can result in furthering inequities in medical care [@clark_increasing_2019].  
 
 
-Demographic studies of the United States demonstrate that racial and ethnic populations that have been historically underrepresented in clinical trials and in STEM have grown and are predicted to make up 50% of the population by 2045 [@clark_increasing_2019]. Thus for medical care to best serve the current and future population of the United States, trials especially need to be more representative of the diverse groups that make up our country.
+Demographic studies of the United States demonstrate that racial and ethnic populations that have been historically underrepresented in clinical trials and in STEM have grown and are predicted to make up 50% of the population by 2045 [@clark_increasing_2019]. Thus for medical care to best serve the current and future population of the United States, trials especially need to be more representative of the diverse groups that make up our country. 
 
 
 Research suggests the following reasons for the lack of diversity in clinical trials: 
@@ -174,7 +187,7 @@ In a study of clinical trial participants of marginalized groups, participants s
 
 > In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be. [@griffith_determinants_2020]
 
-Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. 
+Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. However, for research teams that are currently less diverse, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://dei.extension.org/extension-resources/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
 
 ### **Barriers of access**
 
@@ -271,7 +284,7 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 <iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px" data-external="1"></iframe>
 
 
-Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not an complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
+Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not a complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
 
 
 
@@ -347,7 +360,7 @@ See [here](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) for mo
 
 Be sure to celebrate **all** of your mentees' small and large successes. This has been shown to promote confidence and resilience [@stelter_establishing_2021].
 
-Be generous complementing or pointing out small success in discussions with your mentees and thank your mentees for performing tasks that they may assist you or your lab.
+Be generous complementing or pointing out small successes in discussions with your mentees and thank your mentees for performing tasks that assist you or your lab.
 
 For larger successes, consider sharing a meal or other social activity with your lab. For virtual or remote lab members this could be playing a game online.
 
@@ -355,7 +368,7 @@ Again aim to do this with all your mentees/lab members. Be mindful about not sin
 
 ### **Give feedback with cultural sensitivity**  
 
-It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Thus, when given criticism, certain mentees who may especially feel like they don't belong because of their background differences, may feel very discouraged. Try to still be encouraging when delivering criticism by acknowledging what is going well and what is progressing. 
+It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Thus, when given criticism, certain mentees who may especially feel like they don't belong because of their background differences, may feel very discouraged. Try to still be encouraging when delivering criticism by acknowledging what is going well and what is progressing. Also keep in mind that it is **important to provide feedback for all mentees**, as this is needed for growth. Just be sure to provide the feedback in a way that shows that you want your mentee to grow as a scientist overall and that you want them to continue.
 
 This [article](https://online.alvernia.edu/articles/constructive-criticism-in-the-workplace/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
 
