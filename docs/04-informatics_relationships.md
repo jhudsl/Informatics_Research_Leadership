@@ -225,7 +225,7 @@ When guiding your mentee through the publication process, it is a good idea to k
 
 We hope that these tips help you to mentor and lead your team in a more productive and effective way that benefits both your team members and your lab's mission!
 
-In conclusion here are some of the take-home messages:
+In conclusion, here are some of the take-home messages:
 
 1) There are many challenges associated with collaboration, however early and regular communication can help. It is also helpful to outline expectations early on.
 2) Becoming familiar with best practices for ethics and reproducibility is helpful for employing a computational biologist, especially if you are new to computation biology. Possibly consider learning a bit of code to better understand what your computational employees are doing if you yourself are not already familiar.

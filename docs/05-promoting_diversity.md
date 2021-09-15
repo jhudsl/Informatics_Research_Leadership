@@ -417,7 +417,7 @@ Also see [here](https://ictr.wisc.edu/mentoring/) for more information about suc
 
 We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members and to support your team to be more mindful about health inequity when conducting research. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
 
-In conclusion here are some of the take-home messages:
+In conclusion, here are some of the take-home messages:
 
 1) Increasing the diversity of our research teams can improve scientific innovation, can add additional perspectives about what research to focus on, can potentially promote more inclusive research practices, and can improve clinical trail recruitment of more diverse participants.
 2) Training about diversity, inclusion, and equity, as well as training about cultural competence can help research teams to communicate with diverse clinical trial participants, promote more inclusive lab culture, and promote more inclusive research.

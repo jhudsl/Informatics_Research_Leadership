@@ -318,9 +318,9 @@ The Markdown syntax used in Jupyter notebooks is nearly the same as what you jus
 
 Overall we think that these tools can be helpful to you and your informatics research team. There are however many other tools that can help with informatics analyses. We will discuss these in other courses about data reproducibility and management. 
 
-In conclusion here are some of the take-home messages:
+In conclusion, here are some of the take-home messages:
 
 1) Slack can be a great option for maintaining communication with lab members who may be onsite or remote.
 2) Version control with Git and GitHub as well as standardization using Docker can ensure that your computational work is being maintained and shared smoothly.
 3) RStudio and R Markdown reports can improve your analyses that you perform in R. This is also compatible with performing aspects of your analyses using some other languages. Jupyter is very helpful for python related projects. 
-4) Keeping reports of your work with annotations about the code and data used can be critical for your lab members, outside collaborators, and others to better understand your analyses.
+4) Keeping reports of your work with annotations about the code and data used can be critical for your future self, other lab members, outside collaborators, and others to better understand your analyses.

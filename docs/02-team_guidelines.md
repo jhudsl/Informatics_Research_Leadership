@@ -284,7 +284,9 @@ On the other hand, if you are an informatics expert mentoring experimental biolo
 
 ## Conclusion
 
-We hope these leadership guidelines will help you to better support your lab team to be as successful as possible! In conclusion here are some of the take-home messages:
+We hope these leadership guidelines will help you to better support your lab team to be as successful as possible! 
+
+In conclusion, here are some of the take-home messages:
 
 1) Look for collaborators early in the process, particularly those that explain clearly.
 2) Take your time and expect delays. Reduce stress by scheduling extra time where possible.
