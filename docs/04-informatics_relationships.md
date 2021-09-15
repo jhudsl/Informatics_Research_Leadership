@@ -57,7 +57,7 @@ Another important method that can help resolve this issue is to have members pro
 
 2) **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
 
->"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains." [@makinen_patterning_2020]
+>"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains" [@makinen_patterning_2020].
 
 Making clear research standards and goals, as well as outlining clear specific tasks at the beginning of a project can help to avoid this issue. Furthermore, meeting consistently throughout the duration of a project can also help to make sure that standards are maintained.  Additionally, these meetings should include discussions about intellectual property, authorship, leadership, and defining what success looks likes to each of the various members. Defining these details early can avoid major conflict later. 
 
@@ -79,11 +79,12 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
 It is also important to recognize that:
-> There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive. [@carpenter_cultivating_2021]
+
+> "There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive" [@carpenter_cultivating_2021].
 
 However:
 
-> In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project. [@carpenter_cultivating_2021]
+> "In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project" [@carpenter_cultivating_2021].
 
 Don't forget to provide some budget for your informatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
@@ -110,7 +111,7 @@ As a reminder, again unless you employee a senior informatics expert and even th
 
 ## Mentoring informatics students
 
-Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should **learn from each other and together** and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[@mullen_defining_2021]
+Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should **learn from each other and together** and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students [@mullen_defining_2021].
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
@@ -177,7 +178,7 @@ Check out this video for more details:
 <iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px" data-external="1"></iframe>
 
 
-From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate) are:  
+From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis [@robinson_build_nodate] are:  
 
 1) Statistics  
 2) Machine learning  
@@ -224,5 +225,10 @@ When guiding your mentee through the publication process, it is a good idea to k
 
 We hope that these tips help you to mentor and lead your team in a more productive and effective way that benefits both your team members and your lab's mission!
 
+In conclusion, here are some of the take-home messages:
 
-
+1) There are many challenges associated with collaboration, however early and regular communication can help. It is also helpful to outline expectations early on.
+2) Becoming familiar with best practices for ethics and reproducibility is helpful for employing a computational biologist, especially if you are new to computation biology. Possibly consider learning a bit of code to better understand what your computational employees are doing if you yourself are not already familiar.
+3) Remember that mentoring is a reciprocal process. There are many alternative strategies for mentoring that you may find helpful.
+4) Remember to discuss with your mentees about their career goals. The way you advise them should be driven by their interests.
+5) Organize projects so that your team can produce biological and computational manuscripts.

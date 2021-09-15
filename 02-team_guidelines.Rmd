@@ -69,11 +69,11 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
 
 
-> Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise. [@carpenter_cultivating_2021]
+> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise" [@carpenter_cultivating_2021].
 
-> Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data. [@carpenter_cultivating_2021]
+> "Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data" [@carpenter_cultivating_2021].
 
-> Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement. [@carpenter_cultivating_2021]
+> "Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement" [@carpenter_cultivating_2021].
 
 ## Communication for informatics teams
 
@@ -284,7 +284,7 @@ Regardless of your employees' or students' backgrounds, make sure you advocate f
 
 According to a recent report about computational biology:
 
-> Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review. [@carpenter_cultivating_2021]
+> "Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review" [@carpenter_cultivating_2021].
 
 
 It is often overlooked, but Informatics experts will also need **first author papers**. However, keep in mind that in some fields authors are listed in different ways. 
@@ -323,5 +323,11 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 ## Conclusion
 
 We hope these leadership guidelines will help you to better support your lab team to be as successful as possible! 
-   
-   
+
+In conclusion, here are some of the take-home messages:
+
+1) Look for collaborators early in the process, particularly those that explain clearly.
+2) Take your time and expect delays. Reduce stress by scheduling extra time where possible.
+3) Keep organized records of communication and analyses.
+4) Recognize that different disciplines require deep expertise. Thus help your mentees find mentors for their respective disciplines if it is different form your own.
+5) Advocate authorship for all of your mentees (including first authorship).

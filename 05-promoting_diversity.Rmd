@@ -25,17 +25,17 @@ Beyond the critical importance of giving everyone more fair opportunities (which
 
 The inclusion of diverse research team members may promote more inclusive research questions and practices to help the populations that need better health care the most. This is especially important as many of the historically marginalized racial and ethnic populations of the United States are growing. By 2045 it is expected that these groups will make up more than 50% of the population [@clark_increasing_2019].
 
-> "Racial/ethnic minority groups in the United States are at disproportionate risk of being uninsured, lacking access to care, and experiencing worse health outcomes from preventable and treatable conditions."[@jackson_addressing_2014]
+> "Racial/ethnic minority groups in the United States are at disproportionate risk of being uninsured, lacking access to care, and experiencing worse health outcomes from preventable and treatable conditions" [@jackson_addressing_2014].
 
-> "...Compared with the general population, racial/ethnic minority populations have poorer health outcomes from preventable and treatable diseases, such as cardiovascular disease, **cancer**, asthma, and human immunodeficiency virus/acquired immunodeficiency syndrome than those in the majority."[@jackson_addressing_2014]
+> "...Compared with the general population, racial/ethnic minority populations have poorer health outcomes from preventable and treatable diseases, such as cardiovascular disease, **cancer**, asthma, and human immunodeficiency virus/acquired immunodeficiency syndrome than those in the majority" [@jackson_addressing_2014].
 
-> "... the social environment in which people live, learn, work, and play contributes to disparities and is among the most important determinants of health throughout the course of life."[@jackson_addressing_2014]
+> "... the social environment in which people live, learn, work, and play contributes to disparities and is among the most important determinants of health throughout the course of life" [@jackson_addressing_2014].
 
 More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that the research could serve. Such consideration could further increase the impact of the research. 
 
 The inclusion of diverse populations in scientific teams has also been shown to improve innovation [@hofstra_diversityinnovation_2020].
 
-> "Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored." [@hofstra_diversityinnovation_2020]
+> "Scholars from underrepresented groups have origins, concerns, and experiences that differ from groups traditionally represented, and their inclusion in academe diversifies scholarly perspectives. In fact, historically underrepresented groups often draw relations between ideas and concepts that have been traditionally missed or ignored"  [@hofstra_diversityinnovation_2020].
 
 
 ## Underrepresentation in cancer informatics
@@ -44,33 +44,33 @@ Despite the benefits of diversity in research teams, analyses of scientific arti
 
 Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups, disabled people, and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @kricorian_factors_2020; @cech_systemic_2021; @iporac_are_2020; @williams_cultural_2018]. 
 
-Although Black people and people of Hispanic or Latin American origin or ancestry made up 27% of the workforce in the US in 2016, together they only made up 16% of the STEM workforce. People of tribes and nations that are often called Native American, Indigenous, or Indian Americans are also underrepresented in STEM [@williams_cultural_2018]. Although they made up 1.7% of the population in 2016 in the United States, they only represented 0.6% of individuals with bachelor’s degrees in science and engineering and only 0.2% of individuals with doctoral degrees in these fields [@williams_cultural_2018]. Furthermore all of these groups are particularly underrepresented in academia at the faculty level[@vargas_using_2021]. Importantly, although Asian Americans are generally considered well represented in STEM, this is only true for some fields and for those of ancestry or origin from certain Asian countries, such as Japan, China, Korea, and India, while those from other countries such as Cambodia, Laos, and others are often underrepresented. Indeed the term Asian American encompasses a very diverse group of people with diverse experiences and socieoecomic statuses.[@CARE; @nsf_stem ; @chen_models_2018; @iporac_are_2020]
+Although Black people and people of Hispanic or Latin American origin or ancestry made up 27% of the workforce in the US in 2016, together they only made up 16% of the STEM workforce. People of tribes and nations that are often called Native American, Indigenous, or Indian Americans are also underrepresented in STEM [@williams_cultural_2018]. Although they made up 1.7% of the population in 2016 in the United States, they only represented 0.6% of individuals with bachelor’s degrees in science and engineering and only 0.2% of individuals with doctoral degrees in these fields [@williams_cultural_2018]. Furthermore all of these groups are particularly underrepresented in academia at the faculty level[@vargas_using_2021]. Importantly, although Asian Americans are generally considered well represented in STEM, this is only true for some fields and for those of ancestry or origin from certain Asian countries, such as Japan, China, Korea, and India, while those from other countries such as Cambodia, Laos, and others are often underrepresented. Indeed the term Asian American encompasses a very diverse group of people with diverse experiences and socioeconomic statuses.[@CARE; @nsf_stem ; @chen_models_2018; @iporac_are_2020]
 
 Furthermore, there are issues related to fair support and treatment for promotion and advancement for many marginalized groups, as well as for Asian Americans that are considered well represented. [@funk_racial_2018] 
-> “This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority.” – Asian woman, engineer, 56 [@funk_racial_2018]
+> “This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority.” – Asian woman, engineer, 56 [@funk_racial_2018].
 
-> "There are not many people of my race in [my] industry. It requires me to go the extra mile to fit in or be accepted because many of the employees don’t share my background or life experiences. I can do the job just fine, however, there are other factors of one’s life that are considered whenever they are in a critical and highly competitive environment.” – Black man, systems administrator, 30 [@funk_racial_2018]
+> "There are not many people of my race in [my] industry. It requires me to go the extra mile to fit in or be accepted because many of the employees don’t share my background or life experiences. I can do the job just fine, however, there are other factors of one’s life that are considered whenever they are in a critical and highly competitive environment.” – Black man, systems administrator, 30 [@funk_racial_2018].
 
 The reason for this underrepresentation is that people have historically not been allowed to participate, been discouraged from participating due to discrimination, had a lack of visible role models of their background, and have not had the same access to education. [@funk_racial_2018] Part of the reason that role models were not as visible as they could be, is that even when individuals of underrepresented groups overcame these adversities and made contributions to science, their contributions were often covered up or not fairly credited [@magazine_women_nodate].
 
 
-## Contributions by individuals of underrepresented groups
+## Examples of contributions by individuals of underrepresented groups
 
 Despite very often facing discrimination and less support, many individuals of these underrepresented groups have greatly contributed to scientific achievement, which demonstrates the potential innovation that could be achieved when research teams are more diverse.
 
 Many Black scientists are responsible for great human achievements that changed the world including:
 
-- [Katherine Johnson](https://www.biography.com/scientist/katherine-g-johnson): Katherine Johnson was a mathematician who helped enable humans to venture into space. Katherine worked for NASA in the 1960s during the [Space Race](https://en.wikipedia.org/wiki/Space_Race). A depiction of her work and some of the discrimination that she faced while working for NASA is featured in the film [*Hidden figures*](https://en.wikipedia.org/wiki/Hidden_Figures).
+- [Katherine Johnson (1918–2020)](https://www.biography.com/scientist/katherine-g-johnson): Katherine Johnson was a mathematician who helped enable humans to venture into space. Katherine worked for NASA in the 1960s during the [Space Race](https://en.wikipedia.org/wiki/Space_Race). A depiction of her work and some of the discrimination that she faced while working for NASA is featured in the film [*Hidden figures*](https://en.wikipedia.org/wiki/Hidden_Figures).
 
-- [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
+- [Vivien Thomas (1910–1985)](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
 
 See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world-changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
 
 Scientists and mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
 
-- [Mario Molina](Mario Molina): Mario was born in Mexico and came to the United States for graduate school. He was a chemist and environmental scientist and was awarded the Nobel Prize in Chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies (starting in the 1980s) to protect our environment from these chemicals which were widely used as aerosols, solvents and refrigerants. Through these policies, many countries around the world have banned or greatly reduced the manufacturing of these chemicals. [NASA projections](https://earthobservatory.nasa.gov/images/38685/the-ozone-layer-if-cfcs-hadnt-been-banned) suggest that the ozone layer would have been largely depleted by 2060 if these chemicals were manufactured at previous historical rates. See [here](https://earthobservatory.nasa.gov/features/WorldWithoutOzone/page1.php) for more information on what would have likely happened to the world if CFCs were not banned. Also check out this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
+- [Mario Molina (1943–2020)](https://www.nobelprize.org/prizes/chemistry/1995/molina/biographical/): Mario was born in Mexico and came to the United States for graduate school. He was a chemist and environmental scientist and was awarded the Nobel Prize in chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies (starting in the 1980s) to protect our environment from these chemicals which were widely used as aerosols, solvents and refrigerants. Through these policies, many countries around the world have banned or greatly reduced the manufacturing of these chemicals. [NASA projections](https://earthobservatory.nasa.gov/images/38685/the-ozone-layer-if-cfcs-hadnt-been-banned) suggest that the ozone layer would have been largely depleted by 2060 if these chemicals were manufactured at previous historical rates. See [here](https://earthobservatory.nasa.gov/features/WorldWithoutOzone/page1.php) for more information on what would have likely happened to the world if CFCs were not banned. Also check out this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
 
- - [Ynes Mexia](https://www.nps.gov/people/ynes-mexia.htm): Ynes began her career as a botanist in her fifties in the 1920s. She traveled widely (often by herself) collecting and characterizing plants. She unfortunately passed away at 68 cutting her botany career short to less than 20 years. However, in that time she collected over 145,000 specimens and made numerous discoveries. Her legacy in botany had such an impact that the [Mexianthus genus](https://en.wikipedia.org/wiki/Mexianthus) is named after her. She is also highly regarded for her efforts in environmental conservation, particularly for helping to preserve the redwood forests in the United States.
+ - [Ynes Mexia (1870–1938)](https://www.nps.gov/people/ynes-mexia.htm): Ynes began her career as a botanist in her fifties in the 1920s. She traveled widely (often by herself) collecting and characterizing plants. She unfortunately passed away at 68 cutting her botany career short to less than 20 years. However, in that time she collected over 145,000 specimens and made numerous discoveries. Her legacy in botany had such an impact that the [Mexianthus genus](https://en.wikipedia.org/wiki/Mexianthus) is named after her. She is also highly regarded for her efforts in environmental conservation, particularly for helping to preserve the redwood forests in the United States.
  
 This adventurous woman has been quoted for saying:
 
@@ -78,36 +78,36 @@ This adventurous woman has been quoted for saying:
  
 See this [video](https://unladylike2020.com/profile/ynes-mexia/) for more information about her inspiring life. 
 
-Also check out this [list](https://science.howstuffworks.com/dictionary/famous-scientists/physicists/10-hispanic-scientists.htm) for additional historic scientists and this [list](http://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) for some current inspiring scientists of Hispanic or Latin american ancestry or origin.
+Also check out this [list](https://science.howstuffworks.com/dictionary/famous-scientists/physicists/10-hispanic-scientists.htm) for additional historic scientists and this [list](http://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) for some current inspiring scientists of Hispanic or Latin American ancestry or origin.
 
 Individuals from the various indigenous or native tribes of the United States have also contributed greatly to scientific understanding and innovation. See [here](https://www.popularmechanics.com/science/g29460020/indigenous-scientists/) for a list of some, in addition to:
 
-- [Fred Begay/Fred Young/Clever Fox](https://en.wikipedia.org/wiki/Fred_Begay):
+- [Fred Begay/Fred Young/Clever Fox(1932–2013)](https://en.wikipedia.org/wiki/Fred_Begay):
 Fred was a nuclear physicist who's work was instrumental in innovating alternative energy sources at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory). He was born on the Ute Mountain Reservation. His parents were from the [Navajo or Diné](https://en.wikipedia.org/wiki/Navajo) and [Ute](https://en.wikipedia.org/wiki/Ute_people) tribes. His life and work are featured in a documentary called *The Long Walk of Fred Young*. Fred spent a great deal of time on outreach and education particular for youths of the Navajo Nation. He is also known for making connections between Navajo beliefs and science.  
 
 He's been quoted for saying:
 
-> “I think the key point is that I learned to think abstractly and develop reasoning skills when I was growing up, learning about lasers and radiation in the Navajo language... That’s all embedded in our religion.
+> "I think the key point is that I learned to think abstractly and develop reasoning skills when I was growing up, learning about lasers and radiation in the Navajo language... That’s all embedded in our religion" [@fred].
 
-> We strongly rely on natural phenomena. We believe we’re children of nature.
+> "We strongly rely on natural phenomena. We believe we’re children of nature" [@fred].
 
-> The Navajo has mysterious ideas about science which cannot be interpreted into English. ” https://www.physicscentral.com/explore/people/begay.cfm
+> "The Navajo has mysterious ideas about science which cannot be interpreted into English" [@fred].  
 
 See [here](https://www.physicscentral.com/explore/people/begay.cfm) to learn more about Fred.
 
-- [Floy Agnes Lee (called Aggie)](https://en.wikipedia.org/wiki/Fred_Begay): Floy was a biologist who grew up in New Mexico and her father was from the [Santa Clara Pueblo or  Kha'po Owingeh](https://en.wikipedia.org/wiki/Santa_Clara_Pueblo,_New_Mexico). Her work at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), [Argonne National Laboratory](https://www.anl.gov/), the [University of Chicago](https://www.uchicago.edu/), and [Jet Propulsion Laboratory](jpl.nasa.gov) helped expand our understanding of the effects of radiation on living cells. You can see an interview of her at this [link](https://youtu.be/51J5K5A_y-8) and see a written translation of this interview [here](https://www.manhattanprojectvoices.org/oral-histories/floy-agnes-lees-interview).
+- [Floy Agnes Lee (called Aggie) (1922-2018)](https://en.wikipedia.org/wiki/Floy_Agnes_Lee): Floy was a biologist who grew up in New Mexico and her father was from the [Santa Clara Pueblo or  Kha'po Owingeh](https://en.wikipedia.org/wiki/Santa_Clara_Pueblo,_New_Mexico). Her work at the [Los Alamos National Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), [Argonne National Laboratory](https://www.anl.gov/), the [University of Chicago](https://www.uchicago.edu/), and [Jet Propulsion Laboratory](jpl.nasa.gov) helped expand our understanding of the effects of radiation on living cells. You can see an interview of her at this [link](https://youtu.be/51J5K5A_y-8) and see a written translation of this interview [here](https://www.manhattanprojectvoices.org/oral-histories/floy-agnes-lees-interview).
 
-- [Edna Paisano](https://en.wikipedia.org/wiki/Edna_Paisano): Edna was a demographer and Statistican who was born on the [Nez Perce](https://en.wikipedia.org/wiki/Nez_Perce) Reservation in Idaho. Her family was from the Nez Perce tribe and the [Laguna Pueblo](https://en.wikipedia.org/wiki/Laguna_Pueblo). While working at the United States Census Bureau in the 1980s, she discovered that many Native, indigenous, Indian or tribal communities were being undercounted and that this was reducing the amount of government resources and services potentially available to these communities. She was instrumental in improving the counting of individuals from various tribes in the United States Census by initiating a public information campaign. She also published several books throughout her career. See [here](https://www.bu.edu/lernet/pathways/bios.html#ep) for more information about Edna.
+- [Edna Paisano (1948—2014)](https://en.wikipedia.org/wiki/Edna_Paisano): Edna was a demographer and statistician who was born on the [Nez Perce](https://en.wikipedia.org/wiki/Nez_Perce) Reservation in Idaho. Her family was from the Nez Perce tribe and the [Laguna Pueblo](https://en.wikipedia.org/wiki/Laguna_Pueblo). While working at the United States Census Bureau in the 1980s, she discovered that many Native, indigenous, Indian or tribal communities were being undercounted and that this was reducing the amount of government resources and services potentially available to these communities. She was instrumental in improving the counting of individuals from various tribes in the United States Census by initiating a public information campaign. She also published several books throughout her career. See [here](https://www.bu.edu/lernet/pathways/bios.html#ep) for more information about Edna.
 
 Also, check out this [list](https://medium.com/women-of-silicon-valley/just-18-awesome-native-folks-in-stem-134211ff14cd) for information about current native or indigenous people in STEM.
 
 There are also numerous [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) scientist who changed the world. See  [here](https://www.discovery.com/science/LGBT-Scientists-Who-Changed-World) and [here](https://www.osc.org/important-lgbtq-scientists-who-left-a-mark-on-stem-fields/) for a review of several including:
 
-- [Alan Hart](https://www.oregonencyclopedia.org/articles/hart_alan_1890_1962_/#.YT-yVtNKh25): Alan (1890-1962) was a clinician and researcher who's work largely focused on tuberculosis. Alan was assigned female at birth and later transitioned to be male in adulthood. Despite facing major obstacles due to discrimination, Alan had a very successful career as an expert in radiology for tuberculosis and served as the director of hospitalization and rehabilitation at the Connecticut State Tuberculosis Commission. Alan also wrote several novels. See [here](https://www.scientificamerican.com/article/trailblazing-transgender-doctor-saved-countless-lives/) to learn more about Alan's life.
+- [Alan L. Hart (1890—1962)](https://www.oregonencyclopedia.org/articles/hart_alan_1890_1962_/#.YT-yVtNKh25): Alan (1890-1962) was a clinician and researcher who's work largely focused on tuberculosis. Alan was assigned female at birth and later transitioned to be male in adulthood. Despite facing major obstacles due to discrimination, Alan had a very successful career as an expert in radiology for tuberculosis and served as the director of hospitalization and rehabilitation at the Connecticut State Tuberculosis Commission. Alan also wrote several novels. See [here](https://www.scientificamerican.com/article/trailblazing-transgender-doctor-saved-countless-lives/) to learn more about Alan's life.
 
 In addition, this [list](https://500queerscientists.com/) includes many  [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) people currently working in STEM.
 
-These lists are neither complete nor fully inclusive, but shed some light on the amazing achievements of some individuals in science who were or are among groups that remain underrepresented in STEM. Their unique life experiences, perspectives, intellect, and talent helped shape their work which has greatly improved our world. Again, even this short list demonstrates how potentially even greater innovation and scientific advancement could be achieved when including more diverse individuals in our research teams.
+These lists are neither complete nor fully inclusive, but shed some light on the amazing achievements of some individuals in science who were or are among groups that remain underrepresented in STEM. Their unique life experiences, perspectives, intellect, and talent helped shape their work which has greatly improved our world. Again, this demonstrates how potentially even greater innovation and scientific advancement could be achieved when including more diverse individuals in our research teams.
 
 ## Underrepresentation in clinical trials
 
@@ -130,9 +130,9 @@ Research suggests the following reasons for the lack of diversity in clinical tr
 
 ### **Historical injustice**
 
-According to studies, marginalized groups such as Native Americans, people of Hispanic or Latin American ancestry, and Black Americans understandably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020, @studies_inclusion_1999]
+According to studies, marginalized groups such as Native Americans, people of Hispanic or Latin American ancestry, and Black Americans understandably distrust researchers at higher rates than white individuals due to historical injustices and inadequate medical care. [@griffith_determinants_2020; @studies_inclusion_1999]
 
-> African Americans’ suspicions and fears that many sectors of American society are not trustworthy were **logical and accurate interpretations** of their perceptions and **experiences**. [@griffith_determinants_2020]
+> "African Americans’ suspicions and fears that many sectors of American society are not trustworthy were **logical and accurate interpretations** of their perceptions and **experiences**" [@griffith_determinants_2020].
 
 Examples of historical injustices include:
 
@@ -147,7 +147,7 @@ cervical cancer were also similarly studied but patients were not offered standa
 
 - [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatemala. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
 
-> "...health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others." [@rodriguez_first_2013]
+> "...health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others" [@rodriguez_first_2013].
 
 - [Radioactive iodine thyroid studies of Alaskan natives](https://www.tandfonline.com/doi/full/10.1080/10508422.2012.730788):
 In the 1950s, a study was conducted to examine the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceeded current recommendations. Beyond the riskiness of the dose of radiation, this study was unethical due to inadequate translation of research methods and consent forms, thus participants were not able to be properly informed about the risks of the study and therefore not able to provide proper consent. Furthermore, this also led to the inadequate exclusion of participants for pregnancy, lactation, and other conditions [@hodge_no_2012].
@@ -155,15 +155,15 @@ In the 1950s, a study was conducted to examine the thyroid gland in Alaskan nati
 
 Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people wary of participating in clinical research [@griffith_determinants_2020]. 
 
-> “We, as African Americans were always the pilot test... I know because people have experienced it within my line, my family, my bloodline in [city name]. Yeah.” He continued by saying, “So I just think that we’ve been used and misused a lot of times within the African American community and in the lower parts of the devastation where the devastation lies.” [@griffith_determinants_2020]
+> “We, as African Americans were always the pilot test... I know because people have experienced it within my line, my family, my bloodline in [city name]. Yeah.” He continued by saying, “So I just think that we’ve been used and misused a lot of times within the African American community and in the lower parts of the devastation where the devastation lies” [@griffith_determinants_2020].
 
-> “I’m thinking about horror stories like the Tuskegee experiment and things like that. Like stuff that for me, were mentioned back in school and were mentioned by my family members...”[@griffith_determinants_2020]
+> “I’m thinking about horror stories like the Tuskegee experiment and things like that. Like stuff that for me, were mentioned back in school and were mentioned by my family members...” [@griffith_determinants_2020].
 
 ### **Health care inequity** 
 
-Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of certain racial and ethnic ancestry have also historically received poorer access to health care and poorer quality health care, thus discouraging their engagement with the health care system. [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012] 
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of certain racial and ethnic ancestry have also historically received poorer access to health care and poorer quality health care, thus discouraging their engagement with the health care system [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012]. 
 
-Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today.[@jul_16_health_2021]
+Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today [@jul_16_health_2021].
 
 ```{r, fig.alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge9427bed03_0_32")
@@ -175,14 +175,14 @@ Even with similar access to care (which can be reduced by sociodemographic facto
 
 These two issues among others have led to health disparities, including for cancer:
  
->  An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher **cancer-specific mortality** compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment. [@nazha_enrollment_2019]
+>  "An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher **cancer-specific mortality** compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment" [@nazha_enrollment_2019].
 
 
 ###  **Poor recruitment and inclusion**
  
 Due to concern about the time and effort required to find a more diverse set of participants and also due to implicit bias, many populations are not recruited at the same rate. **Implicit bias** is an unconscious negative evaluation of a person based on characteristics that are irrelevant [@fitzgerald_implicit_2017].
 
-> Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances [@fitzgerald_implicit_2017].
+> "Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances" [@fitzgerald_implicit_2017].
 
 Sadly, this can result in researchers not including certain populations in their trials.
 Indeed healthcare professionals have been shown to withhold care, such as treatment based on their own bias about if a particular individual would adhere to the protocol. Thus marginalized groups often aren't even recruited for clinical trials [@ACRP_representation_2020].
@@ -193,7 +193,7 @@ Studies of  attempts to regulate oncology trial participation to be more inclusi
 
 In a study of clinical trial participants of marginalized groups, participants stated that they were more likely to trust a researcher if they seemed scientifically knowledgeable but also had an understanding of the **history** and **context** of the study population, as well as experience working with that population [@griffith_determinants_2020].
 
-> In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be. [@griffith_determinants_2020]
+> "In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be" [@griffith_determinants_2020].
 
 Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. However, for research teams that are currently less diverse, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://dei.extension.org/extension-resources/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
 
@@ -213,7 +213,7 @@ Another barrier can be the time at which participants are needed to be in person
 If it is more time consuming to get to appointments due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
 - Health Literacy:
-For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health.[@ACRP_representation_2020]
+For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health [@ACRP_representation_2020].
 
 ### **Lack of community engagement funding**
 
@@ -229,11 +229,11 @@ Most clinical trials are funded by the pharmaceutical industry which often leads
 
 1) Provide adequate financial, logistical, and time support
 
-Investigators should consider how to support caregivers who have important obligations, such as tending to their family members or others. For example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi.[@ACRP_representation_2020] Researchers should also consider providing patients with a cell phone to improve communication [@clark_increasing_2019]. Finally, participants may also need extra assistance to cope with healthcare needs following participation in a study, particularly if this interferes with their typical obligations. 
+Investigators should consider how to support caregivers who have important obligations, such as tending to their family members or others. For example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi [@ACRP_representation_2020]. Researchers should also consider providing patients with a cell phone to improve communication [@clark_increasing_2019]. Finally, participants may also need extra assistance to cope with healthcare needs following participation in a study, particularly if this interferes with their typical obligations. 
 
 2) More promotion of health care access in general 
 
-Individuals have been shown to be more likely to participate when advised by a health care provider.[@clark_increasing_2019] Increasing health care system access in general could improve clinical trial participation, by increasing opportunities for health care providers to interact with individuals who could participate in a trial.
+Individuals have been shown to be more likely to participate when advised by a health care provider [@clark_increasing_2019]. Increasing health care system access in general could improve clinical trial participation, by increasing opportunities for health care providers to interact with individuals who could participate in a trial.
 
 3) More promotion of community engagement
 
@@ -253,7 +253,7 @@ When obtaining information about gender, researchers should collect more informa
 
 ## What does it take for clinical research to be ethical? 
 
-Here you can see a table of requirements for ethical research trials.[@emanuel_what_nodate] Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
+Here you can see a table of requirements for ethical research trials [@emanuel_what_nodate]. Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
 ```{r, fig.alt="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research.", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge770395a4c_0_0")
@@ -287,7 +287,7 @@ In order to best support and encourage mentees and employees of underrepresented
 
 ### Seek additional **training about disparities** in informatics and STEM careers
 
-Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**.  Also, become aware of **stereotype threat (also called stereotyped inferiority)** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies"[@stelter_establishing_2021] and how they might influence your mentees.
+Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**.  Also, become aware of **stereotype threat (also called stereotyped inferiority)** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies" [@stelter_establishing_2021] and how they might influence your mentees.
 
 Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
@@ -304,7 +304,7 @@ Note that you may not be aware of all the barriers of achievement that your ment
 
 For example:
 
-> When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups. [@davis_barriers_2021]
+> "When the intersection of race/ethnicity and gender is considered, women of color report even less access to mentorship and support from mentors than other groups" [@davis_barriers_2021].
 
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) (at UCLA and Columbia) describing the theory of intersectionality, which she developed:
 
@@ -313,7 +313,7 @@ Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimb
 knitr::include_url("https://www.youtube.com/embed/ViDtnfQ9FHc")
 ```
 
-Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group"[@stelter_establishing_2021].
+Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group" [@stelter_establishing_2021].
 
 
 See below a list of examples:
@@ -332,13 +332,13 @@ Research shows that mentees of underrepresented racial groups would prefer their
 
 Talk with your team members **individually** (be careful not to single out individual team members in front of the rest of the lab) about how they would like to discuss the potential influences of their background/identity on their career growth.
 
-> "Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed..." [@byars-winston_race_nodate]
+> "Racial/ethnic differences between mentees and mentors in interracial mentoring relationships can pose cultural barriers to effective mentoring of HU (Historically underrepresented) students and even affect students’ professional and psychosocial success, especially when complex racial/ethnic issues are not effectively handled or addressed..." [@byars-winston_race_nodate].
 
-> "Two ideological perspectives – **colorblindness and multiculturalism** – have emerged to shed light on this question. Colorblindness downplays the salience and importance of race by focusing on the commonalities people share, such as one's underlying humanity. In contrast, multiculturalism acknowledges and highlights racial differences [@holoien_you_2012]."
+> "Two ideological perspectives – **colorblindness and multiculturalism** – have emerged to shed light on this question. Colorblindness downplays the salience and importance of race by focusing on the commonalities people share, such as one's underlying humanity. In contrast, multiculturalism acknowledges and highlights racial differences" [@holoien_you_2012].
 
->"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))"  [@holoien_you_2012]
+>"Exposure to colorblind (vs. multicultural) messages predicts negative outcomes among Whites such as greater implicit and explicit racial bias ([Richeson & Nussbaum, 2004](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0080))" [@holoien_you_2012].
 
-> "[Underrepresented groups] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))"[@holoien_you_2012]
+> "[Underrepresented groups] benefit when others around them endorse multiculturalism ([Plaut et al., 2009](https://www.sciencedirect.com/science/article/pii/S002210311100240X?via%3Dihub#bb0070))" [@holoien_you_2012].
 
 ### **Work to create a safe environment**   
 
@@ -439,4 +439,10 @@ leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGb
 
 We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members and to support your team to be more mindful about health inequity when conducting research. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
 
+In conclusion, here are some of the take-home messages:
 
+1) Increasing the diversity of our research teams can improve scientific innovation, can add additional perspectives about what research to focus on, can potentially promote more inclusive research practices, and can improve clinical trail recruitment of more diverse participants.
+2) Training about diversity, inclusion, and equity, as well as training about cultural competence can help research teams to communicate with diverse clinical trial participants, promote more inclusive lab culture, and promote more inclusive research.
+3) Clinical trials can recruit and retain more diverse participants by designing trials and recruitment strategies that accommodate more diverse participant lifestyles. Community engagement can be a particularly useful strategy for recruitment.
+4) Seeking training about biases, stereotypes, intersectionality, and microaggressions can be helpful for creating a more inclusive lab culture.
+5) Creating an expectation document for the lab can help clarify your expectations of students so that students do not need to intuit how they are expected to perform.

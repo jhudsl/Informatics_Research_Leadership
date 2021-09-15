@@ -64,7 +64,7 @@ conclusion-2
 promoting-diversity
 diversity-is-beneficial
 underrepresentation-in-cancer-informatics
-contributions-by-individuals-of-underrepresented-groups
+examples-of-contributions-by-individuals-of-underrepresented-groups
 underrepresentation-in-clinical-trials
 historical-injustice
 health-care-inequity
