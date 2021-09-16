@@ -303,7 +303,7 @@ x
 
 Similarly this is some Python code and output:
  
-```{python, python.reticulate = FALSE}
+```{python, python.reticulate = TRUE}
 # Now we are going to show some python code
 x = [1,2,3,4,5]
 print(x)
@@ -348,3 +348,5 @@ In conclusion, here are some of the take-home messages:
 2) Version control with Git and GitHub as well as standardization using Docker can ensure that your computational work is being maintained and shared smoothly.
 3) RStudio and R Markdown reports can improve your analyses that you perform in R. This is also compatible with performing aspects of your analyses using some other languages. Jupyter is very helpful for python related projects. 
 4) Keeping reports of your work with annotations about the code and data used can be critical for your future self, other lab members, outside collaborators, and others to better understand your analyses.
+
+
