@@ -38,6 +38,7 @@ RUN apt-get -y --no-install-recommends install \
 # Commonly used R packages
 RUN Rscript -e  "install.packages( \
     c('bookdown', \
+      'reticulate',\
       'here', \
       'leanpubr', \
       'optparse', \
