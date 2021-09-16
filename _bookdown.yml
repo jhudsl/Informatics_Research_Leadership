@@ -21,3 +21,4 @@ header-includes:
   - \pretitle{\begin{center}
     \includegraphics[width=2in,height=2in]{logo.jpg}\LARGE\\}
   - \posttitle{\end{center}}
+  
