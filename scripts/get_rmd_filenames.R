@@ -3,17 +3,14 @@
 # C. Savonen 2021
 
 # Read bookdown.yml
-yml <- readLines("_bookdown.yml") 
+yml <- yaml::yaml.load_file("_bookdown.yml")
 
-# Only keep lines with Rmd filename
-yml <- grep("\\.Rmd", yml, value = TRUE, ignore.case = TRUE)
-
-# Take out the nonsense
-yml <- gsub(",|\t| |\\[|\\]|:|rmd_files|\"", "", yml)
+# Retrieve rmd files
+rmd_list <- yml$rmd_files
 
 if(!dir.exists("resources")){
   dir.create("resources")
 }
 
 # Write the file
-writeLines(yml, file.path("resources", "rmd_list.txt"))
+writeLines(rmd_list, file.path("resources", "rmd_list.txt"))
