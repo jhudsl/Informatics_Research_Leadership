@@ -213,7 +213,7 @@ Another barrier can be the time at which participants are needed to be in person
 - **Transportation & location:**
 If it is more time consuming to get to appointments due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
-- **Health Literacy:**
+- **Health iteracy:**
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health [@ACRP_representation_2020].
 
 ### **Lack of community engagement funding**
