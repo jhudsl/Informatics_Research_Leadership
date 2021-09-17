@@ -282,7 +282,7 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 
 <!-- <p align="center"><iframe width="560" height="315" alt = "video of Russell McClain on biases and stereotypes" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 
-<iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px"></iframe>
 
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not a complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
@@ -296,14 +296,14 @@ For example:
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) (at UCLA and Columbia) describing the theory of intersectionality, which she developed:
 
 
-<iframe src="https://www.youtube.com/embed/ViDtnfQ9FHc" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/ViDtnfQ9FHc" width="100%" height="400px"></iframe>
 
 Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group" [@stelter_establishing_2021].
 
 
 See below a list of examples:
 
-<iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="100%" height="400px"></iframe>
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
 

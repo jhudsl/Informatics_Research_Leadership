@@ -40,9 +40,9 @@ For example, say we were interested in identify new diagnostic biomarkers for co
 
 These suggestions are based on that of: @wang_collaborating_2019. 
 
-### STEP 1
+### STEP 1 - Identify what is known and unknown
 
-First we would identify what is known and unknown:
+First we would begin by identifying what is known and unknown:
 
 Several potential blood-based biomarkers for colorectal cancer have been identified, however many are lacking evidence due to the previous studies having small sample sizes. 
 
@@ -56,38 +56,41 @@ You might ask how useful are these biomarkers for diagnosing colorectal cancer?
 
 So now we think about what is unknown:
 
-You know the sizes of the previous samples that have assessed these biomarkers and you know the level of sensitivity reported by previous reports. However, it is unknown how sensitive and specific some of these biomarkers are with sufficient sample sizes. It is unknown how collectively these biomarkers help to identify patients with cancer. It is unknown which biomarkers are more important. It is unknown which biomarkers or combinations are particularly useful for determining disease progression or what treatment options might be best.  
+You know the sizes of the previous samples that have assessed these biomarkers and you know the level of sensitivity reported by previous reports. However (assuming just this knowledge for illustration purposes), it is unknown:
+ - How sensitive and specific some of these biomarkers are with sufficient sample sizes.
+ - How collectively these biomarkers help to identify patients with cancer.
+ - Which biomarkers are more important. 
+ - Which biomarkers or combinations are particularly useful for determining disease progression or what treatment options might be best.  
 
-### STEP 2
+### STEP 2 - Prioritize unknowns
 
 Step 2 then involves determining which unknowns are the most important to you. This could be what is more translatable to aiding better diagnostics in a noninvasive way. This could be to better understand cancer progression and what these biomarkers tell us about patient prognosis. Determine what unknowns best fit your interest/expertise. Let's say that we want to know what is most translatable to aiding diagnostic tests now. 
 
-### STEP 3
+### STEP 3 - Write specific statements
 
 Step 3 then involves writing out specific statements for what is unknown related to making these biomarkers more useful for tests now. 
 
-It is unknown how useful many of these biomarkers are individually for the diagnosis of colorectal cancer in larger samples. It is unknown if combining these biomarkers together is useful in the diagnosis of colorectal cancer. It is unknown if combining these blood-based screens with other screens is useful. 
+- It is unknown how useful many of these biomarkers are individually for the diagnosis of colorectal cancer in larger samples. 
+- We do not know if combining these biomarkers together is useful in the diagnosis of colorectal cancer. 
+- Perhaps combining these blood-based screens with other screens is useful. 
 
 You can probably imagine many more statements, but we will keep this example simple.
 
-### STEP 4
+### STEP 4 - Transform into specific questions
 
 Step 4 involves transforming these into questions:
 
-How useful are these biomarkers for the diagnosis of colorectal cancer? 
-How useful is the combination of these biomarkers for the diagnosis of colorectal cancer?
-How useful is the combination of any of these biomarkers with other non-blood-based screens?
+- At what sensitivity rate do each of these biomarkers aid in the diagnosis of colorectal cancer? 
+- Does the use of a combination of these biomarkers for the diagnosis of colorectal cancer increase diagnosis rates better than any single biomarker?
+- Does the use of a combination of any of these biomarkers with other non-blood-based screens improve diagnosis rates compared to either diagnostic method alone?
 
 
-Look for terms of phrases that our vague in your questions and make them more specific. For simplicity purposes we will stick with only the second question.
+Look for terms or phrases that are vague in your questions and make them more specific. For example, "How helpful", "Is it better". Think about in what way something might be helpful or in what way something might be better. 
 
-The phrase "How useful" can be more specific.
+For simplicity purposes we will stick with only the second question.
 
-Does a combination of the detection of these biomarkers improve diagnostic sensitivity for colorectal cancer than single biomarkers alone?
 
-Ok that's getting better!
-
-### STEP 5
+### STEP 5 - Transform into actionable tests
 
 Step 5 is to transform questions into actionable tests. For a question to be testable it must meet several requirements. We need to have variables that can be measured or observed. We need to have a variable we can modify or control, and we need to figure out what we cannot control. 
 
@@ -105,7 +108,7 @@ These are good questions to ask an informatics expert about. However we are gett
 
 Which brings us to step 6 where we create a mock-up of the data.
 
-### STEP 6
+### STEP 6 - Create a mock-up of your data
 
 Creating a mock-up of the data can make you ask yourself more questions about what you are asking and what you need to ask that question.
 Would it be that we have blood results for these biomarkers for patients where we know (based on surgical pathology) if they have cancer?
@@ -119,11 +122,11 @@ Actually creating a mock-up of what the data might look like can reveal other im
 
 <img src="resources/images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_151.png" title="Example data showing 8 samples from 8 different patients 4 had the outcome of not cancer and 4 had the out come of cancer, there are 4 biomarker columns showing expression in relative percentage to threshold. Then there is a column that says meeting threshold count score based on the biomarkers which ranges from 2 to 3 and finally a column of the average percentage score" alt="Example data showing 8 samples from 8 different patients 4 had the outcome of not cancer and 4 had the out come of cancer, there are 4 biomarker columns showing expression in relative percentage to threshold. Then there is a column that says meeting threshold count score based on the biomarkers which ranges from 2 to 3 and finally a column of the average percentage score" width="100%" />
 
-### STEP 7
+### STEP 7 - Think about statistical tests
 
 Step 7 is then to think about what statistical tests you might perform. Could we use a t-test to compare the scores among the patient groups? Would we want to account for other factors like the patients age or gender? Would another test be better? 
 
-### STEP 8
+### STEP 8 - Think about interpretation
 
 Step 8 is then to think about what this would mean. What would it mean if our results showed a difference in score between the groups? What can we interpret? Do we want to be able to predict patient status? This may involve moving back a step or two. 
 
@@ -145,21 +148,19 @@ One common misconception is that informatics research projects work out more oft
 
 Common reasons why an informatics project might fail:  
 
-1) The goals were too vague (see the previous section about identifying good informatics questions) 
+1) **The goals were too vague** (see the previous section about identifying good informatics questions).  
 Sadly this happens quite often and it can easily lead informatics employees and mentees down the wrong path.
 
-2) The data is not of high enough quality or lacks consistency  
+2) **The data is not of high enough quality or lacks consistency**.  
 This may be due to a faulty method, methodological differences between lab personnel, expired reagents, temperature differences on data collection days, or aging of a machine over time etc. Some of these issues can be avoided or reduced, while others are unavoidable. Do not be quick to blame your experimental research team members if the data does not look like you expect. Some variation in data is just a part of life. 
 
-3) There is not a strong enough signal in the data to detect the effect of interest with the current data/methods
+3) **There is not a strong enough signal in the data to detect the effect of interest with the current data/methods**.  
 This is also a very common problem if you are not sure what the strength of the effect you are looking for might be (which is often the case in Biology). In this case you need more data or perhaps methods with greater granularity.
 
-4) The method of data collection becomes obsolete
-
+4) **The method of data collection becomes obsolete**.  
 This may not make the project fail per se, but it can make publication difficult. Staying on top of what methods are currently being used can help to avoid this.
 
-5) The signal does not exist
-
+5) **The signal does not exist**.  
 Sometimes our hypotheses are just wrong. 
 
 
@@ -174,7 +175,7 @@ We can mitigate some of these project weak points. (You may notice how some of t
 
 Ways to mitigate project failure:
 
-1) **Discuss with experts**
+1) **Discuss with experts**  
 Discuss with trusted experts across all necessary domains about your informatics hypotheses to make sure they are feasible with the data you have or will generate before you get too far down the research path. Ask for their help to make sure that your scientific questions are not too vague. Do this as early as possible.
 
 2) **Diversify projects**  
@@ -227,5 +228,10 @@ Overall we will summarize our suggestions for avoiding project pitfalls.
 
 We hope that having an awareness for how informatics projects can fail and that keeping these mitigation strategies in mind when you are planning your projects will help you to be more successful with your informatics research endeavors!
 
+In conclusion, here are some of the take-home messages:
+
+1) Follow the outlined steps for forming good informatics questions.
+2) Especially remember to make a mock-up of what your data might look like for a project.
+3) Remember that there are several sources for project pitfalls some of which are unavoidable at times, however discussing your plan early with other experts, planning for extra time, and diversifying projects can help.
    
    

@@ -177,7 +177,7 @@ Check out this video for more details:
 
 <!-- <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> -->
 
-<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px"></iframe>
 
 
 From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis [@robinson_build_nodate] are:  

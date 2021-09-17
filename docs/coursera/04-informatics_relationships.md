@@ -24,8 +24,8 @@ Studies investigating biology research labs over history indicate that collabora
 
 ### The benefits of collaboration  
 
-1) **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources.    
-2) **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [@makinen_patterning_2020]. 
+1) **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources. 
+2) **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [@makinen_patterning_2020].
 3) **Shared burden** - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.
 4) **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
 5) **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
@@ -57,7 +57,7 @@ Another important method that can help resolve this issue is to have members pro
 
 2) **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
 
->"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains." [@makinen_patterning_2020]
+>"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains" [@makinen_patterning_2020].
 
 Making clear research standards and goals, as well as outlining clear specific tasks at the beginning of a project can help to avoid this issue. Furthermore, meeting consistently throughout the duration of a project can also help to make sure that standards are maintained.  Additionally, these meetings should include discussions about intellectual property, authorship, leadership, and defining what success looks likes to each of the various members. Defining these details early can avoid major conflict later. 
 
@@ -79,11 +79,12 @@ Defining tasks and expected due dates can help reduce this issue. Discussions to
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
 It is also important to recognize that:
-> There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive. [@carpenter_cultivating_2021]
+
+> "There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive" [@carpenter_cultivating_2021].
 
 However:
 
-> In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project. [@carpenter_cultivating_2021]
+> "In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project" [@carpenter_cultivating_2021].
 
 Don't forget to provide some budget for your informatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
@@ -110,7 +111,7 @@ As a reminder, again unless you employee a senior informatics expert and even th
 
 ## Mentoring informatics students
 
-Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should **learn from each other and together** and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students.[@mullen_defining_2021]
+Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should **learn from each other and together** and expand what each can do alone. Importantly the more traditional paradigm that does not value "reciprocal learning" as highly, has been shown to be less effective for a larger diversity of students [@mullen_defining_2021].
 
 For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here. 
 
@@ -127,25 +128,25 @@ However, there are challenges for research leaders from a management standpoint.
 
 ### Electronic mentoring 
 
-With the COVID-19 pandemic, the transition to using electronic means of contact with students and staff for research has expanded on an unprecedented scale. It is unclear currently how much this will continue in the future. However, research prior to the pandemic has shown some surprising benefits of providing mentorship through electronic means. Importantly it appears that this eases burdens for students who are balancing course work, as it often provides more scheduling flexibility. Additionally, such mentorship is particularly helpful for historically marginalized populations who may face more hostility by going to research institutes with face-to-face interaction with others or may have additional scheduling conflicts. Even as we may return to more on-site research labs, additional availability by mentors with mentees using electronic means of contact are likely to be beneficial. Technology such as [slack](https://slack.com/) can be especially useful for allowing lab members to interact with one another. We will cover more about this soon.
+With the COVID-19 pandemic, the transition to using electronic means of contact with students and staff for research has expanded on an unprecedented scale. It is unclear currently how much this will continue in the future. However, research prior to the pandemic has shown some surprising benefits of providing mentorship through electronic means. Importantly, it appears that this eases burdens for students who are balancing course work, as it often provides more scheduling flexibility. Additionally, such mentorship is particularly helpful for historically marginalized populations who may face more hostility by going to research institutes with face-to-face interaction with others or may have additional scheduling conflicts. Even as we may return to more on-site research labs, additional availability by mentors with mentees using electronic means of contact are likely to be beneficial. Technology such as [slack](https://slack.com/) can be especially useful for allowing lab members to interact with one another. We will cover more about this soon.
 
 
 ### Career goals 
 
 The job landscape for scientists has changed in recent decades with more opportunities outside academia in industry and government. Furthermore career goals for informatics mentees can be very different than that of other research mentees. By having informatics expertise, these trainees have **additional career opportunities**. 
 
-Becoming aware of these opportunities yourself, as a research leader, is therefore critical for cultivating your mentees' awareness of the diversity of opportunities available to them. This will ultimately allow your mentees to choose the career path that suites them best. 
+Becoming aware of these opportunities yourself, as a research leader, is therefore critical for cultivating your mentees' awareness of the diversity of opportunities available to them. This will ultimately allow your mentees to choose the career path that suits them best. 
 
 #### Career paths for informatics mentees
 
-1) Academia - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.
+1) **Academia** - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.
 
-2) Government - Your informatics mentees may have career opportunities as scientists or policy makers for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.
+2) **Government** - Your informatics mentees may have career opportunities as scientists or policy makers for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.
 
-3) Industry - Beyond the potential career options in the pharmaceutical industry, biotech, and medicine, your informatics mentees will have data science skills that may qualify them for jobs in a variety of industries. For example
+3) **Industry** - Beyond the potential career options in the pharmaceutical industry, biotech, and medicine, your informatics mentees will have data science skills that may qualify them for jobs in a variety of industries. For example
 your informatics mentees could find jobs at companies such as [Stitch Fix](https://www.stitchfix.com/) or [Ancestry](https://www.ancestry.com/) which use methods in machine learning and bioinformatics for their products. Additionally, your mentee may also have opportunities to join a software company as a computer programmer or even as a programming educator at a company like [RStudio](https://rstudio.com/). 
 
-4) Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.
+4) **Nonprofit** - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.
 
 
 #### Career paths outside of academia
@@ -159,25 +160,27 @@ According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scie
 3) **Data Engineering** - data management skills, skills to make code production-level ready (ex. automation), and software engineering  
 4) **Data Mechanics** - data formatting and cleaning and data handling (filtering, subsetting)  
 
-Based on these categories, he says that there are also 3 major archetypes for data scientists:
+Based on these categories, he says that there are also 3 major archetypes (with subdivisions) for data scientists:
 
-1) Beginner data scientists -  he recommends exposure in each of the 4 areas.
-This is ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career. This will allow them to identify their strengths.
-2) Generalist - proficient in all areas - this is helpful for becoming a data science **manager or executive** - These are also good aspects to focus on for mentees who wish to **stay in research**!
-3) Specialists
-  a) Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for working at **nonprofits**
-  b) Oracle - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
-  c) Maker -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
+1) **Beginner data scientists**  
+These are individuals just starting out but who are familiar with each of the 4 above areas. This is ideally how your mentee will be after training (at a minimum) if their goal is to pursue a data science career. This will allow them to identify their strengths.
+2) **Generalist**  
+These are individuals who are proficient in all areas. This is helpful for becoming a data science **manager or executive**. Focus on all  4 aspects of data science is also good for mentees who wish to **stay in research**!
+3) **Specialists**  
+There are 3 major subtype specialties:  
+ - **Detective** - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for working at **nonprofits**
+ - **Oracle** - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
+ - **Maker** -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
   
 
 Check out this video for more details:
 
 <!-- <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> -->
 
-<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px"></iframe>
 
 
-From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis (@robinson_build_nodate) are:  
+From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis [@robinson_build_nodate] are:  
 
 1) Statistics  
 2) Machine learning  
@@ -193,14 +196,14 @@ We also suggest that your mentees checkout this [blog post](https://blogs.oracle
 
 So how do we best support informatics students that want to stay in Academia?
 
-1) Recognize that academic promotion for informatics experts is currently not very accommodating.
+1) **Recognize that academic promotion for informatics experts is currently not very accommodating.** 
 
 Some aspects of traditional academic promotion are simply not set up to accommodate informatic experts. For example, these individuals tend to publish many more secondary author publications and create software which can reduce the time they have available for first author publications. However, first author (or last) author papers are still most often used as the major guideline for academic achievement. How can you and your mentees overcome this?
 
 Be sure to **especially advocate** for your student to get first authorship papers if they intend to stay in academia. 
 Wherever possible also try to advocate for more nuanced academic promotion polices that account for multidisciplinary differences at your institution.
 
-2) Encourage your student to seek specialized technical skill sets
+2) **Encourage your student to seek specialized technical skill sets**  
 
 For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career outside of academia, if they are for example focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in working for a nonprofit or for the government. 
 
@@ -211,10 +214,10 @@ See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth
 
 In addition to typical biological papers, there are also other companion types of papers that your informatics mentee can  publish, including:
 
-1) Data resource papers - your mentee may publish an article introducing a data resource
-2) Software papers - an article where the functionality and development of piece of software is discussed
-3) Method comparison papers - your mentee may compare existing methods
-4) New method or pipeline paper - your mentee could describe a new method that they created
+1) **Data resource papers** - your mentee may publish an article introducing a data resource
+2) **Software papers** - an article where the functionality and development of piece of software is discussed
+3) **Method comparison papers** - your mentee may compare existing methods
+4) **New method or pipeline papers** - your mentee could describe a new method that they created
 
 These other types of papers are especially good to keep in mind if your mentee will not be first author on a biological paper from your lab.
 
@@ -224,5 +227,10 @@ When guiding your mentee through the publication process, it is a good idea to k
 
 We hope that these tips help you to mentor and lead your team in a more productive and effective way that benefits both your team members and your lab's mission!
 
+In conclusion, here are some of the take-home messages:
 
-
+1) There are many challenges associated with collaboration, however early and regular communication can help. It is also helpful to outline expectations early on.
+2) Becoming familiar with best practices for ethics and reproducibility is helpful for employing a computational biologist, especially if you are new to computation biology. Possibly consider learning a bit of code to better understand what your computational employees are doing if you yourself are not already familiar.
+3) Remember that mentoring is a reciprocal process. There are many alternative strategies for mentoring that you may find helpful.
+4) Remember to discuss with your mentees about their career goals. The way you advise them should be driven by their interests.
+5) Organize projects so that your team can produce biological and computational manuscripts.

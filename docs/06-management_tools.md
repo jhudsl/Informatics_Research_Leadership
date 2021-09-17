@@ -28,7 +28,7 @@ There are several tools that can be especially useful for assisting with day-to-
 <!-- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; -->
 <!-- picture-in-picture" allowfullscreen></iframe></p> -->
 
-<iframe src="https://www.youtube-nocookie.com/embed/q19RtuCHt1Q" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/q19RtuCHt1Q" width="100%" height="400px"></iframe>
 
 You can do quite well with the free version of Slack. It may be all that your research group needs indefinitely. The major difference between the free version and the paid versions is that the free version does not save all of your message history.
 
@@ -183,7 +183,7 @@ Figshare also encourages researchers to publish negative findings that did not u
 
 <!-- <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_q50OWkz4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 
-<iframe src="https://www.youtube.com/embed/_q50OWkz4Kc" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/_q50OWkz4Kc" width="100%" height="400px"></iframe>
 
 ## RStudio and R Markdown
 
@@ -323,7 +323,7 @@ This [blog](https://collegeinfogeek.com/best-note-taking-apps/) has an excellent
 
 Evernote is a commonly used note-taking app, which as you can see from this video can really be helpful:
 
-<iframe src="https://www.youtube.com/embed/NgkCgqIogcY" width="100%" height="400px" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/NgkCgqIogcY" width="100%" height="400px"></iframe>
 
 **Be careful** if you intend on including any information that would require HIPAA compliance in a note-taking app! [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) offers options for encryption to allow for HIPPA compliance if you need that. See [here](https://www.jotform.com/hipaa/is-hipaa-compliant/onenote/) for more information.
 

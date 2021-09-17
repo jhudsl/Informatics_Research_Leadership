@@ -42,11 +42,22 @@ If you are new to informatics and you plan to employ or mentor informatics exper
 Especially for projects with multidisciplinary teams, good communication is vital. Look for people who are **easy to talk to**.
 
  
-<img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_0.png" title=" Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)" alt=" Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)" width="100%" />
- 
 In Roger's words:
 
 > "If you don't feel comfortable asking (stupid) questions, pointing out problems, or making suggestions, then chances are the science will not be as good as it could be."
+
+Ideally you want to be able to ask your collaborators basic questions, so that you can be sure that you understand the fundamentals correctly. If your collaborator doesn't explain information clearly (without jargon that you don't understand) or doesn't make you feel safe to ask questions, then this will likely result in you missing out on critical information.
+
+This goes hand in hand with finding someone who is compassionate or polite. You never quite know what will happen with projects in Science, thus it is ideal to work with people who can handle difficult situations well and continue to treat others with respect.
+
+An ideal collaborator also has enthusiasm to ask you about your work, including again fundamental questions. Having their newer perspective can be especially helpful for you to think about your work differently and notice anything that you might take for granted.
+
+You also want collaborators that respect and appreciate your knowledge. If there is an imbalance regarding respect, this can result in situations where one collaborator feels like a subordinate to the other. This generally makes individuals feel less comfortable to bring up problems.
+
+Finally, you also want to look for individuals who seem to get things done. You can get a sense of someones productivity by looking at their CV and asking them about their projects. Motivation in collaboration can dwindle due to responsibility being spread across groups, which is why it is so important to find productive collaborators.
+
+ 
+<img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_0_0.png" title=" Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)" alt=" Look for people who: 1)Explain clearly, 2) Seem compassionate/polite, 3) Seem open and enthusiastic to learn new things, 4) Seem to respect and appreciate your knowledge, 5) Appear to get things done (based on their CV and or reputation)" width="100%" />
 
 
 <img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_0.png" title="Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy." alt="Charlie, the unclear leader says to Francis the frustrated informaticist: It's easy, jargon, jargon, jargon, does it make sense. Meanwhile Francis thinks to herself: he lost me at it's easy." width="100%" />
@@ -57,11 +68,11 @@ In Roger's words:
 Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
 
 
-> Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise. [@carpenter_cultivating_2021]
+> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise" [@carpenter_cultivating_2021].
 
-> Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data. [@carpenter_cultivating_2021]
+> "Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data" [@carpenter_cultivating_2021].
 
-> Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement. [@carpenter_cultivating_2021]
+> "Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement" [@carpenter_cultivating_2021].
 
 ## Communication for informatics teams
 
@@ -109,16 +120,29 @@ Informatics experts can help to ensure that the question is feasible from as sta
 
 ### **Be specific**
 
-Give and ask for specific feedback. If your collaborator/employee/student says something that you do not quite understand, ask them for more specific clarification. In addition, give feedback that is specific where possible without assuming knowledge that might be necessary and avoid jargon. 
+Give and ask for specific feedback. If your collaborator/employee/student says something that you do not quite understand, ask them for more specific clarification. In addition, give feedback that is specific where possible without assuming knowledge that might be necessary and avoid jargon. One way to do this is to reiterate what you think you understood and to describe concepts at high level, and then follow this with detailed descriptions. Include as many details as possible.
 
 For example, if a collaborator simply states that the number of samples would be underpowered, this might not be enough information for you to help solve the issue. Ask for clarification about why with response questions, such as "you believe that the sample size is too small to allow for this specific statistical test (specify the test) to be utilized to identify if there are differences between these specific groups (specify the groups)?". 
 
+Once you get a better understanding about why they might have said this, you can better understand how to solve the issue. In the above example, perhaps you need to consider a different test before considering getting additional samples. Or perhaps you aren't even testing the correct question. Clarifying this first will help.
+
+Additional communication tips include (based on [@haden_5_2014] and [@tips_questions]:
+
+1) Use neutral language. You want to allow your team members to have their own authentic reaction (especially when  it comes to issues). Neutral language might allow them to better realize a solution before they feel threatened by a reaction of stress from you. You also don't want to ask questions that lead your team members to a specific conclusion even if there isn't an issue, so as to allow for more discussion. You can do so by initially avoiding including options or assumptions that you have come up with. However after these open questions you want to start including your own understandings to get more specific.
+
+2) Start with general high level concepts and follow this with more specific comments/questions. 
+
+3) Try to focus your feedback and questions about one specific aspect at a time. Ask your team members to walk through a process with you step by step.
+
+4) Ask your teammates to think about your process as if all of you were entirely new to the process to consider what you might be missing or taking for granted.
+
+4) Plan meetings ahead of time so that you know exactly what you hope to communicate. Write your questions or feedback out so that you make sure you cover everything that you need to. Assess each question and feedback comment for its overall purpose or goal. 
 
 ### **Be compassionate**
 
 Consider the stage of the project and how your discussions may impact your coworker.
 
-For example, pointing out that there is not enough data to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available or additional data in your lab that can still save the project.
+For example, pointing out that there is not enough data or samples to do what your collaborator had hoped during later stages of the project can be very disappointing as it is often not possible to collect new data. Being polite and considerate when you make suggestions can make a major difference. Furthermore, suggesting an idea about how the project can still be productive can save your collaborator/coworkers/students stress and heartache. They may not be aware that there is public data available or additional data in your lab that can still save the project.
 
 
 <img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_549.png" title="Harry the helpful collaborator says to Charlie, the unclear leader: Your current plan isn't feasible, but don't worry I know of some public data you could use. Charlie looks stressed and thinks: Phew! Thank goodness! This would've been terrible news for Jack." alt="Harry the helpful collaborator says to Charlie, the unclear leader: Your current plan isn't feasible, but don't worry I know of some public data you could use. Charlie looks stressed and thinks: Phew! Thank goodness! This would've been terrible news for Jack." width="100%" />
@@ -153,7 +177,7 @@ Record and communicate notes about your data collection and analyses. Be mindful
 
 ### **Keep organized records of communication**
 
-Besides recording your work, keep a record of your communications. Organize your emails for projects into a separate folders with easily recognizable titles to save yourself hassle later when something comes into question. 
+Besides recording your work, keep a record of your communications. At a minimum organize your emails for projects into a separate folders with easily recognizable titles to save yourself hassle later when something comes into question. However, we **highly** recommend that in addition for even better record keeping, you copy paste emails and dates to a [note-taking system](https://zapier.com/blog/best-note-taking-apps/). This could be as simple as a shared Google doc, or you could consider an app like [these](https://collegeinfogeek.com/best-note-taking-apps/) that are designed for note-taking.  With many of these you can also share your notes with research teammates and you can include report documents directly in your notes. Which brings us to our next point about using reports!
 
 
 <img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcee686a31e_0_622.png" title=" Charlie, the unclear leader is looking through his email and sees identical emails that say: Hi Francis, attached are the data, on January 19th, March 15th, and April 16th. Charlie thinks to himself: What data did I send to Francis? Uh oh, I don't know. Thus Francis isn't the only one confused about what data Charlie sent." alt=" Charlie, the unclear leader is looking through his email and sees identical emails that say: Hi Francis, attached are the data, on January 19th, March 15th, and April 16th. Charlie thinks to himself: What data did I send to Francis? Uh oh, I don't know. Thus Francis isn't the only one confused about what data Charlie sent." width="100%" />
@@ -174,7 +198,7 @@ It is also important that the experimental biologists make similar reports defin
 In summary, we recommend the following record keeping tips:
 
 
-<img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_40.png" title=" Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates" alt=" Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates" width="100%" />
+<img src="resources/images/02-team_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcd0b5dd2d8_1_40.png" title=" Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later  - Consider a note-taking app to store emails, notes, and reports in one searchable place 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates" alt=" Record Keeping Tips: 1) Keep organized records of work - Take your own detailed notes - we suggest reports using R markdown or Jupyter notebooks 2) Keep organized records of communication - Keep emails organized in folders and name emails in a useful way to find later  - Consider a note-taking app to store emails, notes, and reports in one searchable place 3) Use reports and include as much detail as possible. Send these reports regularly to research teammates" width="100%" />
 
 
 ## Leadership best practices
@@ -197,7 +221,7 @@ He also acknowledges the challenges of the opposite case:
 
 He has since then stated for the PIs of experts who do not share the same skill-sets:
 
-> "Just look after them, and recognise you can’t give them everything that they need.You can give them a lot, just not everything."
+> "Just look after them, and recognise you can’t give them everything that they need. You can give them a lot, just not everything."
 
 > "Secondly, there is nothing wrong with being a pet bioinformatician – it can be a really stimulating role, and opens your eyes to lab-based science.  I am not criticizing the pets either, I just urge you to look after yourselves." 
 
@@ -208,7 +232,7 @@ Extending the major themes from [his guide](http://www.opiniomics.org/a-guide-fo
 ### **Recognize that different disciplines require deep expertise**
 
 Informatics is truly it's own scientific discipline that requires deep expertise. 
-To truly optimize the multidisciplinary work that you may wish to perform, you need expert level experience of all disciplines on your team. Although you may be able to learn how to use a particular tool to seemingly test an hypothesis, this may not be correct or optimal in every instance. This is why you need expert level informatics team members to help you with your research. If you can't hire such an individual, or even if you hire a more junior informatics mentee or employee, you need to discuss your research with a senior informatics expert. 
+To truly optimize the multidisciplinary work that you may wish to perform, you need expert-level experience of all disciplines on your team. Although you may be able to learn how to use a particular tool to seemingly test an hypothesis, this may not be correct or optimal in every instance. This is why you need expert-level informatics team members to help you with your research. If you can't hire such an individual, or even if you hire a more junior informatics mentee or employee, you need to discuss your research with a senior informatics expert. 
 
 ### **Avoid employee isolation**
 
@@ -225,9 +249,16 @@ In any case, we highly encourage guideline #2 regardless of what option you choo
 Enable and encourage your employee to cultivate relationships with others who have similar skill-sets at your institution or local community.  Ideally, help your employees or mentees find a **mentor within their domain**. If there is no local group of such individuals, see if your employee would be interested in starting one - such as a seminar group or journal club. Also encourage them to join online forums and attend conferences and workshops.
 
 Examples include: 
- - [R ladies](https://rladies.org/) for support for using Bioconductor or R programming. Many of the members are also very familiar with using a variety of genomics and imaging data. You do not need to be a woman to get support from this organization.  - Many universities have a statistical support group, check at your institution. 
- - [National Cancer Institute ((NCI) hub groups](https://ncihub.org/groups/browse) has a list of cancer specific groups such as large groups like the [Informatics Technology for Cancer Research (ITCR)](https://ncihub.org/groups/itcr) or location specific groups such as the [African Esophageal Cancer Consortium (AfrECC)](https://ncihub.org/groups/afrecc)
- - When in doubt ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
+
+ - [R ladies](https://rladies.org/) for support for using Bioconductor or R programming. Many of the members are also very familiar with using a variety of genomics and imaging data. You do not need to be a woman to get support from this organization. 
+ 
+ - Many universities have a statistical support group, check at your institution. 
+ 
+ - [National Cancer Institute ((NCI) hub groups](https://ncihub.org/groups/browse) has a list of cancer specific groups such as large groups like the [Informatics Technology for Cancer Research (ITCR)](https://ncihub.org/groups/itcr).
+ 
+ - Consider location specific groups such as the [African Esophageal Cancer Consortium (AfrECC)](https://ncihub.org/groups/afrecc).
+ 
+ - When in doubt, ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
 
 ### **Encourage growth outside their domain**
 
@@ -248,16 +279,16 @@ Regardless of your employees' or students' backgrounds, make sure you advocate f
 
 According to a recent report about computational biology:
 
-> Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review. [@carpenter_cultivating_2021]
+> "Despite the fact that dramatic advancements have been driven by computational biology, too often researchers choosing this path languish in career advancement, publication, and grant review" [@carpenter_cultivating_2021].
 
 
-It is often overlooked, but Informatics experts will also need **first author papers**. However, keep in mind that in some fields authors are listed in different ways. 
+It is often overlooked, but informatics experts will also need **first author papers**. However, keep in mind that in some fields authors are listed in different ways. 
 
 Allow your employees to **generate ideas** for such publications and discuss this with them. Often the work to help with other projects may not be as interesting for your employee as an idea that they come up with themselves. 
 
 Often you can create one technical paper and one biological paper from each project.  For technical papers, allow your lab members that largely do informatics to play a prominent/leadership role. For biological papers, ask them to play a supporting role. For experimental lab members do the opposite. Allow these lab members to have a prominent role on biological papers and a supporting role on more technical papers.
 
-If nothing else, even if your employee is very busy on work for mid-level authorship, give them time to write a review or a software paper for a simple package, or a comparison of informatics methods. [Mick Watson](https://www.ed.ac.uk/profile/mick-watson) suggests making sure that your employees are authoring ~2 first author publications a year if possible. If necessary you can front-load collaboration work and then give your employee more time later to spend on their own work, but be careful about not protecting some of their time for their own career advancement. Also please see the Career Paths for Informatics Mentees section (coming up soon) and read it with your employees in mind, as well. 
+If nothing else, even if your employee is very busy on work for mid-level authorship, give them time to write a review or a software paper for a simple package, or a comparison of informatics methods. [Mick Watson](https://www.ed.ac.uk/profile/mick-watson) suggests making sure that your employees are authoring ~2 first author publications a year if possible. If necessary you can front-load collaboration work and then give your employee more time later to spend on their own work, but be careful about not protecting some of their time for their own career advancement. Also please see the [Career Paths for Informatics Mentees section](https://jhudatascience.org/ITCR_Cancer_Research_Leadership/informatics-relationships.html#career-paths-for-informatics-mentees) (coming up soon) and read it with your employees in mind, as well. 
 
 ### **Check on them!**
 
@@ -285,5 +316,11 @@ On the other hand, if you are an informatics expert mentoring experimental biolo
 ## Conclusion
 
 We hope these leadership guidelines will help you to better support your lab team to be as successful as possible! 
-   
-   
+
+In conclusion, here are some of the take-home messages:
+
+1) Look for collaborators early in the process, particularly those that explain clearly.
+2) Take your time and expect delays. Reduce stress by scheduling extra time where possible.
+3) Keep organized records of communication and analyses.
+4) Recognize that different disciplines require deep expertise. Thus help your mentees find mentors for their respective disciplines if it is different form your own.
+5) Advocate authorship for all of your mentees (including first authorship).

@@ -23,7 +23,7 @@ Informatics research often requires multidisciplinary teams. This requires more 
 
 **Target audience:**  
 
-The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with moderate to no computational experience who may lead or collaborate with informatics experts. However this material is also applicable to informatics experts working with others who have less computational experience.
+The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with **moderate to no computational experience** who may lead or collaborate with informatics experts. However this material is **also applicable to informatics experts working with others who have less computational experience.**
 
 **Curriculum:**  
 
@@ -82,6 +82,3 @@ Finally we have Harry, the helpful collaborator. He clearly communicates with hi
 We will now describe some guidelines for how to be an effective leader, collaborator, and mentor on informatics projects so that you can be more like Sally with mentees and employees like Hilda and collaborators like Harry.
 
 Keep in mind that while our cartoons often exaggerate situations to make them more comical, more subtle situations can still be very detrimental to your research teammates.
-
-   
-   
