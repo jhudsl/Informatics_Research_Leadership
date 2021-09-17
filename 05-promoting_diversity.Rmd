@@ -47,9 +47,10 @@ Furthermore, analyses of university faculty and students demonstrate that both w
 Although Black people and people of Hispanic or Latin American origin or ancestry made up 27% of the workforce in the US in 2016, together they only made up 16% of the STEM workforce. People of tribes and nations that are often called Native American, Indigenous, or Indian Americans are also underrepresented in STEM [@williams_cultural_2018]. Although they made up 1.7% of the population in 2016 in the United States, they only represented 0.6% of individuals with bachelor’s degrees in science and engineering and only 0.2% of individuals with doctoral degrees in these fields [@williams_cultural_2018]. Furthermore all of these groups are particularly underrepresented in academia at the faculty level[@vargas_using_2021]. Importantly, although Asian Americans are generally considered well represented in STEM, this is only true for some fields and for those of ancestry or origin from certain Asian countries, such as Japan, China, Korea, and India, while those from other countries such as Cambodia, Laos, and others are often underrepresented. Indeed the term Asian American encompasses a very diverse group of people with diverse experiences and socioeconomic statuses.[@CARE; @nsf_stem ; @chen_models_2018; @iporac_are_2020]
 
 Furthermore, there are issues related to fair support and treatment for promotion and advancement for many marginalized groups, as well as for Asian Americans that are considered well represented. [@funk_racial_2018] 
-> “This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority.” – Asian woman, engineer, 56 [@funk_racial_2018].
 
-> "There are not many people of my race in [my] industry. It requires me to go the extra mile to fit in or be accepted because many of the employees don’t share my background or life experiences. I can do the job just fine, however, there are other factors of one’s life that are considered whenever they are in a critical and highly competitive environment.” – Black man, systems administrator, 30 [@funk_racial_2018].
+> "This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority." – Asian woman, engineer, 56 [@funk_racial_2018].
+
+> "There are not many people of my race in [my] industry. It requires me to go the extra mile to fit in or be accepted because many of the employees don’t share my background or life experiences. I can do the job just fine, however, there are other factors of one’s life that are considered whenever they are in a critical and highly competitive environment." – Black man, systems administrator, 30 [@funk_racial_2018].
 
 The reason for this underrepresentation is that people have historically not been allowed to participate, been discouraged from participating due to discrimination, had a lack of visible role models of their background, and have not had the same access to education. [@funk_racial_2018] Part of the reason that role models were not as visible as they could be, is that even when individuals of underrepresented groups overcame these adversities and made contributions to science, their contributions were often covered up or not fairly credited [@magazine_women_nodate].
 
@@ -203,16 +204,16 @@ In a 2019 study, access to oncology trials was found to only be available to abo
 
 There are many barriers to this access:
 
-- Language: 
+- **Language:** 
 One major important barrier is translation of recruitment materials to other languages.
 
-- Scheduling:
+- **Scheduling:**
 Another barrier can be the time at which participants are needed to be in person for a clinical trial. Some individuals need more accommodation if for example they can't come to appointments during work hours due to having a job with an inflexible work schedule or due to care taking responsibilities. 
 
-- Transportation & location:
+- **Transportation & location:**
 If it is more time consuming to get to appointments due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
-- Health Literacy:
+- **Health Literacy:**
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health [@ACRP_representation_2020].
 
 ### **Lack of community engagement funding**
