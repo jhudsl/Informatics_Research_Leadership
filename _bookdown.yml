@@ -8,7 +8,7 @@ rmd_files: ["index.Rmd",
             "04-informatics_relationships.Rmd",
             "05-promoting_diversity.Rmd",
             "06-management_tools.Rmd",
-            "about.Rmd",
+            "About.Rmd",
             "references.Rmd"]
 new_session: yes
 delete_merged_file: true

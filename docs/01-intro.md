@@ -23,7 +23,7 @@ Informatics research often requires multidisciplinary teams. This requires more 
 
 **Target audience:**  
 
-The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with moderate to no computational experience who may lead or collaborate with informatics experts. However this material is also applicable to informatics experts working with others who have less computational experience.
+The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with **moderate to no computational experience** who may lead or collaborate with informatics experts. However this material is **also applicable to informatics experts working with others who have less computational experience.**
 
 **Curriculum:**  
 
