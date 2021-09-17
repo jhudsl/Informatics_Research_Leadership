@@ -1,5 +1,5 @@
 ---
-title: "Promoting diversity"
+title: "Promoting diversity, inclusion, and equity"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -13,7 +13,7 @@ leanbuild::set_knitr_image_path()
 ```
 
 
-# Promoting diversity
+# Promoting diversity, inclusion, and equity
 
 ```{r, fig.alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators", out.width = "100%", echo = FALSE}
 leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_211")
