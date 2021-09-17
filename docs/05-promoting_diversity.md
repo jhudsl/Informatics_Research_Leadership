@@ -1,5 +1,5 @@
 ---
-title: "Promoting diversity"
+title: "Promoting diversity, equity, and inclusion"
 output: html_document
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -9,7 +9,7 @@ link-citations: yes
 
 
 
-# Promoting diversity
+# Promoting diversity, equity, and inclusion
 
 <img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
 
