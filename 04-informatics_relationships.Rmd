@@ -140,25 +140,25 @@ However, there are challenges for research leaders from a management standpoint.
 
 ### Electronic mentoring 
 
-With the COVID-19 pandemic, the transition to using electronic means of contact with students and staff for research has expanded on an unprecedented scale. It is unclear currently how much this will continue in the future. However, research prior to the pandemic has shown some surprising benefits of providing mentorship through electronic means. Importantly it appears that this eases burdens for students who are balancing course work, as it often provides more scheduling flexibility. Additionally, such mentorship is particularly helpful for historically marginalized populations who may face more hostility by going to research institutes with face-to-face interaction with others or may have additional scheduling conflicts. Even as we may return to more on-site research labs, additional availability by mentors with mentees using electronic means of contact are likely to be beneficial. Technology such as [slack](https://slack.com/) can be especially useful for allowing lab members to interact with one another. We will cover more about this soon.
+With the COVID-19 pandemic, the transition to using electronic means of contact with students and staff for research has expanded on an unprecedented scale. It is unclear currently how much this will continue in the future. However, research prior to the pandemic has shown some surprising benefits of providing mentorship through electronic means. Importantly, it appears that this eases burdens for students who are balancing course work, as it often provides more scheduling flexibility. Additionally, such mentorship is particularly helpful for historically marginalized populations who may face more hostility by going to research institutes with face-to-face interaction with others or may have additional scheduling conflicts. Even as we may return to more on-site research labs, additional availability by mentors with mentees using electronic means of contact are likely to be beneficial. Technology such as [slack](https://slack.com/) can be especially useful for allowing lab members to interact with one another. We will cover more about this soon.
 
 
 ### Career goals 
 
 The job landscape for scientists has changed in recent decades with more opportunities outside academia in industry and government. Furthermore career goals for informatics mentees can be very different than that of other research mentees. By having informatics expertise, these trainees have **additional career opportunities**. 
 
-Becoming aware of these opportunities yourself, as a research leader, is therefore critical for cultivating your mentees' awareness of the diversity of opportunities available to them. This will ultimately allow your mentees to choose the career path that suites them best. 
+Becoming aware of these opportunities yourself, as a research leader, is therefore critical for cultivating your mentees' awareness of the diversity of opportunities available to them. This will ultimately allow your mentees to choose the career path that suits them best. 
 
 #### Career paths for informatics mentees
 
-1) Academia - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.
+1) **Academia** - Your informatics mentees may have career opportunities as principal investigators, scientists, or educators just like other cancer biology mentees. In addition to opportunities as educators for informatics and biology, they will also have opportunities for data science.
 
-2) Government - Your informatics mentees may have career opportunities as scientists or policy makers for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.
+2) **Government** - Your informatics mentees may have career opportunities as scientists or policy makers for research institutes just like other cancer biology mentees. However, additional agencies and institutes may have a need for their data science skills on topics outside of biology. For example your mentee may have the skills to work for a city police department.
 
-3) Industry - Beyond the potential career options in the pharmaceutical industry, biotech, and medicine, your informatics mentees will have data science skills that may qualify them for jobs in a variety of industries. For example
+3) **Industry** - Beyond the potential career options in the pharmaceutical industry, biotech, and medicine, your informatics mentees will have data science skills that may qualify them for jobs in a variety of industries. For example
 your informatics mentees could find jobs at companies such as [Stitch Fix](https://www.stitchfix.com/) or [Ancestry](https://www.ancestry.com/) which use methods in machine learning and bioinformatics for their products. Additionally, your mentee may also have opportunities to join a software company as a computer programmer or even as a programming educator at a company like [RStudio](https://rstudio.com/). 
 
-4) Nonprofit - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.
+4) **Nonprofit** - Beyond research and management positions at nonprofits performing scientific or clinical research, informatics mentees may have opportunities at other nonprofits with other types of goals. For example, your mentee might find work at a nonprofit that advocates for civil rights and investigates social interactions on social media platforms.
 
 
 #### Career paths outside of academia
@@ -172,15 +172,17 @@ According to [Brandon Rohrer](https://www.linkedin.com/in/brohrer/), a data scie
 3) **Data Engineering** - data management skills, skills to make code production-level ready (ex. automation), and software engineering  
 4) **Data Mechanics** - data formatting and cleaning and data handling (filtering, subsetting)  
 
-Based on these categories, he says that there are also 3 major archetypes for data scientists:
+Based on these categories, he says that there are also 3 major archetypes (with subdivisions) for data scientists:
 
-1) Beginner data scientists -  he recommends exposure in each of the 4 areas.
-This is ideally how your mentee will be after training at a minimum if their goal is to pursue a data science career. This will allow them to identify their strengths.
-2) Generalist - proficient in all areas - this is helpful for becoming a data science **manager or executive** - These are also good aspects to focus on for mentees who wish to **stay in research**!
-3) Specialists
-  a) Detective - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for working at **nonprofits**
-  b) Oracle - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
-  c) Maker -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
+1) **Beginner data scientists**  
+These are individuals just starting out but who are familiar with each of the 4 above areas. This is ideally how your mentee will be after training (at a minimum) if their goal is to pursue a data science career. This will allow them to identify their strengths.
+2) **Generalist**  
+These are individuals who are proficient in all areas. This is helpful for becoming a data science **manager or executive**. Focus on all  4 aspects of data science is also good for mentees who wish to **stay in research**!
+3) **Specialists**  
+There are 3 major subtype specialties:  
+ - **Detective** - strong skills in data analysis and mechanics and exposure in all 4 areas - may be especially useful for working at **nonprofits**
+ - **Oracle** - strong skills in modeling and mechanics - this is great for working at **companies using machine learning**
+ - **Maker** -  strong sills in mechanics and engineering - this would make your mentee valuable for working in any of the nonacademic fields as well as academia
   
 
 Check out this video for more details:
@@ -208,14 +210,14 @@ We also suggest that your mentees checkout this [blog post](https://blogs.oracle
 
 So how do we best support informatics students that want to stay in Academia?
 
-1) Recognize that academic promotion for informatics experts is currently not very accommodating.
+1) **Recognize that academic promotion for informatics experts is currently not very accommodating.** 
 
 Some aspects of traditional academic promotion are simply not set up to accommodate informatic experts. For example, these individuals tend to publish many more secondary author publications and create software which can reduce the time they have available for first author publications. However, first author (or last) author papers are still most often used as the major guideline for academic achievement. How can you and your mentees overcome this?
 
 Be sure to **especially advocate** for your student to get first authorship papers if they intend to stay in academia. 
 Wherever possible also try to advocate for more nuanced academic promotion polices that account for multidisciplinary differences at your institution.
 
-2) Encourage your student to seek specialized technical skill sets
+2) **Encourage your student to seek specialized technical skill sets**  
 
 For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career outside of academia, if they are for example focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in working for a nonprofit or for the government. 
 
@@ -226,10 +228,10 @@ See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth
 
 In addition to typical biological papers, there are also other companion types of papers that your informatics mentee can  publish, including:
 
-1) Data resource papers - your mentee may publish an article introducing a data resource
-2) Software papers - an article where the functionality and development of piece of software is discussed
-3) Method comparison papers - your mentee may compare existing methods
-4) New method or pipeline paper - your mentee could describe a new method that they created
+1) **Data resource papers** - your mentee may publish an article introducing a data resource
+2) **Software papers** - an article where the functionality and development of piece of software is discussed
+3) **Method comparison papers** - your mentee may compare existing methods
+4) **New method or pipeline papers** - your mentee could describe a new method that they created
 
 These other types of papers are especially good to keep in mind if your mentee will not be first author on a biological paper from your lab.
 
