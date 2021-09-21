@@ -36,6 +36,7 @@ jobs:
         run: |
           sudo apt-get install subversion
           sudo apt install r-base
+          sudo Rscript -e "install.packages('yaml')"
 
           if [ -d "docs/" ]
           then
