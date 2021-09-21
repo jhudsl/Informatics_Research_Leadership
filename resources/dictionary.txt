@@ -1,3 +1,8 @@
+Evernote
+HIPPA
+integrations
+OneNote
+subtype
 ITCR
 itcrtraining
 ITN
@@ -35,7 +40,7 @@ de
 DEI
 Diné
 discoverable
-DockerHub	
+DockerHub
 DOI
 Dropbox
 Dweck
