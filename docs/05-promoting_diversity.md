@@ -25,7 +25,7 @@ The inclusion of diverse research team members may promote more inclusive resear
 
 > "... the social environment in which people live, learn, work, and play contributes to disparities and is among the most important determinants of health throughout the course of life" [@jackson_addressing_2014].
 
-More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that the research could serve. Such consideration could further increase the impact of the research. 
+More diverse research teams may be more aware of the cultural differences and social determinants that may influence the health of the people that the research could serve. Such consideration could further increase the impact of the research.
 
 The inclusion of diverse populations in scientific teams has also been shown to improve innovation [@hofstra_diversityinnovation_2020].
 
@@ -33,14 +33,14 @@ The inclusion of diverse populations in scientific teams has also been shown to 
 
 
 ## Underrepresentation in cancer informatics
- 
-Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019]. 
 
-Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups, disabled people, and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @kricorian_factors_2020; @cech_systemic_2021; @iporac_are_2020; @williams_cultural_2018]. 
+Despite the benefits of diversity in research teams, analyses of scientific article authorship indicate that women are underrepresented in computational biology [@bonham_women_2017] and biomedical engineering [@aguilar_authorship_2019].
+
+Furthermore, analyses of university faculty and students demonstrate that both women and historically marginalized populations (such as certain racial and ethnic groups, disabled people, and [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals) remain underrepresented in science, technology, engineering, and mathematics (STEM) fields in the US and in Europe [@hofstra_diversityinnovation_2020; @chaudhary_ten_2020; @kricorian_factors_2020; @cech_systemic_2021; @iporac_are_2020; @williams_cultural_2018].
 
 Although Black people and people of Hispanic or Latin American origin or ancestry made up 27% of the workforce in the US in 2016, together they only made up 16% of the STEM workforce. People of tribes and nations that are often called Native American, Indigenous, or Indian Americans are also underrepresented in STEM [@williams_cultural_2018]. Although they made up 1.7% of the population in 2016 in the United States, they only represented 0.6% of individuals with bachelor’s degrees in science and engineering and only 0.2% of individuals with doctoral degrees in these fields [@williams_cultural_2018]. Furthermore all of these groups are particularly underrepresented in academia at the faculty level[@vargas_using_2021]. Importantly, although Asian Americans are generally considered well represented in STEM, this is only true for some fields and for those of ancestry or origin from certain Asian countries, such as Japan, China, Korea, and India, while those from other countries such as Cambodia, Laos, and others are often underrepresented. Indeed the term Asian American encompasses a very diverse group of people with diverse experiences and socioeconomic statuses.[@CARE; @nsf_stem ; @chen_models_2018; @iporac_are_2020]
 
-Furthermore, there are issues related to fair support and treatment for promotion and advancement for many marginalized groups, as well as for Asian Americans that are considered well represented. [@funk_racial_2018] 
+Furthermore, there are issues related to fair support and treatment for promotion and advancement for many marginalized groups, as well as for Asian Americans that are considered well represented. [@funk_racial_2018]
 
 > "This ‘other-ness’ exists intentionally or unintentionally between those of a minority and those of a majority from lacking of common cultural background. Relationships at work appear polite on surface but reluctant tendency in willing to share limited opportunities the same way, which I felt in a previous job where whites and males were overwhelmingly a majority." – Asian woman, engineer, 56 [@funk_racial_2018].
 
@@ -66,12 +66,12 @@ Scientists and mathematicians of Latin American or Hispanic origin have also gre
 - [Mario Molina (1943–2020)](https://www.nobelprize.org/prizes/chemistry/1995/molina/biographical/): Mario was born in Mexico and came to the United States for graduate school. He was a chemist and environmental scientist and was awarded the Nobel Prize in chemistry in 1995 for his work in discovering the environmental impact of [chlorofluorocarbon (CFC)](https://en.wikipedia.org/wiki/Chlorofluorocarbon) gases on the Earth's ozone layer. This work was critical in changing policies (starting in the 1980s) to protect our environment from these chemicals which were widely used as aerosols, solvents and refrigerants. Through these policies, many countries around the world have banned or greatly reduced the manufacturing of these chemicals. [NASA projections](https://earthobservatory.nasa.gov/images/38685/the-ozone-layer-if-cfcs-hadnt-been-banned) suggest that the ozone layer would have been largely depleted by 2060 if these chemicals were manufactured at previous historical rates. See [here](https://earthobservatory.nasa.gov/features/WorldWithoutOzone/page1.php) for more information on what would have likely happened to the world if CFCs were not banned. Also check out this [podcast episode](https://www.sciencehistory.org/distillations/podcast/whatever-happened-to-the-ozone-hole) for more information.
 
  - [Ynes Mexia (1870–1938)](https://www.nps.gov/people/ynes-mexia.htm): Ynes began her career as a botanist in her fifties in the 1920s. She traveled widely (often by herself) collecting and characterizing plants. She unfortunately passed away at 68 cutting her botany career short to less than 20 years. However, in that time she collected over 145,000 specimens and made numerous discoveries. Her legacy in botany had such an impact that the [Mexianthus genus](https://en.wikipedia.org/wiki/Mexianthus) is named after her. She is also highly regarded for her efforts in environmental conservation, particularly for helping to preserve the redwood forests in the United States.
- 
+
 This adventurous woman has been quoted for saying:
 
 > "I don’t think there’s any place in the world where a woman can’t venture."
- 
-See this [video](https://unladylike2020.com/profile/ynes-mexia/) for more information about her inspiring life. 
+
+See this [video](https://unladylike2020.com/profile/ynes-mexia/) for more information about her inspiring life.
 
 Also check out this [list](https://science.howstuffworks.com/dictionary/famous-scientists/physicists/10-hispanic-scientists.htm) for additional historic scientists and this [list](http://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) for some current inspiring scientists of Hispanic or Latin American ancestry or origin.
 
@@ -107,21 +107,21 @@ These lists are neither complete nor fully inclusive, but shed some light on the
 ## Underrepresentation in clinical trials
 
 
-Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals [@chen_approach_2019]. Importantly this underrepresentation is not due to certain populations being hard to reach, but instead about a lack of practices that enable and encourage individuals from more diverse groups to participate. 
+Beyond underrepresentation of certain populations within research teams, there is also a lack of representation of various populations in clinical trials (in particular woman and people of specific racial and ethnic groups) [@clark_increasing_2019]. This is particularity true for cancer clinical trial studies [@nazha_enrollment_2019]. Furthermore there is also limited data collected about [LGBTQ+](https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/) individuals [@chen_approach_2019]. Importantly this underrepresentation is not due to certain populations being hard to reach, but instead about a lack of practices that enable and encourage individuals from more diverse groups to participate.
 
 According to an FDA study in 2018, Black people represented 13.4% of the population, yet only 5% of clinical trial participants, while Hispanics and people of Latin American ancestry made up 18.1% of the population at the time, but less than 1% of clinical trial participants [@coakley_dialogues_2012].
- 
 
-Furthermore, when looking at oncology trials, whites (80% of participants) and males (59.8% of participants) continue to be overrepresented, according to a study in 2019  [@nazha_enrollment_2019]. 
+
+Furthermore, when looking at oncology trials, whites (80% of participants) and males (59.8% of participants) continue to be overrepresented, according to a study in 2019  [@nazha_enrollment_2019].
 
 
 This lack of diversity in clinical trials is a problem because this results in less understanding about how particular patients will fare with a given treatment/vaccine/diagnosis etc. This lack of knowledge can result in furthering inequities in medical care [@clark_increasing_2019].  
 
 
-Demographic studies of the United States demonstrate that racial and ethnic populations that have been historically underrepresented in clinical trials and in STEM have grown and are predicted to make up 50% of the population by 2045 [@clark_increasing_2019]. Thus for medical care to best serve the current and future population of the United States, trials especially need to be more representative of the diverse groups that make up our country. 
+Demographic studies of the United States demonstrate that racial and ethnic populations that have been historically underrepresented in clinical trials and in STEM have grown and are predicted to make up 50% of the population by 2045 [@clark_increasing_2019]. Thus for medical care to best serve the current and future population of the United States, trials especially need to be more representative of the diverse groups that make up our country.
 
 
-Research suggests the following reasons for the lack of diversity in clinical trials: 
+Research suggests the following reasons for the lack of diversity in clinical trials:
 
 ### **Historical injustice**
 
@@ -133,10 +133,10 @@ Examples of historical injustices include:
 
 -  [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in Tuskegee, Alabama about the outcomes of untreated syphilis in Black males (1932-1972) in which the patients were told they were being treated but were in fact not being treated [@mcvean_40_2019].
 
--  ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to 
-cervical cancer were also similarly studied but patients were not offered standard treatments, they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial [@evans_revisiting_NZ]. 
+-  ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to
+cervical cancer were also similarly studied but patients were not offered standard treatments, they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial [@evans_revisiting_NZ].
 
--  [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. Her family did not receive money from the companies that profited from her cells, and for decades her family was often not asked for consent as doctors and scientists revealed her name and medical records publicly [@noauthor_henrietta_2020]. 
+-  [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. Her family did not receive money from the companies that profited from her cells, and for decades her family was often not asked for consent as doctors and scientists revealed her name and medical records publicly [@noauthor_henrietta_2020].
 
 > “I want scientists to acknowledge that HeLa cells came from an African American woman who was flesh and blood, who had a family and who had a story,” her granddaughter Jeri Lacks-Whye told Nature [@noauthor_henrietta_2020].
 
@@ -148,15 +148,15 @@ cervical cancer were also similarly studied but patients were not offered standa
 In the 1950s, a study was conducted to examine the thyroid gland in Alaskan natives, in which participants were given doses of radioactive iodine that exceeded current recommendations. Beyond the riskiness of the dose of radiation, this study was unethical due to inadequate translation of research methods and consent forms, thus participants were not able to be properly informed about the risks of the study and therefore not able to provide proper consent. Furthermore, this also led to the inadequate exclusion of participants for pregnancy, lactation, and other conditions [@hodge_no_2012].
 
 
-Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people wary of participating in clinical research [@griffith_determinants_2020]. 
+Importantly, this is only a small subset of examples. Many other individuals among a variety of populations such as those who were imprisoned [@rodriguez_first_2013], economically disadvantaged, those with mental disabilities, children, the elderly, those with mental illness [@millum_introduction_2012], and those among other groups have also been abused by unethical research practices [@fitzgerald_implicit_2017, @park_clinical_2008]. This pattern of abuse and neglect has in many cases directly impacted individuals and their families or communities and has unsurprisingly made many people wary of participating in clinical research [@griffith_determinants_2020].
 
 > “We, as African Americans were always the pilot test... I know because people have experienced it within my line, my family, my bloodline in [city name]. Yeah.” He continued by saying, “So I just think that we’ve been used and misused a lot of times within the African American community and in the lower parts of the devastation where the devastation lies” [@griffith_determinants_2020].
 
 > “I’m thinking about horror stories like the Tuskegee experiment and things like that. Like stuff that for me, were mentioned back in school and were mentioned by my family members...” [@griffith_determinants_2020].
 
-### **Health care inequity** 
+### **Health care inequity**
 
-Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of certain racial and ethnic ancestry have also historically received poorer access to health care and poorer quality health care, thus discouraging their engagement with the health care system [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012]. 
+Beyond such examples of extremely unethical studies and practices, marginalized populations such as people of certain racial and ethnic ancestry have also historically received poorer access to health care and poorer quality health care, thus discouraging their engagement with the health care system [@griffith_determinants_2020; @studies_inclusion_1999; @fitzgerald_implicit_2017; @hodge_no_2012].
 
 Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today [@jul_16_health_2021].
 
@@ -167,12 +167,12 @@ Many racial and ethnic groups in the US were historically more likely to be unin
 Even with similar access to care (which can be reduced by sociodemographic factors), people of marginalized racial and ethnic groups still have a history of receiving inferior health care [@griffith_determinants_2020].
 
 These two issues among others have led to health disparities, including for cancer:
- 
+
 >  "An analysis of 1 million patients with cancer in the United States showed that blacks or African Americans have a 28% higher **cancer-specific mortality** compared with whites. This survival gap is independent of sociodemographic factors, disease stage, and access to treatments. Indeed, disparities exist along the continuum of care, from screening, access to care, and referral to subspecialty centers, to enrollment in clinical trials that define new approaches to cancer treatment" [@nazha_enrollment_2019].
 
 
 ###  **Poor recruitment and inclusion**
- 
+
 Due to concern about the time and effort required to find a more diverse set of participants and also due to implicit bias, many populations are not recruited at the same rate. **Implicit bias** is an unconscious negative evaluation of a person based on characteristics that are irrelevant [@fitzgerald_implicit_2017].
 
 > "Based on the available evidence, physicians and nurses manifest implicit biases to a similar degree as the general population. The following characteristics are at issue: race/ethnicity, gender, socio-economic status (SES), age, mental illness, weight, having AIDS, brain injured patients perceived to have contributed to their injury, intravenous drug users, disability, and social circumstances" [@fitzgerald_implicit_2017].
@@ -196,21 +196,21 @@ In a 2019 study, access to oncology trials was found to only be available to abo
 
 There are many barriers to this access:
 
-- **Language:** 
+- **Language:**
 One major important barrier is translation of recruitment materials to other languages.
 
 - **Scheduling:**
-Another barrier can be the time at which participants are needed to be in person for a clinical trial. Some individuals need more accommodation if for example they can't come to appointments during work hours due to having a job with an inflexible work schedule or due to care taking responsibilities. 
+Another barrier can be the time at which participants are needed to be in person for a clinical trial. Some individuals need more accommodation if for example they can't come to appointments during work hours due to having a job with an inflexible work schedule or due to care taking responsibilities.
 
 - **Transportation & location:**
 If it is more time consuming to get to appointments due to a need for public transportation or because an individual lives in a different area of town this can inhibit participation and retention of participants.
 
-- **Health iteracy:**
+- **Health literacy:**
 For individuals who don't have the time, education, or other means necessary to learn about the importance of specific health interventions or preventative practices for example, they may not be recruited for trials as well as individuals that are regularly concerned with their health and spend leisure time investigating information about their health [@ACRP_representation_2020].
 
 ### **Lack of community engagement funding**
 
-There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials. 
+There has been historically a lack of funding to support equitable engagement of community stakeholders. However, community engagement can build trust, reduce stigma, increase access, recruitment and retention of more diverse participants for clinical trials.
 
 Recent projects in which participants are recruited through community engagement, such as [Project Brotherhood](https://projectbrotherhood.net/about-us/) (a community based project, that provides Black men in Chicago with health education within their communities) have been shown to help increase health screen participation.
 
@@ -222,29 +222,29 @@ Most clinical trials are funded by the pharmaceutical industry which often leads
 
 1) Provide adequate financial, logistical, and time support
 
-Investigators should consider how to support caregivers who have important obligations, such as tending to their family members or others. For example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi [@ACRP_representation_2020]. Researchers should also consider providing patients with a cell phone to improve communication [@clark_increasing_2019]. Finally, participants may also need extra assistance to cope with healthcare needs following participation in a study, particularly if this interferes with their typical obligations. 
+Investigators should consider how to support caregivers who have important obligations, such as tending to their family members or others. For example when possible, perhaps home visits would be feasible. Other strategies include providing flexible hours for trial visits and support for transportation, such as payment for a rideshare service or taxi [@ACRP_representation_2020]. Researchers should also consider providing patients with a cell phone to improve communication [@clark_increasing_2019]. Finally, participants may also need extra assistance to cope with healthcare needs following participation in a study, particularly if this interferes with their typical obligations.
 
-2) More promotion of health care access in general 
+2) More promotion of health care access in general
 
 Individuals have been shown to be more likely to participate when advised by a health care provider [@clark_increasing_2019]. Increasing health care system access in general could improve clinical trial participation, by increasing opportunities for health care providers to interact with individuals who could participate in a trial.
 
 3) More promotion of community engagement
 
-Community stakeholders can help to assess if recruitment information is culturally appropriate and can help with creating more equitable recruitment strategies. 
+Community stakeholders can help to assess if recruitment information is culturally appropriate and can help with creating more equitable recruitment strategies.
 
 4) More inclusive research teams
 
-As stated earlier, individuals have been shown to be more trusting when research teams include members that have a similar background to themselves [@griffith_determinants_2020]. 
+As stated earlier, individuals have been shown to be more trusting when research teams include members that have a similar background to themselves [@griffith_determinants_2020].
 
 5) More inclusive practices
 
-When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. This involves collecting more information about non-binary individuals, for example providing response options to questions about gender so that an individual who was assigned female at birth, but is now male can adequately provide this information. Similarly, more detailed information about ancestry (for example providing more specific Latin American ancestry options as opposed to just Latin American) could also lead to more informative findings about specific populations. 
+When obtaining information about gender, researchers should collect more informative information such as the model proposed in @chen_approach_2019. This involves collecting more information about non-binary individuals, for example providing response options to questions about gender so that an individual who was assigned female at birth, but is now male can adequately provide this information. Similarly, more detailed information about ancestry (for example providing more specific Latin American ancestry options as opposed to just Latin American) could also lead to more informative findings about specific populations.
 
-6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples. 
+6) If possible aim for funding for clinical trials from an institute that is supportive of the recruitment of more representative samples.
 
 
 
-## What does it take for clinical research to be ethical? 
+## What does it take for clinical research to be ethical?
 
 Here you can see a table of requirements for ethical research trials [@emanuel_what_nodate]. Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
@@ -272,7 +272,7 @@ According to a recent article [@zavala_cancer_2021] about cancer research in the
 
 ## Ways to better support a more diverse research team
 
-In order to best support and encourage mentees and employees of underrepresented groups in cancer informatics, we suggest that lab leaders do the following: 
+In order to best support and encourage mentees and employees of underrepresented groups in cancer informatics, we suggest that lab leaders do the following:
 
 ### Seek additional **training about disparities** in informatics and STEM careers
 
@@ -285,7 +285,7 @@ Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directo
 <iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px"></iframe>
 
 
-Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not a complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges. 
+Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not a complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges.
 
 
 
@@ -307,11 +307,11 @@ See below a list of examples:
 
 [[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
 
-Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021]. 
+Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021].
 
-### **Acknowledge mentee's differences** 
+### **Acknowledge mentee's differences**
 
-Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss how to best cultivate their mentee's career success given their race. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to **hinder the success** of mentees [@byars-winston_race_nodate; @holoien_you_2012]. 
+Research shows that mentees of underrepresented racial groups would prefer their mentors to directly discuss how to best cultivate their mentee's career success given their race. An attitude of ["color-blindness"](https://doi.org/10.1016/j.jesp.2011.09.010) about race has shown to **hinder the success** of mentees [@byars-winston_race_nodate; @holoien_you_2012].
 
 Talk with your team members **individually** (be careful not to single out individual team members in front of the rest of the lab) about how they would like to discuss the potential influences of their background/identity on their career growth.
 
@@ -327,16 +327,16 @@ Talk with your team members **individually** (be careful not to single out indiv
 
 Educate lab mentors about cultural sensitivity and microaggressions. Highlight the importance of collaboration and create a [code of conduct](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) for the lab to demonstrate that respect among lab members is expected and required.
 
-### **Diverse role models** 
+### **Diverse role models**
 
 
 Expose all mentees to a diverse range of role models through seminars, journal clubs, and participation in conferences.
 
-Computational biology papers with female authors are more likely to have a last author who is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [@bonham_women_2017]. 
+Computational biology papers with female authors are more likely to have a last author who is also female. It is unclear if this is because women are more likely to hire other women and or if females are more likely to choose a lab with a female adviser [@bonham_women_2017].
 
 Indeed, research of females and other underrepresented groups in STEM including students with disabilities and of certain racial and ethnic groups suggests that role models of underrepresented populations are particularly important for recruiting and keeping students interested in fields where they may feel like an outsider [@stelter_establishing_2021] due to current underrepresentation.
 
-One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent [@katz_mentoring_2007]. 
+One strategy to encourage students of underrepresented populations is to provide students with exposure to such role models through regular seminars where scientists who represent these populations are prominent [@katz_mentoring_2007].
 
 ### **Advocate for all mentees**
 
@@ -346,9 +346,9 @@ Encouraging the participation of your mentees in support programs and groups suc
 
 Help mentees cultivate self advocacy practices through open discussions and encouragement.
 
-### Support a **healthy relationship with failure** 
+### Support a **healthy relationship with failure**
 
-Be a good role model and openly discuss the role of failure in research. For example, you may describe failures in your own career or you may read some of the book [Brilliant Blunders](https://www.simonandschuster.com/books/Brilliant-Blunders/Mario-Livio/9781439192375) by [Mario Livio](https://en.wikipedia.org/wiki/Mario_Livio) or [this article](https://www.nytimes.com/2013/06/09/books/review/brilliant-blunders-by-mario-livio.html?.?mc=aud_dev&ad-keywords=auddevgate&gclid=CjwKCAjwtJ2FBhAuEiwAIKu19sjNSii_CXfcJ74pWoiPBbdu2v55oznTz4QAQi5zjb-l54-jb_DyyxoC16MQAvD_BwE&gclsrc=aw.ds) about the book with your mentees. This book describes how scientific advancement actually occurred due to mistakes of some of the most respected scientists. Educating mentees about the **[Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)** described by [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) may also be helpful. The major themes of this mindset is an awareness that our abilities are not fixed, that we can change our aptitudes with practice and work. 
+Be a good role model and openly discuss the role of failure in research. For example, you may describe failures in your own career or you may read some of the book [Brilliant Blunders](https://www.simonandschuster.com/books/Brilliant-Blunders/Mario-Livio/9781439192375) by [Mario Livio](https://en.wikipedia.org/wiki/Mario_Livio) or [this article](https://www.nytimes.com/2013/06/09/books/review/brilliant-blunders-by-mario-livio.html?.?mc=aud_dev&ad-keywords=auddevgate&gclid=CjwKCAjwtJ2FBhAuEiwAIKu19sjNSii_CXfcJ74pWoiPBbdu2v55oznTz4QAQi5zjb-l54-jb_DyyxoC16MQAvD_BwE&gclsrc=aw.ds) about the book with your mentees. This book describes how scientific advancement actually occurred due to mistakes of some of the most respected scientists. Educating mentees about the **[Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)** described by [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) may also be helpful. The major themes of this mindset is an awareness that our abilities are not fixed, that we can change our aptitudes with practice and work.
 
 
 <img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge34b3ba01e_0_1.png" title="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." alt="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." width="100%" />
@@ -395,7 +395,7 @@ Especially if your mentee is feeling like they don't belong, criticism in front 
 
 6) Don't surprise your mentees with criticism.
 
-Build criticism into regular meetings with your mentee. Don't create a meeting out of the blue to tell them they need to improve as this may cause excess stress. Secondly, criticism can be normalized if it is delivered gently and in the ways we just outlined. 
+Build criticism into regular meetings with your mentee. Don't create a meeting out of the blue to tell them they need to improve as this may cause excess stress. Secondly, criticism can be normalized if it is delivered gently and in the ways we just outlined.
 
 
 ### Consider creating a document of **mentor and mentee expectations**.
@@ -406,17 +406,17 @@ These documents help clarify what mentees can expect. This is helpful for your m
 
 [[source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709)]
 
-@masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents. 
+@masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents.
 
 
-Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter. 
+Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
 
 
 <img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." width="100%" />
 
 ## Conclusion
 
-We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members and to support your team to be more mindful about health inequity when conducting research. We believe that a happier and more inclusive lab has the potential to be more productive and innovative. 
+We hope that these guidelines will help you to create a safe and more comfortable environment for all of your lab members and to support your team to be more mindful about health inequity when conducting research. We believe that a happier and more inclusive lab has the potential to be more productive and innovative.
 
 In conclusion, here are some of the take-home messages:
 
