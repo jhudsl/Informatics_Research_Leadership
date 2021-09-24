@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 4 Informatics relationships | Leadership for Cancer Informatics Research</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 4 Informatics relationships | Leadership for Cancer Informatics Research" />
   <meta property="og:type" content="book" />
@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-09-23" />
+<meta name="date" content="2021-09-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,7 +33,8 @@
 <link rel="prev" href="informatics-project-guidelines.html"/>
 <link rel="next" href="promoting-diversity-equity-and-inclusion.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.5.0/jquery-3.5.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,7 +50,8 @@
 
 
 
-
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
 
 <style type="text/css">
@@ -114,6 +116,29 @@ code span.st { color: #4e9a06; } /* String */
 code span.va { color: #000000; } /* Variable */
 code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 <link rel="stylesheet" href="assets/style_ITN.css" type="text/css" />
@@ -194,7 +219,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="3.2" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#informatics-project-pitfalls"><i class="fa fa-check"></i><b>3.2</b> Informatics project pitfalls</a></li>
 <li class="chapter" data-level="3.3" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#informatics-project-pitfall-mitigation-methods"><i class="fa fa-check"></i><b>3.3</b> Informatics project pitfall mitigation methods</a></li>
-<li class="chapter" data-level="3.4" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>3.4</b> Conclusion</a></li>
+<li class="chapter" data-level="3.4" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#conclusion-1"><i class="fa fa-check"></i><b>3.4</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="informatics-relationships.html"><a href="informatics-relationships.html"><i class="fa fa-check"></i><b>4</b> Informatics relationships</a>
 <ul>
@@ -212,7 +237,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="4.4.3" data-path="informatics-relationships.html"><a href="informatics-relationships.html#electronic-mentoring"><i class="fa fa-check"></i><b>4.4.3</b> Electronic mentoring</a></li>
 <li class="chapter" data-level="4.4.4" data-path="informatics-relationships.html"><a href="informatics-relationships.html#career-goals"><i class="fa fa-check"></i><b>4.4.4</b> Career goals</a></li>
 </ul></li>
-<li class="chapter" data-level="4.5" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>4.5</b> Conclusion</a></li>
+<li class="chapter" data-level="4.5" data-path="informatics-relationships.html"><a href="informatics-relationships.html#conclusion-2"><i class="fa fa-check"></i><b>4.5</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html"><i class="fa fa-check"></i><b>5</b> Promoting diversity, equity, and inclusion</a>
 <ul>
@@ -244,7 +269,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="5.8.8" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#give-feedback-with-cultural-sensitivity"><i class="fa fa-check"></i><b>5.8.8</b> <strong>Give feedback with cultural sensitivity</strong></a></li>
 <li class="chapter" data-level="5.8.9" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#consider-creating-a-document-of-mentor-and-mentee-expectations."><i class="fa fa-check"></i><b>5.8.9</b> Consider creating a document of <strong>mentor and mentee expectations</strong>.</a></li>
 </ul></li>
-<li class="chapter" data-level="5.9" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>5.9</b> Conclusion</a></li>
+<li class="chapter" data-level="5.9" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#conclusion-3"><i class="fa fa-check"></i><b>5.9</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html"><i class="fa fa-check"></i><b>6</b> Informatics lab management tools</a>
 <ul>
@@ -266,7 +291,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="6.6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#jupyter"><i class="fa fa-check"></i><b>6.6</b> Jupyter</a></li>
 <li class="chapter" data-level="6.7" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#note-taking-apps"><i class="fa fa-check"></i><b>6.7</b> Note-taking apps</a></li>
-<li class="chapter" data-level="6.8" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>6.8</b> Conclusion</a></li>
+<li class="chapter" data-level="6.8" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#conclusion-4"><i class="fa fa-check"></i><b>6.8</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the authors</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
@@ -316,12 +341,12 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="collaborating-with-informatics-experts" class="section level2" number="4.2">
 <h2><span class="header-section-number">4.2</span> Collaborating with informatics experts</h2>
-<p>Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s <span class="citation">(<a href="references.html#ref-vermeulen_understanding_2013" role="doc-biblioref">Vermeulen, Parker, and Penders 2013</a>)</span> and that the rate continues to increase <span class="citation">(<a href="references.html#ref-sonnenwald_scientific_2007" role="doc-biblioref">Sonnenwald 2007</a>)</span>. Indeed the size of biology research teams appear to have doubled from 1955 to 1990 <span class="citation">(<a href="references.html#ref-vermeulen_understanding_2013" role="doc-biblioref">Vermeulen, Parker, and Penders 2013</a>)</span>. But why?</p>
+<p>Studies investigating biology research labs over history indicate that collaboration has been on the rise since the 1950s <span class="citation">(<a href="#ref-vermeulen_understanding_2013" role="doc-biblioref">Vermeulen, Parker, and Penders 2013</a>)</span> and that the rate continues to increase <span class="citation">(<a href="#ref-sonnenwald_scientific_2007" role="doc-biblioref">Sonnenwald 2007</a>)</span>. Indeed the size of biology research teams appear to have doubled from 1955 to 1990 <span class="citation">(<a href="#ref-vermeulen_understanding_2013" role="doc-biblioref">Vermeulen, Parker, and Penders 2013</a>)</span>. But why?</p>
 <div id="the-benefits-of-collaboration" class="section level3" number="4.2.1">
 <h3><span class="header-section-number">4.2.1</span> The benefits of collaboration</h3>
 <ol style="list-style-type: decimal">
 <li><strong>Shared cost</strong> - Research often involves expensive technology, thus it is cost effective to share resources.</li>
-<li><strong>Shared expertise</strong> - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation <span class="citation">(<a href="references.html#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</li>
+<li><strong>Shared expertise</strong> - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</li>
 <li><strong>Shared burden</strong> - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.</li>
 <li><strong>Shared reliability</strong> - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.</li>
 <li><strong>Shared credibility</strong> - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.</li>
@@ -339,36 +364,36 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <p>Typically researchers will not meet as often with a collaborator as they would with an internal team member. Therefore, poor communication in a collaboration can lead to more costly misdirection and thus wasted time and effort.</p>
 <p>Furthermore, as investigators often have different backgrounds, differences in jargon and language can make communication more challenging.</p>
 <p>Having <strong>internal</strong> team members with some <strong>familiarity</strong> with informatics can be very beneficial for translating discussions with collaborators who are informatics experts.</p>
-<p>One solution to this is to have <strong>trainees work in both labs</strong>. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills. This allows the trainee to potentially have their own multi-disciplinary lab in the future <span class="citation">(<a href="references.html#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
+<p>One solution to this is to have <strong>trainees work in both labs</strong>. This can be especially beneficial for the trainee who will become accustomed to two research styles and will learn a diverse set of skills. This allows the trainee to potentially have their own multi-disciplinary lab in the future <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
 <p>Another important method that can help resolve this issue is to have members provide <strong>educational seminars</strong> for participating members about the fundamentals of their work.</p>
 <ol start="2" style="list-style-type: decimal">
 <li><strong>Different research style and goals</strong> - Beyond differences in language, differences in research style and goals can lead to conflict.</li>
 </ol>
 <blockquote>
-<p>“Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains” <span class="citation">(<a href="references.html#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
+<p>“Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains” <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
 </blockquote>
 <p>Making clear research standards and goals, as well as outlining clear specific tasks at the beginning of a project can help to avoid this issue. Furthermore, meeting consistently throughout the duration of a project can also help to make sure that standards are maintained. Additionally, these meetings should include discussions about intellectual property, authorship, leadership, and defining what success looks likes to each of the various members. Defining these details early can avoid major conflict later.</p>
-<p>Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects. It is also necessary to ensure that junior members have time to devote to their own research programs. <span class="citation">(<a href="references.html#ref-sonnenwald_scientific_2007" role="doc-biblioref">Sonnenwald 2007</a>)</span> Support should be provided for these junior collaborators by more senior collaborators.</p>
+<p>Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects. It is also necessary to ensure that junior members have time to devote to their own research programs. <span class="citation">(<a href="#ref-sonnenwald_scientific_2007" role="doc-biblioref">Sonnenwald 2007</a>)</span> Support should be provided for these junior collaborators by more senior collaborators.</p>
 <ol start="3" style="list-style-type: decimal">
 <li><strong>Different capabilities</strong> - Research of multi-disciplinary collaborations has revealed that when collaborating members are unclear of how their expertise and work contributes to the project, they are less motivated and fell less valued.</li>
 </ol>
-<p>Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect <span class="citation">(<a href="references.html#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
+<p>Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect <span class="citation">(<a href="#ref-makinen_patterning_2020" role="doc-biblioref">Mäkinen, Evans, and McFarland 2020</a>)</span>.</p>
 <ol start="4" style="list-style-type: decimal">
 <li><strong>Reduced sense of responsibility</strong> - Another concern of collaboration is that team members may feel less responsibility or commitment to a project than for a project within their own lab.</li>
 </ol>
 <p>Defining tasks and expected due dates can help reduce this issue. Discussions to establish due dates should <strong>always include</strong> team members with <strong>expertise in each area</strong> of science, as tasks may not take the amount of time that another researcher would expect. It is a common misconception that informatics tasks take less time than the tasks actually take in reality.</p>
 <ol start="5" style="list-style-type: decimal">
 <li><p><strong>Research is dynamic</strong> - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change.</p></li>
-<li><p><strong>Different levels of resources</strong> - Particularly when collaborating with community members, community colleges, and institutions that are “Equity-oriented” and serving populations that have historically been marginalized or “minoritized” <span class="citation">(<a href="references.html#ref-blake_case_2017" role="doc-biblioref">Blake 2017</a>)</span>, it is important to keep in mind that large differences in resources may exist between collaborating members.</p></li>
+<li><p><strong>Different levels of resources</strong> - Particularly when collaborating with community members, community colleges, and institutions that are “Equity-oriented” and serving populations that have historically been marginalized or “minoritized” <span class="citation">(<a href="#ref-blake_case_2017" role="doc-biblioref">Blake 2017</a>)</span>, it is important to keep in mind that large differences in resources may exist between collaborating members.</p></li>
 </ol>
 <p>Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.</p>
 <p>It is also important to recognize that:</p>
 <blockquote>
-<p>“There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive” <span class="citation">(<a href="references.html#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span>.</p>
+<p>“There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive” <span class="citation">(<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span>.</p>
 </blockquote>
 <p>However:</p>
 <blockquote>
-<p>“In reality, even for well-established data types, analysis can often take <strong>as much or more time</strong> and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project” <span class="citation">(<a href="references.html#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span>.</p>
+<p>“In reality, even for well-established data types, analysis can often take <strong>as much or more time</strong> and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project” <span class="citation">(<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">Carpenter et al. 2021</a>)</span>.</p>
 </blockquote>
 <p>Don’t forget to provide some budget for your informatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of.</p>
 <p><img src="resources/images/04-informatics_relationships_files/figure-html/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " alt=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " width="100%" /></p>
@@ -386,7 +411,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="mentoring-informatics-students" class="section level2" number="4.4">
 <h2><span class="header-section-number">4.4</span> Mentoring informatics students</h2>
-<p>Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should <strong>learn from each other and together</strong> and expand what each can do alone. Importantly the more traditional paradigm that does not value “reciprocal learning” as highly, has been shown to be less effective for a larger diversity of students <span class="citation">(<a href="references.html#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>.</p>
+<p>Mentorship is a particularly unique relational experience. While traditional mentorship has been defined by the hierarchical structure of a single mentor who teaches subordinate mentees, new styles have emerged that are not as constrained or limited as the traditional paradigm. At its optimum, mentors and mentees should <strong>learn from each other and together</strong> and expand what each can do alone. Importantly the more traditional paradigm that does not value “reciprocal learning” as highly, has been shown to be less effective for a larger diversity of students <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>.</p>
 <p>For research groups that are newer to informatics, some of these less traditional paradigms may be especially useful, we will focus on a few here.</p>
 <div id="co-mentoringcollaborativeteam-mentoring" class="section level3" number="4.4.1">
 <h3><span class="header-section-number">4.4.1</span> Co-mentoring/collaborative/team mentoring</h3>
@@ -394,7 +419,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="peer-mentoring" class="section level3" number="4.4.2">
 <h3><span class="header-section-number">4.4.2</span> Peer mentoring</h3>
-<p>Peer mentoring also provides great opportunities to expand students’ expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students’ teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge and assisting in their quest to “learn how to learn” <span class="citation">(<a href="references.html#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>. Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations <span class="citation">(<a href="references.html#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>.</p>
+<p>Peer mentoring also provides great opportunities to expand students’ expertise and skills without as much time constraints for the research leaders of a lab, particularly for skills that may be new to lab leadership. Furthermore, such paradigms are helpful for improving students’ teaching skills, collaboration skills, self-reliance, and self-confidence. Teaching a peer is often useful for students to identify gaps in their own knowledge and assisting in their quest to “learn how to learn” <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>. Furthermore, such paradigms appear to be especially beneficial to students of historically marginalized populations <span class="citation">(<a href="#ref-mullen_defining_2021" role="doc-biblioref">Mullen and Klimaitis 2021</a>)</span>.</p>
 <p>However, there are challenges for research leaders from a management standpoint. Mentors should be mindful of any conflicts that may arise between students. These can often be avoided with clear and distinct goals and projects for students, to avoid making students feel like they are competing with one another. Additionally, we highly recommend establishing a <a href="https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/">code of conduct</a> for the lab, so that students and staff members are clear about what behavior is expected.</p>
 </div>
 <div id="electronic-mentoring" class="section level3" number="4.4.3">
@@ -447,7 +472,7 @@ There are 3 major subtype specialties:<br />
 <!-- <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> -->
 <iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px">
 </iframe>
-<p>From another perspective, the major skill sets to focus on according to the “Build a Career in Data Science” book by Emily Robinson and Jacqueline Nolis <span class="citation">(<a href="references.html#ref-robinson_build_nodate" role="doc-biblioref">Robinson and Nolis 2020</a>)</span> are:</p>
+<p>From another perspective, the major skill sets to focus on according to the “Build a Career in Data Science” book by Emily Robinson and Jacqueline Nolis <span class="citation">(<a href="#ref-robinson_build_nodate" role="doc-biblioref">Robinson and Nolis 2020</a>)</span> are:</p>
 <ol style="list-style-type: decimal">
 <li>Statistics<br />
 </li>
@@ -473,7 +498,7 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 <li><strong>Encourage your student to seek specialized technical skill sets</strong></li>
 </ol>
 <p>For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career outside of academia, if they are for example focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in working for a nonprofit or for the government.</p>
-<p>See <span class="citation">Carpenter et al. (<a href="references.html#ref-carpenter_cultivating_2021" role="doc-biblioref">2021</a>)</span> and <span class="citation">Waller (<a href="references.html#ref-waller_documenting_2018" role="doc-biblioref">2018</a>)</span> for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.</p>
+<p>See <span class="citation">Carpenter et al. (<a href="#ref-carpenter_cultivating_2021" role="doc-biblioref">2021</a>)</span> and <span class="citation">Waller (<a href="#ref-waller_documenting_2018" role="doc-biblioref">2018</a>)</span> for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.</p>
 </div>
 <div id="authorship-considerations" class="section level4" number="4.4.4.4">
 <h4><span class="header-section-number">4.4.4.4</span> Authorship considerations</h4>
@@ -489,7 +514,7 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 </div>
 </div>
 </div>
-<div id="conclusion" class="section level2" number="4.5">
+<div id="conclusion-2" class="section level2" number="4.5">
 <h2><span class="header-section-number">4.5</span> Conclusion</h2>
 <p>We hope that these tips help you to mentor and lead your team in a more productive and effective way that benefits both your team members and your lab’s mission!</p>
 <p>In conclusion, here are some of the take-home messages:</p>
@@ -501,6 +526,33 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 <li>Organize projects so that your team can produce biological and computational manuscripts.</li>
 </ol>
 
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-blake_case_2017" class="csl-entry">
+Blake, Daniel. 2017. <span>“The <span>Case</span> for <span>Rebranding</span> <span>Minority</span>-Serving <span>Institutions</span> - <span>Higher</span> <span>Education</span>.”</span> <em>DiverseEducation.com</em>. <a href="https://diverseeducation.com/article/91247/">https://diverseeducation.com/article/91247/</a>.
+</div>
+<div id="ref-carpenter_cultivating_2021" class="csl-entry">
+Carpenter, Anne E, Casey S Greene, Piero Carninci, Benilton S Cervalho, Michiel de Hoon, Stacey Finley, Jerry SH Lee, et al. 2021. <span>“Cultivating Computational Biology.”</span> <em>arXiv [q-Bio.OT]</em>, 12. <a href="https://doi.org/arXiv:2104.11364">https://doi.org/arXiv:2104.11364</a>.
+</div>
+<div id="ref-makinen_patterning_2020" class="csl-entry">
+Mäkinen, Elina I., Eliza D. Evans, and Daniel A. McFarland. 2020. <span>“The <span>Patterning</span> of <span>Collaborative</span> <span>Behavior</span> and <span>Knowledge</span> <span>Culminations</span> in <span>Interdisciplinary</span> <span>Research</span> <span>Centers</span>.”</span> <em>Minerva</em> 58 (1): 71–95. <a href="https://doi.org/10.1007/s11024-019-09381-6">https://doi.org/10.1007/s11024-019-09381-6</a>.
+</div>
+<div id="ref-mullen_defining_2021" class="csl-entry">
+Mullen, Carol A., and Cindy C. Klimaitis. 2021. <span>“Defining Mentoring: A Literature Review of Issues, Types, and Applications.”</span> <em>Annals of the New York Academy of Sciences</em> 1483 (1): 19–35. <a href="https://doi.org/10.1111/nyas.14176">https://doi.org/10.1111/nyas.14176</a>.
+</div>
+<div id="ref-robinson_build_nodate" class="csl-entry">
+Robinson, Emily, and Jacqueline Nolis. 2020. <span>“Build a <span>Career</span> in <span>Data</span> <span>Science</span>.”</span> <em>Manning Publications</em>. <a href="https://www.manning.com/books/build-a-career-in-data-science">https://www.manning.com/books/build-a-career-in-data-science</a>.
+</div>
+<div id="ref-sonnenwald_scientific_2007" class="csl-entry">
+Sonnenwald, Diane H. 2007. <span>“Scientific Collaboration.”</span> <em>Annual Review of Information Science and Technology</em> 41 (1): 643–81. <a href="https://doi.org/10.1002/aris.2007.1440410121">https://doi.org/10.1002/aris.2007.1440410121</a>.
+</div>
+<div id="ref-vermeulen_understanding_2013" class="csl-entry">
+Vermeulen, Niki, John N. Parker, and Bart Penders. 2013. <span>“Understanding Life Together: <span>A</span> Brief History of Collaboration in Biology.”</span> <em>Endeavour</em> 37 (3): 162–71. <a href="https://doi.org/10.1016/j.endeavour.2013.03.001">https://doi.org/10.1016/j.endeavour.2013.03.001</a>.
+</div>
+<div id="ref-waller_documenting_2018" class="csl-entry">
+Waller, Lance A. 2018. <span>“Documenting and <span>Evaluating</span> <span>Data</span> <span>Science</span> <span>Contributions</span> in <span>Academic</span> <span>Promotion</span> in <span>Departments</span> of <span>Statistics</span> and <span>Biostatistics</span>.”</span> <em>The American Statistician</em> 72 (1): 11–19. <a href="https://doi.org/10.1080/00031305.2017.1375988">https://doi.org/10.1080/00031305.2017.1375988</a>.
 </div>
 </div>
 <hr>
@@ -521,7 +573,6 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -540,6 +591,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -560,6 +612,10 @@ gitbook.start({
 "text": null
 },
 "download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "section"
 }

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>About the authors | Leadership for Cancer Informatics Research</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="About the authors | Leadership for Cancer Informatics Research" />
   <meta property="og:type" content="book" />
@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2021-09-23" />
+<meta name="date" content="2021-09-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,7 +33,8 @@
 <link rel="prev" href="informatics-lab-management-tools.html"/>
 <link rel="next" href="references.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.5.0/jquery-3.5.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,7 +50,8 @@
 
 
 
-
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
 
 <style type="text/css">
@@ -114,6 +116,29 @@ code span.st { color: #4e9a06; } /* String */
 code span.va { color: #000000; } /* Variable */
 code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 <link rel="stylesheet" href="assets/style_ITN.css" type="text/css" />
@@ -194,7 +219,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="3.2" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#informatics-project-pitfalls"><i class="fa fa-check"></i><b>3.2</b> Informatics project pitfalls</a></li>
 <li class="chapter" data-level="3.3" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#informatics-project-pitfall-mitigation-methods"><i class="fa fa-check"></i><b>3.3</b> Informatics project pitfall mitigation methods</a></li>
-<li class="chapter" data-level="3.4" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>3.4</b> Conclusion</a></li>
+<li class="chapter" data-level="3.4" data-path="informatics-project-guidelines.html"><a href="informatics-project-guidelines.html#conclusion-1"><i class="fa fa-check"></i><b>3.4</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="informatics-relationships.html"><a href="informatics-relationships.html"><i class="fa fa-check"></i><b>4</b> Informatics relationships</a>
 <ul>
@@ -212,7 +237,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="4.4.3" data-path="informatics-relationships.html"><a href="informatics-relationships.html#electronic-mentoring"><i class="fa fa-check"></i><b>4.4.3</b> Electronic mentoring</a></li>
 <li class="chapter" data-level="4.4.4" data-path="informatics-relationships.html"><a href="informatics-relationships.html#career-goals"><i class="fa fa-check"></i><b>4.4.4</b> Career goals</a></li>
 </ul></li>
-<li class="chapter" data-level="4.5" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>4.5</b> Conclusion</a></li>
+<li class="chapter" data-level="4.5" data-path="informatics-relationships.html"><a href="informatics-relationships.html#conclusion-2"><i class="fa fa-check"></i><b>4.5</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html"><i class="fa fa-check"></i><b>5</b> Promoting diversity, equity, and inclusion</a>
 <ul>
@@ -244,7 +269,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="5.8.8" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#give-feedback-with-cultural-sensitivity"><i class="fa fa-check"></i><b>5.8.8</b> <strong>Give feedback with cultural sensitivity</strong></a></li>
 <li class="chapter" data-level="5.8.9" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#consider-creating-a-document-of-mentor-and-mentee-expectations."><i class="fa fa-check"></i><b>5.8.9</b> Consider creating a document of <strong>mentor and mentee expectations</strong>.</a></li>
 </ul></li>
-<li class="chapter" data-level="5.9" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>5.9</b> Conclusion</a></li>
+<li class="chapter" data-level="5.9" data-path="promoting-diversity-equity-and-inclusion.html"><a href="promoting-diversity-equity-and-inclusion.html#conclusion-3"><i class="fa fa-check"></i><b>5.9</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html"><i class="fa fa-check"></i><b>6</b> Informatics lab management tools</a>
 <ul>
@@ -266,7 +291,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="6.6" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#jupyter"><i class="fa fa-check"></i><b>6.6</b> Jupyter</a></li>
 <li class="chapter" data-level="6.7" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#note-taking-apps"><i class="fa fa-check"></i><b>6.7</b> Note-taking apps</a></li>
-<li class="chapter" data-level="6.8" data-path="guidelines-for-multidisciplinary-informatics-teams.html"><a href="guidelines-for-multidisciplinary-informatics-teams.html#conclusion"><i class="fa fa-check"></i><b>6.8</b> Conclusion</a></li>
+<li class="chapter" data-level="6.8" data-path="informatics-lab-management-tools.html"><a href="informatics-lab-management-tools.html#conclusion-4"><i class="fa fa-check"></i><b>6.8</b> Conclusion</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the authors</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
@@ -310,6 +335,13 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <div id="about-the-authors" class="section level1 unnumbered">
 <h1>About the authors</h1>
 <p>These credits are based on our <a href="https://github.com/jhudsl/DaSL_Course_Template_Bookdown/wiki/How-to-give-credits">course contributors table guidelines</a>.</p>
+<br>
+<br>
+<br>
+<p align="center">
+<strong><em>In <a href="https://galaxyproject.org/jxtx/">memory</a> of <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0">James Taylor</a> who was instrumental in initiating this project.</em></strong>
+</p>
+<p><br></p>
 <table>
 <colgroup>
 <col width="58%" />
@@ -323,52 +355,144 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </thead>
 <tbody>
 <tr class="odd">
+<td><strong>Pedagogy</strong></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>Lead Content Instructor</td>
 <td><a href="https://carriewright11.github.io">Carrie Wright</a></td>
 </tr>
-<tr class="even">
-<td>Illustrator</td>
-<td><a href="https://carriewright11.github.io">Carrie Wright</a></td>
-</tr>
 <tr class="odd">
-<td>Template Publishing Engineer</td>
-<td><a href="https://www.cansavvy.com/">Candace Savonen</a>, <a href="https://carriewright11.github.io/">Carrie Wright</a></td>
-</tr>
-<tr class="even">
-<td>Publishing Maintainence Engineer</td>
-<td><a href="https://www.cansavvy.com/">Candace Savonen</a></td>
-</tr>
-<tr class="odd">
-<td>Technical Publishing Stylist</td>
-<td><a href="https://carriewright11.github.io/">Carrie Wright</a>, <a href="https://www.cansavvy.com/">Candace Savonen</a></td>
-</tr>
-<tr class="even">
-<td>Packages</td>
-<td><a href="https://johnmuschelli.com/">John Muschelli</a>, <a href="https://www.cansavvy.com/">Candace Savonen</a>, <a href="https://carriewright11.github.io/">Carrie Wright</a></td>
-</tr>
-<tr class="odd">
-<td>Content Publisher</td>
-<td><a href="https://publichealth.jhu.edu/faculty/4130/ira-gooding">Ira Gooding</a></td>
+<td>Content Editors</td>
+<td><a href="https://www.cansavvy.com/">Candace Savonen</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/sarah-wheelan">Sarah Wheelan</a>, <a href="https://jtleek.com/">Jeff Leek</a></td>
 </tr>
 <tr class="even">
 <td>Content Directors</td>
 <td><a href="https://jtleek.com/">Jeff Leek</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/sarah-wheelan">Sarah Wheelan</a></td>
 </tr>
 <tr class="odd">
-<td>Content Consultants - <a href="https://jhudatascience.org/ITCR_Cancer_Research_Leadership/promoting-diversity-equity-and-inclusion.html">Ch5</a></td>
-<td><a href="https://www.linkedin.com/in/simone-sawyer-msph-1a3b81110/">Simone Sawyer</a>,<a href="https://www.linkedin.com/in/karriem-watson-10361035/">Karriem Watson</a></td>
+<td>Content Consultants (<a href="https://jhudatascience.org/ITCR_Cancer_Research_Leadership/promoting-diversity-equity-and-inclusion.html">Promoting diversity equity and inclusion</a>)</td>
+<td><a href="https://www.linkedin.com/in/simone-sawyer-msph-1a3b81110/">Simone Sawyer</a>, <a href="https://www.linkedin.com/in/karriem-watson-10361035/">Karriem Watson</a></td>
 </tr>
 <tr class="even">
-<td>Acknowledgements</td>
-<td><a href="https://twitter.com/andrei_chiffa/status/1375449259831595008?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375449259831595008%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Andrei Kucharavy</a>, <a href="https://twitter.com/sl_opitz/status/1375385114859933696?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375385114859933696%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Sarah Opitz</a>, <a href="https://twitter.com/markowetzlab/status/1374795012173656064?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374795012173656064%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Florian Markowetz</a>, <a href="https://twitter.com/foy_brody/status/1374799432445739010?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374799432445739010%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Brody Foy</a>, <a href="https://twitter.com/mcmullarkey/status/1374838375031656456?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374838375031656456%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmcmullarkey2Fstatus2F1374838375031656456widget%3DTweet">Michael Mullarkey</a>, <a href="https://twitter.com/DrAnneCarpenter/status/1375383099782139907?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375383099782139907%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FDrAnneCarpenter2Fstatus2F1375383099782139907widget%3DTweet">Anne Carpenter</a>, <a href="https://twitter.com/luispedrocoelho/status/1375386159480721412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375386159480721412%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fluispedrocoelho2Fstatus2F1375386159480721412widget%3DTweet">Luis Pedro Coelho</a>, <a href="https://twitter.com/martinowk/status/1374803835940528128?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374803835940528128%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmartinowk2Fstatus2F1374803835940528128widget%3DTweet">Keri Martinowhich</a></td>
+<td>Acknowledgments</td>
+<td><a href="https://twitter.com/andrei_chiffa/status/1375449259831595008?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375449259831595008%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Andrei Kucharavy</a>, <a href="https://twitter.com/sl_opitz/status/1375385114859933696?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375385114859933696%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Sarah Opitz</a>, <a href="https://twitter.com/markowetzlab/status/1374795012173656064?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374795012173656064%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Florian Markowetz</a>, <a href="https://twitter.com/foy_brody/status/1374799432445739010?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374799432445739010%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=http%3A%2F%2F127.0.0.1%3A4015%2Fabout-the-authors.html">Brody Foy</a>, <a href="https://twitter.com/mcmullarkey/status/1374838375031656456?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374838375031656456%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmcmullarkey2Fstatus2F1374838375031656456widget%3DTweet">Michael Mullarkey</a>, <a href="https://twitter.com/DrAnneCarpenter/status/1375383099782139907?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375383099782139907%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FDrAnneCarpenter2Fstatus2F1375383099782139907widget%3DTweet">Anne Carpenter</a>, <a href="https://twitter.com/luispedrocoelho/status/1375386159480721412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375386159480721412%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fluispedrocoelho2Fstatus2F1375386159480721412widget%3DTweet">Luis Pedro Coelho</a>, <a href="https://twitter.com/martinowk/status/1374803835940528128?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374803835940528128%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmartinowk2Fstatus2F1374803835940528128widget%3DTweet">Keri Martinowich</a></td>
 </tr>
 <tr class="odd">
-<td>In Memory</td>
-<td><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0">James Taylor</a></td>
+<td><strong>Production</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Content Publisher</td>
+<td><a href="https://publichealth.jhu.edu/faculty/4130/ira-gooding">Ira Gooding</a></td>
+</tr>
+<tr class="odd">
+<td>Content Reviewer</td>
+<td><a href="https://www.cansavvy.com/">Candace Savonen</a></td>
+</tr>
+<tr class="even">
+<td><strong>Technical</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Course Publishing Engineer</td>
+<td><a href="https://carriewright11.github.io/">Carrie Wright</a></td>
+</tr>
+<tr class="even">
+<td>Template Publishing Engineers</td>
+<td><a href="https://www.cansavvy.com/">Candace Savonen</a>, <a href="https://carriewright11.github.io/">Carrie Wright</a></td>
+</tr>
+<tr class="odd">
+<td>Publishing Maintenance Engineer</td>
+<td><a href="https://www.cansavvy.com/">Candace Savonen</a></td>
+</tr>
+<tr class="even">
+<td>Technical Publishing Stylists</td>
+<td><a href="https://carriewright11.github.io/">Carrie Wright</a>, <a href="https://www.cansavvy.com/">Candace Savonen</a></td>
+</tr>
+<tr class="odd">
+<td>Package Developers (<a href="https://github.com/jhudsl/leanbuild">Leanbuild</a>)</td>
+<td><a href="https://johnmuschelli.com/">John Muschelli</a>, <a href="https://www.cansavvy.com/">Candace Savonen</a>, <a href="https://carriewright11.github.io/">Carrie Wright</a></td>
+</tr>
+<tr class="even">
+<td><strong>Art and Design</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Illustrator</td>
+<td><a href="https://carriewright11.github.io">Carrie Wright</a></td>
+</tr>
+<tr class="even">
+<td><strong>Funding</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Funder</td>
+<td><a href="https://www.cancer.gov/">National Cancer Institute (NCI)</a> UE5 CA254170</td>
+</tr>
+<tr class="even">
+<td>Funding Staff</td>
+<td>Emily Voeglein, Fallon Bachman</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Carrie Wright</strong> is an Assistant Scientist in the Department of <a href="https://www.jhsph.edu/departments/biostatistics/">Biostatistics</a> at the Johns Hopkins Bloomberg School of Public Health (JHSPH). Dr. Wright is a member of the <a href="https://jhudatascience.org/">Johns Hopkins Data Science Lab (DaSL)</a>, the <a href="https://www.opencasestudies.org/">Open Case Studies</a> team, and the <a href="https://www.itcrtraining.org/">Informatics Technology for Cancer Research (ITCR) Training Network (ITN)</a>. Dr. Wright’s work is focused on innovating ways to make data science and computational biology more accessible. She is particularly interested in practices to enhance flexibility, rigor, reproducibility, and ethical consideration in scientific and medical research. You can learn more about Dr.Wright at <a href="https://carriewright11.github.io/">this website</a>/.</p>
+<p><br></p>
+<pre><code>## ─ Session info ───────────────────────────────────────────────────────────────
+##  setting  value                       
+##  version  R version 4.0.2 (2020-06-22)
+##  os       Ubuntu 20.04.2 LTS          
+##  system   x86_64, linux-gnu           
+##  ui       X11                         
+##  language (EN)                        
+##  collate  en_US.UTF-8                 
+##  ctype    en_US.UTF-8                 
+##  tz       Etc/UTC                     
+##  date     2021-09-24                  
+## 
+## ─ Packages ───────────────────────────────────────────────────────────────────
+##  package     * version    date       lib source                            
+##  assertthat    0.2.1      2019-03-21 [1] RSPM (R 4.0.3)                    
+##  backports     1.1.10     2020-09-15 [1] RSPM (R 4.0.2)                    
+##  bookdown      0.24       2021-09-24 [1] Github (rstudio/bookdown@88bc4ea) 
+##  callr         3.4.4      2020-09-07 [1] RSPM (R 4.0.2)                    
+##  cli           2.0.2      2020-02-28 [1] RSPM (R 4.0.0)                    
+##  crayon        1.3.4      2017-09-16 [1] RSPM (R 4.0.0)                    
+##  desc          1.2.0      2018-05-01 [1] RSPM (R 4.0.3)                    
+##  devtools      2.3.2      2020-09-18 [1] RSPM (R 4.0.3)                    
+##  digest        0.6.25     2020-02-23 [1] RSPM (R 4.0.0)                    
+##  ellipsis      0.3.1      2020-05-15 [1] RSPM (R 4.0.3)                    
+##  evaluate      0.14       2019-05-28 [1] RSPM (R 4.0.3)                    
+##  fansi         0.4.1      2020-01-08 [1] RSPM (R 4.0.0)                    
+##  fs            1.5.0      2020-07-31 [1] RSPM (R 4.0.3)                    
+##  glue          1.4.2      2020-08-27 [1] RSPM (R 4.0.3)                    
+##  htmltools     0.5.0      2020-06-16 [1] RSPM (R 4.0.1)                    
+##  jquerylib     0.1.1      2020-04-30 [1] RSPM (R 4.0.0)                    
+##  knitr         1.33       2021-09-24 [1] Github (yihui/knitr@a1052d1)      
+##  lifecycle     1.0.0      2021-02-15 [1] CRAN (R 4.0.2)                    
+##  magrittr      1.5        2014-11-22 [1] RSPM (R 4.0.0)                    
+##  memoise       1.1.0      2017-04-21 [1] RSPM (R 4.0.0)                    
+##  pkgbuild      1.1.0      2020-07-13 [1] RSPM (R 4.0.2)                    
+##  pkgload       1.1.0      2020-05-29 [1] RSPM (R 4.0.3)                    
+##  prettyunits   1.1.1      2020-01-24 [1] RSPM (R 4.0.3)                    
+##  processx      3.4.4      2020-09-03 [1] RSPM (R 4.0.2)                    
+##  ps            1.3.4      2020-08-11 [1] RSPM (R 4.0.2)                    
+##  purrr         0.3.4      2020-04-17 [1] RSPM (R 4.0.3)                    
+##  R6            2.4.1      2019-11-12 [1] RSPM (R 4.0.0)                    
+##  remotes       2.2.0      2020-07-21 [1] RSPM (R 4.0.3)                    
+##  rlang         0.4.10     2021-09-24 [1] Github (r-lib/rlang@f0c9be5)      
+##  rmarkdown     2.10       2021-09-24 [1] Github (rstudio/rmarkdown@02d3c25)
+##  rprojroot     1.3-2      2018-01-03 [1] RSPM (R 4.0.0)                    
+##  sessioninfo   1.1.1      2018-11-05 [1] RSPM (R 4.0.3)                    
+##  stringi       1.5.3      2020-09-09 [1] RSPM (R 4.0.3)                    
+##  stringr       1.4.0      2019-02-10 [1] RSPM (R 4.0.3)                    
+##  testthat      3.0.1      2021-09-24 [1] Github (R-lib/testthat@e99155a)   
+##  usethis       2.0.1.9000 2021-09-24 [1] Github (r-lib/usethis@a150458)    
+##  withr         2.3.0      2020-09-22 [1] RSPM (R 4.0.2)                    
+##  xfun          0.26       2021-09-24 [1] Github (yihui/xfun@74c2a66)       
+##  yaml          2.2.1      2020-02-01 [1] RSPM (R 4.0.3)                    
+## 
+## [1] /usr/local/lib/R/site-library
+## [2] /usr/local/lib/R/library</code></pre>
 
 </div>
 <hr>
@@ -389,7 +513,6 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -408,6 +531,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -428,6 +552,10 @@ gitbook.start({
 "text": null
 },
 "download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "section"
 }
