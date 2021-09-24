@@ -15,7 +15,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 <br>
 <br>
 <br>
-<p align="center">***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0) who was instrumental in initiating this project.***</p>
+<p align="center">***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), who was instrumental in initiating this project.***</p>
 
 <br>
 
