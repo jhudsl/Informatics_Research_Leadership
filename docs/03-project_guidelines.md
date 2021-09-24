@@ -217,6 +217,7 @@ Keep in mind that using new data takes time.
 Using an existing script on new data rarely works because data can be formatted differently and have other intrinsic differences. This must first be evaluated to know how to proceed.
 
 The following steps are required:
+
 <img src="resources/images/03-project_guidelines_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd37aae88fc_0_15.png" title=" Using new data requires these steps 1) Check the quality of the new data, 2) Reformat/wrangle the new data to match that of the existing data, 3)  Evaluate how different the new data is from the old data - are they similar enough to be included in a larger analysis or does this require two analyses? 4) Perform the analysis on the new data" alt=" Using new data requires these steps 1) Check the quality of the new data, 2) Reformat/wrangle the new data to match that of the existing data, 3)  Evaluate how different the new data is from the old data - are they similar enough to be included in a larger analysis or does this require two analyses? 4) Perform the analysis on the new data" width="100%" />
 
 
