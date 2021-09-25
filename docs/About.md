@@ -12,12 +12,12 @@ link-citations: yes
 
 These credits are based on our [course contributors table guidelines](https://github.com/jhudsl/DaSL_Course_Template_Bookdown/wiki/How-to-give-credits).  
  
-<br>
-<br>
-<br>
-<p align="center">***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), who was instrumental in initiating this project.***</p>
+&nbsp;
+&nbsp;
+***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), who was instrumental in initiating this project.***
 
-<br>
+&nbsp;
+
 
 |Credits|Names| 
 |-------|-----|
@@ -41,7 +41,8 @@ These credits are based on our [course contributors table guidelines](https://gi
 |**Funding**||
 |Funder|[National Cancer Institute (NCI)](https://www.cancer.gov/) UE5 CA254170|
 |Funding Staff| Emily Voeglein, Fallon Bachman|
-<br> 
+
+&nbsp;
 
 
 ```
@@ -55,7 +56,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2021-09-24                  
+##  date     2021-09-25                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            
