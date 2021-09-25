@@ -12,12 +12,12 @@ link-citations: yes
 
 These credits are based on our [course contributors table guidelines](https://github.com/jhudsl/DaSL_Course_Template_Bookdown/wiki/How-to-give-credits).  
  
-<br>
-<br>
-<br>
-<p align="center">***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), who was instrumental in initiating this project.***</p>
+&nbsp;
+&nbsp;
+***In [memory](https://galaxyproject.org/jxtx/) of [James Taylor](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), who was instrumental in initiating this project.***
 
-<br>
+&nbsp;
+
 
 |Credits|Names| 
 |-------|-----|
