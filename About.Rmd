@@ -41,7 +41,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 |**Funding**||
 |Funder|[National Cancer Institute (NCI)](https://www.cancer.gov/) UE5 CA254170|
 |Funding Staff| Emily Voeglein, Fallon Bachman|
-<br> 
+&nbsp;
 
 ```{r, echo = FALSE}
 devtools::session_info()
