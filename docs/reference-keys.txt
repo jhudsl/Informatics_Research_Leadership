@@ -1,5 +1,7 @@
 introduction
 motivation
+target-audience
+curriculum
 informatics-teams-challenges
 meet-the-team
 guidelines-for-multidisciplinary-informatics-teams
