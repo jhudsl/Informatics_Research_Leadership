@@ -12,13 +12,7 @@ output: html_document
 
 ## Motivation
 
-Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. This course aims to provide research leaders with guidance about:  
-
- 1) How to effectively lead and support team members on informatics projects  
- 2) How to perform informatics projects well  
- 3) How to support informatics collaborators, mentees, and employees
- 4) How to better support diversity within your team
- 5) Tools that can help you perform informatics projects well
+Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. 
 
 
 ## Target audience
@@ -31,6 +25,7 @@ We will provide you with an awareness for the **specific challenges** that your 
 
 We will also discuss the major **pitfalls of informatics research** and discuss best practices for performing informatics research correctly and well, so that you can get the most out of your informatics projects.
 
+<img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gf4c01e4dca_56_0.png" title=" Overall Course Learning Objectives. This course will demonstrate how to: 1) Effectively lead and support team members on informatics projects, 2) Plan and perform informatics projects well, 3) Better support informatics collaborators, mentees, and employees, 4) Better support diversity, inclusion, and equity within your team and research, 5) Recognize tools that can help you perform informatics projects well" alt=" Overall Course Learning Objectives. This course will demonstrate how to: 1) Effectively lead and support team members on informatics projects, 2) Plan and perform informatics projects well, 3) Better support informatics collaborators, mentees, and employees, 4) Better support diversity, inclusion, and equity within your team and research, 5) Recognize tools that can help you perform informatics projects well" width="100%" />
 
 ## Informatics teams challenges
 
