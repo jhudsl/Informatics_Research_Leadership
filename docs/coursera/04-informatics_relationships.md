@@ -24,11 +24,12 @@ Studies investigating biology research labs over history indicate that collabora
 
 ### The benefits of collaboration  
 
-- **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources.
-- **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [@makinen_patterning_2020].
-- **Shared burden** - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.
-- **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
-- **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
+
+1. **Shared cost** - Research often involves expensive technology, thus it is cost effective to share resources.  
+2. **Shared expertise** - Now that technology affords answering in some cases more complex or broader research questions, it is often more effective to employ multiple contributors with different knowledge, skills, and perspectives. Researchers have noted that their own concept of their field changed as a result of working with investigators from other disciplines. Thus this can lead to innovation [@makinen_patterning_2020].  
+3. **Shared burden** - Doing part of the work for a project using the knowledge and skills that you are most comfortable with and seeking help from others who are more knowledgeable on other research aspects can be a more efficient strategy.
+4. **Shared reliability** - Including multiple team members who can each evaluate the research can improve the reliability of a project, as mistakes can be found by other members.
+5. **Shared credibility** - Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
 
 
 <img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" title=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" alt=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
@@ -42,7 +43,7 @@ Bad collaboration:
 <img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png" title=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" alt=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" width="100%" />
 
 
-1) **Communication Differences** - Extra care needs to be taken to ensure that communication across groups is effective.  
+1. **Communication Differences** - Extra care needs to be taken to ensure that communication across groups is effective.  
 
 Typically researchers will not meet as often with a collaborator as they would with an internal team member. Therefore, poor communication in a collaboration can lead to more costly misdirection and thus wasted time and effort.
 
@@ -55,7 +56,7 @@ One solution to this is to have **trainees work in both labs**. This can be espe
 Another important method that can help resolve this issue is to have members provide **educational seminars** for participating members about the fundamentals of their work.
 
 
-2) **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
+2. **Different research style and goals** -  Beyond differences in language, differences in research style and goals can lead to conflict.
 
 >"Scholars’ different styles of thought, standards, research traditions, techniques, and languages can be difficult to translate across disciplinary domains" [@makinen_patterning_2020].
 
@@ -64,17 +65,17 @@ Making clear research standards and goals, as well as outlining clear specific t
 Furthermore, it is critical to keep in mind the diversity of career goals of research team members, as junior team members may have a challenging time persuading others of their independence and contributions when they work on largely collaborative projects.  It is also necessary to ensure that junior members have time to devote to their own research programs. [@sonnenwald_scientific_2007] Support should be provided for these junior collaborators by more senior collaborators.
 
 
-3) **Different capabilities** - Research of multi-disciplinary collaborations has revealed that when collaborating members are unclear of how their expertise and work contributes to the project, they are less motivated and fell less valued. 
+3. **Different capabilities** - Research of multi-disciplinary collaborations has revealed that when collaborating members are unclear of how their expertise and work contributes to the project, they are less motivated and fell less valued. 
 
 Working with members of different backgrounds to determine how their expertise can contribute to the project, as opposed to simply assigning them a task, will not only help with morale, but it can also better define how a collaborator can further contribute to a project in ways that you may not already expect [@makinen_patterning_2020].
 
-4) **Reduced sense of responsibility** - Another concern of collaboration is that team members may feel less responsibility or commitment to a project than for a project within their own lab.
+4. **Reduced sense of responsibility** - Another concern of collaboration is that team members may feel less responsibility or commitment to a project than for a project within their own lab.
 
 Defining tasks and expected due dates can help reduce this issue. Discussions to establish due dates should **always include** team members with **expertise in each area** of science, as tasks may not take the amount of time that another researcher would expect. It is a common misconception that informatics tasks take less time than the tasks actually take in reality. 
 
-5) **Research is dynamic** - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change. 
+5. **Research is dynamic** - Research always has an element of trial and error. Protocols may change and new scientific questions may emerge. Frequent meetings with all group members to understand the dynamics of the project are critical. Furthermore, flexibility and understanding is required. It should be expected that aspects about the project will change. 
 
-6) **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are "Equity-oriented" and serving populations that have historically been marginalized or "minoritized" [@blake_case_2017], it is important to keep in mind that large differences in resources may exist between collaborating members. 
+6. **Different levels of resources** - Particularly when collaborating with community members, community colleges, and institutions that are "Equity-oriented" and serving populations that have historically been marginalized or "minoritized" [@blake_case_2017], it is important to keep in mind that large differences in resources may exist between collaborating members. 
 
 Sharing and discussing budget information early and often can help research members to understand what expectations are reasonable and how collaboration partners may best assist one another.
 
