@@ -4,7 +4,7 @@ This course is created with Bookdown and covers material about best practices an
 
 This course is a part of an [ITCR training series](https://www.itcrtraining.org/) and was in part created from [this github template](https://github.com/jhudsl/DaSL_Course_Template_Bookdown).
 
-You can see the [rendered course material here](https://jhudatascience.org/Cancer_Research_Leadership/) or [on Leanpub here](https://leanpub.com/universities/courses/jhu/cancer-informatics-for-research-leaders).
+You can see the [rendered course material here](https://jhudatascience.org/Informatics_Research_Leadership/) or [on Leanpub here](https://leanpub.com/universities/courses/jhu/cancer-informatics-for-research-leaders).
 
 
 ## About this course
