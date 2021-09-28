@@ -1,6 +1,6 @@
 # Leadership for Cancer Informatics Research
 
-This is a bookdown based course that covers material about best practices and tools for managing a multidisciplinary team for informatics research. 
+This course is created with Bookdown and covers material about best practices and tools for managing a multidisciplinary team for informatics research. 
 
 This course is a part of an [ITCR training series](https://www.itcrtraining.org/) and was in part created from [this github template](https://github.com/jhudsl/DaSL_Course_Template_Bookdown).
 
