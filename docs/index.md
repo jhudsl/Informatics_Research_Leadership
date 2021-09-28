@@ -7,7 +7,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "This course covers material about best practices and tools for managing a multidisciplinary team for informatics research."
-favicon: assets/favicon.ico
+favicon: assets/ITN_favicon.ico
 ---
 
 

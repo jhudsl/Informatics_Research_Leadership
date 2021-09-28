@@ -132,16 +132,24 @@ According to studies, marginalized groups such as Native Americans, people of Hi
 Examples of historical injustices include:
 
 
-1. [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): A study in Tuskegee, Alabama about the outcomes of untreated syphilis in Black males (1932-1972) in which the patients were told they were being treated but were in fact not being treated [@mcvean_40_2019].
+1. [Tuskegee syphilis trial](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study): 
 
-2. ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): A study in New Zealand (1966-1987) in which women diagnosed with a precursor to
+A study in Tuskegee, Alabama about the outcomes of untreated syphilis in Black males (1932-1972) in which the patients were told they were being treated but were in fact not being treated [@mcvean_40_2019].
+
+2. ["The Unfortunate experiment"](https://www.reliasmedia.com/articles/141906-revisiting-the-unfortunate-experiment-in-new-zealand): 
+
+A study in New Zealand (1966-1987) in which women diagnosed with a precursor to
 cervical cancer were also similarly studied but patients were not offered standard treatments, they were not informed of their diagnosis, and they were not told that they were a part of a trial, nor given the opportunity to decide if they wanted to be a part of the trial [@evans_revisiting_NZ].
 
-3. [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. Her family did not receive money from the companies that profited from her cells, and for decades her family was often not asked for consent as doctors and scientists revealed her name and medical records publicly [@noauthor_henrietta_2020].
+3. [Henrietta Lacks and HeLa Cells](https://www.nature.com/articles/d41586-020-02494-z): 
+
+In 1951, a patient named Henrietta Lacks was treated for cervical cancer at Johns Hopkins. Her cancerous cells turned out to be uniquely capable of surviving and reproducing and have been used widely in research for decades for many discoveries. Her family did not receive money from the companies that profited from her cells, and for decades her family was often not asked for consent as doctors and scientists revealed her name and medical records publicly [@noauthor_henrietta_2020].
 
 > “I want scientists to acknowledge that HeLa cells came from an African American woman who was flesh and blood, who had a family and who had a story,” her granddaughter Jeri Lacks-Whye told Nature [@noauthor_henrietta_2020].
 
-4. [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatemala. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
+4. [Sexually Transmitted Disease (STD) experiments in prisons and Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828982/pdf/AJPH.2013.301520.pdf): 
+
+This  (1946-1948) study of STDs started by infecting prisoners in a US prison in Indiana but later moved to Guatemala. Overall this study involved infecting many vulnerable populations with STDs, including children, prostitutes, mentally ill patients, prisoners, indigenous people of Guatemala, and soldiers.  
 
 > "...health officials intentionally infected at least 1308 of these people with syphilis, gonorrhea, and chancroid and conducted serology tests on others" [@rodriguez_first_2013].
 
