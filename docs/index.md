@@ -1,12 +1,12 @@
 --- 
 title: "Leadership for Cancer Informatics Research"
-date: "2021-09-24"
+date: "2021-09-27"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Description about Course/Book."
+description: "This course covers material about best practices and tools for managing a multidisciplinary team for informatics research."
 favicon: assets/favicon.ico
 ---
 
