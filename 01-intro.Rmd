@@ -10,6 +10,7 @@ library(leanbuild)
 leanbuild::set_knitr_image_path()
 ```
 
+
 # Introduction 
 
 ```{r, fig.alt="Title image: Leadership for Cancer Informatics Research", out.width = "100%", echo = FALSE}
