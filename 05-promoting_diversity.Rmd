@@ -330,7 +330,7 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 See below a list of examples:
 
 ```{r, fig.align="center", echo=FALSE, out.width="100%"}
-knitr::include_url("https://www.cambridgema.gov/-/media/Files/officeofthemayor/2019/deepmicroaggressionsworksheetfilledin012619.pdf")
+knitr::include_url("https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf")
 ```
 
 [[Source](https://www.cambridgema.gov/-/media/Files/officeofthemayor/2019/deepmicroaggressionsworksheetfilledin012619.pdf)]
