@@ -313,9 +313,9 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 
 See below a list of examples:
 
-<iframe src="https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf" width="100%" height="400px"></iframe>
+<iframe src="https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf" width="100%" height="400px"></iframe>
 
-[[Source](https://www.messiah.edu/download/downloads/id/921/Microaggressions_in_the_Classroom.pdf)]
+[[Source](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)]
 
 Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021].
 
