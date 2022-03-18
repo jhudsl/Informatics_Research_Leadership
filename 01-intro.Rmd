@@ -6,15 +6,15 @@ output: html_document
 
 ```{r, include = FALSE}
 library(knitr)
-library(leanbuild)
-leanbuild::set_knitr_image_path()
+library(ottr)
+ottrpal::set_knitr_image_path()
 ```
 
 
 # Introduction 
 
 ```{r, fig.alt="Title image: Leadership for Cancer Informatics Research", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_418")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/export/png?id=1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4&pageid=gcf28d80132_0_418")
 ```
 
 ## Motivation
@@ -33,7 +33,7 @@ We will provide you with an awareness for the **specific challenges** that your 
 We will also discuss the major **pitfalls of informatics research** and discuss best practices for performing informatics research correctly and well, so that you can get the most out of your informatics projects.
 
 ```{r, fig.alt=" Overall Course Learning Objectives. This course will demonstrate how to: 1) Effectively lead and support team members on informatics projects, 2) Plan and perform informatics projects well, 3) Better support informatics collaborators, mentees, and employees, 4) Better support diversity, inclusion, and equity within your team and research, 5) Recognize tools that can help you perform informatics projects well", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gf4c01e4dca_56_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gf4c01e4dca_56_0")
 ```
 
 ## Informatics teams challenges
@@ -56,35 +56,35 @@ First our fearless lab leaders who lead informatics research projects. We have S
 
 
 ```{r, fig.alt=" This is Sally the super supportive leader. She almost always knows how to make her team work well.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_125")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_125")
 ```
 
 Next, we have Charlie. He is new to informatics research and could learn a bit about how to work with informatics experts more effectively.
 
 
 ```{r, fig.alt=" This is Charlie the unclear leader. He means well, but he could be a more effective leader.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_103")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_103")
 ```
 
 Now we have our informaticists. First is Jack, who is often forgotten and misunderstood by his lab leader. His lab leader does not really know what he does, how long his work takes, or how to support Jack and his career goals. This is unfortunately impeding Jack from achieving the career that he could have and from producing the good work that he is capable of. 
 
 
 ```{r, fig.alt=" This is Jack, the only and lonely informaticist. He feels very misunderstood", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_11")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_11")
 ```
 
 We also have Hilda, an example of a happy informaticist. She feels supported in all the ways that she needs, allowing her to be as productive and helpful as possible.
 
 
 ```{r, fig.alt=" This is Hilda, the happy informaticist. She feels supported and understood and makes the most out of her work.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_148")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_148")
 ```
 
 Here is Francis the frustrated collaborator. She often feels misunderstood by her colleagues. They seem to think her work is easy and should be done faster and they often don't discuss important aspects about the project until she needs to redo work. Thus, she is reasonably frustrated.
 
 
 ```{r, fig.alt=" This is Fracis, the frustrated informaticist. Collaborators just don't seem to understand.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_175")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_175")
 ```
 
 
@@ -92,7 +92,7 @@ Finally we have Harry, the helpful collaborator. He clearly communicates with hi
 
 
 ```{r, fig.alt=" This is Harry, the helpful collaborator. He helps you and you help him!", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_45")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gc53d3d234f_0_45")
 ```
 
 We will now describe some guidelines for how to be an effective leader, collaborator, and mentor on informatics projects so that you can be more like Sally with mentees and employees like Hilda and collaborators like Harry.

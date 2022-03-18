@@ -8,15 +8,15 @@ link-citations: yes
 
 ```{r, include = FALSE}
 library(knitr)
-library(leanbuild)
-leanbuild::set_knitr_image_path()
+library(ottr)
+ottrpal::set_knitr_image_path()
 ```
 
 
 # Promoting diversity, equity, and inclusion
 
 ```{r, fig.alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_211")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_211")
 ```
 
 ## Diversity is beneficial
@@ -177,7 +177,7 @@ Beyond such examples of extremely unethical studies and practices, marginalized 
 Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today [@jul_16_health_2021].
 
 ```{r, fig.alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge9427bed03_0_32")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge9427bed03_0_32")
 ```
 
 [[source](https://www.kff.org/racial-equity-and-health-policy/issue-brief/health-coverage-by-race-and-ethnicity/)]
@@ -267,10 +267,10 @@ When obtaining information about gender, researchers should collect more informa
 Here you can see a table of requirements for ethical research trials [@emanuel_what_nodate]. Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
 ```{r, fig.alt="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge770395a4c_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge770395a4c_0_0")
 ```
 ```{r, fig.alt="Table about requirements for determining if a research trial is ethical continued, including provision of information to subjects about purpose of the research, its procedures, potential risks, benefits and alternatives, so that the individual understands the information and can make a voluntary decision whether to participate; and respecting all subjects by 1. permitting withdrawal from the research, 2. protecting privacy through confidentiality, 3. informing subjects of newly discovered risks or benefits, 4. informing subjects of results of clinical research, 5. maintaining welfare of subjects.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gea0796e0b3_0_38")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gea0796e0b3_0_38")
 ```
 
 ## Research practices to reduce cancer health disparities
@@ -380,7 +380,7 @@ Be a good role model and openly discuss the role of failure in research. For exa
 
 
 ```{r, fig.alt="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge34b3ba01e_0_1")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.ge34b3ba01e_0_1")
 ```
 
 [[source](https://www.ft.com/content/fd3e920e-0f7d-11ea-a7e6-62bf4f9e548a)]
@@ -443,7 +443,7 @@ Also see [here](https://ictr.wisc.edu/mentoring/) for more information about suc
 
 
 ```{r, fig.alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed.", out.width = "100%", echo = FALSE}
-leanbuild::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_5")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4/edit#slide=id.gd8ed090282_0_5")
 ```
 
 ## Conclusion
