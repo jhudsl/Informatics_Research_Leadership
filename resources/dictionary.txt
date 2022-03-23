@@ -1,3 +1,4 @@
+Bookdown
 Evernote
 HIPPA
 integrations
@@ -27,6 +28,7 @@ Broman
 cBioPortal
 cells’
 CFCs
+Coursera
 chancroid
 citable
 colorectal
@@ -72,6 +74,7 @@ JupyterLab
 Kha'po
 Kimberlé
 knitr
+Leanpub
 Lacks’s
 Laguna
 Latinx
