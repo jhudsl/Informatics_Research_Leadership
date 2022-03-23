@@ -7,22 +7,28 @@ output: html_document
 
 
 
-# Introduction 
+# Introduction
 
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gcf28d80132_0_418.png" title="Title image: Leadership for Cancer Informatics Research" alt="Title image: Leadership for Cancer Informatics Research" width="100%" />
 
 ## Motivation
 
-Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together. 
+Informatics research often requires multidisciplinary teams. This requires more flexibility to communicate with team members with distinct backgrounds. Furthermore, team members often have different research and career goals. This can present unique challenges in making sure that everyone is on the same page and cohesively working together.
 
 
 ## Target audience
 
 The course is intended for researchers who lead research teams or collaborate with others to perform multidisciplinary work. We have especially aimed the material for those with **moderate to no computational experience** who may lead or collaborate with informatics experts. However this material is **also applicable to informatics experts working with others who have less computational experience.**
 
+<img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_g11ed88220f1_0_71.png" title="For individuals whom: Are new to informatics but want to do more. Are informatics researchers who want to collaborate with experimental/wet bench researchers effectively. Want to support more diversity, equity, and inclusion practices in their research and management" alt="For individuals whom: Are new to informatics but want to do more. Are informatics researchers who want to collaborate with experimental/wet bench researchers effectively. Want to support more diversity, equity, and inclusion practices in their research and management" width="100%" />
+
+## Topics covered:
+
+<img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_g11ed88220f1_0_91.png" title="Concepts discussed in the Leadership for Cancer Informatics Research course: How to support multidisciplinary mentees, Promote and support an inclusive and diverse team, Collaborate with multidisciplinary teams, Support more health equity in research, Identify good informatics questions, Tools and workflows to support research management, Avoid informatics project pitfalls" alt="Concepts discussed in the Leadership for Cancer Informatics Research course: How to support multidisciplinary mentees, Promote and support an inclusive and diverse team, Collaborate with multidisciplinary teams, Support more health equity in research, Identify good informatics questions, Tools and workflows to support research management, Avoid informatics project pitfalls" width="100%" />
+
 ## Curriculum
 
-We will provide you with an awareness for the **specific challenges** that your informatics collaborators, employees, and mentees might face, as well as ways to mitigate these challenges. By creating a better work environment for your informatics research team, you will ultimately improve the potential impact of your work. 
+We will provide you with an awareness for the **specific challenges** that your informatics collaborators, employees, and mentees might face, as well as ways to mitigate these challenges. By creating a better work environment for your informatics research team, you will ultimately improve the potential impact of your work.
 
 We will also discuss the major **pitfalls of informatics research** and discuss best practices for performing informatics research correctly and well, so that you can get the most out of your informatics projects.
 
@@ -30,7 +36,7 @@ We will also discuss the major **pitfalls of informatics research** and discuss 
 
 ## Informatics teams challenges
 
-Informatics work presents unique challenges due to the fact that it requires multidisciplinary teams. 
+Informatics work presents unique challenges due to the fact that it requires multidisciplinary teams.
 
 According to a recent article about this subject:
 
@@ -54,7 +60,7 @@ Next, we have Charlie. He is new to informatics research and could learn a bit a
 
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_103.png" title=" This is Charlie the unclear leader. He means well, but he could be a more effective leader." alt=" This is Charlie the unclear leader. He means well, but he could be a more effective leader." width="100%" />
 
-Now we have our informaticists. First is Jack, who is often forgotten and misunderstood by his lab leader. His lab leader does not really know what he does, how long his work takes, or how to support Jack and his career goals. This is unfortunately impeding Jack from achieving the career that he could have and from producing the good work that he is capable of. 
+Now we have our informaticists. First is Jack, who is often forgotten and misunderstood by his lab leader. His lab leader does not really know what he does, how long his work takes, or how to support Jack and his career goals. This is unfortunately impeding Jack from achieving the career that he could have and from producing the good work that he is capable of.
 
 
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_11.png" title=" This is Jack, the only and lonely informaticist. He feels very misunderstood" alt=" This is Jack, the only and lonely informaticist. He feels very misunderstood" width="100%" />
@@ -70,7 +76,7 @@ Here is Francis the frustrated collaborator. She often feels misunderstood by he
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_175.png" title=" This is Fracis, the frustrated informaticist. Collaborators just don't seem to understand." alt=" This is Fracis, the frustrated informaticist. Collaborators just don't seem to understand." width="100%" />
 
 
-Finally we have Harry, the helpful collaborator. He clearly communicates with his collaborators and is well organized! He teaches is collaborators about informatics and they teach him about their knowledge.  He and his collaborators have very productive projects. 
+Finally we have Harry, the helpful collaborator. He clearly communicates with his collaborators and is well organized! He teaches is collaborators about informatics and they teach him about their knowledge.  He and his collaborators have very productive projects.
 
 
 <img src="resources/images/01-intro_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_45.png" title=" This is Harry, the helpful collaborator. He helps you and you help him!" alt=" This is Harry, the helpful collaborator. He helps you and you help him!" width="100%" />
@@ -78,4 +84,3 @@ Finally we have Harry, the helpful collaborator. He clearly communicates with hi
 We will now describe some guidelines for how to be an effective leader, collaborator, and mentor on informatics projects so that you can be more like Sally with mentees and employees like Hilda and collaborators like Harry.
 
 Keep in mind that while our cartoons often exaggerate situations to make them more comical, more subtle situations can still be very detrimental to your research teammates.  
-
