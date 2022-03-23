@@ -1,6 +1,6 @@
 --- 
 title: "Leadership for Cancer Informatics Research"
-date: "2022-03-18"
+date: "2022-03-23"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
