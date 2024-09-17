@@ -12,7 +12,7 @@ link-citations: yes
 
 # Informatics relationships
 
-<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" title=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" width="100%" />
+<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_205.png" alt=" Learning Objectives: 1) How to mitigate challenges for collaborating on multidisciplinary informatics projects 2) How to mitigate challenges for employing informatics experts 3) How to best support mentees in cross disciplinary teams" width="100%" />
 
 ## Cultivating good multidisciplinary lab relationships
 
@@ -46,7 +46,7 @@ Including multiple team members who can each evaluate the research can improve t
 Collaborations involving experts of multiple areas can improve the perceived credibility of the work by others.
 
 
-<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" title=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" alt=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
+<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_p.png" alt=" Benefits of collaboration are: shared cost, shared expertise, shared burden, shared reliability, and shared credibility" width="100%" />
 
 ### Potential challenges
 
@@ -54,7 +54,7 @@ There are always challenges when collaborating with others, but some of these ar
 
 Bad collaboration:
 
-<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png" title=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" alt=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" width="100%" />
+<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gc53d3d234f_0_210.png" alt=" Charlie the unclear leader says: jargon, jargon, jargon... so I'd guess this will take you a day? Meanwhile, Francis the frustrated informaticist thinks to herself: What is he talking about? Are we even at the same table?" width="100%" />
 
 
 1. **Communication Differences** 
@@ -117,7 +117,7 @@ Don't forget to provide some budget for your informatics collaborators, as their
 
 
 
-<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" title=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " alt=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " width="100%" />
+<img src="resources/images/04-informatics_relationships_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gdd469195e0_0_5.png" alt=" Ways to overcome collaboration challenges 1) To avoid issues with communication differences take care, educate each other, considering co-mentoring trainees or hiring experts that speak your collaborator's language. 2) To avoid issues with different styles or goals, make unified standards and discuss what success means early and often. 3) To avoid issues with different capabilities, Make sure everyone has defined roles and tasks that actually use their expertise.4) To avoid issues with a reduced sense of responsibility, keep everyone motivated with defined due dates (discuss dates to make sure they make sense!). 5) To avoid issues with the fact that research is a dynamic process, expect change and occasional failure. 6) To avoid issues with differences in resources, be mindful of potential budget and resource differences. " width="100%" />
 
 
 ## Employing informatics experts
@@ -204,7 +204,7 @@ Check out this video for more details:
 
 <!-- <p align ="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/M_dc-XzApGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> -->
 
-<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/M_dc-XzApGA" width="100%" height="400px" data-external="1"></iframe>
 
 
 From another perspective, the major skill sets to focus on according to the "Build a Career in Data Science" book by Emily Robinson and Jacqueline Nolis [@robinson_build_nodate] are:  
