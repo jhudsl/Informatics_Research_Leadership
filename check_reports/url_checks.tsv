@@ -1,0 +1,12 @@
+urls	urls_status	file
+https://www.biography.com/people/groups/black-scientists	failed	/github/workspace/05-promoting_diversity.Rmd
+https://dei.extension.org/extension-resources/	failed	/github/workspace/05-promoting_diversity.Rmd
+https://www.law.umaryland.edu/directory/profile.asp?id=492	failed	/github/workspace/05-promoting_diversity.Rmd
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/style-and-sp-check.yml	failed	/github/workspace/getting_started.md
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/style-and-sp-check.yml	failed	/github/workspace/getting_started.md
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/render-bookdown.yml	failed	/github/workspace/getting_started.md
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/render-bookdown.yml	failed	/github/workspace/getting_started.md
+https://github.com/jhudsl/DaSL_Course_Template_Leanpub/blob/main/scripts/coursera_quiz_conversion.R	failed	/github/workspace/getting_started.md
+https://docs.google.com/presentation/d/<presentationId>/edit	failed	/github/workspace/getting_started.md
+http://www.someurl.html	failed	/github/workspace/getting_started.md
+https://jhudatascience.org/DaSL_Course_Template_Bookdown/coursera/introduction.html	failed	/github/workspace/getting_started.md
