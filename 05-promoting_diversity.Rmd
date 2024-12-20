@@ -448,7 +448,7 @@ These documents help clarify what mentees can expect. This is helpful for your m
 @masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents.
 
 
-Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
+Also see [this table of examples of such documents](https://docs.google.com/spreadsheets/d/1eBq02ibBu2h50jI38f6STt9TSfkzoJOts0OWaYDdXYc/edit?gid=117517556#gid=117517556) from the [Center for Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/mission/). Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
 
 
 ```{r, fig.alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed.", out.width = "100%", echo = FALSE}
