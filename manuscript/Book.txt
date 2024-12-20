@@ -1,0 +1,9 @@
+1-Introduction.md
+2-Guidelines-for-multidisciplinary-informatics-teams.md
+3-Informatics-project-guidelines.md
+4-Informatics-relationships.md
+5-Promoting-diversity,-equity,-and-inclusion.md
+6-Informatics-lab-management-tools.md
+About-this-course.md
+About-the-authors.md
+References.md
