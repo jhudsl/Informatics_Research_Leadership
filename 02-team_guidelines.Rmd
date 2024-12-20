@@ -80,11 +80,15 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1OU5qeRgN_fojGbcy
 Be careful about assuming that your experimental collaborator can do any type of wet bench experiment or that your informatics collaborator can analyze any type of data.
 
 
-> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise" [@carpenter_cultivating_2021].
+> "Computational biology hinges on mutual respect between researchers from different disciplines, and a key element of respect is understanding a colleague’s particular expertise" [@way_field_2021].
 
-> "Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data" [@carpenter_cultivating_2021].
+> "Computationalists do not like to be seen as “just” running the numbers any more than biologists appreciate the perception that they are “just” a pair of hands that produced the data" [@way_field_2021].
 
-> "Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular collaboration idea does not fit a computational biologist’s research agenda or expertise...a computational biologist’s research laboratory often must focus on novel methods development in a particular area for career advancement" [@carpenter_cultivating_2021].
+> "Statistics, database structures, clinical informatics, genetics, epigenetics, genomics, proteomics, imaging, single-cell technologies, structure prediction, algorithm development, machine learning, and mechanistic modeling are all distinct fields. Biologists should not be offended if a particular idea does not fit a computational biologist’s research agenda, and computational scientists need to clearly communicate analysis considerations, approaches, and limitations" [@way_field_2021].
+
+> "Certain grant mechanisms can provide flexibility for computational biologists to develop new technologies, but the scope often focuses on method development, limiting the ability to collaborate on application-oriented projects. The current academic systems incentivize mechanism and translational discovery for biology but methodological or theoretical advances for computational sciences. This explains a common disconnect when collaborating: **Projects that require routine use of existing methodology typically provide little benefit to the computational person’s academic record no matter how unique a particular dataset.**" [@way_field_2021]
+
+
 
 ## Communication for informatics teams
 
