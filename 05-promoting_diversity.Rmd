@@ -65,7 +65,7 @@ Many Black scientists are responsible for great human achievements that changed 
 
 - [Vivien Thomas (1910–1985)](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
 
-See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world-changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
+See [this article for more information about Katherine Johnson and other pioneering and world-changing Black female  scientsist](https://www.biography.com/scientists/katherine-johnson-black-female-science-technology-engineering-mathematics). Also check out this [list of inspiring Black scientists today ](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america).
 
 Scientists and mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
 
@@ -206,7 +206,7 @@ In a study of clinical trial participants of marginalized groups, participants s
 
 > "In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be" [@griffith_determinants_2020].
 
-Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. However, for research teams that are currently less diverse, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://dei.extension.org/extension-resources/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
+Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. In addition, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://www.diversityinclusiontraining.com/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
 
 ### **Barriers of access**
 
