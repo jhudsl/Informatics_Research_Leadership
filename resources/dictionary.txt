@@ -31,6 +31,7 @@ CFCs
 Coursera
 chancroid
 citable
+CIMER
 colorectal
 Computationalists
 confounders
@@ -110,6 +111,7 @@ Peng
 Perce
 Plaut
 preconfigured
+proteomics
 psychosocial
 researchers’
 recognise
@@ -129,6 +131,7 @@ SOPs
 students’
 STDs
 subspecialty
+translational
 Terre
 Uber
 UE
