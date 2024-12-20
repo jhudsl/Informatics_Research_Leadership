@@ -11,7 +11,7 @@ link-citations: yes
 
 # Promoting diversity, equity, and inclusion
 
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" title="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_211.png" alt="Learning Objectives:1)Know why diversity has been shown to be beneficial 2)Recognition about how certain groups are underrepresented in computational biology both as research participants and researchers 3)Research strategies to better support health equity 4) Know management strategies to better support a more diverse team of employees, mentees, and collaborators" width="100%" />
 
 ## Diversity is beneficial
 
@@ -59,7 +59,7 @@ Many Black scientists are responsible for great human achievements that changed 
 
 - [Vivien Thomas (1910–1985)](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
 
-See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world-changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
+See [this article for more information about Katherine Johnson and other pioneering and world-changing Black female  scientsist](https://www.biography.com/scientists/katherine-johnson-black-female-science-technology-engineering-mathematics). Also check out this [list of inspiring Black scientists today ](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america).
 
 Scientists and mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
 
@@ -170,7 +170,7 @@ Beyond such examples of extremely unethical studies and practices, marginalized 
 
 Many racial and ethnic groups in the US were historically more likely to be uninsured compared to white people and although coverage rates have been better in more recent history, unequal rates remain to today [@jul_16_health_2021].
 
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge9427bed03_0_32.png" title="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry" alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry" width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge9427bed03_0_32.png" alt="Figure showing differences in health insurance coverage of different racial and ethnic groups, with lower rates of uninsured individuals for white people and people of Asian ancestry" width="100%" />
 
 [[source](https://www.kff.org/racial-equity-and-health-policy/issue-brief/health-coverage-by-race-and-ethnicity/)]
 
@@ -198,7 +198,7 @@ In a study of clinical trial participants of marginalized groups, participants s
 
 > "In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be" [@griffith_determinants_2020].
 
-Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. However, for research teams that are currently less diverse, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://dei.extension.org/extension-resources/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
+Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. In addition, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://www.diversityinclusiontraining.com/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
 
 ### **Barriers of access**
 
@@ -258,8 +258,8 @@ When obtaining information about gender, researchers should collect more informa
 
 Here you can see a table of requirements for ethical research trials [@emanuel_what_nodate]. Such consideration can help to ensure that participants are treated with respect and integrity and with their well-being as the top priority.
 
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge770395a4c_0_0.png" title="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research." alt="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research." width="100%" />
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gea0796e0b3_0_38.png" title="Table about requirements for determining if a research trial is ethical continued, including provision of information to subjects about purpose of the research, its procedures, potential risks, benefits and alternatives, so that the individual understands the information and can make a voluntary decision whether to participate; and respecting all subjects by 1. permitting withdrawal from the research, 2. protecting privacy through confidentiality, 3. informing subjects of newly discovered risks or benefits, 4. informing subjects of results of clinical research, 5. maintaining welfare of subjects." alt="Table about requirements for determining if a research trial is ethical continued, including provision of information to subjects about purpose of the research, its procedures, potential risks, benefits and alternatives, so that the individual understands the information and can make a voluntary decision whether to participate; and respecting all subjects by 1. permitting withdrawal from the research, 2. protecting privacy through confidentiality, 3. informing subjects of newly discovered risks or benefits, 4. informing subjects of results of clinical research, 5. maintaining welfare of subjects." width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge770395a4c_0_0.png" alt="Table about requirements for determining if a research trial is ethical including evalution of treatment, intervention or theory that will improve health and well-being or increase knowledge; use of accepted scientific principles and methods, including statistical techniques, to produce reliable and valid data; Selection of subjects so that stigmatized and vulnerable individuals are not targeted for risky research and the rich and socially powerful not favored for potentially beneficial research; minimization of risks, enhancement of potential benefits, risks to the subject are proportionate to the benefits to the subject and society; and review of the design of the research trial, it's proposed subject population, and risk-benefit ratio by individuals unaffiliated with the research." width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gea0796e0b3_0_38.png" alt="Table about requirements for determining if a research trial is ethical continued, including provision of information to subjects about purpose of the research, its procedures, potential risks, benefits and alternatives, so that the individual understands the information and can make a voluntary decision whether to participate; and respecting all subjects by 1. permitting withdrawal from the research, 2. protecting privacy through confidentiality, 3. informing subjects of newly discovered risks or benefits, 4. informing subjects of results of clinical research, 5. maintaining welfare of subjects." width="100%" />
 
 ## Research practices to reduce cancer health disparities
 
@@ -288,11 +288,11 @@ In order to best support and encourage mentees and employees of underrepresented
 
 Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**.  Also, become aware of **stereotype threat (also called stereotyped inferiority)** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies" [@stelter_establishing_2021] and how they might influence your mentees.
 
-Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
+Here is a great video of [Russell McClain](https://www.law.umaryland.edu/faculty--research/directory/profile/index.php?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
 <!-- <p align="center"><iframe width="560" height="315" alt = "video of Russell McClain on biases and stereotypes" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 
-<iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/yiZQaE0q9BY" width="100%" height="400px" data-external="1"></iframe>
 
 
 Note that you may not be aware of all the barriers of achievement that your mentees may face. For example, mentees from low socioeconomic backgrounds, mentees with disabilities, mentees who have immigrated, older mentees, mentees of traditionally underrepresented races and ethnic groups, and mentees with gender identities that are underrepresented face unique and sometimes overlapping challenges. This is not a complete list and it is also important to learn about how **intersectionality** (the idea that some individuals may represent more than one underrepresented group (ex. female and Black)) results in more nuanced challenges.
@@ -306,16 +306,16 @@ For example:
 Here is a great video of [Kimberlé Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) (at UCLA and Columbia) describing the theory of intersectionality, which she developed:
 
 
-<iframe src="https://www.youtube.com/embed/ViDtnfQ9FHc" width="100%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/ViDtnfQ9FHc" width="100%" height="400px" data-external="1"></iframe>
 
 Also, become aware of **microaggressions** - "subtle verbal and nonverbal slights, insults, or invalidating remarks directed at individuals due to their membership in a group (e.g., racial, ethnic, gender, sexual orientation, age, and physical disability), which are rooted in biases about individuals in that group" [@stelter_establishing_2021].
 
 
 See below a list of examples:
 
-<iframe src="https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf" width="100%" height="400px"></iframe>
+<iframe src="https://sph.umn.edu/site/docs/hewg/microaggressions.pdf" width="100%" height="400px" data-external="1"></iframe>
 
-[[Source](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)]
+[[Source](https://sph.umn.edu/site/docs/hewg/microaggressions.pdf)]
 
 Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021].
 
@@ -361,7 +361,7 @@ Help mentees cultivate self advocacy practices through open discussions and enco
 Be a good role model and openly discuss the role of failure in research. For example, you may describe failures in your own career or you may read some of the book [Brilliant Blunders](https://www.simonandschuster.com/books/Brilliant-Blunders/Mario-Livio/9781439192375) by [Mario Livio](https://en.wikipedia.org/wiki/Mario_Livio) or [this article](https://www.nytimes.com/2013/06/09/books/review/brilliant-blunders-by-mario-livio.html?.?mc=aud_dev&ad-keywords=auddevgate&gclid=CjwKCAjwtJ2FBhAuEiwAIKu19sjNSii_CXfcJ74pWoiPBbdu2v55oznTz4QAQi5zjb-l54-jb_DyyxoC16MQAvD_BwE&gclsrc=aw.ds) about the book with your mentees. This book describes how scientific advancement actually occurred due to mistakes of some of the most respected scientists. Educating mentees about the **[Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)** described by [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) may also be helpful. The major themes of this mindset is an awareness that our abilities are not fixed, that we can change our aptitudes with practice and work.
 
 
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge34b3ba01e_0_1.png" title="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." alt="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_ge34b3ba01e_0_1.png" alt="Two Mindsets according to Carol S Dweck, Ph.D.: Fixed Mindset in which intelligence is viewed as static. This leads to a desire to look smart and therefore a tendency to avoid challenges, give up easily, see effort as fruitless or worse, ignore useful negative feedback, and feel threatened by the success of others. As a result, those with the this mindset may plateau early and achieve less than their full potential. All this confirms a deterministic view of the world. The other mindset is the Growth Mindset in which intelligence is viewed as something that can be developed. This leads to a desire to learn and therfore a tendency to: embrace challenges, persist in the face of setbacks, see effort as the path to mastery, learn from criticism, and find lessons and inspiration in the success of others. As a result, those with this mindset reach ever-higher levels of achievement. All this gives them a greater sense of free will." width="100%" />
 
 [[source](https://www.ft.com/content/fd3e920e-0f7d-11ea-a7e6-62bf4f9e548a)]
 
@@ -381,7 +381,7 @@ Again aim to do this with all your mentees/lab members. Be mindful about not sin
 
 It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Thus, when given criticism, certain mentees who may especially feel like they don't belong because of their background differences, may feel very discouraged. Try to still be encouraging when delivering criticism by acknowledging what is going well and what is progressing. Also keep in mind that it is **important to provide feedback for all mentees**, as this is needed for growth. Just be sure to provide the feedback in a way that shows that you want your mentee to grow as a scientist overall and that you want them to continue.
 
-This [article](https://online.alvernia.edu/articles/constructive-criticism-in-the-workplace/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
+This [article](https://onlinelearningconsortium.org/constructive-criticism-online-environment/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
 
 1) Allow for a discussion about what went wrong.  
 
@@ -401,9 +401,18 @@ You want your mentees to know exactly what they should be aiming to improve and 
 
 5) Deliver criticism in private.
 
-Especially if your mentee is feeling like they don't belong, criticism in front of other lab members can really impact their confidence. It can also lead to more unhealthy competitive dynamics between lab members.
+Especially if your mentee is feeling like they don't belong, criticism in front of other lab members can really impact their confidence. It can also lead to more unhealthy competitive dynamics between lab members. 
 
-6) Don't surprise your mentees with criticism.
+6) Check your feedback.
+
+Where possible, double check the feedback you plan to give from the prespective of the mentee. Consider the following:
+
+- How constructive and useful is the feedback? 
+- Can the student realistically make these changes? 
+- Is the feedback written in a kind and clear manner? 
+- How might the feedback be misconstrued?
+
+7) Don't surprise your mentees with criticism.
 
 Build criticism into regular meetings with your mentee. Don't create a meeting out of the blue to tell them they need to improve as this may cause excess stress. Secondly, criticism can be normalized if it is delivered gently and in the ways we just outlined.
 
@@ -419,10 +428,10 @@ These documents help clarify what mentees can expect. This is helpful for your m
 @masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents.
 
 
-Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
+Also see [this table of examples of such documents](https://docs.google.com/spreadsheets/d/1eBq02ibBu2h50jI38f6STt9TSfkzoJOts0OWaYDdXYc/edit?gid=117517556#gid=117517556) from the [Center for Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/mission/). Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
 
 
-<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" title="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." width="100%" />
+<img src="resources/images/05-promoting_diversity_files/figure-html//1OU5qeRgN_fojGbcyu2qEdwlcKpDO6BveWtYW_u1Hqd4_gd8ed090282_0_5.png" alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed." width="100%" />
 
 ## Conclusion
 
