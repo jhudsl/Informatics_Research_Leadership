@@ -1,0 +1,7 @@
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/style-and-sp-check.yml
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/style-and-sp-check.yml
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/render-bookdown.yml
+https://github.com/jhudsl/DaSL_Course_Template_Bookdown/blob/main/.github/workflows/render-bookdown.yml
+https://github.com/jhudsl/DaSL_Course_Template_Leanpub/blob/main/scripts/coursera_quiz_conversion.R
+http://www.someurl.html
+https://jhudatascience.org/DaSL_Course_Template_Bookdown/coursera/introduction.html
