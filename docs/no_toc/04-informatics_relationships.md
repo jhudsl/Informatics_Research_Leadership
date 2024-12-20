@@ -107,11 +107,11 @@ Sharing and discussing budget information early and often can help research memb
 
 It is also important to recognize that:
 
-> "There is a common misconception that the lack of physical experimentation and laboratory supplies makes analysis work automated, quick, and inexpensive" [@carpenter_cultivating_2021].
+> "There is a common misconception that the lack of physical experimentation and laboratory supplies makes computational work automated, quick, and inexpensive." [@way_field_2021].
 
 However:
 
-> "In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project" [@carpenter_cultivating_2021].
+> "In reality, even for well-established data types, analysis can often take **as much or more time** and effort to perform as generating the data at the bench. Moreover, it typically also requires pipeline optimization, software development and maintenance, and user interfaces so that methods remain usable beyond the scope of a single publication or project" [@way_field_2021].
 
 Don't forget to provide some budget for your informatics collaborators, as their time ultimately does cost money and there may be computational costs that you may not be aware of. 
 
@@ -234,7 +234,7 @@ Wherever possible also try to advocate for more nuanced academic promotion polic
 
 For your students who wish to stay in academia, it may be less important that they become as generally familiar with a wide variety of data science skills and practices as students interested in a career outside of academia, if they are for example focusing on a specific statistical method. Just like other academic fields, informatics experts will become experts in niche subject areas. Encourage these students to go to targeted conferences to build a network in their field of interest (although we still encourage if possible to allow your students to get a well-rounded exposure to different types of conferences). Also especially encourage these students to learn about grantsmanship just as you would with your other academic mentees. However this can also be useful for students interested in working for a nonprofit or for the government. 
 
-See @carpenter_cultivating_2021 and @waller_documenting_2018 for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.
+See @way_field_2021 and @waller_documenting_2018 for a more in-depth discussion and suggestions on how we can work to reform academic promotion practices to be more mindful of disciplinary differences for informatics experts.
 
 
 #### Authorship considerations
