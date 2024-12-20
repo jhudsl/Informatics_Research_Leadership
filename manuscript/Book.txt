@@ -1,9 +1,0 @@
-index.md
-01-intro.md
-02-team_guidelines.md
-03-project_guidelines.md
-04-informatics_relationships.md
-05-promoting_diversity.md
-06-management_tools.md
-about.md
-references.md
