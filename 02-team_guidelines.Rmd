@@ -292,7 +292,7 @@ Examples include:
  
  - [National Cancer Institute ((NCI) hub groups](https://ncihub.org/groups/browse) has a list of cancer specific groups such as large groups like the [Informatics Technology for Cancer Research (ITCR)](https://ncihub.org/groups/itcr).
  
- - Consider location specific groups such as the [African Esophageal Cancer Consortium (AfrECC)](https://ncihub.org/groups/afrecc).
+ - Consider location specific groups/collaborations such as the [African Esophageal Cancer Consortium (AfrECC)](https://dceg.cancer.gov/research/cancer-types/esophagus/afrecc).
  
  - When in doubt, ask around. Ask at your institution, ask your former colleagues at other institutions, or try on social medial like twitter to find connections.
 

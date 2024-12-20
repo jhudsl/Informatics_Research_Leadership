@@ -65,7 +65,7 @@ Many Black scientists are responsible for great human achievements that changed 
 
 - [Vivien Thomas (1910–1985)](https://en.wikipedia.org/wiki/Vivien_Thomas): Vivien was a pioneer in [heart surgery at Johns Hopkins](https://www.hopkinsmedicine.org/som/giving/vtfund.html) in the 1940s when it was considered taboo. He is credited for assisting in creating a life saving surgical operation that improved the oxygenation of children with congenital heart defects. This operation was pivotal in paving the way for other heart surgical procedures. Sadly, it took more than 25 years for him to be credited for this work.
 
-See [here](https://www.biography.com/people/groups/black-scientists) for an excellent review of some other world-changing Black scientists and [here](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america) for a list of some current inspiring Black scientist.
+See [this article for more information about Katherine Johnson and other pioneering and world-changing Black female  scientsist](https://www.biography.com/scientists/katherine-johnson-black-female-science-technology-engineering-mathematics). Also check out this [list of inspiring Black scientists today ](http://crosstalk.cell.com/blog/100-inspiring-black-scientists-in-america).
 
 Scientists and mathematicians of Latin American or Hispanic origin have also greatly contributed and continue to contribute to scientific innovation:
 
@@ -206,7 +206,7 @@ In a study of clinical trial participants of marginalized groups, participants s
 
 > "In addition, participants noted that the enthusiasm, commitment, or passion of the researcher to help the population of interest and to study the topic of interest influenced how trustworthy the researcher appeared to be" [@griffith_determinants_2020].
 
-Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. However, for research teams that are currently less diverse, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://dei.extension.org/extension-resources/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
+Participants also state that the feel more trusting and more willing to participant in trials with a researcher of a similar background. Thus, improving the diversity of research teams and supporting underrepresented investigators may help to recruit more diverse participants for clinical trials [@ACRP_representation_2020]. In addition, [culture competency training](https://www.cigna.com/health-care-providers/resources/cultural-competency-training) and [Diversity, Equity, and Inclusion (DEI) training](https://www.diversityinclusiontraining.com/) can help! See [here](https://www.samhsa.gov/section-223/cultural-competency/resources) for additional cultural competency training resources.
 
 ### **Barriers of access**
 
@@ -300,7 +300,7 @@ In order to best support and encourage mentees and employees of underrepresented
 
 Especially focus on hindrances to achievement such as **attitudes**, **biases**, and **stereotypes**.  Also, become aware of **stereotype threat (also called stereotyped inferiority)** - "an internal feeling and concern about confirming a negative stereotype associated with a group (e.g., racial, ethnic, gender, and age) with which the individual identifies" [@stelter_establishing_2021] and how they might influence your mentees.
 
-Here is a great video of [Russell McClain](https://www.law.umaryland.edu/directory/profile.asp?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
+Here is a great video of [Russell McClain](https://www.law.umaryland.edu/faculty--research/directory/profile/index.php?id=492) at the University of Maryland that introduces how implicit bias and stereotype threat impact higher education:
 
 <!-- <p align="center"><iframe width="560" height="315" alt = "video of Russell McClain on biases and stereotypes" src="https://www.youtube.com/embed/yiZQaE0q9BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 
@@ -330,10 +330,10 @@ Also, become aware of **microaggressions** - "subtle verbal and nonverbal slight
 See below a list of examples:
 
 ```{r, fig.align="center", echo=FALSE, out.width="100%"}
-knitr::include_url("https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf")
+knitr::include_url("https://sph.umn.edu/site/docs/hewg/microaggressions.pdf")
 ```
 
-[[Source](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)]
+[[Source](https://sph.umn.edu/site/docs/hewg/microaggressions.pdf)]
 
 Importantly, "mentors for students with disabilities should receive training, as needed, on their mentee’s specific disability and should be made aware of the accommodations that students may need to succeed in activities and courses" [@stelter_establishing_2021].
 
@@ -401,7 +401,7 @@ Again aim to do this with all your mentees/lab members. Be mindful about not sin
 
 It is important to be aware that your mentee may be struggling with feeling like they don't belong when you provide feedback [@stelter_establishing_2021; @lee_natures_2007]. Thus, when given criticism, certain mentees who may especially feel like they don't belong because of their background differences, may feel very discouraged. Try to still be encouraging when delivering criticism by acknowledging what is going well and what is progressing. Also keep in mind that it is **important to provide feedback for all mentees**, as this is needed for growth. Just be sure to provide the feedback in a way that shows that you want your mentee to grow as a scientist overall and that you want them to continue.
 
-This [article](https://online.alvernia.edu/articles/constructive-criticism-in-the-workplace/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
+This [article](https://onlinelearningconsortium.org/constructive-criticism-online-environment/) has several good tips for delivering criticism that we will summarize here with our own thoughts:
 
 1) Allow for a discussion about what went wrong.  
 
@@ -421,9 +421,18 @@ You want your mentees to know exactly what they should be aiming to improve and 
 
 5) Deliver criticism in private.
 
-Especially if your mentee is feeling like they don't belong, criticism in front of other lab members can really impact their confidence. It can also lead to more unhealthy competitive dynamics between lab members.
+Especially if your mentee is feeling like they don't belong, criticism in front of other lab members can really impact their confidence. It can also lead to more unhealthy competitive dynamics between lab members. 
 
-6) Don't surprise your mentees with criticism.
+6) Check your feedback.
+
+Where possible, double check the feedback you plan to give from the prespective of the mentee. Consider the following:
+
+- How constructive and useful is the feedback? 
+- Can the student realistically make these changes? 
+- Is the feedback written in a kind and clear manner? 
+- How might the feedback be misconstrued?
+
+7) Don't surprise your mentees with criticism.
 
 Build criticism into regular meetings with your mentee. Don't create a meeting out of the blue to tell them they need to improve as this may cause excess stress. Secondly, criticism can be normalized if it is delivered gently and in the ways we just outlined.
 
@@ -439,7 +448,7 @@ These documents help clarify what mentees can expect. This is helpful for your m
 @masters_ten_2017 has created a nice set of [guidelines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) for such documents.
 
 
-Also see [here](https://ictr.wisc.edu/mentoring/) for more information about such documents. Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
+Also see [this table of examples of such documents](https://docs.google.com/spreadsheets/d/1eBq02ibBu2h50jI38f6STt9TSfkzoJOts0OWaYDdXYc/edit?gid=117517556#gid=117517556) from the [Center for Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/mission/). Keep in mind that such forms should be tailored for different career stages of your mentees and for mentees who are pursuing different expertise. Informatics mentees should incorporate guidelines about data management practices. We will discuss a bit more about that in the next chapter.
 
 
 ```{r, fig.alt="Hilda, the happy informaticist thinks: My advisor Sally made the expectations for the lab clear when I joined. This has been helpful, because it made me realize some expectations that I wouldn't have assumed.", out.width = "100%", echo = FALSE}
