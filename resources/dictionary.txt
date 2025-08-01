@@ -60,6 +60,7 @@ Haute
 HeLa
 HIPAA
 HU
+incentivize
 informatic
 informatically
 informaticist
